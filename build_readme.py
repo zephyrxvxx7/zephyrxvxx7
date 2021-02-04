@@ -6,6 +6,9 @@ import os
 root = pathlib.Path(__file__).parent.resolve()
 TOKEN = os.environ.get("GH_TOKEN", "")
 
+code_time_url = "https://gist.githubusercontent.com/zephyrxvxx7/ee1787313f0772b51494d051b5edde7f/raw/"
+steam_time_url = "https://gist.githubusercontent.com/zephyrxvxx7/2a4455df8fbc9c02d726d13ac2dc97ca/raw/"
+
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
         rf"<!\-\- {marker} start \-\->.*<!\-\- {marker} end \-\->",
@@ -16,17 +19,18 @@ def replace_chunk(content, marker, chunk, inline=False):
     chunk = f"<!-- {marker} start -->{chunk}<!-- {marker} end -->"
     return r.sub(chunk, content)
 
-def fetch_code_time():
-    return httpx.get(
-        "https://gist.githubusercontent.com/zephyrxvxx7/ee1787313f0772b51494d051b5edde7f/raw/"
-    )
+def httpx_get(url):
+    return httpx.get(url)
 
 
 if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open().read()
 
-    code_time_text = f"\n```text\n{fetch_code_time().text}\n```\n"
+    code_time_text = f"\n```text\n{httpx_get(code_time_url).text}\n```\n"
     readme_contents = replace_chunk(readme_contents, "code_time", code_time_text)
+
+    steam_time_text = f"\n```text\n{httpx_get(steam_time_url).text}\n```\n"
+    readme_contents = replace_chunk(readme_contents, "steam_time", steam_time_text)
 
     readme.open("w").write(readme_contents)
