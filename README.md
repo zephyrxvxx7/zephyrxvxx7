@@ -54,11 +54,7 @@ Text            +1/     -0 ░░░░░░░░░░░░░░░░░�
 <!-- steam_time start -->
 
 ```text
-🎮 Counter-Strike: Source           🕘 0 hrs 0 mins
-🎮 Garry's Mod                      🕘 0 hrs 0 mins
-🎮 Tom Clancy's Rainbow Six: Vegas 2 🕘 0 hrs 0 mins
-🎮 Call of Duty: World at War       🕘 0 hrs 0 mins
-🎮 Bad Rats                         🕘 0 hrs 0 mins
+404: Not Found
 ```
 
 <!-- steam_time end -->
