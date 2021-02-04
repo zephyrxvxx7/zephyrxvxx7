@@ -22,4 +22,13 @@ Here are some ideas to get you started:
 #### ⚡ <a href="https://gist.githubusercontent.com/zephyrxvxx7/ee1787313f0772b51494d051b5edde7f" target="_blank">Weekly Development Breakdown</a>
 
 <!-- code_time start -->
+
+```text
+Markdown   23 mins        ██████████▍░░░░░░░░░░  49.5%
+Python     18 mins        ████████░░░░░░░░░░░░░  38.1%
+YAML       3 mins         █▍░░░░░░░░░░░░░░░░░░░   7.0%
+Bash       1 min          ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+Text       0 secs         ▎░░░░░░░░░░░░░░░░░░░░   1.8%
+```
+
 <!-- code_time end -->
