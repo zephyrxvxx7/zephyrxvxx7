@@ -49,9 +49,10 @@ Text            +1/     -0 ░░░░░░░░░░░░░░░░░�
 
 <!-- code_diff end -->
 
+<!--
 ### 🎮 [Steam playtime leaderboard](https://gist.github.com/zephyrxvxx7/2a4455df8fbc9c02d726d13ac2dc97ca)
 
-<!-- steam_time start -->
+!-- steam_time start --
 
 ```text
 🎮 Counter-Strike: Source           🕘 0 hrs 0 mins
@@ -61,4 +62,6 @@ Text            +1/     -0 ░░░░░░░░░░░░░░░░░�
 🎮 Bad Rats                         🕘 0 hrs 0 mins
 ```
 
-<!-- steam_time end -->
+!-- steam_time end --
+
+-->

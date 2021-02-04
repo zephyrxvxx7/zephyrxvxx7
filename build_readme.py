@@ -34,7 +34,7 @@ if __name__ == "__main__":
     code_diff_text = f"\n```text\n{httpx_get(code_diff_url).text}\n```\n"
     readme_contents = replace_chunk(readme_contents, "code_diff", code_diff_text)
 
-    steam_time_text = f"\n```text\n{httpx_get(steam_time_url).text}\n```\n"
-    readme_contents = replace_chunk(readme_contents, "steam_time", steam_time_text)
+    # steam_time_text = f"\n```text\n{httpx_get(steam_time_url).text}\n```\n"
+    # readme_contents = replace_chunk(readme_contents, "steam_time", steam_time_text)
 
     readme.open("w").write(readme_contents)
