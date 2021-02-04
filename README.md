@@ -39,4 +39,13 @@ Text       0 secs         ▎░░░░░░░░░░░░░░░░░
 #### 🎮 [Steam playtime leaderboard](http)
 
 <!-- steam_time start -->
+
+```text
+🎮 Counter-Strike: Source           🕘 0 hrs 0 mins
+🎮 Garry's Mod                      🕘 0 hrs 0 mins
+🎮 Tom Clancy's Rainbow Six: Vegas 2 🕘 0 hrs 0 mins
+🎮 Call of Duty: World at War       🕘 0 hrs 0 mins
+🎮 Bad Rats                         🕘 0 hrs 0 mins
+```
+
 <!-- steam_time end -->
