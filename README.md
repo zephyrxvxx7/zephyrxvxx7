@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 空閒時會玩一些有趣的小玩具（譬如此頁面），**以下內容通過 <a href="https://github.com/zephyrxvxx7/zephyrxvxx7/actions" target="_blank">zephyrxvxx7/actions</a> 每日自動更新**
 
-#### ⚡ [Weekly Development Breakdown](https://gist.githubusercontent.com/zephyrxvxx7/ee1787313f0772b51494d051b5edde7f)
+#### ⚡ [Weekly Development Breakdown](https://gist.github.com/zephyrxvxx7/ee1787313f0772b51494d051b5edde7f)
 
 <!-- code_time start -->
 
@@ -36,7 +36,12 @@ Text       0 secs         ▎░░░░░░░░░░░░░░░░░
 
 <!-- code_time end -->
 
-#### 🎮 [Steam playtime leaderboard](http)
+#### 💻 [Recent coding in languages](https://gist.github.com/zephyrxvxx7/08c5ff0fead26978490fef5d749f43ea)
+
+<!-- code_diff start -->
+<!-- code_diff end -->
+
+#### 🎮 [Steam playtime leaderboard](https://gist.github.com/zephyrxvxx7/2a4455df8fbc9c02d726d13ac2dc97ca)
 
 <!-- steam_time start -->
 
