@@ -54,11 +54,7 @@ Text            +1/     -0 ░░░░░░░░░░░░░░░░░�
 <!-- steam_time start -->
 
 ```text
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS    🕘 303 hrs 44 mins
 🎮 Hollow Knight                    🕘 48 hrs 57 mins
-🎮 Oxygen Not Included              🕘 40 hrs 44 mins
-🎮 Ori and the Will of the Wisps    🕘 34 hrs 29 mins
-🎮 CPUCores :: Maximize Your FPS    🕘 31 hrs 5 mins
 ```
 
 <!-- steam_time end -->
