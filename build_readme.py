@@ -8,7 +8,7 @@ TOKEN = os.environ.get("GH_TOKEN", "")
 
 code_time_url = "https://gist.githubusercontent.com/zephyrxvxx7/ee1787313f0772b51494d051b5edde7f/raw/"
 code_diff_url = "https://gist.githubusercontent.com/zephyrxvxx7/08c5ff0fead26978490fef5d749f43ea/raw/"
-steam_time_url = "https://gist.githubusercontent.com/zephyrxvxx7/2a4455df8fbc9c02d726d13ac2dc97ca/raw/"
+steam_time_url = "https://gist.githubusercontent.com/zephyrxvxx7/f77b8978877f959b69d84723c43a4a64/raw/"
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
