@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Markdown   23 mins        ██████████▍░░░░░░░░░░  49.5%
-Python     18 mins        ████████░░░░░░░░░░░░░  38.1%
-YAML       3 mins         █▍░░░░░░░░░░░░░░░░░░░   7.0%
-Bash       1 min          ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-Text       0 secs         ▎░░░░░░░░░░░░░░░░░░░░   1.8%
+Markdown   1 hr 24 mins   ████████████░░░░░░░░░  57.2%
+Python     52 mins        ███████▍░░░░░░░░░░░░░  35.6%
+YAML       8 mins         █▏░░░░░░░░░░░░░░░░░░░   5.4%
+Bash       1 min          ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+Text       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.6%
 ```
 
 <!-- code_time end -->
