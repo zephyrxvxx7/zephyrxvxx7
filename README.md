@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Go         1 hr 41 mins   ███████████████████▏░  91.4%
+Go         1 hr 41 mins   ███████████████████▏░  91.1%
 Other      7 mins         █▎░░░░░░░░░░░░░░░░░░░   6.4%
 YAML       1 min          ▎░░░░░░░░░░░░░░░░░░░░   1.6%
 Modula-2   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.5%
-Markdown   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+XML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 ```
 
 <!-- code_time end -->
