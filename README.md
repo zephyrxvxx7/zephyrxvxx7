@@ -47,7 +47,7 @@ HTML            +1/     -1 █████████████████�
 <!-- steam_time start -->
 
 ```text
-🎮 Hollow Knight                    🕘 62 hrs 47 mins
+🎮 Hollow Knight                    🕘 64 hrs 16 mins
 ```
 
 <!-- steam_time end -->
