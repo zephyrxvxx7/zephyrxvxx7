@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-TypeScript 5 hrs 16 mins  ███████████▉░░░░░░░░░  56.7%
-Markdown   1 hr 34 mins   ███▌░░░░░░░░░░░░░░░░░  17.0%
+TypeScript 5 hrs 16 mins  ███████████▉░░░░░░░░░  56.8%
 Vue.js     1 hr 31 mins   ███▍░░░░░░░░░░░░░░░░░  16.4%
-YAML       29 mins        █░░░░░░░░░░░░░░░░░░░░   5.2%
-Other      9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+YAML       1 hr 9 mins    ██▋░░░░░░░░░░░░░░░░░░  12.6%
+Markdown   49 mins        █▊░░░░░░░░░░░░░░░░░░░   8.9%
+Other      9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.8%
 ```
 
 <!-- code_time end -->
