@@ -58,6 +58,8 @@ JSON            +1/     -1 █▎░░░░░░░░░░░░░░░�
 
 <!-- steam_time end -->
 
+### 🎵 [My Spotify Top Track](https://gist.github.com/zephyrxvxx7/fe159fde5ec9ebea27e03dd63a71e78f)
+
 <!-- spotify_track start -->
 
 ```text
