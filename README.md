@@ -60,4 +60,17 @@ JSON            +1/     -1 █▎░░░░░░░░░░░░░░░�
 
 <!-- spotify_track start -->
 
+```text
+good girl                                       Tielle
+ふゆびより                                  佐々木恵梨
+好想愛這個世界啊                           Hua Chen Yu
+你要相信這不是最後一天                     Hua Chen Yu
+I Don't Want to Change                     Damien Rice
+大海 - Unplugged                              Neci Ken
+用盡我的一切奔向你 - 《閃                    Bibi Zhou
+Torches                                          Aimer
+愛殤                                          小時姑娘
+Woman Like Me (feat. Ni              Little Mix & Nick
+```
+
 <!-- spotify_track end -->
