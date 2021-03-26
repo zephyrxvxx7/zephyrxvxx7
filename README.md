@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi, there 👋
 
 <a href="https://www.instagram.com/zephyrxvxx7/"><img src="https://img.shields.io/badge/instagram-3f729b?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-<a href="https://zephyrxvxx7.ninja/"><img src="https://img.shields.io/badge/blog-gray?&style=for-the-badge&logo=hexo&logoColor=white" height=25></a>
+<a href="https://zephyrxvxx7.me/"><img src="https://img.shields.io/badge/blog-gray?&style=for-the-badge&logo=hexo&logoColor=white" height=25></a>
 
 👋 Hi，我是 Zephyr，正在就讀中山大學資工所，研究領域是雲原生，目前正在當一個不稱職的全端開發者QQ。
 
