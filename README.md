@@ -57,3 +57,7 @@ JSON            +1/     -1 █▎░░░░░░░░░░░░░░░�
 ```
 
 <!-- steam_time end -->
+
+<!-- spotify_track start -->
+
+<!-- spotify_track end -->
