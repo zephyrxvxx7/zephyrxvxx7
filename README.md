@@ -47,7 +47,7 @@ Markdown        +7/     -1 ▏░░░░░░░░░░░░░░░░�
 
 <!-- code_diff end -->
 
-### 🎮 [Recently played Steam games](https://gist.github.com/zephyrxvxx7/f77b8978877f959b69d84723c43a4a64)
+### 🎮 [Steam playtime leaderboard](https://gist.github.com/zephyrxvxx7/f77b8978877f959b69d84723c43a4a64)
 
 <!-- steam_time start -->
 
