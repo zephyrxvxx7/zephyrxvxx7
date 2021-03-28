@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     15 hrs 1 min   █████████████████▍░░░  82.8%
-YAML       2 hrs 34 mins  ██▉░░░░░░░░░░░░░░░░░░  14.2%
+Python     15 hrs 25 mins █████████████████▌░░░  83.9%
+YAML       2 hrs 34 mins  ██▉░░░░░░░░░░░░░░░░░░  14.0%
 Markdown   14 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-C          9 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-C++        6 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+C          8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+Bash       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time end -->
@@ -41,8 +41,9 @@ C++        6 mins         ▏░░░░░░░░░░░░░░░░░
 <!-- code_diff start -->
 
 ```text
-Python        +614/   -686 ████████████████████▊ 99.0%
-Markdown        +7/     -1 ▏░░░░░░░░░░░░░░░░░░░░  1.0%
+Python        +614/   -686 ████████████████████▋ 98.2%
+Markdown        +9/     -3 ▎░░░░░░░░░░░░░░░░░░░░  1.6%
+YAML            +1/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.1%
 ```
 
 <!-- code_diff end -->
@@ -70,8 +71,8 @@ I Don't Want to Change                     Damien Rice
 大海 - Unplugged                              Neci Ken
 用盡我的一切奔向你 - 《閃                    Bibi Zhou
 Torches                                          Aimer
+my life                                         みゆな
 愛殤                                          小時姑娘
-Woman Like Me (feat. Ni              Little Mix & Nick
 ```
 
 <!-- spotify_track end -->
