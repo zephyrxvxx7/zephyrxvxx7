@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     15 hrs 25 mins █████████████████▌░░░  83.9%
-YAML       2 hrs 34 mins  ██▉░░░░░░░░░░░░░░░░░░  14.0%
-Markdown   14 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-C          8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-Bash       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Python     13 hrs 27 mins █████████████████▌░░░  83.7%
+YAML       2 hrs 14 mins  ██▉░░░░░░░░░░░░░░░░░░  13.9%
+Markdown   14 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+C          8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+reStruc... 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time end -->
@@ -68,9 +68,9 @@ good girl                                       Tielle
 好想愛這個世界啊                           Hua Chen Yu
 你要相信這不是最後一天                     Hua Chen Yu
 I Don't Want to Change                     Damien Rice
-大海 - Unplugged                              Neci Ken
 用盡我的一切奔向你 - 《閃                    Bibi Zhou
 Torches                                          Aimer
+大海 - Unplugged                              Neci Ken
 my life                                         みゆな
 愛殤                                          小時姑娘
 ```
