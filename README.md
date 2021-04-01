@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     9 hrs 52 mins  ██████████████████▊░░  89.5%
-YAML       46 mins        █▍░░░░░░░░░░░░░░░░░░░   7.1%
-Markdown   14 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-C          8 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-JSON       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Python     9 hrs 27 mins  ███████████████▊░░░░░  75.5%
+TypeScript 1 hr 26 mins   ██▍░░░░░░░░░░░░░░░░░░  11.5%
+YAML       48 mins        █▎░░░░░░░░░░░░░░░░░░░   6.5%
+Vue.js     20 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+Markdown   19 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
 ```
 
 <!-- code_time end -->
@@ -41,8 +41,11 @@ JSON       0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- code_diff start -->
 
 ```text
-Python       +7.3k/   -776 ████████████████████▉ 99.6%
+Python       +7.3k/   -776 ████████████████████░ 95.6%
+Vue           +220/     -3 ▍░░░░░░░░░░░░░░░░░░░░  2.3%
+TypeScript    +103/    -18 ▎░░░░░░░░░░░░░░░░░░░░  1.7%
 Markdown        +9/     -3 ░░░░░░░░░░░░░░░░░░░░░  0.3%
+JSON            +9/     -2 ░░░░░░░░░░░░░░░░░░░░░  0.1%
 YAML            +1/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.0%
 ```
 
@@ -67,10 +70,10 @@ good girl                                       Tielle
 ふゆびより                                  佐々木恵梨
 好想愛這個世界啊                           Hua Chen Yu
 你要相信這不是最後一天                     Hua Chen Yu
-I Don't Want to Change                     Damien Rice
-Torches                                          Aimer
 my life                                         みゆな
+I Don't Want to Change                     Damien Rice
 用盡我的一切奔向你 - 《閃                    Bibi Zhou
+Torches                                          Aimer
 大海 - Unplugged                              Neci Ken
 愛殤                                          小時姑娘
 ```
