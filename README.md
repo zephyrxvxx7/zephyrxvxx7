@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     8 hrs 40 mins  ██████████████░░░░░░░  67.0%
-TypeScript 2 hrs 22 mins  ███▊░░░░░░░░░░░░░░░░░  18.4%
-Vue.js     1 hr 10 mins   █▉░░░░░░░░░░░░░░░░░░░   9.1%
-YAML       15 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+Python     8 hrs 16 mins  █████████████▊░░░░░░░  66.0%
+TypeScript 2 hrs 22 mins  ███▉░░░░░░░░░░░░░░░░░  18.9%
+Vue.js     1 hr 10 mins   █▉░░░░░░░░░░░░░░░░░░░   9.4%
+YAML       15 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
 Other      9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.3%
 ```
 
@@ -72,10 +72,10 @@ good girl                                       Tielle
 你要相信這不是最後一天                     Hua Chen Yu
 my life                                         みゆな
 Torches                                          Aimer
-I Don't Want to Change                     Damien Rice
+BEAUTIFUL WORLD                                   LiSA
 滲む錆色                                   MEMAI SIREN
+I Don't Want to Change                     Damien Rice
 用盡我的一切奔向你 - 《閃                    Bibi Zhou
-大海 - Unplugged                              Neci Ken
 ```
 
 <!-- spotify_track end -->
