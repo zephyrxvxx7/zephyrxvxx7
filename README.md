@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     8 hrs 9 mins   █████████████▊░░░░░░░  65.6%
-TypeScript 2 hrs 22 mins  ████░░░░░░░░░░░░░░░░░  19.1%
-Vue.js     1 hr 10 mins   █▉░░░░░░░░░░░░░░░░░░░   9.5%
-YAML       15 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-Other      9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+Python     5 hrs 19 mins  ███████████▋░░░░░░░░░  55.5%
+TypeScript 2 hrs 22 mins  █████▏░░░░░░░░░░░░░░░  24.8%
+Vue.js     1 hr 10 mins   ██▌░░░░░░░░░░░░░░░░░░  12.3%
+YAML       15 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+Other      9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.7%
 ```
 
 <!-- code_time end -->
@@ -74,8 +74,8 @@ my life                                         みゆな
 Torches                                          Aimer
 滲む錆色                                   MEMAI SIREN
 I Don't Want to Change                     Damien Rice
-BEAUTIFUL WORLD                                   LiSA
 大海 - Unplugged                              Neci Ken
+愛殤                                          小時姑娘
 ```
 
 <!-- spotify_track end -->
