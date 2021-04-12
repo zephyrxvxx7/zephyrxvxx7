@@ -67,7 +67,6 @@ Shell           +1/     -1 ░░░░░░░░░░░░░░░░░�
 <!-- spotify_track start -->
 
 ```text
-good girl                                       Tielle
 ジェンガ(音が孤独を覆うま                  MEMAI SIREN
 my life                                         みゆな
 かぞえうた(音が孤独を覆う                  MEMAI SIREN
@@ -77,6 +76,7 @@ morning is come(音が孤独                   MEMAI SIREN
 Torches                                          Aimer
 ハルシオン(音が孤独を覆う                  MEMAI SIREN
 life finds away(音が孤独                   MEMAI SIREN
+good girl                                       Tielle
 ```
 
 <!-- spotify_track end -->
