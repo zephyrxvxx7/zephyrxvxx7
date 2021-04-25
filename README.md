@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-TypeScript 17 hrs 41 mins ██████████▉░░░░░░░░░░  52.3%
-Vue.js     14 hrs 4 mins  ████████▋░░░░░░░░░░░░  41.6%
-Python     1 hr 24 mins   ▊░░░░░░░░░░░░░░░░░░░░   4.2%
-YAML       24 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
-Markdown   11 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
+TypeScript 19 hrs 23 mins ███████████▍░░░░░░░░░  54.4%
+Vue.js     14 hrs 12 mins ████████▎░░░░░░░░░░░░  39.9%
+Python     1 hr 24 mins   ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+YAML       24 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Markdown   11 mins        ░░░░░░░░░░░░░░░░░░░░░   0.5%
 ```
 
 <!-- code_time end -->
@@ -41,16 +41,16 @@ Markdown   11 mins        ░░░░░░░░░░░░░░░░░░
 <!-- code_diff start -->
 
 ```text
-SVG            +90/   -126 ██████▍░░░░░░░░░░░░░░ 30.9%
-CSS          +3.2k/     -0 ██████▎░░░░░░░░░░░░░░ 30.3%
-TypeScript   +1.5k/  -1.8k ███▎░░░░░░░░░░░░░░░░░ 15.6%
-Vue          +1.8k/   -942 ██▋░░░░░░░░░░░░░░░░░░ 13.0%
+SVG            +90/   -126 ██████▍░░░░░░░░░░░░░░ 30.7%
+CSS          +3.2k/     -0 ██████▎░░░░░░░░░░░░░░ 30.1%
+TypeScript   +1.5k/  -1.8k ███▎░░░░░░░░░░░░░░░░░ 15.5%
+Vue          +1.8k/   -942 ██▋░░░░░░░░░░░░░░░░░░ 12.9%
 Markdown      +674/     -1 ▉░░░░░░░░░░░░░░░░░░░░  4.6%
-JavaScript    +431/    -11 ▌░░░░░░░░░░░░░░░░░░░░  2.4%
+JavaScript    +431/    -11 ▍░░░░░░░░░░░░░░░░░░░░  2.4%
 Less          +152/   -223 ▎░░░░░░░░░░░░░░░░░░░░  1.3%
-YAML          +112/    -76 ▏░░░░░░░░░░░░░░░░░░░░  0.8%
+Python        +248/    -24 ▏░░░░░░░░░░░░░░░░░░░░  1.1%
+YAML          +114/    -76 ▏░░░░░░░░░░░░░░░░░░░░  0.8%
 JSON           +55/    -88 ▏░░░░░░░░░░░░░░░░░░░░  0.6%
-Python         +62/    -18 ░░░░░░░░░░░░░░░░░░░░░  0.3%
 HTML           +19/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.1%
 ```
 
@@ -78,9 +78,9 @@ morning is come(音が孤独                   MEMAI SIREN
 ハルシオン(音が孤独を覆う                  MEMAI SIREN
 かぞえうた(音が孤独を覆う                  MEMAI SIREN
 life finds away(音が孤独                   MEMAI SIREN
+Alone                                    Yutaka Yamada
 Homesick (feat. SOUNDR)                 MitiS & SOUNDR
 Torches                                          Aimer
-故に枯れる(音が孤独を覆う                  MEMAI SIREN
 ```
 
 <!-- spotify_track end -->
