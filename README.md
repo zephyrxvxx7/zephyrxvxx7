@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     13 hrs 5 mins  █████████▋░░░░░░░░░░░  46.0%
-TypeScript 9 hrs 54 mins  ███████▎░░░░░░░░░░░░░  34.9%
-Python     4 hrs 45 mins  ███▌░░░░░░░░░░░░░░░░░  16.7%
-Markdown   22 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+Vue.js     14 hrs 22 mins ███████████░░░░░░░░░░  53.0%
+TypeScript 6 hrs 22 mins  ████▉░░░░░░░░░░░░░░░░  23.5%
+Python     5 hrs 42 mins  ████▍░░░░░░░░░░░░░░░░  21.0%
+Markdown   22 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
 YAML       9 mins         ░░░░░░░░░░░░░░░░░░░░░   0.6%
 ```
 
@@ -70,11 +70,11 @@ Avid                                 SawanoHiroyuki[nZ
 Alone                                    Yutaka Yamada
 ジェンガ(音が孤独を覆うま                  MEMAI SIREN
 Colour My World                          Yutaka Yamada
+ヒカリ証明論                         CHiCO with HoneyW
 明滅する(音が孤独を覆うま                  MEMAI SIREN
 morning is come(音が孤独                   MEMAI SIREN
 ハルシオン(音が孤独を覆う                  MEMAI SIREN
 かぞえうた(音が孤独を覆う                  MEMAI SIREN
-life finds away(音が孤独                   MEMAI SIREN
 ```
 
 <!-- spotify_track end -->
