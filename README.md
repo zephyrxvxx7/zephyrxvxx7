@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     10 hrs 20 mins ███████████▋░░░░░░░░░  55.4%
-Python     6 hrs 34 mins  ███████▍░░░░░░░░░░░░░  35.3%
-TypeScript 1 hr 6 mins    █▎░░░░░░░░░░░░░░░░░░░   6.0%
-Markdown   22 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
-YAML       6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.6%
+Python     7 hrs 3 mins   █████████▋░░░░░░░░░░░  46.3%
+Vue.js     6 hrs 53 mins  █████████▍░░░░░░░░░░░  45.2%
+TypeScript 41 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.6%
+Markdown   22 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+YAML       6 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
 ```
 
 <!-- code_time end -->
@@ -41,11 +41,12 @@ YAML       6 mins         ░░░░░░░░░░░░░░░░░░
 <!-- code_diff start -->
 
 ```text
-TypeScript   +5.1k/   -929 ████████████▎░░░░░░░░ 58.4%
-Vue          +1.1k/    -76 ██████░░░░░░░░░░░░░░░ 29.1%
-Python        +385/    -39 ██▌░░░░░░░░░░░░░░░░░░ 12.0%
+TypeScript   +5.2k/   -951 ███████████▉░░░░░░░░░ 57.1%
+Vue          +1.2k/   -132 ██████▌░░░░░░░░░░░░░░ 31.3%
+Python        +385/    -39 ██▎░░░░░░░░░░░░░░░░░░ 11.0%
 Markdown       +15/     -3 ░░░░░░░░░░░░░░░░░░░░░  0.4%
-YAML            +2/     -0 ░░░░░░░░░░░░░░░░░░░░░  0.1%
+JSON            +4/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.1%
+YAML            +2/     -0 ░░░░░░░░░░░░░░░░░░░░░  0.0%
 Text            +2/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.0%
 ```
 
@@ -70,12 +71,12 @@ Avid                                 SawanoHiroyuki[nZ
 紫陽花                                     MEMAI SIREN
 Alone                                    Yutaka Yamada
 Colour My World                          Yutaka Yamada
-ジェンガ(音が孤独を覆うま                  MEMAI SIREN
 ヒカリ証明論                         CHiCO with HoneyW
-明滅する(音が孤独を覆うま                  MEMAI SIREN
-ハルシオン(音が孤独を覆う                  MEMAI SIREN
-morning is come(音が孤独                   MEMAI SIREN
-かぞえうた(音が孤独を覆う                  MEMAI SIREN
+滲む錆色                                   MEMAI SIREN
+Perfect Clarity                     MAN WITH A MISSION
+ジェンガ(音が孤独を覆うま                  MEMAI SIREN
+Homesick (feat. SOUNDR)                 MitiS & SOUNDR
+Torches                                          Aimer
 ```
 
 <!-- spotify_track end -->
