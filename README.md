@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     7 hrs 3 mins   █████████▋░░░░░░░░░░░  46.3%
-Vue.js     6 hrs 53 mins  █████████▍░░░░░░░░░░░  45.2%
-TypeScript 41 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.6%
-Markdown   22 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
-YAML       6 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Vue.js     6 hrs 42 mins  █████████▊░░░░░░░░░░░  46.9%
+Python     6 hrs 12 mins  █████████░░░░░░░░░░░░  43.4%
+TypeScript 1 hr 20 mins   █▉░░░░░░░░░░░░░░░░░░░   9.4%
+Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Docker     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
 <!-- code_time end -->
@@ -41,10 +41,10 @@ YAML       6 mins         ▏░░░░░░░░░░░░░░░░░
 <!-- code_diff start -->
 
 ```text
-TypeScript   +5.2k/   -951 ███████████▉░░░░░░░░░ 57.1%
-Vue          +1.2k/   -132 ██████▌░░░░░░░░░░░░░░ 31.3%
-Python        +385/    -39 ██▎░░░░░░░░░░░░░░░░░░ 11.0%
-Markdown       +15/     -3 ░░░░░░░░░░░░░░░░░░░░░  0.4%
+TypeScript   +5.4k/   -962 ███████████░░░░░░░░░░ 52.6%
+Vue          +1.6k/   -164 ███████▌░░░░░░░░░░░░░ 36.0%
+Python        +445/    -48 ██▎░░░░░░░░░░░░░░░░░░ 11.0%
+Markdown       +15/     -5 ░░░░░░░░░░░░░░░░░░░░░  0.4%
 JSON            +4/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.1%
 YAML            +2/     -0 ░░░░░░░░░░░░░░░░░░░░░  0.0%
 Text            +2/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.0%
@@ -74,9 +74,9 @@ Colour My World                          Yutaka Yamada
 ヒカリ証明論                         CHiCO with HoneyW
 滲む錆色                                   MEMAI SIREN
 Perfect Clarity                     MAN WITH A MISSION
-ジェンガ(音が孤独を覆うま                  MEMAI SIREN
 Homesick (feat. SOUNDR)                 MitiS & SOUNDR
 Torches                                          Aimer
+ジェンガ(音が孤独を覆うま                  MEMAI SIREN
 ```
 
 <!-- spotify_track end -->
