@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     6 hrs 42 mins  █████████▊░░░░░░░░░░░  46.9%
-Python     6 hrs 12 mins  █████████░░░░░░░░░░░░  43.4%
-TypeScript 1 hr 20 mins   █▉░░░░░░░░░░░░░░░░░░░   9.4%
-Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Vue.js     5 hrs 24 mins  █████████▌░░░░░░░░░░░  45.7%
+Python     5 hrs 8 mins   █████████▏░░░░░░░░░░░  43.5%
+TypeScript 1 hr 13 mins   ██▏░░░░░░░░░░░░░░░░░░  10.4%
+YAML       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 Docker     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
@@ -72,11 +72,11 @@ Avid                                 SawanoHiroyuki[nZ
 Alone                                    Yutaka Yamada
 Colour My World                          Yutaka Yamada
 ヒカリ証明論                         CHiCO with HoneyW
-滲む錆色                                   MEMAI SIREN
 Perfect Clarity                     MAN WITH A MISSION
-Homesick (feat. SOUNDR)                 MitiS & SOUNDR
+滲む錆色                                   MEMAI SIREN
 Torches                                          Aimer
 ジェンガ(音が孤独を覆うま                  MEMAI SIREN
+道                                        Taichi Mukai
 ```
 
 <!-- spotify_track end -->
