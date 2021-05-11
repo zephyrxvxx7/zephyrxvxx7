@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     5 hrs 24 mins  █████████▌░░░░░░░░░░░  45.7%
-Python     5 hrs 8 mins   █████████▏░░░░░░░░░░░  43.5%
-TypeScript 1 hr 13 mins   ██▏░░░░░░░░░░░░░░░░░░  10.4%
-YAML       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-Docker     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Python     5 hrs 42 mins  █████████▌░░░░░░░░░░░  45.6%
+Vue.js     4 hrs 22 mins  ███████▎░░░░░░░░░░░░░  35.0%
+TypeScript 1 hr 42 mins   ██▉░░░░░░░░░░░░░░░░░░  13.7%
+YAML       39 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
+Other      1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
 ```
 
 <!-- code_time end -->
@@ -41,9 +41,9 @@ Docker     0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- code_diff start -->
 
 ```text
-TypeScript   +5.4k/   -962 ███████████▍░░░░░░░░░ 54.6%
-Vue          +1.6k/   -164 ███████▊░░░░░░░░░░░░░ 37.3%
-Python        +259/    -42 █▌░░░░░░░░░░░░░░░░░░░  7.6%
+TypeScript   +5.4k/   -962 ███████████▌░░░░░░░░░ 54.9%
+Vue          +1.6k/   -164 ███████▉░░░░░░░░░░░░░ 37.5%
+Python        +249/    -36 █▌░░░░░░░░░░░░░░░░░░░  7.2%
 Markdown       +15/     -5 ░░░░░░░░░░░░░░░░░░░░░  0.4%
 JSON            +4/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.1%
 Text            +2/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.0%
@@ -74,8 +74,8 @@ Colour My World                          Yutaka Yamada
 Perfect Clarity                     MAN WITH A MISSION
 滲む錆色                                   MEMAI SIREN
 Torches                                          Aimer
-ジェンガ(音が孤独を覆うま                  MEMAI SIREN
 GONE                                              KIRE
+道                                        Taichi Mukai
 ```
 
 <!-- spotify_track end -->
