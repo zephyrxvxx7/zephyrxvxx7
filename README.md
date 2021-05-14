@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     6 hrs 34 mins  ███████▋░░░░░░░░░░░░░  36.7%
-YAML       5 hrs 21 mins  ██████▎░░░░░░░░░░░░░░  29.9%
-Vue.js     4 hrs 14 mins  ████▉░░░░░░░░░░░░░░░░  23.6%
-TypeScript 1 hr 42 mins   ██░░░░░░░░░░░░░░░░░░░   9.5%
-Other      2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Python     11 hrs 23 mins ██████████▍░░░░░░░░░░  50.0%
+YAML       6 hrs          █████▌░░░░░░░░░░░░░░░  26.4%
+TypeScript 3 hrs 29 mins  ███▏░░░░░░░░░░░░░░░░░  15.3%
+Vue.js     1 hr 38 mins   █▌░░░░░░░░░░░░░░░░░░░   7.2%
+Other      10 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 
 <!-- code_time end -->
@@ -41,12 +41,12 @@ Other      2 mins         ░░░░░░░░░░░░░░░░░░
 <!-- code_diff start -->
 
 ```text
-Vue           +953/   -161 ███████▋░░░░░░░░░░░░░ 36.9%
-TypeScript    +884/   -348 ██████▊░░░░░░░░░░░░░░ 32.2%
-Python        +675/   -114 ██████▎░░░░░░░░░░░░░░ 29.8%
-Markdown       +15/     -4 ░░░░░░░░░░░░░░░░░░░░░  0.5%
+TypeScript   +1.1k/   -460 ███████▊░░░░░░░░░░░░░ 37.0%
+Vue           +957/   -165 ███████▌░░░░░░░░░░░░░ 36.3%
+Python        +632/    -93 █████▍░░░░░░░░░░░░░░░ 26.1%
 YAML           +12/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.4%
 JSON            +4/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.1%
+Markdown        +0/     -2 ░░░░░░░░░░░░░░░░░░░░░  0.0%
 Text            +2/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.0%
 ```
 
@@ -71,12 +71,12 @@ Avid                                 SawanoHiroyuki[nZ
 Alone                                    Yutaka Yamada
 Colour My World                          Yutaka Yamada
 ヒカリ証明論                         CHiCO with HoneyW
-紫陽花                                     MEMAI SIREN
 Perfect Clarity                     MAN WITH A MISSION
+紫陽花                                     MEMAI SIREN
 Torches                                          Aimer
 GONE                                              KIRE
 恋人ツナギ                           CHiCO with HoneyW
-滲む錆色                                   MEMAI SIREN
+斑马,斑马                                       宋冬野
 ```
 
 <!-- spotify_track end -->
