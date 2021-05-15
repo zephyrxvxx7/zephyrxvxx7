@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     11 hrs 23 mins ██████████▍░░░░░░░░░░  50.0%
-YAML       6 hrs          █████▌░░░░░░░░░░░░░░░  26.4%
-TypeScript 3 hrs 29 mins  ███▏░░░░░░░░░░░░░░░░░  15.3%
-Vue.js     1 hr 38 mins   █▌░░░░░░░░░░░░░░░░░░░   7.2%
-Other      10 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+Python     11 hrs 44 mins █████████▍░░░░░░░░░░░  45.0%
+YAML       7 hrs 21 mins  █████▉░░░░░░░░░░░░░░░  28.2%
+TypeScript 4 hrs          ███▏░░░░░░░░░░░░░░░░░  15.3%
+Vue.js     2 hrs 45 mins  ██▏░░░░░░░░░░░░░░░░░░  10.6%
+Other      10 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
 ```
 
 <!-- code_time end -->
@@ -73,8 +73,8 @@ Colour My World                          Yutaka Yamada
 ヒカリ証明論                         CHiCO with HoneyW
 Perfect Clarity                     MAN WITH A MISSION
 紫陽花                                     MEMAI SIREN
-Torches                                          Aimer
 GONE                                              KIRE
+marie                                            Aimer
 恋人ツナギ                           CHiCO with HoneyW
 斑马,斑马                                       宋冬野
 ```
