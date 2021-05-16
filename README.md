@@ -41,10 +41,10 @@ Other      10 mins        ▏░░░░░░░░░░░░░░░░░
 <!-- code_diff start -->
 
 ```text
-TypeScript   +1.1k/   -460 ███████▊░░░░░░░░░░░░░ 37.0%
-Vue           +957/   -165 ███████▌░░░░░░░░░░░░░ 36.3%
-Python        +632/    -93 █████▍░░░░░░░░░░░░░░░ 26.1%
-YAML           +12/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.4%
+TypeScript   +1.7k/   -481 █████████▏░░░░░░░░░░░ 43.5%
+Vue          +1.4k/   -235 ███████▊░░░░░░░░░░░░░ 36.9%
+Python        +632/    -93 ████░░░░░░░░░░░░░░░░░ 19.1%
+YAML           +12/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.3%
 JSON            +4/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.1%
 Markdown        +0/     -2 ░░░░░░░░░░░░░░░░░░░░░  0.0%
 Text            +2/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.0%
@@ -73,8 +73,8 @@ Colour My World                          Yutaka Yamada
 ヒカリ証明論                         CHiCO with HoneyW
 Perfect Clarity                     MAN WITH A MISSION
 紫陽花                                     MEMAI SIREN
-GONE                                              KIRE
 marie                                            Aimer
+GONE                                              KIRE
 恋人ツナギ                           CHiCO with HoneyW
 斑马,斑马                                       宋冬野
 ```
