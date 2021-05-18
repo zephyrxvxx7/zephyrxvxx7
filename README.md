@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     11 hrs 52 mins ████████▏░░░░░░░░░░░░  39.0%
-YAML       7 hrs 39 mins  █████▎░░░░░░░░░░░░░░░  25.2%
-Vue.js     6 hrs 15 mins  ████▎░░░░░░░░░░░░░░░░  20.6%
-TypeScript 4 hrs 21 mins  ███░░░░░░░░░░░░░░░░░░  14.3%
-Other      12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Python     10 hrs 34 mins ███████▎░░░░░░░░░░░░░  34.6%
+YAML       7 hrs 49 mins  █████▍░░░░░░░░░░░░░░░  25.6%
+Vue.js     7 hrs 14 mins  ████▉░░░░░░░░░░░░░░░░  23.7%
+TypeScript 4 hrs 36 mins  ███▏░░░░░░░░░░░░░░░░░  15.1%
+Other      10 mins        ░░░░░░░░░░░░░░░░░░░░░   0.6%
 ```
 
 <!-- code_time end -->
@@ -72,11 +72,11 @@ Alone                                    Yutaka Yamada
 Colour My World                          Yutaka Yamada
 ヒカリ証明論                         CHiCO with HoneyW
 Perfect Clarity                     MAN WITH A MISSION
-紫陽花                                     MEMAI SIREN
 marie                                            Aimer
+紫陽花                                     MEMAI SIREN
+Torches                                          Aimer
 GONE                                              KIRE
 恋人ツナギ                           CHiCO with HoneyW
-斑马,斑马                                       宋冬野
 ```
 
 <!-- spotify_track end -->
