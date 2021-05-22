@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     13 hrs 45 mins ██████████▊░░░░░░░░░░  51.3%
-TypeScript 8 hrs 20 mins  ██████▌░░░░░░░░░░░░░░  31.1%
-YAML       2 hrs 28 mins  █▉░░░░░░░░░░░░░░░░░░░   9.2%
-Python     2 hrs 13 mins  █▋░░░░░░░░░░░░░░░░░░░   8.3%
-Other      2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Vue.js     13 hrs 29 mins ██████████▎░░░░░░░░░░  49.1%
+TypeScript 9 hrs 13 mins  ███████░░░░░░░░░░░░░░  33.5%
+YAML       2 hrs 22 mins  █▊░░░░░░░░░░░░░░░░░░░   8.6%
+Python     2 hrs 7 mins   █▋░░░░░░░░░░░░░░░░░░░   7.8%
+Docker     12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 
 <!-- code_time end -->
@@ -65,15 +65,15 @@ YAML          +100/    -76 ▉░░░░░░░░░░░░░░░░�
 
 ```text
 Avid                                 SawanoHiroyuki[nZ
-Colour My World                          Yutaka Yamada
 ヒカリ証明論                         CHiCO with HoneyW
+Colour My World                          Yutaka Yamada
 Perfect Clarity                     MAN WITH A MISSION
-Alone                                    Yutaka Yamada
 marie                                            Aimer
-紫陽花                                     MEMAI SIREN
+Alone                                    Yutaka Yamada
 Torches                                          Aimer
 GONE                                              KIRE
 斑马,斑马                                       宋冬野
+恋人ツナギ                           CHiCO with HoneyW
 ```
 
 <!-- spotify_track end -->
