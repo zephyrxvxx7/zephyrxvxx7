@@ -66,11 +66,11 @@ YAML          +100/    -76 ▉░░░░░░░░░░░░░░░░�
 ```text
 Avid                                 SawanoHiroyuki[nZ
 ヒカリ証明論                         CHiCO with HoneyW
-Colour My World                          Yutaka Yamada
 Perfect Clarity                     MAN WITH A MISSION
 marie                                            Aimer
-Alone                                    Yutaka Yamada
 Torches                                          Aimer
+Colour My World                          Yutaka Yamada
+Alone                                    Yutaka Yamada
 GONE                                              KIRE
 斑马,斑马                                       宋冬野
 恋人ツナギ                           CHiCO with HoneyW
