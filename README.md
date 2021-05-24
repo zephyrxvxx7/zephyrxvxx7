@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     13 hrs 29 mins ██████████▎░░░░░░░░░░  49.1%
-TypeScript 9 hrs 13 mins  ███████░░░░░░░░░░░░░░  33.5%
-YAML       2 hrs 22 mins  █▊░░░░░░░░░░░░░░░░░░░   8.6%
-Python     2 hrs 7 mins   █▋░░░░░░░░░░░░░░░░░░░   7.8%
-Docker     12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+Vue.js     10 hrs 19 mins █████████▏░░░░░░░░░░░  43.8%
+TypeScript 8 hrs 53 mins  ███████▉░░░░░░░░░░░░░  37.7%
+YAML       2 hrs 5 mins   █▊░░░░░░░░░░░░░░░░░░░   8.8%
+Python     1 hr 59 mins   █▊░░░░░░░░░░░░░░░░░░░   8.5%
+Docker     12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 ```
 
 <!-- code_time end -->
@@ -70,9 +70,9 @@ Perfect Clarity                     MAN WITH A MISSION
 marie                                            Aimer
 Torches                                          Aimer
 Colour My World                          Yutaka Yamada
-Alone                                    Yutaka Yamada
 GONE                                              KIRE
 斑马,斑马                                       宋冬野
+Alone                                    Yutaka Yamada
 恋人ツナギ                           CHiCO with HoneyW
 ```
 
