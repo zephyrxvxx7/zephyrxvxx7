@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-TypeScript 5 hrs 50 mins  ██████▊░░░░░░░░░░░░░░  32.6%
-Vue.js     4 hrs 54 mins  █████▋░░░░░░░░░░░░░░░  27.4%
-Python     3 hrs 46 mins  ████▍░░░░░░░░░░░░░░░░  21.1%
-YAML       2 hrs 44 mins  ███▏░░░░░░░░░░░░░░░░░  15.3%
+Python     6 hrs 25 mins  ███████▊░░░░░░░░░░░░░  37.2%
+TypeScript 4 hrs 43 mins  █████▊░░░░░░░░░░░░░░░  27.4%
+YAML       2 hrs 44 mins  ███▎░░░░░░░░░░░░░░░░░  15.9%
+Vue.js     2 hrs 38 mins  ███▏░░░░░░░░░░░░░░░░░  15.3%
 Other      20 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
 ```
 
@@ -41,10 +41,10 @@ Other      20 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- code_diff start -->
 
 ```text
-Vue          +1.1k/  -1.1k ████████▋░░░░░░░░░░░░ 41.6%
-TypeScript   +1.5k/   -373 ██████▊░░░░░░░░░░░░░░ 32.4%
-Python        +725/   -245 ████▋░░░░░░░░░░░░░░░░ 22.3%
-YAML          +100/    -76 ▊░░░░░░░░░░░░░░░░░░░░  3.6%
+Vue          +1.1k/  -1.1k ██████████░░░░░░░░░░░ 47.7%
+TypeScript   +1.5k/   -373 ███████▊░░░░░░░░░░░░░ 37.1%
+Python        +299/   -167 ██▍░░░░░░░░░░░░░░░░░░ 11.4%
+YAML           +88/    -75 ▊░░░░░░░░░░░░░░░░░░░░  3.8%
 ```
 
 <!-- code_diff end -->
@@ -70,9 +70,9 @@ marie                                            Aimer
 Torches                                          Aimer
 斑马,斑马                                       宋冬野
 GONE                                              KIRE
-ヒカリ証明論                         CHiCO with HoneyW
-ever after                                       Aimer
+灼火                                  寫手 The Writers
 Colour My World                          Yutaka Yamada
+ever after                                       Aimer
 Alone                                    Yutaka Yamada
 ```
 
