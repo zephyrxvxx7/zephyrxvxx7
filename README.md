@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     12 hrs 40 mins ██████████████▊░░░░░░  70.3%
-YAML       3 hrs 15 mins  ███▊░░░░░░░░░░░░░░░░░  18.1%
-Vue.js     37 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
-Docker     22 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-Other      20 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+Python     12 hrs 42 mins ████████████▉░░░░░░░░  61.7%
+YAML       5 hrs 22 mins  █████▍░░░░░░░░░░░░░░░  26.1%
+Vue.js     49 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+TypeScript 26 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+Docker     22 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
 ```
 
 <!-- code_time end -->
@@ -41,10 +41,10 @@ Other      20 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- code_diff start -->
 
 ```text
-Vue          +1.1k/  -1.1k ██████████▍░░░░░░░░░░ 49.6%
-TypeScript   +1.3k/   -261 ███████▏░░░░░░░░░░░░░ 34.3%
-Python        +299/   -167 ██▌░░░░░░░░░░░░░░░░░░ 12.0%
-YAML           +88/    -75 ▊░░░░░░░░░░░░░░░░░░░░  4.0%
+Vue           +631/   -996 █████████▏░░░░░░░░░░░ 43.7%
+YAML          +524/   -142 █████░░░░░░░░░░░░░░░░ 24.2%
+TypeScript    +670/   -240 ███▊░░░░░░░░░░░░░░░░░ 18.3%
+Python        +299/   -167 ██▉░░░░░░░░░░░░░░░░░░ 13.8%
 ```
 
 <!-- code_diff end -->
@@ -68,8 +68,8 @@ Avid                                 SawanoHiroyuki[nZ
 marie                                            Aimer
 Torches                                          Aimer
 斑马,斑马                                       宋冬野
-Perfect Clarity                     MAN WITH A MISSION
 GONE                                              KIRE
+Perfect Clarity                     MAN WITH A MISSION
 灼火                                  寫手 The Writers
 Colour My World                          Yutaka Yamada
 ever after                                       Aimer
