@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     12 hrs 56 mins █████████▋░░░░░░░░░░░  45.9%
-YAML       7 hrs 37 mins  █████▋░░░░░░░░░░░░░░░  27.0%
-Vue.js     3 hrs 16 mins  ██▍░░░░░░░░░░░░░░░░░░  11.6%
-TypeScript 3 hrs 6 mins   ██▎░░░░░░░░░░░░░░░░░░  11.0%
-Docker     22 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+Python     11 hrs 52 mins ████████▋░░░░░░░░░░░░  41.3%
+Vue.js     6 hrs 35 mins  ████▊░░░░░░░░░░░░░░░░  22.9%
+YAML       6 hrs 9 mins   ████▍░░░░░░░░░░░░░░░░  21.4%
+TypeScript 3 hrs 4 mins   ██▎░░░░░░░░░░░░░░░░░░  10.7%
+Docker     17 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 ```
 
 <!-- code_time end -->
@@ -41,10 +41,12 @@ Docker     22 mins        ▎░░░░░░░░░░░░░░░░░
 <!-- code_diff start -->
 
 ```text
-Vue           +631/   -996 ██████████▊░░░░░░░░░░ 51.4%
-YAML          +445/    -70 ████▉░░░░░░░░░░░░░░░░ 23.5%
-TypeScript    +670/   -240 ████▌░░░░░░░░░░░░░░░░ 21.6%
-Python         +75/    -14 ▋░░░░░░░░░░░░░░░░░░░░  3.6%
+Python       +1.4k/    -19 ███████▌░░░░░░░░░░░░░ 36.2%
+Vue          +1.0k/  -1.0k ███████▍░░░░░░░░░░░░░ 35.4%
+TypeScript    +989/   -242 ███▎░░░░░░░░░░░░░░░░░ 15.6%
+YAML          +458/    -71 ██▋░░░░░░░░░░░░░░░░░░ 12.7%
+Shell           +2/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.1%
+Text            +2/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.0%
 ```
 
 <!-- code_diff end -->
@@ -71,9 +73,9 @@ Avid                                 SawanoHiroyuki[nZ
 GONE                                              KIRE
 灼火                                  寫手 The Writers
 ever after                                       Aimer
-Perfect Clarity                     MAN WITH A MISSION
 Tomorrowland                            MY FIRST STORY
-Colour My World                          Yutaka Yamada
+Zero Eclipse                           Hiroyuki Sawano
+希望你回來                                       Trash
 ```
 
 <!-- spotify_track end -->
