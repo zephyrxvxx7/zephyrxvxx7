@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     10 hrs 52 mins ███████▏░░░░░░░░░░░░░  34.0%
-Vue.js     8 hrs 45 mins  █████▊░░░░░░░░░░░░░░░  27.4%
-YAML       6 hrs 12 mins  ████░░░░░░░░░░░░░░░░░  19.4%
-TypeScript 5 hrs 10 mins  ███▍░░░░░░░░░░░░░░░░░  16.2%
-Docker     17 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+Vue.js     10 hrs 18 mins ██████▎░░░░░░░░░░░░░░  30.1%
+Python     8 hrs 12 mins  █████░░░░░░░░░░░░░░░░  24.0%
+YAML       6 hrs 21 mins  ███▉░░░░░░░░░░░░░░░░░  18.6%
+TypeScript 6 hrs 2 mins   ███▋░░░░░░░░░░░░░░░░░  17.6%
+Other      1 hr 43 mins   █░░░░░░░░░░░░░░░░░░░░   5.1%
 ```
 
 <!-- code_time end -->
@@ -41,11 +41,11 @@ Docker     17 mins        ▏░░░░░░░░░░░░░░░░░
 <!-- code_diff start -->
 
 ```text
-Python       +1.6k/     -8 ███████▋░░░░░░░░░░░░░ 36.6%
-Vue          +1.1k/   -978 ███████▏░░░░░░░░░░░░░ 34.4%
-TypeScript   +1.1k/   -240 ███▎░░░░░░░░░░░░░░░░░ 16.0%
-YAML          +521/    -68 ██▋░░░░░░░░░░░░░░░░░░ 12.8%
-Shell           +4/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.1%
+Python       +1.6k/     -8 █████████▎░░░░░░░░░░░ 44.1%
+Vue          +1.0k/    -73 ████▉░░░░░░░░░░░░░░░░ 23.6%
+TypeScript   +1.1k/    -33 ███▌░░░░░░░░░░░░░░░░░ 16.7%
+YAML          +521/    -68 ███▏░░░░░░░░░░░░░░░░░ 15.4%
+Shell           +4/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.2%
 Text            +2/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.0%
 ```
 
@@ -71,10 +71,10 @@ marie                                            Aimer
 Avid                                 SawanoHiroyuki[nZ
 斑马,斑马                                       宋冬野
 Tomorrowland                            MY FIRST STORY
-GONE                                              KIRE
-灼火                                  寫手 The Writers
 ever after                                       Aimer
+灼火                                  寫手 The Writers
 Zero Eclipse                           Hiroyuki Sawano
+Untitled world                                   ReoNa
 希望你回來                                       Trash
 ```
 
