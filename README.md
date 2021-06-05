@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     10 hrs 11 mins ███████▋░░░░░░░░░░░░░  36.5%
-TypeScript 6 hrs 2 mins   ████▌░░░░░░░░░░░░░░░░  21.6%
-YAML       5 hrs 51 mins  ████▍░░░░░░░░░░░░░░░░  21.0%
-Python     3 hrs 19 mins  ██▍░░░░░░░░░░░░░░░░░░  11.9%
-Other      1 hr 43 mins   █▎░░░░░░░░░░░░░░░░░░░   6.2%
+Vue.js     10 hrs 7 mins  ████████▌░░░░░░░░░░░░  41.1%
+TypeScript 6 hrs 1 min    █████▏░░░░░░░░░░░░░░░  24.4%
+YAML       4 hrs 35 mins  ███▉░░░░░░░░░░░░░░░░░  18.6%
+Other      1 hr 43 mins   █▍░░░░░░░░░░░░░░░░░░░   7.0%
+Python     1 hr 16 mins   █░░░░░░░░░░░░░░░░░░░░   5.2%
 ```
 
 <!-- code_time end -->
@@ -75,7 +75,7 @@ ever after                                       Aimer
 灼火                                  寫手 The Writers
 Zero Eclipse                           Hiroyuki Sawano
 Untitled world                                   ReoNa
-希望你回來                                       Trash
+台北下的雨                                        鄭興
 ```
 
 <!-- spotify_track end -->
