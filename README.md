@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     7 hrs 9 mins   ██████████▋░░░░░░░░░░  51.0%
-TypeScript 3 hrs 5 mins   ████▋░░░░░░░░░░░░░░░░  22.0%
-Other      1 hr 43 mins   ██▌░░░░░░░░░░░░░░░░░░  12.3%
-Python     59 mins        █▍░░░░░░░░░░░░░░░░░░░   7.1%
-Docker     40 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
+Vue.js     3 hrs 47 mins  ███████▋░░░░░░░░░░░░░  36.7%
+TypeScript 2 hrs 58 mins  ██████░░░░░░░░░░░░░░░  28.9%
+Other      1 hr 43 mins   ███▌░░░░░░░░░░░░░░░░░  16.8%
+Python     45 mins        █▌░░░░░░░░░░░░░░░░░░░   7.4%
+Docker     40 mins        █▍░░░░░░░░░░░░░░░░░░░   6.6%
 ```
 
 <!-- code_time end -->
@@ -41,10 +41,10 @@ Docker     40 mins        █░░░░░░░░░░░░░░░░░
 <!-- code_diff start -->
 
 ```text
-Python       +1.6k/     -8 █████████▎░░░░░░░░░░░ 44.1%
-Vue          +1.0k/    -73 ████▉░░░░░░░░░░░░░░░░ 23.6%
-TypeScript   +1.1k/    -33 ███▌░░░░░░░░░░░░░░░░░ 16.7%
-YAML          +521/    -68 ███▏░░░░░░░░░░░░░░░░░ 15.4%
+Python       +1.5k/     -6 ██████████▍░░░░░░░░░░ 49.7%
+Vue           +766/    -72 ████▎░░░░░░░░░░░░░░░░ 20.4%
+YAML          +521/    -68 ███▋░░░░░░░░░░░░░░░░░ 17.7%
+TypeScript    +662/    -21 ██▌░░░░░░░░░░░░░░░░░░ 12.1%
 Shell           +4/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.2%
 Text            +2/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.0%
 ```
@@ -74,8 +74,8 @@ ever after                                       Aimer
 灼火                                  寫手 The Writers
 台北下的雨                                        鄭興
 hollow-mas                                       Aimer
-Zero Eclipse                           Hiroyuki Sawano
 季路                                             Aimer
+希望你回來                                       Trash
 ```
 
 <!-- spotify_track end -->
