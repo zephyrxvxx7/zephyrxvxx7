@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     3 hrs 47 mins  ███████▋░░░░░░░░░░░░░  36.7%
-TypeScript 2 hrs 58 mins  ██████░░░░░░░░░░░░░░░  28.9%
-Other      1 hr 43 mins   ███▌░░░░░░░░░░░░░░░░░  16.8%
-Python     45 mins        █▌░░░░░░░░░░░░░░░░░░░   7.4%
-Docker     40 mins        █▍░░░░░░░░░░░░░░░░░░░   6.6%
+Other      1 hr 42 mins   ██████▉░░░░░░░░░░░░░░  32.9%
+Vue.js     1 hr 33 mins   ██████▎░░░░░░░░░░░░░░  30.1%
+TypeScript 52 mins        ███▌░░░░░░░░░░░░░░░░░  17.0%
+Docker     40 mins        ██▊░░░░░░░░░░░░░░░░░░  13.1%
+YAML       10 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
 ```
 
 <!-- code_time end -->
@@ -70,12 +70,12 @@ Torches                                          Aimer
 marie                                            Aimer
 Avid                                 SawanoHiroyuki[nZ
 Tomorrowland                            MY FIRST STORY
-ever after                                       Aimer
 灼火                                  寫手 The Writers
+ever after                                       Aimer
 台北下的雨                                        鄭興
 hollow-mas                                       Aimer
-季路                                             Aimer
 希望你回來                                       Trash
+大海 - Unplugged                              Neci Ken
 ```
 
 <!-- spotify_track end -->
