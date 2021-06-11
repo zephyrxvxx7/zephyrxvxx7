@@ -67,15 +67,15 @@ Text            +2/     -1 ░░░░░░░░░░░░░░░░░�
 
 ```text
 Avid                                 SawanoHiroyuki[nZ
-Torches                                          Aimer
 Tomorrowland                            MY FIRST STORY
+Torches                                          Aimer
 灼火                                  寫手 The Writers
 marie                                            Aimer
 台北下的雨                                        鄭興
 希望你回來                                       Trash
 大海 - Unplugged                              Neci Ken
-Something Just Like This              The Chainsmokers
 滯留鋒                                        理想混蛋
+不是因為天氣晴朗才愛你                        理想混蛋
 ```
 
 <!-- spotify_track end -->
