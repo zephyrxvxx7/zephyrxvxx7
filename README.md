@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     1 hr 56 mins   █████▊░░░░░░░░░░░░░░░  27.6%
-Vue.js     1 hr 53 mins   █████▋░░░░░░░░░░░░░░░  27.0%
-Other      1 hr 34 mins   ████▋░░░░░░░░░░░░░░░░  22.4%
-Text       40 mins        ██░░░░░░░░░░░░░░░░░░░   9.6%
-TypeScript 35 mins        █▊░░░░░░░░░░░░░░░░░░░   8.5%
+Python     2 hrs 19 mins  ██████▌░░░░░░░░░░░░░░  31.4%
+Vue.js     1 hr 53 mins   █████▎░░░░░░░░░░░░░░░  25.6%
+Other      1 hr 34 mins   ████▍░░░░░░░░░░░░░░░░  21.3%
+Text       40 mins        █▉░░░░░░░░░░░░░░░░░░░   9.1%
+TypeScript 35 mins        █▋░░░░░░░░░░░░░░░░░░░   8.0%
 ```
 
 <!-- code_time end -->
@@ -66,14 +66,14 @@ Text            +2/     -4 ░░░░░░░░░░░░░░░░░�
 <!-- spotify_track start -->
 
 ```text
-Avid                                 SawanoHiroyuki[nZ
 Tomorrowland                            MY FIRST STORY
+Avid                                 SawanoHiroyuki[nZ
 Hands Up to the Sky                  SawanoHiroyuki[nZ
 Torches                                          Aimer
-灼火                                  寫手 The Writers
 Avid                                 SawanoHiroyuki[nZ
-A/Z <MODv>                           SawanoHiroyuki[nZ
 Tranquility <MODv>                   SawanoHiroyuki[nZ
+灼火                                  寫手 The Writers
+A/Z <MODv>                           SawanoHiroyuki[nZ
 Into the Sky <MODv>                  SawanoHiroyuki[nZ
 台北下的雨                                        鄭興
 ```
