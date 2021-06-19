@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     2 hrs 54 mins  ███████░░░░░░░░░░░░░░  33.5%
-Vue.js     2 hrs 19 mins  █████▋░░░░░░░░░░░░░░░  26.8%
-Other      1 hr 34 mins   ███▊░░░░░░░░░░░░░░░░░  18.1%
-TypeScript 58 mins        ██▎░░░░░░░░░░░░░░░░░░  11.2%
-YAML       27 mins        █░░░░░░░░░░░░░░░░░░░░   5.2%
+Python     1 hr 26 mins   ██████████░░░░░░░░░░░  48.1%
+Vue.js     48 mins        █████▋░░░░░░░░░░░░░░░  26.9%
+TypeScript 31 mins        ███▋░░░░░░░░░░░░░░░░░  17.3%
+YAML       12 mins        █▍░░░░░░░░░░░░░░░░░░░   6.9%
+JSON       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.6%
 ```
 
 <!-- code_time end -->
@@ -41,10 +41,10 @@ YAML       27 mins        █░░░░░░░░░░░░░░░░░
 <!-- code_diff start -->
 
 ```text
-Vue            +82/    -60 ███████████▉░░░░░░░░░ 57.0%
-Python         +59/     -6 ████▉░░░░░░░░░░░░░░░░ 23.8%
-TypeScript     +48/     -8 ███▎░░░░░░░░░░░░░░░░░ 15.5%
-YAML            +2/     -5 ▋░░░░░░░░░░░░░░░░░░░░  3.3%
+Vue            +82/    -60 ███████████▊░░░░░░░░░ 56.5%
+Python         +59/     -6 ████▉░░░░░░░░░░░░░░░░ 23.6%
+TypeScript     +48/     -8 ███▏░░░░░░░░░░░░░░░░░ 15.4%
+YAML            +3/     -6 ▊░░░░░░░░░░░░░░░░░░░░  4.1%
 Text            +0/     -3 ░░░░░░░░░░░░░░░░░░░░░  0.4%
 ```
 
@@ -71,9 +71,9 @@ Avid                                 SawanoHiroyuki[nZ
 Tranquility <MODv>                   SawanoHiroyuki[nZ
 A/Z <MODv>                           SawanoHiroyuki[nZ
 Into the Sky <MODv>                  SawanoHiroyuki[nZ
+灼火                                  寫手 The Writers
 Avid                                 SawanoHiroyuki[nZ
 Torches                                          Aimer
-灼火                                  寫手 The Writers
 起風了 - 電視劇"加油你是                        吳青峰
 ```
 
