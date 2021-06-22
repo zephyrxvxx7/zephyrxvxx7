@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     1 hr 50 mins   ███████░░░░░░░░░░░░░░  33.4%
-TypeScript 1 hr 29 mins   █████▋░░░░░░░░░░░░░░░  26.9%
-Vue.js     1 hr 16 mins   ████▊░░░░░░░░░░░░░░░░  23.0%
-JSON       27 mins        █▊░░░░░░░░░░░░░░░░░░░   8.4%
-YAML       17 mins        █▏░░░░░░░░░░░░░░░░░░░   5.4%
+Python     1 hr 45 mins   ██████▊░░░░░░░░░░░░░░  32.3%
+TypeScript 1 hr 29 mins   █████▋░░░░░░░░░░░░░░░  27.3%
+Vue.js     1 hr 18 mins   █████░░░░░░░░░░░░░░░░  23.9%
+JSON       27 mins        █▊░░░░░░░░░░░░░░░░░░░   8.5%
+YAML       16 mins        █░░░░░░░░░░░░░░░░░░░░   5.1%
 ```
 
 <!-- code_time end -->
@@ -71,10 +71,10 @@ Tranquility <MODv>                   SawanoHiroyuki[nZ
 A/Z <MODv>                           SawanoHiroyuki[nZ
 Into the Sky <MODv>                  SawanoHiroyuki[nZ
 Tomorrowland                            MY FIRST STORY
-灼火                                  寫手 The Writers
-起風了 - 電視劇"加油你是                        吳青峰
 きみの名前                                    藤川千愛
 あたしが隣にいるうちに                        藤川千愛
+起風了 - 電視劇"加油你是                        吳青峰
+Avid                                 SawanoHiroyuki[nZ
 ```
 
 <!-- spotify_track end -->
