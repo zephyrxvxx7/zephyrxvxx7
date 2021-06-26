@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-TypeScript 1 hr 6 mins    ██████▏░░░░░░░░░░░░░░  29.5%
-Python     1 hr 4 mins    █████▉░░░░░░░░░░░░░░░  28.5%
-Vue.js     51 mins        ████▊░░░░░░░░░░░░░░░░  22.8%
-JSON       26 mins        ██▍░░░░░░░░░░░░░░░░░░  11.8%
-Other      9 mins         ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+Python     1 hr 11 mins   ██████▊░░░░░░░░░░░░░░  32.7%
+TypeScript 1 hr 6 mins    ██████▎░░░░░░░░░░░░░░  30.1%
+Vue.js     32 mins        ███░░░░░░░░░░░░░░░░░░  14.8%
+JSON       26 mins        ██▌░░░░░░░░░░░░░░░░░░  12.2%
+YAML       13 mins        █▎░░░░░░░░░░░░░░░░░░░   6.1%
 ```
 
 <!-- code_time end -->
@@ -41,11 +41,10 @@ Other      9 mins         ▊░░░░░░░░░░░░░░░░░
 <!-- code_diff start -->
 
 ```text
-Vue           +154/    -62 ██████████▏░░░░░░░░░░ 48.5%
-TypeScript    +151/    -11 █████▌░░░░░░░░░░░░░░░ 26.5%
-Python         +94/    -16 ████▋░░░░░░░░░░░░░░░░ 22.4%
-YAML            +3/     -6 ▍░░░░░░░░░░░░░░░░░░░░  2.4%
-Text            +0/     -3 ░░░░░░░░░░░░░░░░░░░░░  0.2%
+Vue           +277/    -16 ████████▌░░░░░░░░░░░░ 40.7%
+Python        +158/    -41 ██████▌░░░░░░░░░░░░░░ 31.3%
+TypeScript    +248/    -11 █████▊░░░░░░░░░░░░░░░ 27.7%
+YAML            +1/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.3%
 ```
 
 <!-- code_diff end -->
@@ -73,8 +72,8 @@ Into the Sky <MODv>                  SawanoHiroyuki[nZ
 Tomorrowland                            MY FIRST STORY
 起風了 - 電視劇"加油你是                        吳青峰
 Avid                                 SawanoHiroyuki[nZ
-Torches                                          Aimer
 灼火                                  寫手 The Writers
+Woman Like Me (feat. Ni              Little Mix & Nick
 ```
 
 <!-- spotify_track end -->
