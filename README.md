@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     1 hr 11 mins   ██████████▌░░░░░░░░░░  50.6%
-Python     41 mins        ██████░░░░░░░░░░░░░░░  29.1%
-TypeScript 20 mins        ███░░░░░░░░░░░░░░░░░░  14.5%
-YAML       7 mins         █░░░░░░░░░░░░░░░░░░░░   5.0%
-Bash       1 min          ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Python     1 hr 24 mins   █████████▎░░░░░░░░░░░  44.5%
+Vue.js     1 hr 9 mins    ███████▋░░░░░░░░░░░░░  36.5%
+TypeScript 20 mins        ██▏░░░░░░░░░░░░░░░░░░  10.7%
+CSV        7 mins         ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+YAML       7 mins         ▊░░░░░░░░░░░░░░░░░░░░   3.8%
 ```
 
 <!-- code_time end -->
@@ -71,9 +71,9 @@ A/Z <MODv>                           SawanoHiroyuki[nZ
 Into the Sky <MODv>                  SawanoHiroyuki[nZ
 Tomorrowland                            MY FIRST STORY
 起風了 - 電視劇"加油你是                        吳青峰
+灼火                                  寫手 The Writers
 Avid                                 SawanoHiroyuki[nZ
 Woman Like Me (feat. Ni              Little Mix & Nick
-灼火                                  寫手 The Writers
 ```
 
 <!-- spotify_track end -->
