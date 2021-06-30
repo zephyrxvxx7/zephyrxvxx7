@@ -64,16 +64,16 @@ YAML            +1/     -1 ░░░░░░░░░░░░░░░░░�
 <!-- spotify_track start -->
 
 ```text
-Hands Up to the Sky                  SawanoHiroyuki[nZ
 Avid                                 SawanoHiroyuki[nZ
+Hands Up to the Sky                  SawanoHiroyuki[nZ
 Tranquility <MODv>                   SawanoHiroyuki[nZ
 A/Z <MODv>                           SawanoHiroyuki[nZ
 Into the Sky <MODv>                  SawanoHiroyuki[nZ
 Tomorrowland                            MY FIRST STORY
 起風了 - 電視劇"加油你是                        吳青峰
 灼火                                  寫手 The Writers
-Avid                                 SawanoHiroyuki[nZ
 Woman Like Me (feat. Ni              Little Mix & Nick
+Avid                                 SawanoHiroyuki[nZ
 ```
 
 <!-- spotify_track end -->
