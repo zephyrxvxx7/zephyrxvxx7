@@ -41,10 +41,10 @@ YAML       7 mins         ▊░░░░░░░░░░░░░░░░░
 <!-- code_diff start -->
 
 ```text
-Vue           +277/    -16 ████████▋░░░░░░░░░░░░ 41.5%
-Python        +155/    -38 ██████▎░░░░░░░░░░░░░░ 30.3%
-TypeScript    +247/    -10 █████▊░░░░░░░░░░░░░░░ 27.9%
-YAML            +1/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.3%
+Vue           +269/     -8 ████████▍░░░░░░░░░░░░ 40.3%
+Python        +155/    -38 ██████▌░░░░░░░░░░░░░░ 31.5%
+TypeScript    +243/     -6 █████▊░░░░░░░░░░░░░░░ 27.9%
+YAML            +1/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.4%
 ```
 
 <!-- code_diff end -->
@@ -72,8 +72,8 @@ Into the Sky <MODv>                  SawanoHiroyuki[nZ
 Tomorrowland                            MY FIRST STORY
 起風了 - 電視劇"加油你是                        吳青峰
 灼火                                  寫手 The Writers
+Osorezan Revoir                     Megumi Hayashibara
 Woman Like Me (feat. Ni              Little Mix & Nick
-Avid                                 SawanoHiroyuki[nZ
 ```
 
 <!-- spotify_track end -->
