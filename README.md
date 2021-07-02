@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     1 hr 24 mins   █████████▎░░░░░░░░░░░  44.5%
-Vue.js     1 hr 9 mins    ███████▋░░░░░░░░░░░░░  36.5%
-TypeScript 20 mins        ██▏░░░░░░░░░░░░░░░░░░  10.7%
-CSV        7 mins         ▊░░░░░░░░░░░░░░░░░░░░   4.0%
-YAML       7 mins         ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+Python     1 hr 24 mins   ████████▋░░░░░░░░░░░░  41.4%
+Vue.js     1 hr 9 mins    ███████▏░░░░░░░░░░░░░  34.0%
+TypeScript 20 mins        ██░░░░░░░░░░░░░░░░░░░   9.9%
+C++        13 mins        █▍░░░░░░░░░░░░░░░░░░░   6.5%
+CSV        8 mins         ▊░░░░░░░░░░░░░░░░░░░░   4.1%
 ```
 
 <!-- code_time end -->
@@ -41,9 +41,9 @@ YAML       7 mins         ▊░░░░░░░░░░░░░░░░░
 <!-- code_diff start -->
 
 ```text
-Vue           +269/     -8 ████████▍░░░░░░░░░░░░ 40.3%
-Python        +155/    -38 ██████▌░░░░░░░░░░░░░░ 31.5%
-TypeScript    +243/     -6 █████▊░░░░░░░░░░░░░░░ 27.9%
+Vue           +267/     -7 ████████▍░░░░░░░░░░░░ 40.0%
+Python        +155/    -38 ██████▋░░░░░░░░░░░░░░ 31.7%
+TypeScript    +243/     -6 █████▉░░░░░░░░░░░░░░░ 28.0%
 YAML            +1/     -1 ░░░░░░░░░░░░░░░░░░░░░  0.4%
 ```
 
@@ -73,7 +73,7 @@ Tomorrowland                            MY FIRST STORY
 起風了 - 電視劇"加油你是                        吳青峰
 灼火                                  寫手 The Writers
 Osorezan Revoir                     Megumi Hayashibara
-Woman Like Me (feat. Ni              Little Mix & Nick
+On My Own                              Far Out & Karra
 ```
 
 <!-- spotify_track end -->
