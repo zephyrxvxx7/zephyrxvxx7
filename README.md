@@ -27,11 +27,9 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     43 mins        ██████████▎░░░░░░░░░░  48.8%
-C++        34 mins        ████████░░░░░░░░░░░░░  38.1%
-CSV        8 mins         █▉░░░░░░░░░░░░░░░░░░░   9.3%
-TypeScript 2 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.5%
-Bash       0 secs         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Python     43 mins        ██████████▋░░░░░░░░░░  50.6%
+C++        34 mins        ████████▎░░░░░░░░░░░░  39.7%
+CSV        8 mins         ██░░░░░░░░░░░░░░░░░░░   9.7%
 ```
 
 <!-- code_time end -->
@@ -41,9 +39,9 @@ Bash       0 secs         ▏░░░░░░░░░░░░░░░░░
 <!-- code_diff start -->
 
 ```text
-Python        +137/    -33 ████████▏░░░░░░░░░░░░ 38.7%
-Vue           +195/     -5 ████████░░░░░░░░░░░░░ 38.4%
-TypeScript    +150/     -5 ████▊░░░░░░░░░░░░░░░░ 22.9%
+Vue           +195/     -5 ████████▋░░░░░░░░░░░░ 41.1%
+Python        +120/    -28 ███████▋░░░░░░░░░░░░░ 36.7%
+TypeScript    +140/     -3 ████▋░░░░░░░░░░░░░░░░ 22.2%
 ```
 
 <!-- code_diff end -->
@@ -71,8 +69,8 @@ Into the Sky <MODv>                  SawanoHiroyuki[nZ
 Tomorrowland                            MY FIRST STORY
 起風了 - 電視劇"加油你是                        吳青峰
 灼火                                  寫手 The Writers
-Osorezan Revoir                     Megumi Hayashibara
 On My Own                              Far Out & Karra
+Woman Like Me (feat. Ni              Little Mix & Nick
 ```
 
 <!-- spotify_track end -->
