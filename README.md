@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-C++        34 mins        ████████████████████▌  97.7%
-CSV        0 secs         ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+C++        34 mins        ███████████████████▊░  94.1%
+Python     1 min          ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+CSV        0 secs         ▍░░░░░░░░░░░░░░░░░░░░   2.1%
 ```
 
 <!-- code_time end -->
