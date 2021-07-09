@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-C++        34 mins        ███████████████████▊░  94.1%
-Python     1 min          ▊░░░░░░░░░░░░░░░░░░░░   3.8%
-CSV        0 secs         ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+C++        21 mins        ███████████████████▋░  93.9%
+Python     1 min          █▎░░░░░░░░░░░░░░░░░░░   6.1%
 ```
 
 <!-- code_time end -->
@@ -62,14 +61,14 @@ TypeScript    +140/     -3 ████▋░░░░░░░░░░░░�
 
 ```text
 Avid                                 SawanoHiroyuki[nZ
-Hands Up to the Sky                  SawanoHiroyuki[nZ
 Tranquility <MODv>                   SawanoHiroyuki[nZ
-A/Z <MODv>                           SawanoHiroyuki[nZ
+Hands Up to the Sky                  SawanoHiroyuki[nZ
 Into the Sky <MODv>                  SawanoHiroyuki[nZ
-Tomorrowland                            MY FIRST STORY
+A/Z <MODv>                           SawanoHiroyuki[nZ
 起風了 - 電視劇"加油你是                        吳青峰
 灼火                                  寫手 The Writers
 On My Own                              Far Out & Karra
+For キミに贈る歌                            THE SxPLAY
 Woman Like Me (feat. Ni              Little Mix & Nick
 ```
 
