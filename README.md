@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-C++        21 mins        ███████████████████▋░  93.9%
-Python     1 min          █▎░░░░░░░░░░░░░░░░░░░   6.1%
+C++        1 hr 29 mins   ███████████████████░░  90.9%
+Other      7 mins         █▌░░░░░░░░░░░░░░░░░░░   7.7%
+Python     1 min          ▎░░░░░░░░░░░░░░░░░░░░   1.4%
 ```
 
 <!-- code_time end -->
@@ -38,9 +39,7 @@ Python     1 min          █▎░░░░░░░░░░░░░░░░
 <!-- code_diff start -->
 
 ```text
-Vue           +195/     -5 ████████▋░░░░░░░░░░░░ 41.1%
-Python        +120/    -28 ███████▋░░░░░░░░░░░░░ 36.7%
-TypeScript    +140/     -3 ████▋░░░░░░░░░░░░░░░░ 22.2%
+404: Not Found
 ```
 
 <!-- code_diff end -->
@@ -61,15 +60,15 @@ TypeScript    +140/     -3 ████▋░░░░░░░░░░░░�
 
 ```text
 Avid                                 SawanoHiroyuki[nZ
-Tranquility <MODv>                   SawanoHiroyuki[nZ
 Hands Up to the Sky                  SawanoHiroyuki[nZ
 Into the Sky <MODv>                  SawanoHiroyuki[nZ
+Tranquility <MODv>                   SawanoHiroyuki[nZ
 A/Z <MODv>                           SawanoHiroyuki[nZ
 起風了 - 電視劇"加油你是                        吳青峰
 灼火                                  寫手 The Writers
 On My Own                              Far Out & Karra
 For キミに贈る歌                            THE SxPLAY
-Woman Like Me (feat. Ni              Little Mix & Nick
+人生は戦場だ - Prod.by at                   安斉かれん
 ```
 
 <!-- spotify_track end -->
