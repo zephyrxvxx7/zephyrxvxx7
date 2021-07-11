@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-C++        1 hr 29 mins   ███████████████████░░  90.9%
-Other      7 mins         █▌░░░░░░░░░░░░░░░░░░░   7.7%
-Python     1 min          ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+C++        1 hr 8 mins    ██████████████████▌░░  88.5%
+Other      7 mins         ██░░░░░░░░░░░░░░░░░░░   9.7%
+Python     1 min          ▍░░░░░░░░░░░░░░░░░░░░   1.8%
 ```
 
 <!-- code_time end -->
@@ -60,15 +60,15 @@ Python     1 min          ▎░░░░░░░░░░░░░░░░░
 
 ```text
 Avid                                 SawanoHiroyuki[nZ
-Hands Up to the Sky                  SawanoHiroyuki[nZ
-Into the Sky <MODv>                  SawanoHiroyuki[nZ
-Tranquility <MODv>                   SawanoHiroyuki[nZ
-A/Z <MODv>                           SawanoHiroyuki[nZ
 起風了 - 電視劇"加油你是                        吳青峰
 灼火                                  寫手 The Writers
 On My Own                              Far Out & Karra
-For キミに贈る歌                            THE SxPLAY
+Hands Up to the Sky                  SawanoHiroyuki[nZ
+Into the Sky <MODv>                  SawanoHiroyuki[nZ
 人生は戦場だ - Prod.by at                   安斉かれん
+For キミに贈る歌                            THE SxPLAY
+Tranquility <MODv>                   SawanoHiroyuki[nZ
+Hollow Veil                                      nonoc
 ```
 
 <!-- spotify_track end -->
