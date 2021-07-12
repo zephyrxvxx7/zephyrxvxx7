@@ -60,15 +60,15 @@ Python     1 min          ▍░░░░░░░░░░░░░░░░░
 
 ```text
 Avid                                 SawanoHiroyuki[nZ
-起風了 - 電視劇"加油你是                        吳青峰
 灼火                                  寫手 The Writers
 On My Own                              Far Out & Karra
 Hands Up to the Sky                  SawanoHiroyuki[nZ
 Into the Sky <MODv>                  SawanoHiroyuki[nZ
 人生は戦場だ - Prod.by at                   安斉かれん
-For キミに贈る歌                            THE SxPLAY
 Tranquility <MODv>                   SawanoHiroyuki[nZ
 Hollow Veil                                      nonoc
+We Are The People (feat              Martin Garrix & B
+大海 - Unplugged                              Neci Ken
 ```
 
 <!-- spotify_track end -->
