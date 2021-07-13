@@ -62,13 +62,13 @@ Python     1 min          ▍░░░░░░░░░░░░░░░░░
 Avid                                 SawanoHiroyuki[nZ
 灼火                                  寫手 The Writers
 On My Own                              Far Out & Karra
-Hands Up to the Sky                  SawanoHiroyuki[nZ
-Into the Sky <MODv>                  SawanoHiroyuki[nZ
 人生は戦場だ - Prod.by at                   安斉かれん
-Tranquility <MODv>                   SawanoHiroyuki[nZ
+大海 - Unplugged                              Neci Ken
+滯留鋒                                        理想混蛋
 Hollow Veil                                      nonoc
 We Are The People (feat              Martin Garrix & B
-大海 - Unplugged                              Neci Ken
+陪你去流浪                                   Joker Xue
+To My World                           寫手 The Writers
 ```
 
 <!-- spotify_track end -->
