@@ -60,15 +60,15 @@ Python     1 min          ▍░░░░░░░░░░░░░░░░░
 
 ```text
 Avid                                 SawanoHiroyuki[nZ
-灼火                                  寫手 The Writers
 On My Own                              Far Out & Karra
+灼火                                  寫手 The Writers
 人生は戦場だ - Prod.by at                   安斉かれん
 大海 - Unplugged                              Neci Ken
 滯留鋒                                        理想混蛋
 Hollow Veil                                      nonoc
 We Are The People (feat              Martin Garrix & B
 陪你去流浪                                   Joker Xue
-To My World                           寫手 The Writers
+Touch the Sky                        Chromak & Dana Sw
 ```
 
 <!-- spotify_track end -->
