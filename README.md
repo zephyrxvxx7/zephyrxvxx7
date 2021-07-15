@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-C++        1 hr 8 mins    ██████████████████▌░░  88.5%
-Other      7 mins         ██░░░░░░░░░░░░░░░░░░░   9.7%
-Python     1 min          ▍░░░░░░░░░░░░░░░░░░░░   1.8%
+C++        1 hr 7 mins    ██████████████████▉░░  90.0%
+Other      7 mins         ██░░░░░░░░░░░░░░░░░░░  10.0%
 ```
 
 <!-- code_time end -->
@@ -61,14 +60,14 @@ Python     1 min          ▍░░░░░░░░░░░░░░░░░
 ```text
 Avid                                 SawanoHiroyuki[nZ
 On My Own                              Far Out & Karra
-灼火                                  寫手 The Writers
+First Time                           ILLENIUM & iann d
 人生は戦場だ - Prod.by at                   安斉かれん
+Hearts on Fire                        ILLENIUM & Dabin
 大海 - Unplugged                              Neci Ken
+Paper Thin                           ILLENIUM & Tom De
 滯留鋒                                        理想混蛋
+Heavenly Side                        ILLENIUM & Matt M
 Hollow Veil                                      nonoc
-We Are The People (feat              Martin Garrix & B
-陪你去流浪                                   Joker Xue
-Touch the Sky                        Chromak & Dana Sw
 ```
 
 <!-- spotify_track end -->
