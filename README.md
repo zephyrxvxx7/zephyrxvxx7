@@ -58,16 +58,16 @@ Other      7 mins         ██░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Avid                                 SawanoHiroyuki[nZ
-On My Own                              Far Out & Karra
 First Time                           ILLENIUM & iann d
-人生は戦場だ - Prod.by at                   安斉かれん
-Hearts on Fire                        ILLENIUM & Dabin
-大海 - Unplugged                              Neci Ken
+Avid                                 SawanoHiroyuki[nZ
 Paper Thin                           ILLENIUM & Tom De
-滯留鋒                                        理想混蛋
+On My Own                              Far Out & Karra
 Heavenly Side                        ILLENIUM & Matt M
-Hollow Veil                                      nonoc
+Hearts on Fire                        ILLENIUM & Dabin
+Nightlight                           ILLENIUM & Annika
+Sideways                             ILLENIUM & Valeri
+嚣张                                                En
+人生は戦場だ - Prod.by at                   安斉かれん
 ```
 
 <!-- spotify_track end -->
