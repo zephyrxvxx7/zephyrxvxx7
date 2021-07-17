@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-C++        1 hr 7 mins    ██████████████████▉░░  90.0%
-Other      7 mins         ██░░░░░░░░░░░░░░░░░░░  10.0%
+VB.NET     2 mins         █████████████████████ 100.0%
 ```
 
 <!-- code_time end -->
@@ -59,15 +58,15 @@ Other      7 mins         ██░░░░░░░░░░░░░░░░
 
 ```text
 First Time                           ILLENIUM & iann d
-Avid                                 SawanoHiroyuki[nZ
 Paper Thin                           ILLENIUM & Tom De
+Avid                                 SawanoHiroyuki[nZ
 On My Own                              Far Out & Karra
-Heavenly Side                        ILLENIUM & Matt M
 Hearts on Fire                        ILLENIUM & Dabin
 Nightlight                           ILLENIUM & Annika
+Heavenly Side                        ILLENIUM & Matt M
+ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 Sideways                             ILLENIUM & Valeri
-嚣张                                                En
-人生は戦場だ - Prod.by at                   安斉かれん
+再会 (produced by Ayase)                    LiSA & Uru
 ```
 
 <!-- spotify_track end -->
