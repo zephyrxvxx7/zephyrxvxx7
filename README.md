@@ -60,13 +60,13 @@ VB.NET     2 mins         ██████████████████
 First Time                           ILLENIUM & iann d
 Paper Thin                           ILLENIUM & Tom De
 Avid                                 SawanoHiroyuki[nZ
+ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 On My Own                              Far Out & Karra
 Hearts on Fire                        ILLENIUM & Dabin
 Nightlight                           ILLENIUM & Annika
 Heavenly Side                        ILLENIUM & Matt M
-ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 Sideways                             ILLENIUM & Valeri
-再会 (produced by Ayase)                    LiSA & Uru
+嚣张                                                En
 ```
 
 <!-- spotify_track end -->
