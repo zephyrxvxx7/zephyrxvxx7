@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-VB.NET     2 mins         █████████████████████ 100.0%
+YAML       23 mins        ███████████▍░░░░░░░░░  54.5%
+Docker     16 mins        ████████▎░░░░░░░░░░░░  39.6%
+VB.NET     2 mins         █▏░░░░░░░░░░░░░░░░░░░   5.8%
+Bash       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+JSON       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time end -->
@@ -57,16 +61,16 @@ VB.NET     2 mins         ██████████████████
 <!-- spotify_track start -->
 
 ```text
+告白                                    MY FIRST STORY
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 First Time                           ILLENIUM & iann d
+On My Own                              Far Out & Karra
+I'm a mess                              MY FIRST STORY
 Paper Thin                           ILLENIUM & Tom De
 Avid                                 SawanoHiroyuki[nZ
-On My Own                              Far Out & Karra
+廻廻奇譚                                MY FIRST STORY
 Hearts on Fire                        ILLENIUM & Dabin
 Nightlight                           ILLENIUM & Annika
-Heavenly Side                        ILLENIUM & Matt M
-大海 - Unplugged                              Neci Ken
-Sideways                             ILLENIUM & Valeri
 ```
 
 <!-- spotify_track end -->
