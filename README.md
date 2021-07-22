@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-YAML       23 mins        ███████████▍░░░░░░░░░  54.5%
-Docker     16 mins        ████████▎░░░░░░░░░░░░  39.6%
-VB.NET     2 mins         █▏░░░░░░░░░░░░░░░░░░░   5.8%
-Bash       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-JSON       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+YAML       23 mins        █████████▎░░░░░░░░░░░  44.3%
+Docker     16 mins        ██████▋░░░░░░░░░░░░░░  32.1%
+Python     8 mins         ███▎░░░░░░░░░░░░░░░░░  16.1%
+VB.NET     2 mins         ▉░░░░░░░░░░░░░░░░░░░░   4.7%
+Other      1 min          ▌░░░░░░░░░░░░░░░░░░░░   2.8%
 ```
 
 <!-- code_time end -->
@@ -64,13 +64,13 @@ JSON       0 secs         ░░░░░░░░░░░░░░░░░░
 告白                                    MY FIRST STORY
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 First Time                           ILLENIUM & iann d
-On My Own                              Far Out & Karra
+Kujikesou Ni Naru Watas                     ACN Music.
 I'm a mess                              MY FIRST STORY
+On My Own                              Far Out & Karra
 Paper Thin                           ILLENIUM & Tom De
 Avid                                 SawanoHiroyuki[nZ
-廻廻奇譚                                MY FIRST STORY
-Hearts on Fire                        ILLENIUM & Dabin
-Nightlight                           ILLENIUM & Annika
+Uso to Honto                                ACN Music.
+Yuujin a Kun Wo Watashi                     ACN Music.
 ```
 
 <!-- spotify_track end -->
