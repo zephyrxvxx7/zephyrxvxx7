@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-YAML       23 mins        █████████▏░░░░░░░░░░░  43.9%
-Docker     16 mins        ██████▋░░░░░░░░░░░░░░  31.6%
-Python     8 mins         ███▎░░░░░░░░░░░░░░░░░  15.8%
-VB.NET     2 mins         ▉░░░░░░░░░░░░░░░░░░░░   4.6%
-Other      1 min          ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+YAML       23 mins        █████████▋░░░░░░░░░░░  46.0%
+Docker     16 mins        ██████▉░░░░░░░░░░░░░░  33.1%
+Python     8 mins         ███▍░░░░░░░░░░░░░░░░░  16.6%
+Other      1 min          ▌░░░░░░░░░░░░░░░░░░░░   2.9%
+Bash       0 secs         ▎░░░░░░░░░░░░░░░░░░░░   1.4%
 ```
 
 <!-- code_time end -->
@@ -64,13 +64,13 @@ Other      1 min          ▌░░░░░░░░░░░░░░░░░
 告白                                    MY FIRST STORY
 DROP                                              美波
 この街に晴れはこない                              美波
-ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 アメヲマツ、                                      美波
+君と僕の154小節戦争                               美波
+フライハイト                                      美波
+ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 First Time                           ILLENIUM & iann d
 Kujikesou Ni Naru Watas                     ACN Music.
-君と僕の154小節戦争                               美波
 On My Own                              Far Out & Karra
-I'm a mess                              MY FIRST STORY
 ```
 
 <!-- spotify_track end -->
