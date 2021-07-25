@@ -61,16 +61,16 @@ Bash       0 secs         ▎░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-告白                                    MY FIRST STORY
 DROP                                              美波
+告白                                    MY FIRST STORY
 この街に晴れはこない                              美波
-アメヲマツ、                                      美波
 君と僕の154小節戦争                               美波
+アメヲマツ、                                      美波
 フライハイト                                      美波
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
+On My Own                              Far Out & Karra
 First Time                           ILLENIUM & iann d
 Kujikesou Ni Naru Watas                     ACN Music.
-On My Own                              Far Out & Karra
 ```
 
 <!-- spotify_track end -->
