@@ -68,9 +68,9 @@ DROP                                              美波
 アメヲマツ、                                      美波
 フライハイト                                      美波
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
-On My Own                              Far Out & Karra
 First Time                           ILLENIUM & iann d
 Kujikesou Ni Naru Watas                     ACN Music.
+On My Own                              Far Out & Karra
 ```
 
 <!-- spotify_track end -->
