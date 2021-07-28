@@ -27,11 +27,10 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-YAML       23 mins        █████████▋░░░░░░░░░░░  46.0%
-Docker     16 mins        ██████▉░░░░░░░░░░░░░░  33.1%
-Python     8 mins         ███▍░░░░░░░░░░░░░░░░░  16.6%
-Other      1 min          ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-Bash       0 secs         ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Python     8 mins         ████████████████▍░░░░  78.5%
+Other      1 min          ██▊░░░░░░░░░░░░░░░░░░  13.6%
+Bash       0 secs         █▎░░░░░░░░░░░░░░░░░░░   6.1%
+YAML       0 secs         ▎░░░░░░░░░░░░░░░░░░░░   1.8%
 ```
 
 <!-- code_time end -->
@@ -70,7 +69,7 @@ DROP                                              美波
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 First Time                           ILLENIUM & iann d
 Kujikesou Ni Naru Watas                     ACN Music.
-On My Own                              Far Out & Karra
+I'm a mess                              MY FIRST STORY
 ```
 
 <!-- spotify_track end -->
