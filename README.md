@@ -27,10 +27,8 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     8 mins         ████████████████▍░░░░  78.5%
-Other      1 min          ██▊░░░░░░░░░░░░░░░░░░  13.6%
-Bash       0 secs         █▎░░░░░░░░░░░░░░░░░░░   6.1%
-YAML       0 secs         ▎░░░░░░░░░░░░░░░░░░░░   1.8%
+Bash       0 secs         ████████████████▋░░░░  79.7%
+YAML       0 secs         ████▎░░░░░░░░░░░░░░░░  20.3%
 ```
 
 <!-- code_time end -->
