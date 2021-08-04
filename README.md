@@ -66,11 +66,11 @@ DROP                                              美波
 この街に晴れはこない                              美波
 君と僕の154小節戦争                               美波
 アメヲマツ、                                      美波
-フライハイト                                      美波
 Beautiful Lie                               SECONDWALL
+フライハイト                                      美波
+トランシーバー                                   Itsue
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 First Time                           ILLENIUM & iann d
-Kujikesou Ni Naru Watas                     ACN Music.
 ```
 
 <!-- spotify_track end -->
