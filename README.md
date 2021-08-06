@@ -69,8 +69,8 @@ DROP                                              美波
 トランシーバー                                   Itsue
 Beautiful Lie                               SECONDWALL
 フライハイト                                      美波
-ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 On My Own                              Far Out & Karra
+ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 ```
 
 <!-- spotify_track end -->
