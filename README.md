@@ -65,9 +65,9 @@ DROP                                              美波
 告白                                    MY FIRST STORY
 この街に晴れはこない                              美波
 君と僕の154小節戦争                               美波
-アメヲマツ、                                      美波
-トランシーバー                                   Itsue
 Beautiful Lie                               SECONDWALL
+トランシーバー                                   Itsue
+アメヲマツ、                                      美波
 フライハイト                                      美波
 On My Own                              Far Out & Karra
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
