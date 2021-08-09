@@ -69,8 +69,8 @@ Beautiful Lie                               SECONDWALL
 トランシーバー                                   Itsue
 アメヲマツ、                                      美波
 フライハイト                                      美波
-On My Own                              Far Out & Karra
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
+First Time                           ILLENIUM & iann d
 ```
 
 <!-- spotify_track end -->
