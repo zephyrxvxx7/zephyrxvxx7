@@ -70,7 +70,7 @@ Beautiful Lie                               SECONDWALL
 アメヲマツ、                                      美波
 フライハイト                                      美波
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
-First Time                           ILLENIUM & iann d
+Kimi No Tonari, Taiyou                         moumoon
 ```
 
 <!-- spotify_track end -->
