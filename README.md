@@ -69,8 +69,8 @@ Beautiful Lie                               SECONDWALL
 トランシーバー                                   Itsue
 アメヲマツ、                                      美波
 フライハイト                                      美波
-ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 Kimi No Tonari, Taiyou                         moumoon
+Kujikesou Ni Naru Watas                     ACN Music.
 ```
 
 <!-- spotify_track end -->
