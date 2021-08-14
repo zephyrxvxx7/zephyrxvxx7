@@ -41,7 +41,7 @@ Other      0 secs         ▍░░░░░░░░░░░░░░░░░
 <!-- code_diff start -->
 
 ```text
-1877            +0/     -0 █████████████████████100.0%
+404: Not Found
 ```
 
 <!-- code_diff end -->
