@@ -62,15 +62,15 @@ Other      0 secs         ▍░░░░░░░░░░░░░░░░░
 
 ```text
 DROP                                              美波
-告白                                    MY FIRST STORY
 この街に晴れはこない                              美波
 君と僕の154小節戦争                               美波
 Beautiful Lie                               SECONDWALL
 トランシーバー                                   Itsue
 アメヲマツ、                                      美波
 フライハイト                                      美波
+告白                                    MY FIRST STORY
 Kimi No Tonari, Taiyou                         moumoon
-Kujikesou Ni Naru Watas                     ACN Music.
+On My Own                              Far Out & Karra
 ```
 
 <!-- spotify_track end -->
