@@ -62,14 +62,14 @@ Other      0 secs         ▍░░░░░░░░░░░░░░░░░
 
 ```text
 DROP                                              美波
-この街に晴れはこない                              美波
-君と僕の154小節戦争                               美波
 Beautiful Lie                               SECONDWALL
 トランシーバー                                   Itsue
+この街に晴れはこない                              美波
+君と僕の154小節戦争                               美波
+Kimi No Tonari, Taiyou                         moumoon
 アメヲマツ、                                      美波
 フライハイト                                      美波
 告白                                    MY FIRST STORY
-Kimi No Tonari, Taiyou                         moumoon
 On My Own                              Far Out & Karra
 ```
 
