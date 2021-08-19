@@ -61,16 +61,16 @@ Other      0 secs         ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-DROP                                              美波
 Beautiful Lie                               SECONDWALL
 トランシーバー                                   Itsue
+DROP                                              美波
+Kimi No Tonari, Taiyou                         moumoon
 この街に晴れはこない                              美波
 君と僕の154小節戦争                               美波
-Kimi No Tonari, Taiyou                         moumoon
-アメヲマツ、                                      美波
-フライハイト                                      美波
 告白                                    MY FIRST STORY
+アメヲマツ、                                      美波
 On My Own                              Far Out & Karra
+フライハイト                                      美波
 ```
 
 <!-- spotify_track end -->
