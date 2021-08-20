@@ -65,12 +65,12 @@ Beautiful Lie                               SECONDWALL
 トランシーバー                                   Itsue
 DROP                                              美波
 Kimi No Tonari, Taiyou                         moumoon
-この街に晴れはこない                              美波
-君と僕の154小節戦争                               美波
 告白                                    MY FIRST STORY
-アメヲマツ、                                      美波
+The In Between                     Elephante & Anjulie
 On My Own                              Far Out & Karra
-フライハイト                                      美波
+この街に晴れはこない                              美波
+Fragile                                     SECONDWALL
+君と僕の154小節戦争                               美波
 ```
 
 <!-- spotify_track end -->
