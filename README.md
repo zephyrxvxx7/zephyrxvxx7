@@ -63,14 +63,14 @@ Other      0 secs         ▍░░░░░░░░░░░░░░░░░
 ```text
 トランシーバー                                   Itsue
 Beautiful Lie                               SECONDWALL
-Kimi No Tonari, Taiyou                         moumoon
-DROP                                              美波
-告白                                    MY FIRST STORY
 A wonderful day                               熊川みゆ
+告白                                    MY FIRST STORY
+Kimi No Tonari, Taiyou                         moumoon
 The In Between                     Elephante & Anjulie
+DROP                                              美波
+解けない駆け引き                   クレナズム & クボタ
 Fragile                                     SECONDWALL
 On My Own                              Far Out & Karra
-解けない駆け引き                   クレナズム & クボタ
 ```
 
 <!-- spotify_track end -->
