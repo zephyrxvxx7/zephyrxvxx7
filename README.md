@@ -65,12 +65,12 @@ Other      0 secs         ▍░░░░░░░░░░░░░░░░░
 Beautiful Lie                               SECONDWALL
 A wonderful day                               熊川みゆ
 告白                                    MY FIRST STORY
+DROP                                              美波
 Kimi No Tonari, Taiyou                         moumoon
 The In Between                     Elephante & Anjulie
-DROP                                              美波
 解けない駆け引き                   クレナズム & クボタ
-Fragile                                     SECONDWALL
 On My Own                              Far Out & Karra
+Fragile                                     SECONDWALL
 ```
 
 <!-- spotify_track end -->
