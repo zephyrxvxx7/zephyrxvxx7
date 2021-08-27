@@ -27,11 +27,7 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Markdown   19 mins        ████████████████▌░░░░  79.2%
-YAML       2 mins         ██▏░░░░░░░░░░░░░░░░░░  10.4%
-Bash       0 secs         ▌░░░░░░░░░░░░░░░░░░░░   2.8%
-Python     0 secs         ▌░░░░░░░░░░░░░░░░░░░░   2.6%
-Other      0 secs         ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+Other      0 secs         █████████████████████ 100.0%
 ```
 
 <!-- code_time end -->
@@ -62,15 +58,15 @@ Other      0 secs         ▍░░░░░░░░░░░░░░░░░
 
 ```text
 トランシーバー                                   Itsue
-Beautiful Lie                               SECONDWALL
 A wonderful day                               熊川みゆ
+Beautiful Lie                               SECONDWALL
 告白                                    MY FIRST STORY
+解けない駆け引き                   クレナズム & クボタ
+The In Between                     Elephante & Anjulie
+On My Own                              Far Out & Karra
 DROP                                              美波
 Kimi No Tonari, Taiyou                         moumoon
-The In Between                     Elephante & Anjulie
-解けない駆け引き                   クレナズム & クボタ
-On My Own                              Far Out & Karra
-Fragile                                     SECONDWALL
+TRAVOLTACUSTOM                       KennyDoes & Fun-K
 ```
 
 <!-- spotify_track end -->
