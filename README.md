@@ -60,13 +60,13 @@ Other      0 secs         ██████████████████
 トランシーバー                                   Itsue
 A wonderful day                               熊川みゆ
 Beautiful Lie                               SECONDWALL
-告白                                    MY FIRST STORY
 解けない駆け引き                   クレナズム & クボタ
-The In Between                     Elephante & Anjulie
-On My Own                              Far Out & Karra
 DROP                                              美波
+告白                                    MY FIRST STORY
+The In Between                     Elephante & Anjulie
 Kimi No Tonari, Taiyou                         moumoon
-TRAVOLTACUSTOM                       KennyDoes & Fun-K
+On My Own                              Far Out & Karra
+Tomorrowland                            MY FIRST STORY
 ```
 
 <!-- spotify_track end -->
