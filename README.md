@@ -59,13 +59,13 @@ Other      0 secs         ██████████████████
 ```text
 トランシーバー                                   Itsue
 A wonderful day                               熊川みゆ
+DROP                                              美波
 Beautiful Lie                               SECONDWALL
 解けない駆け引き                   クレナズム & クボタ
-DROP                                              美波
 告白                                    MY FIRST STORY
+On My Own                              Far Out & Karra
 The In Between                     Elephante & Anjulie
 Kimi No Tonari, Taiyou                         moumoon
-On My Own                              Far Out & Karra
 Tomorrowland                            MY FIRST STORY
 ```
 
