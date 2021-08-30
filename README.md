@@ -57,16 +57,16 @@ Other      0 secs         ██████████████████
 <!-- spotify_track start -->
 
 ```text
-トランシーバー                                   Itsue
 A wonderful day                               熊川みゆ
+トランシーバー                                   Itsue
 DROP                                              美波
 Beautiful Lie                               SECONDWALL
-解けない駆け引き                   クレナズム & クボタ
 告白                                    MY FIRST STORY
+解けない駆け引き                   クレナズム & クボタ
 On My Own                              Far Out & Karra
-The In Between                     Elephante & Anjulie
-Kimi No Tonari, Taiyou                         moumoon
 Tomorrowland                            MY FIRST STORY
+うつせみ (映画「シドニア                       CAPSULE
+The In Between                     Elephante & Anjulie
 ```
 
 <!-- spotify_track end -->
