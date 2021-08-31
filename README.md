@@ -62,11 +62,11 @@ A wonderful day                               熊川みゆ
 DROP                                              美波
 Beautiful Lie                               SECONDWALL
 告白                                    MY FIRST STORY
-解けない駆け引き                   クレナズム & クボタ
 On My Own                              Far Out & Karra
-Tomorrowland                            MY FIRST STORY
+解けない駆け引き                   クレナズム & クボタ
+彗星                                          白鲨JAWS
 うつせみ (映画「シドニア                       CAPSULE
-The In Between                     Elephante & Anjulie
+大海 - Unplugged                              Neci Ken
 ```
 
 <!-- spotify_track end -->
