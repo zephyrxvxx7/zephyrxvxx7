@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Text       20 mins        ████████████████▍░░░░  78.1%
-Markdown   4 mins         ███▎░░░░░░░░░░░░░░░░░  15.7%
+Text       20 mins        ████████████████▎░░░░  77.8%
+Markdown   4 mins         ███▎░░░░░░░░░░░░░░░░░  15.8%
 YAML       1 min          █░░░░░░░░░░░░░░░░░░░░   4.8%
 Other      0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
-Bash       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.6%
+Bash       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 ```
 
 <!-- code_time end -->
@@ -62,15 +62,15 @@ Bash       0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 A wonderful day                               熊川みゆ
-トランシーバー                                   Itsue
 DROP                                              美波
-Beautiful Lie                               SECONDWALL
-解けない駆け引き                   クレナズム & クボタ
+トランシーバー                                   Itsue
 練習一個人生活                                Neci Ken
 彗星                                          白鲨JAWS
-告白                                    MY FIRST STORY
 うつせみ (映画「シドニア                       CAPSULE
+解けない駆け引き                   クレナズム & クボタ
 大海 - Unplugged                              Neci Ken
+TRAVOLTACUSTOM                       KennyDoes & Fun-K
+Hollow Veil                                      nonoc
 ```
 
 <!-- spotify_track end -->
