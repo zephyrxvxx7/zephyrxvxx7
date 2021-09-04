@@ -62,15 +62,15 @@ Docker     0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 A wonderful day                               熊川みゆ
+ちっとも知らなかった                       NakamuraEmi
 DROP                                              美波
 トランシーバー                                   Itsue
+名前のない怪物                                  EGOIST
 解けない駆け引き                   クレナズム & クボタ
 Beautiful Lie                               SECONDWALL
 練習一個人生活                                Neci Ken
 彗星                                          白鲨JAWS
 うつせみ (映画「シドニア                       CAPSULE
-大海 - Unplugged                              Neci Ken
-Kimi No Tonari, Taiyou                         moumoon
 ```
 
 <!-- spotify_track end -->
