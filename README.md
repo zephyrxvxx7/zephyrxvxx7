@@ -61,11 +61,11 @@ Docker     0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-A wonderful day                               熊川みゆ
 ちっとも知らなかった                       NakamuraEmi
+A wonderful day                               熊川みゆ
+名前のない怪物                                  EGOIST
 DROP                                              美波
 トランシーバー                                   Itsue
-名前のない怪物                                  EGOIST
 解けない駆け引き                   クレナズム & クボタ
 Beautiful Lie                               SECONDWALL
 練習一個人生活                                Neci Ken
