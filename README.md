@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Text       20 mins        ████████████████▍░░░░  78.4%
-Markdown   4 mins         ███▎░░░░░░░░░░░░░░░░░  16.0%
-YAML       1 min          █░░░░░░░░░░░░░░░░░░░░   4.9%
-Bash       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.6%
-Docker     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Text       20 mins        ██████████▍░░░░░░░░░░  50.0%
+Bash       14 mins        ███████▋░░░░░░░░░░░░░  36.6%
+Markdown   4 mins         ██▏░░░░░░░░░░░░░░░░░░  10.2%
+YAML       1 min          ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+Docker     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
 <!-- code_time end -->
@@ -63,14 +63,14 @@ Docker     0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 ちっとも知らなかった                       NakamuraEmi
 A wonderful day                               熊川みゆ
-名前のない怪物                                  EGOIST
 DROP                                              美波
+名前のない怪物                                  EGOIST
 トランシーバー                                   Itsue
+夏霞                                          あたらよ
 解けない駆け引き                   クレナズム & クボタ
 Beautiful Lie                               SECONDWALL
-練習一個人生活                                Neci Ken
-彗星                                          白鲨JAWS
-うつせみ (映画「シドニア                       CAPSULE
+Zero Eclipse                           Hiroyuki Sawano
+Kimi No Tonari, Taiyou                         moumoon
 ```
 
 <!-- spotify_track end -->
