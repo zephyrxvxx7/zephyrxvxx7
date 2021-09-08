@@ -27,11 +27,10 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Text       20 mins        ██████████▍░░░░░░░░░░  50.0%
-Bash       14 mins        ███████▋░░░░░░░░░░░░░  36.6%
-Markdown   4 mins         ██▏░░░░░░░░░░░░░░░░░░  10.2%
-YAML       1 min          ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-Docker     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Bash       14 mins        ██████████▌░░░░░░░░░░  50.1%
+Go         14 mins        ██████████▍░░░░░░░░░░  49.6%
+Docker     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Markdown   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 ```
 
 <!-- code_time end -->
@@ -61,12 +60,12 @@ Docker     0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-ちっとも知らなかった                       NakamuraEmi
 A wonderful day                               熊川みゆ
+ちっとも知らなかった                       NakamuraEmi
 DROP                                              美波
-名前のない怪物                                  EGOIST
 トランシーバー                                   Itsue
 夏霞                                          あたらよ
+名前のない怪物                                  EGOIST
 解けない駆け引き                   クレナズム & クボタ
 Beautiful Lie                               SECONDWALL
 Zero Eclipse                           Hiroyuki Sawano
