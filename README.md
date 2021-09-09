@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Bash       14 mins        ██████████▌░░░░░░░░░░  50.1%
-Go         14 mins        ██████████▍░░░░░░░░░░  49.6%
-Docker     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Markdown   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Python     37 mins        ██████████▏░░░░░░░░░░  48.7%
+Bash       17 mins        ████▋░░░░░░░░░░░░░░░░  22.1%
+Go         14 mins        ███▉░░░░░░░░░░░░░░░░░  18.9%
+Other      6 mins         █▉░░░░░░░░░░░░░░░░░░░   9.0%
+XML        0 secs         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 ```
 
 <!-- code_time end -->
@@ -67,9 +68,9 @@ DROP                                              美波
 夏霞                                          あたらよ
 名前のない怪物                                  EGOIST
 解けない駆け引き                   クレナズム & クボタ
-Beautiful Lie                               SECONDWALL
 Zero Eclipse                           Hiroyuki Sawano
-Kimi No Tonari, Taiyou                         moumoon
+Beautiful Lie                               SECONDWALL
+新呼吸                                Kenichi Takemoto
 ```
 
 <!-- spotify_track end -->
