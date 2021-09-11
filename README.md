@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Other      1 hr 19 mins   ██████▌░░░░░░░░░░░░░░  31.2%
-Python     1 hr 17 mins   ██████▍░░░░░░░░░░░░░░  30.5%
-INI        32 mins        ██▋░░░░░░░░░░░░░░░░░░  12.8%
-JSON       21 mins        █▊░░░░░░░░░░░░░░░░░░░   8.5%
-Bash       21 mins        █▊░░░░░░░░░░░░░░░░░░░   8.5%
+Python     5 hrs 48 mins  █████████████░░░░░░░░  62.1%
+Other      1 hr 23 mins   ███░░░░░░░░░░░░░░░░░░  14.8%
+INI        45 mins        █▋░░░░░░░░░░░░░░░░░░░   8.2%
+JSON       40 mins        █▌░░░░░░░░░░░░░░░░░░░   7.3%
+Bash       21 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
 ```
 
 <!-- code_time end -->
@@ -63,14 +63,14 @@ Bash       21 mins        █▊░░░░░░░░░░░░░░░░
 ```text
 A wonderful day                               熊川みゆ
 ちっとも知らなかった                       NakamuraEmi
-DROP                                              美波
-トランシーバー                                   Itsue
 夏霞                                          あたらよ
+トランシーバー                                   Itsue
+大海 - Unplugged                              Neci Ken
+DROP                                              美波
 名前のない怪物                                  EGOIST
+新呼吸                                Kenichi Takemoto
 解けない駆け引き                   クレナズム & クボタ
 Zero Eclipse                           Hiroyuki Sawano
-Beautiful Lie                               SECONDWALL
-新呼吸                                Kenichi Takemoto
 ```
 
 <!-- spotify_track end -->
