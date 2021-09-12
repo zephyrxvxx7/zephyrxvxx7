@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     5 hrs 48 mins  █████████████░░░░░░░░  62.1%
-Other      1 hr 23 mins   ███░░░░░░░░░░░░░░░░░░  14.8%
-INI        45 mins        █▋░░░░░░░░░░░░░░░░░░░   8.2%
-JSON       40 mins        █▌░░░░░░░░░░░░░░░░░░░   7.3%
-Bash       21 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
+Python     11 hrs 21 mins ███████████████▏░░░░░  72.3%
+Other      1 hr 55 mins   ██▌░░░░░░░░░░░░░░░░░░  12.3%
+JSON       56 mins        █▎░░░░░░░░░░░░░░░░░░░   6.0%
+INI        45 mins        █░░░░░░░░░░░░░░░░░░░░   4.9%
+Bash       21 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
 ```
 
 <!-- code_time end -->
@@ -70,7 +70,7 @@ DROP                                              美波
 名前のない怪物                                  EGOIST
 新呼吸                                Kenichi Takemoto
 解けない駆け引き                   クレナズム & クボタ
-Zero Eclipse                           Hiroyuki Sawano
+Beautiful Lie                               SECONDWALL
 ```
 
 <!-- spotify_track end -->
