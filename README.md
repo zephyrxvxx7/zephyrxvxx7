@@ -70,7 +70,7 @@ DROP                                              美波
 名前のない怪物                                  EGOIST
 新呼吸                                Kenichi Takemoto
 解けない駆け引き                   クレナズム & クボタ
-Beautiful Lie                               SECONDWALL
+Zero Eclipse                           Hiroyuki Sawano
 ```
 
 <!-- spotify_track end -->
