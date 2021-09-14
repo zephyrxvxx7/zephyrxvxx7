@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     11 hrs 21 mins ███████████████▏░░░░░  72.3%
-Other      1 hr 55 mins   ██▌░░░░░░░░░░░░░░░░░░  12.3%
-JSON       56 mins        █▎░░░░░░░░░░░░░░░░░░░   6.0%
-INI        45 mins        █░░░░░░░░░░░░░░░░░░░░   4.9%
-Bash       21 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+Python     13 hrs 25 mins ████████████████░░░░░  76.4%
+Other      1 hr 57 mins   ██▎░░░░░░░░░░░░░░░░░░  11.2%
+JSON       56 mins        █▏░░░░░░░░░░░░░░░░░░░   5.4%
+INI        45 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
+Go         14 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
 ```
 
 <!-- code_time end -->
@@ -63,14 +63,14 @@ Bash       21 mins        ▍░░░░░░░░░░░░░░░░░
 ```text
 A wonderful day                               熊川みゆ
 ちっとも知らなかった                       NakamuraEmi
+大海                                          Neci Ken
 夏霞                                          あたらよ
 トランシーバー                                   Itsue
 大海 - Unplugged                              Neci Ken
 DROP                                              美波
+一個不屬於自己的地方                          Neci Ken
 名前のない怪物                                  EGOIST
 新呼吸                                Kenichi Takemoto
-解けない駆け引き                   クレナズム & クボタ
-Zero Eclipse                           Hiroyuki Sawano
 ```
 
 <!-- spotify_track end -->
