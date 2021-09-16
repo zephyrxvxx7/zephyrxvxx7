@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     19 hrs 30 mins █████████████████▍░░░  83.3%
-Other      1 hr 58 mins   █▊░░░░░░░░░░░░░░░░░░░   8.4%
-JSON       56 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
-INI        45 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
-Bash       6 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Python     19 hrs 32 mins ████████████████▌░░░░  79.2%
+Other      1 hr 52 mins   █▌░░░░░░░░░░░░░░░░░░░   7.6%
+YAML       1 hr           ▊░░░░░░░░░░░░░░░░░░░░   4.1%
+JSON       59 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+INI        45 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
 ```
 
 <!-- code_time end -->
@@ -62,15 +62,15 @@ Bash       6 mins         ░░░░░░░░░░░░░░░░░░
 
 ```text
 A wonderful day                               熊川みゆ
-ちっとも知らなかった                       NakamuraEmi
 大海                                          Neci Ken
+ちっとも知らなかった                       NakamuraEmi
 夏霞                                          あたらよ
-練習一個人生活                                Neci Ken
+10月無口な君を忘れる                          あたらよ
 トランシーバー                                   Itsue
-大海 - Unplugged                              Neci Ken
+練習一個人生活                                Neci Ken
+新呼吸                                Kenichi Takemoto
 DROP                                              美波
-一個不屬於自己的地方                          Neci Ken
-名前のない怪物                                  EGOIST
+大海 - Unplugged                              Neci Ken
 ```
 
 <!-- spotify_track end -->
