@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     18 hrs 52 mins █████████████████░░░░  81.4%
-YAML       1 hr 24 mins   █▎░░░░░░░░░░░░░░░░░░░   6.1%
-Bash       1 hr 19 mins   █▏░░░░░░░░░░░░░░░░░░░   5.7%
-Other      43 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-JSON       37 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+Python     14 hrs 21 mins ████████████████▋░░░░  79.5%
+YAML       1 hr 24 mins   █▋░░░░░░░░░░░░░░░░░░░   7.8%
+Bash       1 hr 19 mins   █▌░░░░░░░░░░░░░░░░░░░   7.3%
+Other      39 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
+JSON       18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
 ```
 
 <!-- code_time end -->
@@ -61,16 +61,16 @@ JSON       37 mins        ▌░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-A wonderful day                               熊川みゆ
 大海                                          Neci Ken
+A wonderful day                               熊川みゆ
 ちっとも知らなかった                       NakamuraEmi
-夏霞                                          あたらよ
 10月無口な君を忘れる                          あたらよ
+夏霞                                          あたらよ
+INTRO -TIME MACHINE-                           Otokaze
 練習一個人生活                                Neci Ken
-トランシーバー                                   Itsue
 新呼吸                                Kenichi Takemoto
+トランシーバー                                   Itsue
 DROP                                              美波
-一個不屬於自己的地方                          Neci Ken
 ```
 
 <!-- spotify_track end -->
