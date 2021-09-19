@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     14 hrs 21 mins ████████████████▋░░░░  79.5%
-YAML       1 hr 24 mins   █▋░░░░░░░░░░░░░░░░░░░   7.8%
-Bash       1 hr 19 mins   █▌░░░░░░░░░░░░░░░░░░░   7.3%
-Other      39 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
-JSON       18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+Python     8 hrs 49 mins  ███████████████▊░░░░░  75.2%
+YAML       1 hr 24 mins   ██▌░░░░░░░░░░░░░░░░░░  12.0%
+Bash       1 hr 19 mins   ██▎░░░░░░░░░░░░░░░░░░  11.3%
+Other      6 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+JSON       2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 ```
 
 <!-- code_time end -->
@@ -67,10 +67,10 @@ A wonderful day                               熊川みゆ
 10月無口な君を忘れる                          あたらよ
 夏霞                                          あたらよ
 INTRO -TIME MACHINE-                           Otokaze
-練習一個人生活                                Neci Ken
 新呼吸                                Kenichi Takemoto
 トランシーバー                                   Itsue
 DROP                                              美波
+練習一個人生活                                Neci Ken
 ```
 
 <!-- spotify_track end -->
