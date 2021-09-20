@@ -62,15 +62,15 @@ JSON       2 mins         ░░░░░░░░░░░░░░░░░░
 
 ```text
 大海                                          Neci Ken
-A wonderful day                               熊川みゆ
 ちっとも知らなかった                       NakamuraEmi
 10月無口な君を忘れる                          あたらよ
 夏霞                                          あたらよ
 INTRO -TIME MACHINE-                           Otokaze
+A wonderful day                               熊川みゆ
 新呼吸                                Kenichi Takemoto
-トランシーバー                                   Itsue
-DROP                                              美波
 練習一個人生活                                Neci Ken
+DROP                                              美波
+一個不屬於自己的地方                          Neci Ken
 ```
 
 <!-- spotify_track end -->
