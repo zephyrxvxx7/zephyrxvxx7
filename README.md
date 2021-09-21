@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     8 hrs 49 mins  ███████████████▊░░░░░  75.2%
-YAML       1 hr 24 mins   ██▌░░░░░░░░░░░░░░░░░░  12.0%
-Bash       1 hr 19 mins   ██▎░░░░░░░░░░░░░░░░░░  11.3%
-Other      6 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-JSON       2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+Python     6 hrs 44 mins  ██████████████▋░░░░░░  70.1%
+YAML       1 hr 24 mins   ███░░░░░░░░░░░░░░░░░░  14.7%
+Bash       1 hr 19 mins   ██▉░░░░░░░░░░░░░░░░░░  13.7%
+Other      5 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+JSON       2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 ```
 
 <!-- code_time end -->
