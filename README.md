@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-YAML       1 hr 24 mins   ████████▍░░░░░░░░░░░░  39.9%
-Bash       1 hr 19 mins   ███████▊░░░░░░░░░░░░░  37.3%
-Python     40 mins        ███▉░░░░░░░░░░░░░░░░░  18.9%
-Other      4 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-JSON       2 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+Python     3 hrs 8 mins   ██████████████░░░░░░░  67.0%
+Bash       58 mins        ████▎░░░░░░░░░░░░░░░░  20.7%
+YAML       24 mins        █▊░░░░░░░░░░░░░░░░░░░   8.6%
+Other      5 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+INI        2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 ```
 
 <!-- code_time end -->
@@ -69,8 +69,8 @@ INTRO -TIME MACHINE-                           Otokaze
 新呼吸                                Kenichi Takemoto
 A wonderful day                               熊川みゆ
 練習一個人生活                                Neci Ken
-DROP                                              美波
 一個不屬於自己的地方                          Neci Ken
+DROP                                              美波
 ```
 
 <!-- spotify_track end -->
