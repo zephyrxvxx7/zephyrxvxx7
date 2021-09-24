@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     3 hrs 8 mins   ██████████████░░░░░░░  67.0%
-Bash       58 mins        ████▎░░░░░░░░░░░░░░░░  20.7%
-YAML       24 mins        █▊░░░░░░░░░░░░░░░░░░░   8.6%
-Other      5 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-INI        2 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+Python     9 hrs 57 mins  ████████████████████▌  98.2%
+Other      6 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+Text       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
+INI        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Bash       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
 ```
 
 <!-- code_time end -->
@@ -62,15 +62,15 @@ INI        2 mins         ▏░░░░░░░░░░░░░░░░░
 
 ```text
 大海                                          Neci Ken
-ちっとも知らなかった                       NakamuraEmi
 10月無口な君を忘れる                          あたらよ
+ちっとも知らなかった                       NakamuraEmi
 夏霞                                          あたらよ
-INTRO -TIME MACHINE-                           Otokaze
 新呼吸                                Kenichi Takemoto
+INTRO -TIME MACHINE-                           Otokaze
 A wonderful day                               熊川みゆ
 練習一個人生活                                Neci Ken
-一個不屬於自己的地方                          Neci Ken
-DROP                                              美波
+I love you in any way                         たかやん
+生命線                                           ReoNa
 ```
 
 <!-- spotify_track end -->
