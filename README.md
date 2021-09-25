@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     9 hrs 57 mins  ████████████████████▌  98.2%
-Other      6 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-Text       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
-INI        1 min          ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Bash       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Python     11 hrs 47 mins ████████████████░░░░░  76.4%
+Other      2 hrs 58 mins  ████░░░░░░░░░░░░░░░░░  19.2%
+YAML       26 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+INI        7 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+Text       3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 ```
 
 <!-- code_time end -->
@@ -61,16 +61,16 @@ Bash       1 min          ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-大海                                          Neci Ken
 10月無口な君を忘れる                          あたらよ
-ちっとも知らなかった                       NakamuraEmi
+大海                                          Neci Ken
 夏霞                                          あたらよ
-新呼吸                                Kenichi Takemoto
-INTRO -TIME MACHINE-                           Otokaze
-A wonderful day                               熊川みゆ
-練習一個人生活                                Neci Ken
+ちっとも知らなかった                       NakamuraEmi
 I love you in any way                         たかやん
+新呼吸                                Kenichi Takemoto
 生命線                                           ReoNa
+A wonderful day                               熊川みゆ
+INTRO -TIME MACHINE-                           Otokaze
+52-Hearts                               Hikaru Station
 ```
 
 <!-- spotify_track end -->
