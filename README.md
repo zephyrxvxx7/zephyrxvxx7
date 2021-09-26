@@ -61,15 +61,15 @@ Text       3 mins         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-10月無口な君を忘れる                          あたらよ
 大海                                          Neci Ken
+10月無口な君を忘れる                          あたらよ
 夏霞                                          あたらよ
 ちっとも知らなかった                       NakamuraEmi
-I love you in any way                         たかやん
 新呼吸                                Kenichi Takemoto
+I love you in any way                         たかやん
+INTRO -TIME MACHINE-                           Otokaze
 生命線                                           ReoNa
 A wonderful day                               熊川みゆ
-INTRO -TIME MACHINE-                           Otokaze
 52-Hearts                               Hikaru Station
 ```
 
