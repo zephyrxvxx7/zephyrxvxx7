@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     14 hrs 47 mins ██████████████▉░░░░░░  71.4%
-Other      3 hrs 36 mins  ███▋░░░░░░░░░░░░░░░░░  17.4%
-Docker     1 hr 19 mins   █▎░░░░░░░░░░░░░░░░░░░   6.4%
-YAML       30 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
-INI        20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+Python     21 hrs 36 mins ████████████████▍░░░░  78.2%
+Other      3 hrs 38 mins  ██▊░░░░░░░░░░░░░░░░░░  13.2%
+Docker     1 hr 21 mins   █░░░░░░░░░░░░░░░░░░░░   4.9%
+YAML       30 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
+INI        20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
 ```
 
 <!-- code_time end -->
@@ -61,16 +61,16 @@ INI        20 mins        ▎░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-大海                                          Neci Ken
 10月無口な君を忘れる                          あたらよ
+大海                                          Neci Ken
 夏霞                                          あたらよ
 ちっとも知らなかった                       NakamuraEmi
 I love you in any way                         たかやん
-新呼吸                                Kenichi Takemoto
 52-Hearts                               Hikaru Station
+新呼吸                                Kenichi Takemoto
 生命線                                           ReoNa
-INTRO -TIME MACHINE-                           Otokaze
 Fiction                              Adib Sin & Azuria
+INTRO -TIME MACHINE-                           Otokaze
 ```
 
 <!-- spotify_track end -->
