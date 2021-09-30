@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     21 hrs 36 mins ████████████████▍░░░░  78.2%
-Other      3 hrs 38 mins  ██▊░░░░░░░░░░░░░░░░░░  13.2%
-Docker     1 hr 21 mins   █░░░░░░░░░░░░░░░░░░░░   4.9%
-YAML       30 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
-INI        20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+Python     24 hrs 36 mins ████████████████▌░░░░  78.8%
+Other      3 hrs 39 mins  ██▍░░░░░░░░░░░░░░░░░░  11.7%
+Docker     1 hr 33 mins   █░░░░░░░░░░░░░░░░░░░░   5.0%
+YAML       32 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+INI        28 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
 ```
 
 <!-- code_time end -->
@@ -63,8 +63,8 @@ INI        20 mins        ▎░░░░░░░░░░░░░░░░░
 ```text
 10月無口な君を忘れる                          あたらよ
 大海                                          Neci Ken
+カルデラ                                        黒木渚
 夏霞                                          あたらよ
-ちっとも知らなかった                       NakamuraEmi
 I love you in any way                         たかやん
 52-Hearts                               Hikaru Station
 新呼吸                                Kenichi Takemoto
