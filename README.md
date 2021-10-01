@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     24 hrs 36 mins ████████████████▌░░░░  78.8%
-Other      3 hrs 39 mins  ██▍░░░░░░░░░░░░░░░░░░  11.7%
-Docker     1 hr 33 mins   █░░░░░░░░░░░░░░░░░░░░   5.0%
-YAML       32 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
-INI        28 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+Python     19 hrs 59 mins ██████████████▎░░░░░░  67.9%
+Other      4 hrs 19 mins  ███░░░░░░░░░░░░░░░░░░  14.7%
+Docker     2 hrs 16 mins  █▋░░░░░░░░░░░░░░░░░░░   7.7%
+Makefile   1 hr 9 mins    ▊░░░░░░░░░░░░░░░░░░░░   3.9%
+YAML       39 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
 ```
 
 <!-- code_time end -->
@@ -61,9 +61,9 @@ INI        28 mins        ▎░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+カルデラ                                        黒木渚
 10月無口な君を忘れる                          あたらよ
 大海                                          Neci Ken
-カルデラ                                        黒木渚
 夏霞                                          あたらよ
 I love you in any way                         たかやん
 52-Hearts                               Hikaru Station
