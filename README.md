@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     19 hrs 59 mins ██████████████▎░░░░░░  67.9%
-Other      4 hrs 19 mins  ███░░░░░░░░░░░░░░░░░░  14.7%
-Docker     2 hrs 16 mins  █▋░░░░░░░░░░░░░░░░░░░   7.7%
-Makefile   1 hr 9 mins    ▊░░░░░░░░░░░░░░░░░░░░   3.9%
-YAML       39 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+Python     19 hrs 30 mins ███████████████▉░░░░░  76.0%
+Docker     2 hrs 16 mins  █▊░░░░░░░░░░░░░░░░░░░   8.9%
+Other      1 hr 32 mins   █▎░░░░░░░░░░░░░░░░░░░   6.0%
+Makefile   1 hr 8 mins    ▉░░░░░░░░░░░░░░░░░░░░   4.5%
+INI        27 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
 ```
 
 <!-- code_time end -->
