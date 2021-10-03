@@ -64,13 +64,13 @@ INI        27 mins        ▍░░░░░░░░░░░░░░░░░
 カルデラ                                        黒木渚
 10月無口な君を忘れる                          あたらよ
 大海                                          Neci Ken
-夏霞                                          あたらよ
 I love you in any way                         たかやん
 52-Hearts                               Hikaru Station
 新呼吸                                Kenichi Takemoto
 生命線                                           ReoNa
 Fiction                              Adib Sin & Azuria
 INTRO -TIME MACHINE-                           Otokaze
+夏霞                                          あたらよ
 ```
 
 <!-- spotify_track end -->
