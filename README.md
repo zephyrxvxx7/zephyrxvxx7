@@ -66,11 +66,11 @@ INI        27 mins        ▍░░░░░░░░░░░░░░░░░
 大海                                          Neci Ken
 I love you in any way                         たかやん
 52-Hearts                               Hikaru Station
-新呼吸                                Kenichi Takemoto
 生命線                                           ReoNa
+彗星                                          白鲨JAWS
 Fiction                              Adib Sin & Azuria
 INTRO -TIME MACHINE-                           Otokaze
-夏霞                                          あたらよ
+新呼吸                                Kenichi Takemoto
 ```
 
 <!-- spotify_track end -->
