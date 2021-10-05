@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     19 hrs 30 mins ███████████████▉░░░░░  76.0%
-Docker     2 hrs 16 mins  █▊░░░░░░░░░░░░░░░░░░░   8.9%
-Other      1 hr 32 mins   █▎░░░░░░░░░░░░░░░░░░░   6.0%
-Makefile   1 hr 8 mins    ▉░░░░░░░░░░░░░░░░░░░░   4.5%
-INI        27 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
+Python     19 hrs 14 mins █████████████████▎░░░  82.2%
+Other      1 hr 11 mins   █░░░░░░░░░░░░░░░░░░░░   5.1%
+Makefile   1 hr 8 mins    █░░░░░░░░░░░░░░░░░░░░   4.9%
+Docker     57 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
+JSON       17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
 ```
 
 <!-- code_time end -->
@@ -64,13 +64,13 @@ INI        27 mins        ▍░░░░░░░░░░░░░░░░░
 カルデラ                                        黒木渚
 10月無口な君を忘れる                          あたらよ
 大海                                          Neci Ken
-I love you in any way                         たかやん
 52-Hearts                               Hikaru Station
-生命線                                           ReoNa
+I love you in any way                         たかやん
 彗星                                          白鲨JAWS
+生命線                                           ReoNa
 Fiction                              Adib Sin & Azuria
 INTRO -TIME MACHINE-                           Otokaze
-新呼吸                                Kenichi Takemoto
+砂金                                            黒木渚
 ```
 
 <!-- spotify_track end -->
