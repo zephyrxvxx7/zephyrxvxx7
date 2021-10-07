@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     18 hrs 55 mins █████████████████░░░░  81.3%
-Other      1 hr 9 mins    █░░░░░░░░░░░░░░░░░░░░   5.0%
-Makefile   1 hr 8 mins    █░░░░░░░░░░░░░░░░░░░░   4.9%
-Docker     55 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
-INI        30 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+Python     19 hrs 30 mins █████████████████▋░░░  84.2%
+Makefile   1 hr 8 mins    █░░░░░░░░░░░░░░░░░░░░   5.0%
+Other      1 hr 6 mins    █░░░░░░░░░░░░░░░░░░░░   4.8%
+Docker     43 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+INI        20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
 ```
 
 <!-- code_time end -->
@@ -64,13 +64,13 @@ INI        30 mins        ▍░░░░░░░░░░░░░░░░░
 カルデラ                                        黒木渚
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 10月無口な君を忘れる                          あたらよ
-大海                                          Neci Ken
 52-Hearts                               Hikaru Station
+大海                                          Neci Ken
 I love you in any way                         たかやん
-彗星                                          白鲨JAWS
 生命線                                           ReoNa
-Fiction                              Adib Sin & Azuria
+彗星                                          白鲨JAWS
 砂金                                            黒木渚
+Fiction                              Adib Sin & Azuria
 ```
 
 <!-- spotify_track end -->
