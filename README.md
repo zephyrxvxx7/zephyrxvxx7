@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     22 hrs 58 mins ████████████████████▎  96.8%
-Other      22 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-INI        17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
-Text       5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+Python     27 hrs 57 mins ████████████████████▍  97.3%
+Other      27 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+INI        18 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+JSON       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+XML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time end -->
@@ -66,9 +67,9 @@ Text       5 mins         ░░░░░░░░░░░░░░░░░░
 52-Hearts                               Hikaru Station
 大海                                          Neci Ken
 I love you in any way                         たかやん
+砂金                                            黒木渚
 生命線                                           ReoNa
 彗星                                          白鲨JAWS
-砂金                                            黒木渚
 Fiction                              Adib Sin & Azuria
 ```
 
