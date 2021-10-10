@@ -63,14 +63,14 @@ XML        0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 カルデラ                                        黒木渚
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
-10月無口な君を忘れる                          あたらよ
+In Our Hearts                                Anonymouz
 52-Hearts                               Hikaru Station
-大海                                          Neci Ken
+10月無口な君を忘れる                          あたらよ
 I love you in any way                         たかやん
 砂金                                            黒木渚
 生命線                                           ReoNa
-彗星                                          白鲨JAWS
 Fiction                              Adib Sin & Azuria
+彗星                                          白鲨JAWS
 ```
 
 <!-- spotify_track end -->
