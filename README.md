@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     27 hrs 57 mins ████████████████████▍  97.3%
-Other      27 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-INI        18 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Python     25 hrs 14 mins ████████████████████▌  98.0%
+INI        18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+Other      10 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
 JSON       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 XML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
@@ -65,12 +65,12 @@ XML        0 secs         ░░░░░░░░░░░░░░░░░░
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 In Our Hearts                                Anonymouz
 52-Hearts                               Hikaru Station
-10月無口な君を忘れる                          あたらよ
 I love you in any way                         たかやん
 砂金                                            黒木渚
 生命線                                           ReoNa
 Fiction                              Adib Sin & Azuria
 彗星                                          白鲨JAWS
+INTRO -TIME MACHINE-                           Otokaze
 ```
 
 <!-- spotify_track end -->
