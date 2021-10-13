@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     25 hrs 14 mins ████████████████████▌  98.0%
-INI        18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
-Other      10 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Python     26 hrs 19 mins ████████████████████▊  99.1%
+Other      9 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+INI        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 JSON       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 XML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
@@ -70,7 +70,7 @@ I love you in any way                         たかやん
 生命線                                           ReoNa
 Fiction                              Adib Sin & Azuria
 彗星                                          白鲨JAWS
-INTRO -TIME MACHINE-                           Otokaze
+10月無口な君を忘れる                          あたらよ
 ```
 
 <!-- spotify_track end -->
