@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     26 hrs 19 mins ████████████████████▊  99.1%
-Other      9 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
-INI        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-JSON       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
-XML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Python     25 hrs 6 mins  ███████████████████▍░  92.8%
+Markdown   51 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
+JSON       36 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+Other      25 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+INI        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
 <!-- code_time end -->
@@ -68,9 +68,9 @@ In Our Hearts                                Anonymouz
 I love you in any way                         たかやん
 砂金                                            黒木渚
 生命線                                           ReoNa
+問劫 (手遊《天地劫》主題                      LaLa Hsu
 Fiction                              Adib Sin & Azuria
 彗星                                          白鲨JAWS
-10月無口な君を忘れる                          あたらよ
 ```
 
 <!-- spotify_track end -->
