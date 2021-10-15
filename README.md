@@ -65,12 +65,12 @@ INI        2 mins         ░░░░░░░░░░░░░░░░░░
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 In Our Hearts                                Anonymouz
 52-Hearts                               Hikaru Station
-I love you in any way                         たかやん
-砂金                                            黒木渚
-生命線                                           ReoNa
 問劫 (手遊《天地劫》主題                      LaLa Hsu
-Fiction                              Adib Sin & Azuria
+砂金                                            黒木渚
+I love you in any way                         たかやん
+生命線                                           ReoNa
 彗星                                          白鲨JAWS
+Fiction                              Adib Sin & Azuria
 ```
 
 <!-- spotify_track end -->
