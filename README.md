@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     25 hrs 42 mins ██████████████████▊░░  89.7%
-Markdown   1 hr 24 mins   █░░░░░░░░░░░░░░░░░░░░   4.9%
-JSON       47 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
-Other      44 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
+Python     23 hrs 32 mins ██████████████████▍░░  87.7%
+Markdown   1 hr 32 mins   █▏░░░░░░░░░░░░░░░░░░░   5.7%
+Other      58 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
+JSON       47 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
 Bash       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
@@ -67,10 +67,10 @@ In Our Hearts                                Anonymouz
 52-Hearts                               Hikaru Station
 問劫 (手遊《天地劫》主題                      LaLa Hsu
 砂金                                            黒木渚
-I love you in any way                         たかやん
-生命線                                           ReoNa
 彗星                                          白鲨JAWS
-Fiction                              Adib Sin & Azuria
+I love you in any way                         たかやん
+枝垂桜                                            Anna
+-Error                                 Niki & Kradness
 ```
 
 <!-- spotify_track end -->
