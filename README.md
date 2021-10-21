@@ -27,11 +27,10 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     23 hrs 32 mins ██████████████████▍░░  87.7%
-Markdown   1 hr 32 mins   █▏░░░░░░░░░░░░░░░░░░░   5.7%
-Other      58 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
-JSON       47 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-Bash       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Python     24 hrs 28 mins ███████████████████▋░  93.7%
+Markdown   43 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+Other      42 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+JSON       12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 
 <!-- code_time end -->
@@ -64,13 +63,13 @@ Bash       0 secs         ░░░░░░░░░░░░░░░░░░
 カルデラ                                        黒木渚
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 In Our Hearts                                Anonymouz
-52-Hearts                               Hikaru Station
 問劫 (手遊《天地劫》主題                      LaLa Hsu
 砂金                                            黒木渚
+52-Hearts                               Hikaru Station
 彗星                                          白鲨JAWS
-I love you in any way                         たかやん
 枝垂桜                                            Anna
 -Error                                 Niki & Kradness
+I love you in any way                         たかやん
 ```
 
 <!-- spotify_track end -->
