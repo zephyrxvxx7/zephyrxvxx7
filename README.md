@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     24 hrs 18 mins ████████████████████▏  95.9%
-Markdown   34 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-Other      20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-JSON       7 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Python     24 hrs 51 mins ████████████████████▏  96.1%
+Markdown   34 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+Other      21 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+JSON       4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 ```
 
 <!-- code_time end -->
@@ -67,9 +67,9 @@ In Our Hearts                                Anonymouz
 砂金                                            黒木渚
 枝垂桜                                            Anna
 52-Hearts                               Hikaru Station
-彗星                                          白鲨JAWS
 -Error                                 Niki & Kradness
-I love you in any way                         たかやん
+彗星                                          白鲨JAWS
+Girl Inside                             Mika Kobayashi
 ```
 
 <!-- spotify_track end -->
