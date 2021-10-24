@@ -66,10 +66,10 @@ In Our Hearts                                Anonymouz
 問劫 (手遊《天地劫》主題                      LaLa Hsu
 砂金                                            黒木渚
 枝垂桜                                            Anna
-52-Hearts                               Hikaru Station
--Error                                 Niki & Kradness
-彗星                                          白鲨JAWS
 Girl Inside                             Mika Kobayashi
+-Error                                 Niki & Kradness
+52-Hearts                               Hikaru Station
+彗星                                          白鲨JAWS
 ```
 
 <!-- spotify_track end -->
