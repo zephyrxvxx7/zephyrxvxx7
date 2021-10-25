@@ -60,16 +60,16 @@ JSON       4 mins         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-カルデラ                                        黒木渚
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 In Our Hearts                                Anonymouz
+カルデラ                                        黒木渚
 問劫 (手遊《天地劫》主題                      LaLa Hsu
 砂金                                            黒木渚
 枝垂桜                                            Anna
 Girl Inside                             Mika Kobayashi
 -Error                                 Niki & Kradness
-52-Hearts                               Hikaru Station
 彗星                                          白鲨JAWS
+52-Hearts                               Hikaru Station
 ```
 
 <!-- spotify_track end -->
