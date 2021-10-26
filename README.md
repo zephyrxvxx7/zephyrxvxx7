@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     24 hrs 51 mins ████████████████████▏  96.1%
-Markdown   34 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
-Other      21 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-JSON       4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Python     27 hrs 15 mins ████████████████████▏  95.9%
+JSON       32 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+Other      23 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Markdown   12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Makefile   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time end -->
@@ -62,10 +63,10 @@ JSON       4 mins         ░░░░░░░░░░░░░░░░░░
 ```text
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 In Our Hearts                                Anonymouz
-カルデラ                                        黒木渚
 問劫 (手遊《天地劫》主題                      LaLa Hsu
-砂金                                            黒木渚
+カルデラ                                        黒木渚
 枝垂桜                                            Anna
+砂金                                            黒木渚
 Girl Inside                             Mika Kobayashi
 -Error                                 Niki & Kradness
 彗星                                          白鲨JAWS
