@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     27 hrs 15 mins ████████████████████▏  95.9%
-JSON       32 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
-Other      23 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-Markdown   12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
-Makefile   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Python     27 hrs 42 mins ████████████████████░  95.8%
+JSON       46 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+Other      18 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Markdown   4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Text       3 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 ```
 
 <!-- code_time end -->
@@ -64,10 +64,10 @@ Makefile   0 secs         ░░░░░░░░░░░░░░░░░░
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 In Our Hearts                                Anonymouz
 問劫 (手遊《天地劫》主題                      LaLa Hsu
-カルデラ                                        黒木渚
 枝垂桜                                            Anna
 砂金                                            黒木渚
 Girl Inside                             Mika Kobayashi
+カルデラ                                        黒木渚
 -Error                                 Niki & Kradness
 彗星                                          白鲨JAWS
 52-Hearts                               Hikaru Station
