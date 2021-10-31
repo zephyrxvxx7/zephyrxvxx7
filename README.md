@@ -70,7 +70,7 @@ Girl Inside                             Mika Kobayashi
 -Error                                 Niki & Kradness
 カルデラ                                        黒木渚
 雾里                                            姚六一
-52-Hearts                               Hikaru Station
+宇宙の季節                         Lanndo & Eve & suis
 ```
 
 <!-- spotify_track end -->
