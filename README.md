@@ -61,15 +61,15 @@ Text       5 mins         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 In Our Hearts                                Anonymouz
 問劫 (手遊《天地劫》主題                      LaLa Hsu
 枝垂桜                                            Anna
-砂金                                            黒木渚
+ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 Girl Inside                             Mika Kobayashi
 -Error                                 Niki & Kradness
-カルデラ                                        黒木渚
+砂金                                            黒木渚
 雾里                                            姚六一
+カルデラ                                        黒木渚
 宇宙の季節                         Lanndo & Eve & suis
 ```
 
