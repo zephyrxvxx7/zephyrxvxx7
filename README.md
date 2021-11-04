@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     23 hrs 45 mins ████████████████████▎  96.7%
-Other      35 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.4%
-Text       5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+Python     25 hrs 24 mins ████████████████████▎  97.0%
+Other      34 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
 Markdown   5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-JSON       2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Text       4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+JSON       2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
 <!-- code_time end -->
@@ -61,16 +61,16 @@ JSON       2 mins         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-In Our Hearts                                Anonymouz
 問劫 (手遊《天地劫》主題                      LaLa Hsu
+In Our Hearts                                Anonymouz
 枝垂桜                                            Anna
 Girl Inside                             Mika Kobayashi
 -Error                                 Niki & Kradness
-ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 雾里                                            姚六一
 宇宙の季節                         Lanndo & Eve & suis
+ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 Slow Dance                            Chihiro Onitsuka
-砂金                                            黒木渚
+Fragile                              DJ Okawari & Cele
 ```
 
 <!-- spotify_track end -->
