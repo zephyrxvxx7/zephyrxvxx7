@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     25 hrs 24 mins ████████████████████▎  97.0%
-Other      34 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
-Markdown   5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
+Python     24 hrs 46 mins ████████████████████▎  96.5%
+Other      34 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+Makefile   10 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
 Text       4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
 JSON       2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
@@ -62,15 +62,15 @@ JSON       2 mins         ░░░░░░░░░░░░░░░░░░
 
 ```text
 問劫 (手遊《天地劫》主題                      LaLa Hsu
-In Our Hearts                                Anonymouz
 枝垂桜                                            Anna
 Girl Inside                             Mika Kobayashi
+In Our Hearts                                Anonymouz
 -Error                                 Niki & Kradness
 雾里                                            姚六一
 宇宙の季節                         Lanndo & Eve & suis
-ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 Slow Dance                            Chihiro Onitsuka
 Fragile                              DJ Okawari & Cele
+kireida                                       門脇更紗
 ```
 
 <!-- spotify_track end -->
