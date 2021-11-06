@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     24 hrs 46 mins ████████████████████▎  96.5%
-Other      34 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+Python     24 hrs 25 mins ████████████████████▍  97.2%
+Other      25 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
 Makefile   10 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.7%
 Text       4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-JSON       2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Markdown   1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
 <!-- code_time end -->
@@ -64,8 +64,8 @@ JSON       2 mins         ░░░░░░░░░░░░░░░░░░
 問劫 (手遊《天地劫》主題                      LaLa Hsu
 枝垂桜                                            Anna
 Girl Inside                             Mika Kobayashi
-In Our Hearts                                Anonymouz
 -Error                                 Niki & Kradness
+In Our Hearts                                Anonymouz
 雾里                                            姚六一
 宇宙の季節                         Lanndo & Eve & suis
 Slow Dance                            Chihiro Onitsuka
