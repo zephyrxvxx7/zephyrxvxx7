@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     28 hrs         ████████████████████▍  97.5%
-Other      25 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+Python     25 hrs 47 mins ███████████████████▋░  94.0%
+Markdown   1 hr 20 mins   █░░░░░░░░░░░░░░░░░░░░   4.9%
 Makefile   10 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.6%
-Text       4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.3%
-Markdown   1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+XML        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Text       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
 <!-- code_time end -->
@@ -61,16 +61,16 @@ Markdown   1 min          ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-枝垂桜                                            Anna
 Girl Inside                             Mika Kobayashi
+最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
+枝垂桜                                            Anna
 Fragile                              DJ Okawari & Cele
-Slow Dance                            Chihiro Onitsuka
-問劫 (手遊《天地劫》主題                      LaLa Hsu
-雾里                                            姚六一
 宇宙の季節                         Lanndo & Eve & suis
+雾里                                            姚六一
 kireida                                       門脇更紗
+Slow Dance                            Chihiro Onitsuka
 Heart                                           Aimyon
-In Our Hearts                                Anonymouz
+蓝色                                            姚六一
 ```
 
 <!-- spotify_track end -->
