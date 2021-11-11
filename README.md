@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     25 hrs 47 mins ███████████████████▋░  94.0%
-Markdown   1 hr 20 mins   █░░░░░░░░░░░░░░░░░░░░   4.9%
-Makefile   10 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.6%
-XML        2 mins         ░░░░░░░░░░░░░░░░░░░░░   0.2%
-Text       1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
+Python     22 hrs 36 mins ██████████████████▍░░  87.6%
+Markdown   1 hr 40 mins   █▎░░░░░░░░░░░░░░░░░░░   6.5%
+Other      46 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
+INI        18 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
+Text       12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 
 <!-- code_time end -->
@@ -61,15 +61,15 @@ Text       1 min          ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Girl Inside                             Mika Kobayashi
 最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
+Girl Inside                             Mika Kobayashi
 枝垂桜                                            Anna
 Fragile                              DJ Okawari & Cele
 宇宙の季節                         Lanndo & Eve & suis
 雾里                                            姚六一
 kireida                                       門脇更紗
-Slow Dance                            Chihiro Onitsuka
 Heart                                           Aimyon
+Slow Dance                            Chihiro Onitsuka
 蓝色                                            姚六一
 ```
 
