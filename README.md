@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     18 hrs 53 mins ██████████████████░░░  85.8%
-Markdown   1 hr 38 mins   █▌░░░░░░░░░░░░░░░░░░░   7.5%
-Other      46 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
+Python     18 hrs 1 min   █████████████████▋░░░  84.2%
+Markdown   1 hr 38 mins   █▌░░░░░░░░░░░░░░░░░░░   7.7%
+Other      46 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
 INI        18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-Text       12 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+JSON       17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
 ```
 
 <!-- code_time end -->
@@ -67,8 +67,8 @@ Girl Inside                             Mika Kobayashi
 Fragile                              DJ Okawari & Cele
 雾里                                            姚六一
 kireida                                       門脇更紗
-枝垂桜                                            Anna
 Heart                                           Aimyon
+枝垂桜                                            Anna
 Slow Dance                            Chihiro Onitsuka
 蓝色                                            姚六一
 ```
