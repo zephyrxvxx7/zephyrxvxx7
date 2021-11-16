@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     18 hrs 1 min   █████████████████▋░░░  84.2%
-Markdown   1 hr 38 mins   █▌░░░░░░░░░░░░░░░░░░░   7.7%
-Other      46 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
-INI        18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-JSON       17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+Python     14 hrs 24 mins ████████████████▌░░░░  78.9%
+Markdown   2 hrs 8 mins   ██▍░░░░░░░░░░░░░░░░░░  11.7%
+Other      46 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
+INI        17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+JSON       16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
 ```
 
 <!-- code_time end -->
