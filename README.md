@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     14 hrs 24 mins ████████████████▌░░░░  78.9%
-Markdown   2 hrs 8 mins   ██▍░░░░░░░░░░░░░░░░░░  11.7%
-Other      46 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-INI        17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-JSON       16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+Python     13 hrs 42 mins ████████████████▉░░░░  80.7%
+Markdown   1 hr 37 mins   ██░░░░░░░░░░░░░░░░░░░   9.6%
+Other      45 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.5%
+JSON       16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+INI        16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
 ```
 
 <!-- code_time end -->
@@ -62,15 +62,15 @@ JSON       16 mins        ▎░░░░░░░░░░░░░░░░░
 
 ```text
 最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
+雾里                                            姚六一
 Girl Inside                             Mika Kobayashi
 宇宙の季節                         Lanndo & Eve & suis
 Fragile                              DJ Okawari & Cele
-雾里                                            姚六一
 kireida                                       門脇更紗
 Heart                                           Aimyon
-枝垂桜                                            Anna
-Slow Dance                            Chihiro Onitsuka
 蓝色                                            姚六一
+Slow Dance                            Chihiro Onitsuka
+隔岸                                            姚六一
 ```
 
 <!-- spotify_track end -->
