@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     14 hrs 44 mins ██████████████████▎░░  87.0%
-Markdown   1 hr 21 mins   █▋░░░░░░░░░░░░░░░░░░░   8.0%
-Git Config 21 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-JSON       17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
-Other      5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Python     18 hrs 14 mins ██████████████████▍░░  88.1%
+Markdown   1 hr 21 mins   █▍░░░░░░░░░░░░░░░░░░░   6.6%
+JSON       21 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
+Git Config 20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+Other      14 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
 ```
 
 <!-- code_time end -->
@@ -63,14 +63,14 @@ Other      5 mins         ░░░░░░░░░░░░░░░░░░
 ```text
 最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
 雾里                                            姚六一
-Heart                                           Aimyon
-宇宙の季節                         Lanndo & Eve & suis
 標火                                        yanaginagi
 風と行く道                                  大原ゆい子
+Heart                                           Aimyon
 蓝色                                            姚六一
-Fragile                              DJ Okawari & Cele
-Girl Inside                             Mika Kobayashi
+Daisy                                   Kyo Hanabasami
 隔岸                                            姚六一
+宇宙の季節                         Lanndo & Eve & suis
+虚言NEUROSE                             MY FIRST STORY
 ```
 
 <!-- spotify_track end -->
