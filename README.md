@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     18 hrs 14 mins ██████████████████▍░░  88.1%
+Python     17 hrs 28 mins █████████████████▉░░░  85.1%
 Markdown   1 hr 21 mins   █▍░░░░░░░░░░░░░░░░░░░   6.6%
-JSON       21 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
-Git Config 20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-Other      14 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Other      31 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+JSON       23 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+Git Config 20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
 ```
 
 <!-- code_time end -->
@@ -69,8 +69,8 @@ Heart                                           Aimyon
 蓝色                                            姚六一
 Daisy                                   Kyo Hanabasami
 隔岸                                            姚六一
-宇宙の季節                         Lanndo & Eve & suis
 虚言NEUROSE                             MY FIRST STORY
+Lost Game                                    Nulbarich
 ```
 
 <!-- spotify_track end -->
