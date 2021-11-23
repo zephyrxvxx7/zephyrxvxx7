@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     17 hrs 28 mins █████████████████▉░░░  85.1%
-Markdown   1 hr 21 mins   █▍░░░░░░░░░░░░░░░░░░░   6.6%
-Other      31 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
-JSON       23 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
-Git Config 20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+Python     18 hrs 48 mins ██████████████████▎░░  87.0%
+Markdown   52 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+Other      46 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.6%
+JSON       23 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
+Git Config 20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
 ```
 
 <!-- code_time end -->
@@ -62,15 +62,15 @@ Git Config 20 mins        ▎░░░░░░░░░░░░░░░░░
 
 ```text
 最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
-雾里                                            姚六一
-標火                                        yanaginagi
 風と行く道                                  大原ゆい子
+標火                                        yanaginagi
 Heart                                           Aimyon
-蓝色                                            姚六一
 Daisy                                   Kyo Hanabasami
-隔岸                                            姚六一
+雾里                                            姚六一
 虚言NEUROSE                             MY FIRST STORY
+蓝色                                            姚六一
 Lost Game                                    Nulbarich
+Love Letter                             MY FIRST STORY
 ```
 
 <!-- spotify_track end -->
