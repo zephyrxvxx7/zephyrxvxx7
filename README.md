@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     19 hrs 40 mins ███████████████████▎░  91.8%
-Other      45 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
-JSON       21 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+Python     19 hrs 23 mins ███████████████████▌░  93.4%
+Other      37 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
+JSON       17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
 Text       17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-INI        7 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+Git Config 5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 ```
 
 <!-- code_time end -->
@@ -62,15 +62,15 @@ INI        7 mins         ▏░░░░░░░░░░░░░░░░░
 
 ```text
 最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
-Torches                                          Aimer
 風と行く道                                  大原ゆい子
+Torches                                          Aimer
 Daisy                                   Kyo Hanabasami
+About Us                                     BAND-MAID
 虚言NEUROSE                             MY FIRST STORY
 標火                                        yanaginagi
 Heart                                           Aimyon
 Lost Game                                    Nulbarich
-Love Letter                             MY FIRST STORY
-重感情的廢物                                     Trash
+境界線                                      amazarashi
 ```
 
 <!-- spotify_track end -->
