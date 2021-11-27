@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     19 hrs 23 mins ███████████████████▌░  93.4%
-Other      37 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
-JSON       17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
-Text       17 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Python     17 hrs 15 mins ███████████████████▎░  91.7%
+JSON       40 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.6%
+Other      35 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+Makefile   5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 Git Config 5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
 ```
 
@@ -63,14 +63,14 @@ Git Config 5 mins         ░░░░░░░░░░░░░░░░░░
 ```text
 最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
 風と行く道                                  大原ゆい子
+My Dearest                                   supercell
 Torches                                          Aimer
 Daisy                                   Kyo Hanabasami
+My Dearest (Album Mix)                       supercell
 About Us                                     BAND-MAID
 虚言NEUROSE                             MY FIRST STORY
 標火                                        yanaginagi
-Heart                                           Aimyon
-Lost Game                                    Nulbarich
-境界線                                      amazarashi
+君の知らない物語                             supercell
 ```
 
 <!-- spotify_track end -->
