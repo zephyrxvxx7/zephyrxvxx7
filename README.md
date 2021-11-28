@@ -66,11 +66,11 @@ Git Config 5 mins         ░░░░░░░░░░░░░░░░░░
 My Dearest                                   supercell
 Torches                                          Aimer
 Daisy                                   Kyo Hanabasami
-My Dearest (Album Mix)                       supercell
 About Us                                     BAND-MAID
-虚言NEUROSE                             MY FIRST STORY
+My Dearest (Album Mix)                       supercell
+境界線                                      amazarashi
+THERE IS A REASON                        Konomi Suzuki
 標火                                        yanaginagi
-君の知らない物語                             supercell
 ```
 
 <!-- spotify_track end -->
