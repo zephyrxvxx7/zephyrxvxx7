@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     17 hrs 15 mins ███████████████████▎░  91.7%
-JSON       40 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.6%
-Other      35 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-Makefile   5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
-Git Config 5 mins         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Python     13 hrs 35 mins ██████████████████▉░░  90.4%
+JSON       48 mins        █▏░░░░░░░░░░░░░░░░░░░   5.4%
+Other      20 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+Makefile   5 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Git Config 5 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
 ```
 
 <!-- code_time end -->
@@ -65,11 +65,11 @@ Git Config 5 mins         ░░░░░░░░░░░░░░░░░░
 風と行く道                                  大原ゆい子
 My Dearest                                   supercell
 Torches                                          Aimer
-Daisy                                   Kyo Hanabasami
 About Us                                     BAND-MAID
 My Dearest (Album Mix)                       supercell
 境界線                                      amazarashi
 THERE IS A REASON                        Konomi Suzuki
+Daisy                                   Kyo Hanabasami
 標火                                        yanaginagi
 ```
 
