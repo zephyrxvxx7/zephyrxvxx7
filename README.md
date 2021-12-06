@@ -61,11 +61,11 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
 風と行く道                                  大原ゆい子
 Torches                                          Aimer
 My Dearest                                   supercell
 Even Heaven                                      Aimer
+最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
 StarRingChild                                    Aimer
 About Us                                     BAND-MAID
 My Dearest (Album Mix)                       supercell
