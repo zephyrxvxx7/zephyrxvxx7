@@ -39,7 +39,10 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Hollow Knight                    🕘 71 hrs 33 mins
+🎮 Age of Empires II: Definitive Edition 🕘 5 hrs 14 mins
+💻 Wallpaper Engine                 🕘 13 hrs 4 mins
+🎮 Sid Meier's Civilization VI      🕘 2 hrs 22 mins
+🎮 Age of Empires III: Definitive Edition 🕘 0 hrs 5 mins
 ```
 
 <!-- steam_time end -->
