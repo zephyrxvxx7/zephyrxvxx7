@@ -34,18 +34,6 @@ Markdown   38 mins        ▌░░░░░░░░░░░░░░░░░
 Roff       26 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
 ```
 
-<!-- code_time end -->
-
-### 💻 [Recent coding in languages](https://gist.github.com/zephyrxvxx7/08c5ff0fead26978490fef5d749f43ea)
-
-<!-- code_diff start -->
-
-```text
-404: Not Found
-```
-
-<!-- code_diff end -->
-
 ### 🎮 [Steam playtime leaderboard](https://gist.github.com/zephyrxvxx7/f77b8978877f959b69d84723c43a4a64)
 
 <!-- steam_time start -->
