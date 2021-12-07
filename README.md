@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/zephyrxvxx7/"><img src="https://img.shields.io/badge/instagram-3f729b?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <a href="https://zephyrxvxx7.me/"><img src="https://img.shields.io/badge/blog-gray?&style=for-the-badge&logo=hexo&logoColor=white" height=25></a>
 
-👋 Hi，我是 Zephyr，正在就讀中山大學資工所，研究領域是雲原生，目前正在當一個不稱職的全端開發者QQ。
+👋 Hi，我是 Zephyr，專業領域為雲端與邊際運算，目前任職於Qnap的後端工程師。
 
 空閒時會玩一些有趣的小玩具（譬如此頁面），**以下內容通過 [zephyrxvxx7/actions](https://github.com/zephyrxvxx7/zephyrxvxx7/actions) 每日自動更新**
 
