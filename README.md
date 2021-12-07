@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     17 hrs 41 mins █████████████████▍░░░  82.8%
-Other      1 hr 15 mins   █▏░░░░░░░░░░░░░░░░░░░   5.9%
-JSON       49 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
-Markdown   38 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
-Roff       26 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+Python     19 hrs 30 mins █████████████████▍░░░  83.2%
+Other      1 hr 39 mins   █▍░░░░░░░░░░░░░░░░░░░   7.1%
+JSON       41 mins        ▌░░░░░░░░░░░░░░░░░░░░   3.0%
+Markdown   38 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+Roff       26 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
 ```
 
 <!-- code_time end -->
@@ -65,12 +65,12 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 Torches                                          Aimer
 My Dearest                                   supercell
 Even Heaven                                      Aimer
-最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
 StarRingChild                                    Aimer
 About Us                                     BAND-MAID
 My Dearest (Album Mix)                       supercell
 境界線                                      amazarashi
 THERE IS A REASON                        Konomi Suzuki
+最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
 ```
 
 <!-- spotify_track end -->
