@@ -39,7 +39,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Age of Empires II: Definitive Edition 🕘 5 hrs 14 mins
+🎮 Age of Empires II: Definitive Edition 🕘 6 hrs 59 mins
 💻 Wallpaper Engine                 🕘 13 hrs 4 mins
 🎮 Sid Meier's Civilization VI      🕘 2 hrs 22 mins
 🎮 Age of Empires III: Definitive Edition 🕘 0 hrs 5 mins
@@ -60,8 +60,8 @@ StarRingChild                                    Aimer
 About Us                                     BAND-MAID
 My Dearest (Album Mix)                       supercell
 境界線                                      amazarashi
+君の知らない物語                             supercell
 THERE IS A REASON                        Konomi Suzuki
-最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
 ```
 
 <!-- spotify_track end -->
