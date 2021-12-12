@@ -39,7 +39,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Age of Empires II: Definitive Edition 🕘 9 hrs 33 mins
+🎮 Age of Empires II: Definitive Edition 🕘 14 hrs 56 mins
 💻 Wallpaper Engine                 🕘 13 hrs 4 mins
 🎮 Sid Meier's Civilization VI      🕘 2 hrs 22 mins
 🎮 Age of Empires III: Definitive Edition 🕘 0 hrs 5 mins
