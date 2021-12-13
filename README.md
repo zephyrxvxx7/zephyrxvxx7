@@ -52,16 +52,16 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-風と行く道                                  大原ゆい子
 Torches                                          Aimer
 My Dearest                                   supercell
 Even Heaven                                      Aimer
 StarRingChild                                    Aimer
-About Us                                     BAND-MAID
 My Dearest (Album Mix)                       supercell
 境界線                                      amazarashi
+風と行く道                                  大原ゆい子
 君の知らない物語                             supercell
-THERE IS A REASON                        Konomi Suzuki
+群青                                           YOASOBI
+銀色飛行船                                   supercell
 ```
 
 <!-- spotify_track end -->
