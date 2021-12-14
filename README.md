@@ -39,7 +39,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Age of Empires II: Definitive Edition 🕘 14 hrs 56 mins
+🎮 Age of Empires II: Definitive Edition 🕘 17 hrs 8 mins
 💻 Wallpaper Engine                 🕘 13 hrs 4 mins
 🎮 Sid Meier's Civilization VI      🕘 2 hrs 22 mins
 🎮 Age of Empires III: Definitive Edition 🕘 0 hrs 5 mins
@@ -52,16 +52,16 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Torches                                          Aimer
 My Dearest                                   supercell
 Even Heaven                                      Aimer
 StarRingChild                                    Aimer
+Torches                                          Aimer
 My Dearest (Album Mix)                       supercell
 境界線                                      amazarashi
-風と行く道                                  大原ゆい子
 君の知らない物語                             supercell
 群青                                           YOASOBI
 銀色飛行船                                   supercell
+風と行く道                                  大原ゆい子
 ```
 
 <!-- spotify_track end -->
