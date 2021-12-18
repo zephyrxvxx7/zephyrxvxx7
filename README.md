@@ -41,7 +41,6 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 ```text
 🎮 Age of Empires II: Definitive Edition 🕘 21 hrs 45 mins
 💻 Wallpaper Engine                 🕘 13 hrs 4 mins
-🎮 Age of Empires III: Definitive Edition 🕘 0 hrs 5 mins
 ```
 
 <!-- steam_time end -->
