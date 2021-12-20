@@ -55,11 +55,11 @@ Even Heaven                                      Aimer
 StarRingChild                                    Aimer
 My Dearest (Album Mix)                       supercell
 境界線                                      amazarashi
-Torches                                          Aimer
 君の知らない物語                             supercell
 群青                                           YOASOBI
 銀色飛行船                                   supercell
 風と行く道                                  大原ゆい子
+夜に駆ける                                     YOASOBI
 ```
 
 <!-- spotify_track end -->
