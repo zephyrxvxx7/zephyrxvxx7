@@ -49,16 +49,16 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-My Dearest                                   supercell
-My Dearest (Album Mix)                       supercell
-境界線                                      amazarashi
 Even Heaven                                      Aimer
-君の知らない物語                             supercell
-群青                                           YOASOBI
+My Dearest                                   supercell
 StarRingChild                                    Aimer
+My Dearest (Album Mix)                       supercell
+君の知らない物語                             supercell
+I believe                                          BoA
+ニブンノイチ                                   BACK-ON
+Coconut Tree                             CHING G SQUAD
 銀色飛行船                                   supercell
-風と行く道                                  大原ゆい子
-夜に駆ける                                     YOASOBI
+アンサー                                          花譜
 ```
 
 <!-- spotify_track end -->
