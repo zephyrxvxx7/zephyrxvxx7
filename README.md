@@ -50,15 +50,15 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 Even Heaven                                      Aimer
-My Dearest                                   supercell
 StarRingChild                                    Aimer
-My Dearest (Album Mix)                       supercell
-君の知らない物語                             supercell
 I believe                                          BoA
 ニブンノイチ                                   BACK-ON
 Coconut Tree                             CHING G SQUAD
-銀色飛行船                                   supercell
 アンサー                                          花譜
+群青                                           YOASOBI
+最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
+World We Used To Know                Alan Walker & Win
+逆境スペクトル                                    ASCA
 ```
 
 <!-- spotify_track end -->
