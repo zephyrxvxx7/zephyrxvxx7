@@ -40,6 +40,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 Age of Empires II: Definitive Edition 🕘 23 hrs 32 mins
+🎮 Don't Starve Together            🕘 23 hrs 41 mins
 ```
 
 <!-- steam_time end -->
@@ -49,16 +50,16 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+White Midnight                                    Reol
+Q?                                                Reol
+Ms.CONTROL                                        Reol
+Nd60                                              Reol
+mutant                                            Reol
+Boy                                               Reol
+THE SIXTH SENSE feat.To              Reol & Tokyo Gege
 Even Heaven                                      Aimer
 StarRingChild                                    Aimer
 I believe                                          BoA
-ニブンノイチ                                   BACK-ON
-Coconut Tree                             CHING G SQUAD
-アンサー                                          花譜
-群青                                           YOASOBI
-最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
-World We Used To Know                Alan Walker & Win
-逆境スペクトル                                    ASCA
 ```
 
 <!-- spotify_track end -->
