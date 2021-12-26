@@ -54,8 +54,8 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 White Midnight                                    Reol
 Ms.CONTROL                                        Reol
 Q?                                                Reol
-mutant                                            Reol
 Nd60                                              Reol
+mutant                                            Reol
 Boy                                               Reol
 THE SIXTH SENSE feat.To              Reol & Tokyo Gege
 Even Heaven                                      Aimer
