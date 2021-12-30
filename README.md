@@ -54,8 +54,8 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 White Midnight                                    Reol
 Ms.CONTROL                                        Reol
 Q?                                                Reol
-Nd60                                              Reol
 mutant                                            Reol
+Nd60                                              Reol
 Boy                                               Reol
 THE SIXTH SENSE feat.To              Reol & Tokyo Gege
 scene                                  Hiroyuki Sawano
