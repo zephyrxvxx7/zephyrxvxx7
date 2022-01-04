@@ -39,7 +39,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Age of Empires II: Definitive Edition 🕘 23 hrs 32 mins
+🎮 Summer Memories                  🕘 3 hrs 32 mins
 🎮 Don't Starve Together            🕘 23 hrs 41 mins
 🎮 ENDER LILIES                     🕘 0 hrs 13 mins
 ```
@@ -60,7 +60,7 @@ Boy                                               Reol
 THE SIXTH SENSE feat.To              Reol & Tokyo Gege
 scene                                  Hiroyuki Sawano
 I believe                                          BoA
-Coconut Tree                             CHING G SQUAD
+MOBILE SUIT GUNDAM UC-m                Hiroyuki Sawano
 ```
 
 <!-- spotify_track end -->
