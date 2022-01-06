@@ -59,8 +59,8 @@ mutant                                            Reol
 Boy                                               Reol
 THE SIXTH SENSE feat.To              Reol & Tokyo Gege
 scene                                  Hiroyuki Sawano
-I believe                                          BoA
 MOBILE SUIT GUNDAM UC-m                Hiroyuki Sawano
+DayLight Blue                            LOCAL CONNECT
 ```
 
 <!-- spotify_track end -->
