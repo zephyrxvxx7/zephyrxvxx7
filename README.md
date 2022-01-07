@@ -40,7 +40,6 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 Summer Memories                  🕘 3 hrs 32 mins
-🎮 Don't Starve Together            🕘 23 hrs 41 mins
 🎮 ENDER LILIES                     🕘 0 hrs 13 mins
 ```
 
@@ -60,7 +59,7 @@ Boy                                               Reol
 THE SIXTH SENSE feat.To              Reol & Tokyo Gege
 scene                                  Hiroyuki Sawano
 MOBILE SUIT GUNDAM UC-m                Hiroyuki Sawano
-DayLight Blue                            LOCAL CONNECT
+Luv (sic)                                      Nujabes
 ```
 
 <!-- spotify_track end -->
