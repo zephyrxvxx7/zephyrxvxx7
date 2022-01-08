@@ -39,8 +39,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Summer Memories                  🕘 3 hrs 32 mins
-🎮 ENDER LILIES                     🕘 0 hrs 13 mins
+🎮 Summer Memories                  🕘 4 hrs 7 mins
 ```
 
 <!-- steam_time end -->
@@ -56,10 +55,10 @@ Q?                                                Reol
 Nd60                                              Reol
 mutant                                            Reol
 Boy                                               Reol
+Everything (feat. W.LIN                 Marz23 & W.LIN
 THE SIXTH SENSE feat.To              Reol & Tokyo Gege
 scene                                  Hiroyuki Sawano
 MOBILE SUIT GUNDAM UC-m                Hiroyuki Sawano
-Luv (sic)                                      Nujabes
 ```
 
 <!-- spotify_track end -->
