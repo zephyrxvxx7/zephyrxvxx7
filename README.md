@@ -40,6 +40,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 Summer Memories                  🕘 4 hrs 7 mins
+🎮 Age of Empires II: Definitive Edition 🕘 26 hrs 12 mins
 ```
 
 <!-- steam_time end -->
@@ -49,16 +50,16 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+Everything (feat. W.LIN                 Marz23 & W.LIN
 White Midnight                                    Reol
 Ms.CONTROL                                        Reol
 Q?                                                Reol
 Nd60                                              Reol
 mutant                                            Reol
 Boy                                               Reol
-Everything (feat. W.LIN                 Marz23 & W.LIN
 THE SIXTH SENSE feat.To              Reol & Tokyo Gege
-scene                                  Hiroyuki Sawano
-MOBILE SUIT GUNDAM UC-m                Hiroyuki Sawano
+那種人                                          Marz23
+放過自己                                 G5SH & Marz23
 ```
 
 <!-- spotify_track end -->
