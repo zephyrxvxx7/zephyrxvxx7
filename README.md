@@ -59,7 +59,7 @@ mutant                                            Reol
 Boy                                               Reol
 THE SIXTH SENSE feat.To              Reol & Tokyo Gege
 那種人                                          Marz23
-放過自己                                 G5SH & Marz23
+最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
 ```
 
 <!-- spotify_track end -->
