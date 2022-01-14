@@ -58,8 +58,8 @@ Nd60                                              Reol
 mutant                                            Reol
 Boy                                               Reol
 THE SIXTH SENSE feat.To              Reol & Tokyo Gege
-那種人                                          Marz23
-最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
+Okay Alone                             Sineself & Luma
+I'll Come                                      G・GRIP
 ```
 
 <!-- spotify_track end -->
