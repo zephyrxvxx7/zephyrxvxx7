@@ -58,8 +58,8 @@ Nd60                                              Reol
 mutant                                            Reol
 Boy                                               Reol
 THE SIXTH SENSE feat.To              Reol & Tokyo Gege
-Okay Alone                             Sineself & Luma
 I'll Come                                      G・GRIP
+Okay Alone                             Sineself & Luma
 ```
 
 <!-- spotify_track end -->
