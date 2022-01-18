@@ -39,8 +39,8 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Summer Memories                  🕘 4 hrs 7 mins
 🎮 Age of Empires II: Definitive Edition 🕘 26 hrs 12 mins
+🎮 Summer Memories                  🕘 4 hrs 7 mins
 ```
 
 <!-- steam_time end -->
@@ -58,8 +58,8 @@ Nd60                                              Reol
 mutant                                            Reol
 Boy                                               Reol
 THE SIXTH SENSE feat.To              Reol & Tokyo Gege
+Dandelion Girls, Dandel                           Mili
 Okay Alone                             Sineself & Luma
-I'll Come                                      G・GRIP
 ```
 
 <!-- spotify_track end -->
