@@ -50,16 +50,16 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Everything (feat. W.LIN                 Marz23 & W.LIN
-White Midnight                                    Reol
-Ms.CONTROL                                        Reol
-Q?                                                Reol
-Nd60                                              Reol
-mutant                                            Reol
-Boy                                               Reol
-THE SIXTH SENSE feat.To              Reol & Tokyo Gege
 Dandelion Girls, Dandel                           Mili
+Everything (feat. W.LIN                 Marz23 & W.LIN
+Bento Box Bivouac                                 Mili
 Okay Alone                             Sineself & Luma
+I'll Come                                      G・GRIP
+White Midnight                                    Reol
+Shogeki                                      Yuko Ando
+Rainy Blue feat. kopi&M              kobasolo & kopi &
+那種人                                          Marz23
+最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
 ```
 
 <!-- spotify_track end -->
