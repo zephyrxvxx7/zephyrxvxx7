@@ -55,11 +55,11 @@ Everything (feat. W.LIN                 Marz23 & W.LIN
 Bento Box Bivouac                                 Mili
 Okay Alone                             Sineself & Luma
 I'll Come                                      G・GRIP
-White Midnight                                    Reol
 Shogeki                                      Yuko Ando
 Rainy Blue feat. kopi&M              kobasolo & kopi &
 那種人                                          Marz23
 最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
+Watashijyanakattandane.                         Riria.
 ```
 
 <!-- spotify_track end -->
