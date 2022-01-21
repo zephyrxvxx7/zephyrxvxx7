@@ -39,7 +39,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Age of Empires II: Definitive Edition 🕘 26 hrs 12 mins
+🎮 Age of Empires II: Definitive Edition 🕘 27 hrs 51 mins
 🎮 Summer Memories                  🕘 4 hrs 7 mins
 ```
 
