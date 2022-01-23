@@ -39,7 +39,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Age of Empires II: Definitive Edition 🕘 28 hrs 56 mins
+🎮 Age of Empires II: Definitive Edition 🕘 31 hrs 0 mins
 ```
 
 <!-- steam_time end -->
@@ -52,13 +52,13 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 Dandelion Girls, Dandel                           Mili
 Everything (feat. W.LIN                 Marz23 & W.LIN
 Bento Box Bivouac                                 Mili
+resonance                              Aiobahn & KOCHO
 Okay Alone                             Sineself & Luma
 I'll Come                                      G・GRIP
-resonance                              Aiobahn & KOCHO
+Harmonious                           Binary Haze Inter
 Shogeki                                      Yuko Ando
 Rainy Blue feat. kopi&M              kobasolo & kopi &
 那種人                                          Marz23
-最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
 ```
 
 <!-- spotify_track end -->
