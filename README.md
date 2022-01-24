@@ -39,7 +39,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Age of Empires II: Definitive Edition 🕘 31 hrs 0 mins
+🎮 Age of Empires II: Definitive Edition 🕘 33 hrs 9 mins
 ```
 
 <!-- steam_time end -->
@@ -57,8 +57,8 @@ Okay Alone                             Sineself & Luma
 I'll Come                                      G・GRIP
 Harmonious                           Binary Haze Inter
 Shogeki                                      Yuko Ando
+最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
 Rainy Blue feat. kopi&M              kobasolo & kopi &
-那種人                                          Marz23
 ```
 
 <!-- spotify_track end -->
