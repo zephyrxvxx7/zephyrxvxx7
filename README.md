@@ -53,12 +53,12 @@ Dandelion Girls, Dandel                           Mili
 Everything (feat. W.LIN                 Marz23 & W.LIN
 Bento Box Bivouac                                 Mili
 resonance                              Aiobahn & KOCHO
-Okay Alone                             Sineself & Luma
 I'll Come                                      G・GRIP
-Harmonious                           Binary Haze Inter
+Okay Alone                             Sineself & Luma
 Shogeki                                      Yuko Ando
-最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
-Rainy Blue feat. kopi&M              kobasolo & kopi &
+Harmonious                           Binary Haze Inter
+ルミネセンス                        Lovely Summer Chan
+その声消えないよ                        fumika & Sunya
 ```
 
 <!-- spotify_track end -->
