@@ -39,7 +39,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Age of Empires II: Definitive Edition 🕘 33 hrs 54 mins
+🎮 Age of Empires II: Definitive Edition 🕘 35 hrs 49 mins
 ```
 
 <!-- steam_time end -->
@@ -55,10 +55,10 @@ Bento Box Bivouac                                 Mili
 resonance                              Aiobahn & KOCHO
 I'll Come                                      G・GRIP
 Okay Alone                             Sineself & Luma
-Shogeki                                      Yuko Ando
 Harmonious                           Binary Haze Inter
+Shogeki                                      Yuko Ando
+嘘つき                                        あたらよ
 ルミネセンス                        Lovely Summer Chan
-その声消えないよ                        fumika & Sunya
 ```
 
 <!-- spotify_track end -->
