@@ -56,8 +56,8 @@ resonance                              Aiobahn & KOCHO
 I'll Come                                      G・GRIP
 Okay Alone                             Sineself & Luma
 Harmonious                           Binary Haze Inter
-Shogeki                                      Yuko Ando
 嘘つき                                        あたらよ
+Shogeki                                      Yuko Ando
 ルミネセンス                        Lovely Summer Chan
 ```
 
