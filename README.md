@@ -58,7 +58,7 @@ Okay Alone                             Sineself & Luma
 Harmonious                           Binary Haze Inter
 嘘つき                                        あたらよ
 Shogeki                                      Yuko Ando
-ルミネセンス                        Lovely Summer Chan
+その声消えないよ                        fumika & Sunya
 ```
 
 <!-- spotify_track end -->
