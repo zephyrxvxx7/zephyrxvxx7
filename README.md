@@ -50,7 +50,6 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 Dandelion Girls, Dandel                           Mili
-Everything (feat. W.LIN                 Marz23 & W.LIN
 Bento Box Bivouac                                 Mili
 resonance                              Aiobahn & KOCHO
 I'll Come                                      G・GRIP
@@ -59,6 +58,7 @@ Harmonious                           Binary Haze Inter
 嘘つき                                        あたらよ
 Shogeki                                      Yuko Ando
 その声消えないよ                        fumika & Sunya
+Watashijyanakattandane.                         Riria.
 ```
 
 <!-- spotify_track end -->
