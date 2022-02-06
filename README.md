@@ -57,8 +57,8 @@ Okay Alone                             Sineself & Luma
 Harmonious                           Binary Haze Inter
 嘘つき                                        あたらよ
 Shogeki                                      Yuko Ando
-その声消えないよ                        fumika & Sunya
-Watashijyanakattandane.                         Riria.
+Helplessness - Intro                 Binary Haze Inter
+amnesia                               Aiobahn & rionos
 ```
 
 <!-- spotify_track end -->
