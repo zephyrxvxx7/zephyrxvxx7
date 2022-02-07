@@ -52,9 +52,9 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 Dandelion Girls, Dandel                           Mili
 Bento Box Bivouac                                 Mili
 resonance                              Aiobahn & KOCHO
-I'll Come                                      G・GRIP
 Okay Alone                             Sineself & Luma
 Harmonious                           Binary Haze Inter
+I'll Come                                      G・GRIP
 嘘つき                                        あたらよ
 Shogeki                                      Yuko Ando
 Helplessness - Intro                 Binary Haze Inter
