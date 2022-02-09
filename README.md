@@ -54,11 +54,11 @@ Bento Box Bivouac                                 Mili
 resonance                              Aiobahn & KOCHO
 Harmonious                           Binary Haze Inter
 嘘つき                                        あたらよ
-I'll Come                                      G・GRIP
-Okay Alone                             Sineself & Luma
 Helplessness - Intro                 Binary Haze Inter
 amnesia                               Aiobahn & rionos
-Shogeki                                      Yuko Ando
+Rainy Blue feat. kopi&M              kobasolo & kopi &
+Sidonia                                         angela
+I'll Come                                      G・GRIP
 ```
 
 <!-- spotify_track end -->
