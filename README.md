@@ -50,15 +50,15 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 Dandelion Girls, Dandel                           Mili
-Bento Box Bivouac                                 Mili
 resonance                              Aiobahn & KOCHO
+Bento Box Bivouac                                 Mili
 Harmonious                           Binary Haze Inter
 嘘つき                                        あたらよ
-Helplessness - Intro                 Binary Haze Inter
+Voices of the Chord                    Hiroyuki Sawano
 amnesia                               Aiobahn & rionos
-Rainy Blue feat. kopi&M              kobasolo & kopi &
-Sidonia                                         angela
-I'll Come                                      G・GRIP
+Helplessness - Intro                 Binary Haze Inter
+星の消えた夜に -rit. ver.                        Aimer
+Shogeki                                      Yuko Ando
 ```
 
 <!-- spotify_track end -->
