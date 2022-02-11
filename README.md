@@ -39,7 +39,10 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Age of Empires II: Definitive Edition 🕘 35 hrs 49 mins
+🎮 Hollow Knight                    🕘 88 hrs 39 mins
+🎮 Oxygen Not Included              🕘 40 hrs 44 mins
+🎮 Ori and the Will of the Wisps    🕘 34 hrs 29 mins
+🎮 Age of Empires II (2013)         🕘 12 hrs 4 mins
 ```
 
 <!-- steam_time end -->
@@ -50,15 +53,15 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 Dandelion Girls, Dandel                           Mili
+Voices of the Chord                    Hiroyuki Sawano
 resonance                              Aiobahn & KOCHO
 Bento Box Bivouac                                 Mili
-Harmonious                           Binary Haze Inter
 嘘つき                                        あたらよ
-Voices of the Chord                    Hiroyuki Sawano
-amnesia                               Aiobahn & rionos
-Helplessness - Intro                 Binary Haze Inter
-星の消えた夜に -rit. ver.                        Aimer
+Harmonious                           Binary Haze Inter
+Ash flame (Remaster for                          Aimer
 Shogeki                                      Yuko Ando
+星の消えた夜に -rit. ver.                        Aimer
+amnesia                               Aiobahn & rionos
 ```
 
 <!-- spotify_track end -->
