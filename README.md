@@ -57,11 +57,11 @@ Voices of the Chord                    Hiroyuki Sawano
 resonance                              Aiobahn & KOCHO
 Bento Box Bivouac                                 Mili
 嘘つき                                        あたらよ
-Harmonious                           Binary Haze Inter
 Ash flame (Remaster for                          Aimer
-Shogeki                                      Yuko Ando
+Harmonious                           Binary Haze Inter
 星の消えた夜に -rit. ver.                        Aimer
 amnesia                               Aiobahn & rionos
+Shogeki                                      Yuko Ando
 ```
 
 <!-- spotify_track end -->
