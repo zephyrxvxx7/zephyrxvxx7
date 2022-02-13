@@ -52,16 +52,16 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Dandelion Girls, Dandel                           Mili
 Voices of the Chord                    Hiroyuki Sawano
 resonance                              Aiobahn & KOCHO
-Bento Box Bivouac                                 Mili
+Dandelion Girls, Dandel                           Mili
 嘘つき                                        あたらよ
 Ash flame (Remaster for                          Aimer
 Harmonious                           Binary Haze Inter
 星の消えた夜に -rit. ver.                        Aimer
 amnesia                               Aiobahn & rionos
 Shogeki                                      Yuko Ando
+Even Heaven (Remaster f                          Aimer
 ```
 
 <!-- spotify_track end -->
