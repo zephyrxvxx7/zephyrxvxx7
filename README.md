@@ -54,7 +54,6 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 ```text
 Voices of the Chord                    Hiroyuki Sawano
 resonance                              Aiobahn & KOCHO
-Dandelion Girls, Dandel                           Mili
 嘘つき                                        あたらよ
 Ash flame (Remaster for                          Aimer
 Harmonious                           Binary Haze Inter
@@ -62,6 +61,7 @@ Harmonious                           Binary Haze Inter
 amnesia                               Aiobahn & rionos
 Shogeki                                      Yuko Ando
 Even Heaven (Remaster f                          Aimer
+星の消えた夜に (Remaster                         Aimer
 ```
 
 <!-- spotify_track end -->
