@@ -56,12 +56,12 @@ Voices of the Chord                    Hiroyuki Sawano
 resonance                              Aiobahn & KOCHO
 嘘つき                                        あたらよ
 Ash flame (Remaster for                          Aimer
-Harmonious                           Binary Haze Inter
 星の消えた夜に -rit. ver.                        Aimer
 amnesia                               Aiobahn & rionos
 Shogeki                                      Yuko Ando
 Even Heaven (Remaster f                          Aimer
 星の消えた夜に (Remaster                         Aimer
+Sidonia                                         angela
 ```
 
 <!-- spotify_track end -->
