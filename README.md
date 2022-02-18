@@ -55,10 +55,10 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 Voices of the Chord                    Hiroyuki Sawano
 嘘つき                                        あたらよ
 Ash flame (Remaster for                          Aimer
-resonance                              Aiobahn & KOCHO
 Eighteen Color                         kobasolo & kopi
 星の消えた夜に -rit. ver.                        Aimer
 Shogeki                                      Yuko Ando
+resonance                              Aiobahn & KOCHO
 Even Heaven (Remaster f                          Aimer
 星の消えた夜に (Remaster                         Aimer
 Sidonia                                         angela
