@@ -57,11 +57,11 @@ Voices of the Chord                    Hiroyuki Sawano
 Ash flame (Remaster for                          Aimer
 Eighteen Color                         kobasolo & kopi
 星の消えた夜に -rit. ver.                        Aimer
-Shogeki                                      Yuko Ando
-resonance                              Aiobahn & KOCHO
 Even Heaven (Remaster f                          Aimer
 星の消えた夜に (Remaster                         Aimer
+Shogeki                                      Yuko Ando
 Sidonia                                         angela
+resonance                              Aiobahn & KOCHO
 ```
 
 <!-- spotify_track end -->
