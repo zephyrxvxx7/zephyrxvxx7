@@ -39,10 +39,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Hollow Knight                    🕘 88 hrs 39 mins
-🎮 Oxygen Not Included              🕘 40 hrs 44 mins
-🎮 Ori and the Will of the Wisps    🕘 34 hrs 29 mins
-🎮 Age of Empires II (2013)         🕘 12 hrs 4 mins
+🎮 Hollow Knight                    🕘 89 hrs 24 mins
 ```
 
 <!-- steam_time end -->
@@ -57,11 +54,11 @@ Ash flame (Remaster for                          Aimer
 嘘つき                                        あたらよ
 Eighteen Color                         kobasolo & kopi
 星の消えた夜に -rit. ver.                        Aimer
-Shogeki                                      Yuko Ando
 Even Heaven (Remaster f                          Aimer
 星の消えた夜に (Remaster                         Aimer
+セプテンバーさん                                 Aimer
 Sidonia                                         angela
-resonance                              Aiobahn & KOCHO
+Shogeki                                      Yuko Ando
 ```
 
 <!-- spotify_track end -->
