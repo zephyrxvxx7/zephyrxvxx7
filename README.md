@@ -51,7 +51,6 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 ```text
 Voices of the Chord                    Hiroyuki Sawano
 Ash flame (Remaster for                          Aimer
-嘘つき                                        あたらよ
 Even Heaven (Remaster f                          Aimer
 Eighteen Color                         kobasolo & kopi
 星の消えた夜に -rit. ver.                        Aimer
@@ -59,6 +58,7 @@ Eighteen Color                         kobasolo & kopi
 セプテンバーさん                                 Aimer
 Raining                                          Aimer
 ONE AND LAST                                     Aimer
+Sidonia                                         angela
 ```
 
 <!-- spotify_track end -->
