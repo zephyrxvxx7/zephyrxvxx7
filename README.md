@@ -53,12 +53,12 @@ Voices of the Chord                    Hiroyuki Sawano
 Ash flame (Remaster for                          Aimer
 Eighteen Color                         kobasolo & kopi
 Even Heaven (Remaster f                          Aimer
+By your side                             LOCAL CONNECT
 星の消えた夜に -rit. ver.                        Aimer
 星の消えた夜に (Remaster                         Aimer
-By your side                             LOCAL CONNECT
 Dreaming of you                         MY FIRST STORY
 セプテンバーさん                                 Aimer
-Raining                                          Aimer
+Sidonia                                         angela
 ```
 
 <!-- spotify_track end -->
