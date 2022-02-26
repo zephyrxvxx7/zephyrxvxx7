@@ -50,15 +50,15 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 Voices of the Chord                    Hiroyuki Sawano
-Ash flame (Remaster for                          Aimer
 Eighteen Color                         kobasolo & kopi
-Even Heaven (Remaster f                          Aimer
+Ash flame (Remaster for                          Aimer
 By your side                             LOCAL CONNECT
+Even Heaven (Remaster f                          Aimer
 星の消えた夜に -rit. ver.                        Aimer
-星の消えた夜に (Remaster                         Aimer
 Dreaming of you                         MY FIRST STORY
-セプテンバーさん                                 Aimer
-Sidonia                                         angela
+星の消えた夜に (Remaster                         Aimer
+Shogeki                                      Yuko Ando
+A Spring Breath                               flumpool
 ```
 
 <!-- spotify_track end -->
