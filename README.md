@@ -40,6 +40,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 Hollow Knight                    🕘 89 hrs 24 mins
+🎮 Is it you? Demo                  🕘 0 hrs 24 mins
 ```
 
 <!-- steam_time end -->
