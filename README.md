@@ -55,8 +55,8 @@ Eighteen Color                         kobasolo & kopi
 Ash flame (Remaster for                          Aimer
 By your side                             LOCAL CONNECT
 Even Heaven (Remaster f                          Aimer
-星の消えた夜に -rit. ver.                        Aimer
 Dreaming of you                         MY FIRST STORY
+星の消えた夜に -rit. ver.                        Aimer
 星の消えた夜に (Remaster                         Aimer
 Shogeki                                      Yuko Ando
 A Spring Breath                               flumpool
