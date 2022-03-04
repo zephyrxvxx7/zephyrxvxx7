@@ -51,15 +51,15 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 Voices of the Chord                    Hiroyuki Sawano
+By your side                             LOCAL CONNECT
+交差点                                        あたらよ
 Eighteen Color                         kobasolo & kopi
 Ash flame (Remaster for                          Aimer
-By your side                             LOCAL CONNECT
-Even Heaven (Remaster f                          Aimer
 Dreaming of you                         MY FIRST STORY
+Even Heaven (Remaster f                          Aimer
 星の消えた夜に -rit. ver.                        Aimer
-星の消えた夜に (Remaster                         Aimer
-Shogeki                                      Yuko Ando
-A Spring Breath                               flumpool
+STERNENGESANG                        Cyua & Hiroyuki S
+Unti-L                               SawanoHiroyuki[nZ
 ```
 
 <!-- spotify_track end -->
