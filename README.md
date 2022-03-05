@@ -55,11 +55,11 @@ By your side                             LOCAL CONNECT
 交差点                                        あたらよ
 Eighteen Color                         kobasolo & kopi
 Ash flame (Remaster for                          Aimer
+Unti-L                               SawanoHiroyuki[nZ
 Dreaming of you                         MY FIRST STORY
+STERNENGESANG                        Cyua & Hiroyuki S
 Even Heaven (Remaster f                          Aimer
 星の消えた夜に -rit. ver.                        Aimer
-STERNENGESANG                        Cyua & Hiroyuki S
-Unti-L                               SawanoHiroyuki[nZ
 ```
 
 <!-- spotify_track end -->
