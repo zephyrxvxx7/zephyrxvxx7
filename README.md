@@ -57,9 +57,9 @@ STERNENGESANG                        Cyua & Hiroyuki S
 Eighteen Color                         kobasolo & kopi
 Unti-L                               SawanoHiroyuki[nZ
 Dreaming of you                         MY FIRST STORY
-星の消えた夜に -rit. ver.                        Aimer
 EGO - nZk Ver.                        Mika Kobayashi &
-Even Heaven (Remaster f                          Aimer
+Enemy feat. J.I.D. (fro              Imagine Dragons &
+Rhapsody                                Empty old City
 ```
 
 <!-- spotify_track end -->
