@@ -50,16 +50,16 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Voices of the Chord                    Hiroyuki Sawano
 By your side                             LOCAL CONNECT
 交差点                                        あたらよ
 STERNENGESANG                        Cyua & Hiroyuki S
 Eighteen Color                         kobasolo & kopi
 Unti-L                               SawanoHiroyuki[nZ
 Dreaming of you                         MY FIRST STORY
-EGO - nZk Ver.                        Mika Kobayashi &
 Enemy feat. J.I.D. (fro              Imagine Dragons &
-Rhapsody                                Empty old City
+Voices of the Chord                    Hiroyuki Sawano
+EGO - nZk Ver.                        Mika Kobayashi &
+Missing Piece                          Marika Takeuchi
 ```
 
 <!-- spotify_track end -->
