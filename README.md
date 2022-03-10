@@ -54,12 +54,12 @@ By your side                             LOCAL CONNECT
 交差点                                        あたらよ
 STERNENGESANG                        Cyua & Hiroyuki S
 Eighteen Color                         kobasolo & kopi
-Unti-L                               SawanoHiroyuki[nZ
-Dreaming of you                         MY FIRST STORY
-Enemy feat. J.I.D. (fro              Imagine Dragons &
-Voices of the Chord                    Hiroyuki Sawano
-EGO - nZk Ver.                        Mika Kobayashi &
 Missing Piece                          Marika Takeuchi
+Unti-L                               SawanoHiroyuki[nZ
+Enemy feat. J.I.D. (fro              Imagine Dragons &
+Dreaming of you                         MY FIRST STORY
+EGO - nZk Ver.                        Mika Kobayashi &
+Playground (from the se                     Bea Miller
 ```
 
 <!-- spotify_track end -->
