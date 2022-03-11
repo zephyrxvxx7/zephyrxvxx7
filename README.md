@@ -56,10 +56,10 @@ STERNENGESANG                        Cyua & Hiroyuki S
 Eighteen Color                         kobasolo & kopi
 Missing Piece                          Marika Takeuchi
 Unti-L                               SawanoHiroyuki[nZ
-Enemy feat. J.I.D. (fro              Imagine Dragons &
 Dreaming of you                         MY FIRST STORY
+doll(Lia ver.)                                     Lia
+Enemy feat. J.I.D. (fro              Imagine Dragons &
 EGO - nZk Ver.                        Mika Kobayashi &
-Playground (from the se                     Bea Miller
 ```
 
 <!-- spotify_track end -->
