@@ -50,16 +50,16 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+doll(Lia ver.)                                     Lia
 By your side                             LOCAL CONNECT
 交差点                                        あたらよ
 STERNENGESANG                        Cyua & Hiroyuki S
-Eighteen Color                         kobasolo & kopi
 Missing Piece                          Marika Takeuchi
+Enemy feat. J.I.D. (fro              Imagine Dragons &
+Eighteen Color                         kobasolo & kopi
 Unti-L                               SawanoHiroyuki[nZ
 Dreaming of you                         MY FIRST STORY
-doll(Lia ver.)                                     Lia
-Enemy feat. J.I.D. (fro              Imagine Dragons &
-EGO - nZk Ver.                        Mika Kobayashi &
+Playground (from the se                     Bea Miller
 ```
 
 <!-- spotify_track end -->
