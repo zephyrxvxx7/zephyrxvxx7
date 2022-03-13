@@ -39,8 +39,9 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
+🎮 Summer Memories                  🕘 7 hrs 7 mins
+🎮 Vampire Survivors                🕘 2 hrs 27 mins
 🎮 Hollow Knight                    🕘 90 hrs 14 mins
-🎮 Is it you? Demo                  🕘 0 hrs 24 mins
 ```
 
 <!-- steam_time end -->
