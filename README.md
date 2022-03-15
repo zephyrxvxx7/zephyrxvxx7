@@ -39,9 +39,8 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
+🎮 Vampire Survivors                🕘 3 hrs 27 mins
 🎮 Summer Memories                  🕘 7 hrs 7 mins
-🎮 Vampire Survivors                🕘 2 hrs 27 mins
-🎮 Hollow Knight                    🕘 90 hrs 14 mins
 ```
 
 <!-- steam_time end -->
@@ -57,10 +56,10 @@ By your side                             LOCAL CONNECT
 STERNENGESANG                        Cyua & Hiroyuki S
 Missing Piece                          Marika Takeuchi
 Enemy feat. J.I.D. (fro              Imagine Dragons &
-Eighteen Color                         kobasolo & kopi
-Unti-L                               SawanoHiroyuki[nZ
 Dreaming of you                         MY FIRST STORY
+Unti-L                               SawanoHiroyuki[nZ
 Playground (from the se                     Bea Miller
+First Light                            Marika Takeuchi
 ```
 
 <!-- spotify_track end -->
