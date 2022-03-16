@@ -39,7 +39,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Vampire Survivors                🕘 3 hrs 27 mins
+🎮 Vampire Survivors                🕘 4 hrs 30 mins
 🎮 Summer Memories                  🕘 7 hrs 7 mins
 ```
 
@@ -52,8 +52,8 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 ```text
 doll(Lia ver.)                                     Lia
 By your side                             LOCAL CONNECT
-交差点                                        あたらよ
 STERNENGESANG                        Cyua & Hiroyuki S
+交差点                                        あたらよ
 Missing Piece                          Marika Takeuchi
 Enemy feat. J.I.D. (fro              Imagine Dragons &
 Dreaming of you                         MY FIRST STORY
