@@ -39,7 +39,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Vampire Survivors                🕘 6 hrs 5 mins
+🎮 Vampire Survivors                🕘 6 hrs 59 mins
 🎮 Summer Memories                  🕘 7 hrs 7 mins
 🎮 Age of Empires II: Definitive Edition 🕘 37 hrs 8 mins
 ```
