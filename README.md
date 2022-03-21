@@ -39,7 +39,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Vampire Survivors                🕘 6 hrs 59 mins
+🎮 Vampire Survivors                🕘 7 hrs 4 mins
 🎮 Summer Memories                  🕘 7 hrs 7 mins
 🎮 Age of Empires II: Definitive Edition 🕘 37 hrs 8 mins
 ```
@@ -57,10 +57,10 @@ STERNENGESANG                        Cyua & Hiroyuki S
 交差点                                        あたらよ
 Missing Piece                          Marika Takeuchi
 Enemy feat. J.I.D. (fro              Imagine Dragons &
-Dreaming of you                         MY FIRST STORY
 Unti-L                               SawanoHiroyuki[nZ
 PLANETES[affettuoso]                            Hitomi
 Playground (from the se                     Bea Miller
+First Light                            Marika Takeuchi
 ```
 
 <!-- spotify_track end -->
