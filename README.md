@@ -57,8 +57,8 @@ STERNENGESANG                        Cyua & Hiroyuki S
 Missing Piece                          Marika Takeuchi
 Enemy feat. J.I.D. (fro              Imagine Dragons &
 Unti-L                               SawanoHiroyuki[nZ
-By your side                             LOCAL CONNECT
 PLANETES[affettuoso]                            Hitomi
+By your side                             LOCAL CONNECT
 Playground (from the se                     Bea Miller
 First Light                            Marika Takeuchi
 ```
