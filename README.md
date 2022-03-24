@@ -52,14 +52,14 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 doll(Lia ver.)                                     Lia
-STERNENGESANG                        Cyua & Hiroyuki S
 交差点                                        あたらよ
+STERNENGESANG                        Cyua & Hiroyuki S
 Missing Piece                          Marika Takeuchi
 Enemy feat. J.I.D. (fro              Imagine Dragons &
-Unti-L                               SawanoHiroyuki[nZ
 PLANETES[affettuoso]                            Hitomi
-By your side                             LOCAL CONNECT
+Unti-L                               SawanoHiroyuki[nZ
 Playground (from the se                     Bea Miller
+By your side                             LOCAL CONNECT
 First Light                            Marika Takeuchi
 ```
 
