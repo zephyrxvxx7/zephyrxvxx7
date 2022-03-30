@@ -51,15 +51,15 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 doll(Lia ver.)                                     Lia
-交差点                                        あたらよ
 Missing Piece                          Marika Takeuchi
 Enemy feat. J.I.D. (fro              Imagine Dragons &
-STERNENGESANG                        Cyua & Hiroyuki S
 PLANETES[affettuoso]                            Hitomi
 LilaS                                SawanoHiroyuki[nZ
 Playground (from the se                     Bea Miller
 First Light                            Marika Takeuchi
 Over The Sky [Angel Fea                         Hitomi
+Avid                                 SawanoHiroyuki[nZ
+Hands Up to the Sky                  SawanoHiroyuki[nZ
 ```
 
 <!-- spotify_track end -->
