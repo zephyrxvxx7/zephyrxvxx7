@@ -40,6 +40,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 Age of Empires II: Definitive Edition 🕘 37 hrs 55 mins
+🎮 PICO PARK:Classic Edition        🕘 0 hrs 0 mins
 🎮 Vampire Survivors                🕘 7 hrs 4 mins
 ```
 
