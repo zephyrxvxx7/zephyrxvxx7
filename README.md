@@ -39,8 +39,8 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
+🎮 PICO PARK:Classic Edition        🕘 0 hrs 42 mins
 🎮 Age of Empires II: Definitive Edition 🕘 37 hrs 55 mins
-🎮 PICO PARK:Classic Edition        🕘 0 hrs 0 mins
 🎮 Vampire Survivors                🕘 7 hrs 4 mins
 ```
 
@@ -53,14 +53,14 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 ```text
 doll(Lia ver.)                                     Lia
 Missing Piece                          Marika Takeuchi
-Enemy feat. J.I.D. (fro              Imagine Dragons &
 PLANETES[affettuoso]                            Hitomi
 LilaS                                SawanoHiroyuki[nZ
-Playground (from the se                     Bea Miller
 Avid                                 SawanoHiroyuki[nZ
-First Light                            Marika Takeuchi
 Hands Up to the Sky                  SawanoHiroyuki[nZ
+First Light                            Marika Takeuchi
 Over The Sky [Angel Fea                         Hitomi
+Drifting Away                          Marika Takeuchi
+human                                              Lia
 ```
 
 <!-- spotify_track end -->
