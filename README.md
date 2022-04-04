@@ -41,7 +41,6 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 ```text
 🎮 PICO PARK:Classic Edition        🕘 0 hrs 42 mins
 🎮 Age of Empires II: Definitive Edition 🕘 37 hrs 55 mins
-🎮 Vampire Survivors                🕘 7 hrs 4 mins
 ```
 
 <!-- steam_time end -->
@@ -52,15 +51,15 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 doll(Lia ver.)                                     Lia
-Missing Piece                          Marika Takeuchi
 PLANETES[affettuoso]                            Hitomi
 LilaS                                SawanoHiroyuki[nZ
 Avid                                 SawanoHiroyuki[nZ
 Hands Up to the Sky                  SawanoHiroyuki[nZ
-First Light                            Marika Takeuchi
 Over The Sky [Angel Fea                         Hitomi
-Drifting Away                          Marika Takeuchi
+大海 - Unplugged                              Neci Ken
 human                                              Lia
+Futaba                                          Aimyon
+Missing Piece                          Marika Takeuchi
 ```
 
 <!-- spotify_track end -->
