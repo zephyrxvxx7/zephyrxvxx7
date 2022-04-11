@@ -40,7 +40,6 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 PICO PARK:Classic Edition        🕘 0 hrs 42 mins
-🎮 Age of Empires II: Definitive Edition 🕘 37 hrs 55 mins
 ```
 
 <!-- steam_time end -->
