@@ -49,16 +49,16 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-PLANETES[affettuoso]                            Hitomi
 LilaS                                SawanoHiroyuki[nZ
 Avid                                 SawanoHiroyuki[nZ
 Hands Up to the Sky                  SawanoHiroyuki[nZ
-Over The Sky [Angel Fea                         Hitomi
 大海 - Unplugged                              Neci Ken
 Futaba                                          Aimyon
 A/Z <MODv>                           SawanoHiroyuki[nZ
 Izon, Yameta                                   Matsuri
 溺れた魚                                       UNIDOTS
+煙花                                          Neci Ken
+PLANETES[affettuoso]                            Hitomi
 ```
 
 <!-- spotify_track end -->
