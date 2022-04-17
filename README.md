@@ -39,7 +39,10 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 PICO PARK:Classic Edition        🕘 0 hrs 42 mins
+🎮 Hollow Knight                    🕘 88 hrs 39 mins
+🎮 Oxygen Not Included              🕘 40 hrs 44 mins
+🎮 Ori and the Will of the Wisps    🕘 34 hrs 29 mins
+🎮 Age of Empires II (2013)         🕘 12 hrs 4 mins
 ```
 
 <!-- steam_time end -->
@@ -54,11 +57,11 @@ Avid                                 SawanoHiroyuki[nZ
 Hands Up to the Sky                  SawanoHiroyuki[nZ
 大海 - Unplugged                              Neci Ken
 Futaba                                          Aimyon
+溺れた魚                                       UNIDOTS
 A/Z <MODv>                           SawanoHiroyuki[nZ
 Izon, Yameta                                   Matsuri
-溺れた魚                                       UNIDOTS
+Oz.                                               yama
 煙花                                          Neci Ken
-夜明けを呼ぶように                                Yuga
 ```
 
 <!-- spotify_track end -->
