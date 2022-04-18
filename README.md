@@ -39,10 +39,8 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Hollow Knight                    🕘 88 hrs 39 mins
-🎮 Oxygen Not Included              🕘 40 hrs 44 mins
-🎮 Ori and the Will of the Wisps    🕘 34 hrs 29 mins
-🎮 Age of Empires II (2013)         🕘 12 hrs 4 mins
+🎮 Age of Empires II: Definitive Edition 🕘 40 hrs 28 mins
+🎮 Hollow Knight                    🕘 90 hrs 16 mins
 ```
 
 <!-- steam_time end -->
@@ -58,10 +56,10 @@ Hands Up to the Sky                  SawanoHiroyuki[nZ
 大海 - Unplugged                              Neci Ken
 Futaba                                          Aimyon
 溺れた魚                                       UNIDOTS
-A/Z <MODv>                           SawanoHiroyuki[nZ
-Izon, Yameta                                   Matsuri
 Oz.                                               yama
+Izon, Yameta                                   Matsuri
 煙花                                          Neci Ken
+A/Z <MODv>                           SawanoHiroyuki[nZ
 ```
 
 <!-- spotify_track end -->
