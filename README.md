@@ -40,6 +40,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 Age of Empires II: Definitive Edition 🕘 40 hrs 28 mins
+🎮 Vampire Survivors                🕘 7 hrs 50 mins
 🎮 Hollow Knight                    🕘 90 hrs 16 mins
 ```
 
@@ -51,15 +52,15 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 LilaS                                SawanoHiroyuki[nZ
+大海 - Unplugged                              Neci Ken
 Avid                                 SawanoHiroyuki[nZ
 Hands Up to the Sky                  SawanoHiroyuki[nZ
-大海 - Unplugged                              Neci Ken
 Futaba                                          Aimyon
-溺れた魚                                       UNIDOTS
 Oz.                                               yama
 Izon, Yameta                                   Matsuri
 煙花                                          Neci Ken
-A/Z <MODv>                           SawanoHiroyuki[nZ
+夜明けを呼ぶように                                Yuga
+Yoakashi                                       Matsuri
 ```
 
 <!-- spotify_track end -->
