@@ -51,15 +51,15 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-LilaS                                SawanoHiroyuki[nZ
 大海 - Unplugged                              Neci Ken
+LilaS                                SawanoHiroyuki[nZ
 Avid                                 SawanoHiroyuki[nZ
-Hands Up to the Sky                  SawanoHiroyuki[nZ
 Futaba                                          Aimyon
 Oz.                                               yama
 Izon, Yameta                                   Matsuri
 煙花                                          Neci Ken
 夜明けを呼ぶように                                Yuga
+Hands Up to the Sky                  SawanoHiroyuki[nZ
 Yoakashi                                       Matsuri
 ```
 
