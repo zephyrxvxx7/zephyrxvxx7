@@ -53,14 +53,14 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 ```text
 大海 - Unplugged                              Neci Ken
 LilaS                                SawanoHiroyuki[nZ
-Avid                                 SawanoHiroyuki[nZ
-Futaba                                          Aimyon
-Oz.                                               yama
 Izon, Yameta                                   Matsuri
+Oz.                                               yama
 煙花                                          Neci Ken
 夜明けを呼ぶように                                Yuga
-Hands Up to the Sky                  SawanoHiroyuki[nZ
 Yoakashi                                       Matsuri
+Unubore                                        Matsuri
+Avid                                 SawanoHiroyuki[nZ
+Destiny -太陽の花-                    Hitomi Shimatani
 ```
 
 <!-- spotify_track end -->
