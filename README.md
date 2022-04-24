@@ -40,7 +40,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 Age of Empires II: Definitive Edition 🕘 40 hrs 28 mins
-🎮 Vampire Survivors                🕘 7 hrs 50 mins
+🎮 Vampire Survivors                🕘 9 hrs 11 mins
 🎮 Hollow Knight                    🕘 90 hrs 16 mins
 ```
 
@@ -52,15 +52,15 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 LilaS                                SawanoHiroyuki[nZ
+君の唄                                  MY FIRST STORY
 Izon, Yameta                                   Matsuri
 Oz.                                               yama
 煙花                                          Neci Ken
-夜明けを呼ぶように                                Yuga
 Yoakashi                                       Matsuri
 大海 - Unplugged                              Neci Ken
 Unubore                                        Matsuri
-Avid                                 SawanoHiroyuki[nZ
 Destiny -太陽の花-                    Hitomi Shimatani
+ハイエナ                                MY FIRST STORY
 ```
 
 <!-- spotify_track end -->
