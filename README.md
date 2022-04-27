@@ -59,10 +59,10 @@ Izon, Yameta                                   Matsuri
 煙花                                          Neci Ken
 Yoakashi                                       Matsuri
 大海 - Unplugged                              Neci Ken
-Oz.                                               yama
 Unubore                                        Matsuri
 Destiny -太陽の花-                    Hitomi Shimatani
 Over The Sky [Angel Fea                         Hitomi
+LIGHTS                                            Aimi
 ```
 
 <!-- spotify_track end -->
