@@ -53,16 +53,16 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-LilaS                                SawanoHiroyuki[nZ
+mata ashita                          CRAZY VODKA TONIC
 Great Wide Unknown (Imp                        Pealeaf
+Destiny -太陽の花-                    Hitomi Shimatani
+LilaS                                SawanoHiroyuki[nZ
+LIGHTS                                            Aimi
+なないろメモリー                                  優莉
 君の唄                                  MY FIRST STORY
 Izon, Yameta                                   Matsuri
-Destiny -太陽の花-                    Hitomi Shimatani
-LIGHTS                                            Aimi
+Oz.                                               yama
 miss you                                Litsuka Aisawa
-Yoakashi                                       Matsuri
-Unubore                                        Matsuri
-なないろメモリー                                  優莉
 ```
 
 <!-- spotify_track end -->
