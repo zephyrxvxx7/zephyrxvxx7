@@ -60,8 +60,8 @@ Over The Sky [Angel Fea                         Hitomi
 LIGHTS                                            Aimi
 なないろメモリー                                  優莉
 君の唄                                  MY FIRST STORY
-Izon, Yameta                                   Matsuri
 Oz.                                               yama
+PLANETES[affettuoso]                            Hitomi
 ```
 
 <!-- spotify_track end -->
