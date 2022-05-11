@@ -53,12 +53,12 @@ mata ashita                          CRAZY VODKA TONIC
 Great Wide Unknown (Imp                        Pealeaf
 Destiny -太陽の花-                    Hitomi Shimatani
 LilaS                                SawanoHiroyuki[nZ
-LIGHTS                                            Aimi
 なないろメモリー                                  優莉
-Over The Sky [Angel Fea                         Hitomi
+LIGHTS                                            Aimi
 君の唄                                  MY FIRST STORY
+Over The Sky [Angel Fea                         Hitomi
+Harukamirai                              KANKAKU PIERO
 Oz.                                               yama
-PLANETES[affettuoso]                            Hitomi
 ```
 
 <!-- spotify_track end -->
