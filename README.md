@@ -53,12 +53,12 @@ mata ashita                          CRAZY VODKA TONIC
 Great Wide Unknown (Imp                        Pealeaf
 Destiny -太陽の花-                    Hitomi Shimatani
 君の唄                                  MY FIRST STORY
-LilaS                                SawanoHiroyuki[nZ
 closer again                                     Miyuu
 Harukamirai                              KANKAKU PIERO
-なないろメモリー                                  優莉
-LIGHTS                                            Aimi
 miss you                                Litsuka Aisawa
+なないろメモリー                                  優莉
+My Dearest (Album Mix)                       supercell
+LIGHTS                                            Aimi
 ```
 
 <!-- spotify_track end -->
