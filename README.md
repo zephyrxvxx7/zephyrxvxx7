@@ -49,16 +49,16 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+色彩                                            Riria.
 mata ashita                          CRAZY VODKA TONIC
 Great Wide Unknown (Imp                        Pealeaf
 Destiny -太陽の花-                    Hitomi Shimatani
+じゃあね、またね。                              Riria.
 My Dearest (Album Mix)                       supercell
+キミソラキセキ                                  EGOIST
 君の唄                                  MY FIRST STORY
+Bubble feat.Uta                              Eve & Uta
 closer again                                     Miyuu
-Harukamirai                              KANKAKU PIERO
-miss you                                Litsuka Aisawa
-なないろメモリー                                  優莉
-LIGHTS                                            Aimi
 ```
 
 <!-- spotify_track end -->
