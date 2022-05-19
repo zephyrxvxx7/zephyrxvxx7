@@ -40,6 +40,9 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 Age of Empires II: Definitive Edition 🕘 52 hrs 6 mins
+🎮 10 Minutes Till Dawn             🕘 4 hrs 53 mins
+🎮 Luck be a Landlord               🕘 0 hrs 27 mins
+🎮 Age of Empires II (2013)         🕘 12 hrs 10 mins
 ```
 
 <!-- steam_time end -->
@@ -51,14 +54,14 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 ```text
 色彩                                            Riria.
 mata ashita                          CRAZY VODKA TONIC
+じゃあね、またね。                              Riria.
 Great Wide Unknown (Imp                        Pealeaf
 Destiny -太陽の花-                    Hitomi Shimatani
-じゃあね、またね。                              Riria.
+resonance                              Aiobahn & KOCHO
 My Dearest (Album Mix)                       supercell
 キミソラキセキ                                  EGOIST
 君の唄                                  MY FIRST STORY
 Bubble feat.Uta                              Eve & Uta
-closer again                                     Miyuu
 ```
 
 <!-- spotify_track end -->
