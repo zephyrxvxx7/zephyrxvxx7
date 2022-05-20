@@ -60,7 +60,7 @@ Destiny -太陽の花-                    Hitomi Shimatani
 resonance                              Aiobahn & KOCHO
 My Dearest (Album Mix)                       supercell
 キミソラキセキ                                  EGOIST
-君の唄                                  MY FIRST STORY
+BUBBLE                                 Hiroyuki Sawano
 Bubble feat.Uta                              Eve & Uta
 ```
 
