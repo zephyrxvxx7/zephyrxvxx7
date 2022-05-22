@@ -39,8 +39,8 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Age of Empires II: Definitive Edition 🕘 52 hrs 6 mins
 🎮 10 Minutes Till Dawn             🕘 4 hrs 53 mins
+🎮 Age of Empires II: Definitive Edition 🕘 52 hrs 6 mins
 🎮 Luck be a Landlord               🕘 0 hrs 27 mins
 🎮 Age of Empires II (2013)         🕘 12 hrs 10 mins
 ```
@@ -57,11 +57,11 @@ mata ashita                          CRAZY VODKA TONIC
 じゃあね、またね。                              Riria.
 Great Wide Unknown (Imp                        Pealeaf
 Destiny -太陽の花-                    Hitomi Shimatani
+BUBBLE-outtake1                        Hiroyuki Sawano
 resonance                              Aiobahn & KOCHO
 My Dearest (Album Mix)                       supercell
 キミソラキセキ                                  EGOIST
 BUBBLE                                 Hiroyuki Sawano
-Bubble feat.Uta                              Eve & Uta
 ```
 
 <!-- spotify_track end -->
