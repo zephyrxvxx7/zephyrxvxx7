@@ -40,7 +40,6 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 10 Minutes Till Dawn             🕘 4 hrs 53 mins
-🎮 Age of Empires II: Definitive Edition 🕘 52 hrs 6 mins
 🎮 Luck be a Landlord               🕘 0 hrs 27 mins
 🎮 Age of Empires II (2013)         🕘 12 hrs 10 mins
 ```
