@@ -52,15 +52,15 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 色彩                                            Riria.
-mata ashita                          CRAZY VODKA TONIC
 じゃあね、またね。                              Riria.
-Great Wide Unknown (Imp                        Pealeaf
-Destiny -太陽の花-                    Hitomi Shimatani
+mata ashita                          CRAZY VODKA TONIC
 BUBBLE-outtake1                        Hiroyuki Sawano
+Everybody Hates Me                    The Chainsmokers
 resonance                              Aiobahn & KOCHO
 My Dearest (Album Mix)                       supercell
 キミソラキセキ                                  EGOIST
 BUBBLE                                 Hiroyuki Sawano
+Bubble feat.Uta                              Eve & Uta
 ```
 
 <!-- spotify_track end -->
