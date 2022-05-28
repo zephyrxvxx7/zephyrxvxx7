@@ -40,7 +40,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 10 Minutes Till Dawn             🕘 4 hrs 53 mins
-🎮 Age of Empires II: Definitive Edition 🕘 52 hrs 40 mins
+🎮 Age of Empires II: Definitive Edition 🕘 53 hrs 29 mins
 🎮 Luck be a Landlord               🕘 0 hrs 27 mins
 🎮 Age of Empires II (2013)         🕘 12 hrs 10 mins
 ```
@@ -59,9 +59,9 @@ BUBBLE-outtake1                        Hiroyuki Sawano
 resonance                              Aiobahn & KOCHO
 My Dearest (Album Mix)                       supercell
 キミソラキセキ                                  EGOIST
+I Hope You Change Your                The Chainsmokers
 BUBBLE                                 Hiroyuki Sawano
 Bubble feat.Uta                              Eve & Uta
-heart 2 heart                           Aiobahn & 茶太
 ```
 
 <!-- spotify_track end -->
