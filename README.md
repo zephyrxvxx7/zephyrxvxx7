@@ -50,15 +50,15 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 色彩                                            Riria.
+歌よ                                             Belle
+Swarms of Song                                   Belle
 じゃあね、またね。                              Riria.
+A Million Miles Away                             Belle
 Everybody Hates Me                    The Chainsmokers
 BUBBLE-outtake1                        Hiroyuki Sawano
 resonance                              Aiobahn & KOCHO
 キミソラキセキ                                  EGOIST
 I Hope You Change Your                The Chainsmokers
-BUBBLE                                 Hiroyuki Sawano
-Bubble feat.Uta                              Eve & Uta
-heart 2 heart                           Aiobahn & 茶太
 ```
 
 <!-- spotify_track end -->
