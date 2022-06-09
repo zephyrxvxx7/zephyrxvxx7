@@ -55,8 +55,8 @@ Swarms of Song                                   Belle
 じゃあね、またね。                              Riria.
 A Million Miles Away                             Belle
 Everybody Hates Me                    The Chainsmokers
-BUBBLE-outtake1                        Hiroyuki Sawano
 resonance                              Aiobahn & KOCHO
+BUBBLE-outtake1                        Hiroyuki Sawano
 キミソラキセキ                                  EGOIST
 I Hope You Change Your                The Chainsmokers
 ```
