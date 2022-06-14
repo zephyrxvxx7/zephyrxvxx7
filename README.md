@@ -39,7 +39,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Age of Empires II: Definitive Edition 🕘 59 hrs 9 mins
+🎮 Age of Empires II: Definitive Edition 🕘 61 hrs 5 mins
 ```
 
 <!-- steam_time end -->
@@ -49,16 +49,16 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-色彩                                            Riria.
 歌よ                                             Belle
 Swarms of Song                                   Belle
 A Million Miles Away                             Belle
 Everybody Hates Me                    The Chainsmokers
-resonance                              Aiobahn & KOCHO
-じゃあね、またね。                              Riria.
+色彩                                            Riria.
 I Hope You Change Your                The Chainsmokers
 Alle Psallite Cum Luya                Ryoko Moriyama &
-heart 2 heart                           Aiobahn & 茶太
+lost                                             Loote
+85%                                  Loote & Garrett N
+U                                    millennium parade
 ```
 
 <!-- spotify_track end -->
