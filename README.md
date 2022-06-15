@@ -56,9 +56,9 @@ Everybody Hates Me                    The Chainsmokers
 色彩                                            Riria.
 I Hope You Change Your                The Chainsmokers
 Alle Psallite Cum Luya                Ryoko Moriyama &
-lost                                             Loote
-85%                                  Loote & Garrett N
 U                                    millennium parade
+Riptide                               The Chainsmokers
+If You're Serious                     The Chainsmokers
 ```
 
 <!-- spotify_track end -->
