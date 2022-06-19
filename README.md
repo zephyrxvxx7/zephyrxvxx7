@@ -39,7 +39,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Age of Empires II: Definitive Edition 🕘 62 hrs 19 mins
+🎮 Age of Empires II: Definitive Edition 🕘 65 hrs 6 mins
 ```
 
 <!-- steam_time end -->
@@ -55,10 +55,10 @@ A Million Miles Away                             Belle
 Everybody Hates Me                    The Chainsmokers
 I Hope You Change Your                The Chainsmokers
 Alle Psallite Cum Luya                Ryoko Moriyama &
+ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 U                                    millennium parade
 Riptide                               The Chainsmokers
 If You're Serious                     The Chainsmokers
-Fama Destinata                                   Belle
 ```
 
 <!-- spotify_track end -->
