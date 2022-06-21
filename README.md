@@ -58,7 +58,7 @@ U                                    millennium parade
 Fama Destinata                                   Belle
 Fleeting Days                          Ludvig Forssell
 STERNENGESANG                        Cyua & Hiroyuki S
-Everybody Hates Me                    The Chainsmokers
+Dragon                                     Yuta Bandoh
 ```
 
 <!-- spotify_track end -->
