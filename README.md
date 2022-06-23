@@ -53,8 +53,8 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 Swarms of Song                                   Belle
 A Million Miles Away                             Belle
 Alle Psallite Cum Luya                Ryoko Moriyama &
-ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 U                                    millennium parade
+ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 Fama Destinata                                   Belle
 Fleeting Days                          Ludvig Forssell
 STERNENGESANG                        Cyua & Hiroyuki S
