@@ -39,7 +39,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Age of Empires II: Definitive Edition 🕘 65 hrs 57 mins
+🎮 Age of Empires II: Definitive Edition 🕘 67 hrs 10 mins
 ```
 
 <!-- steam_time end -->
