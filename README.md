@@ -57,8 +57,8 @@ U                                    millennium parade
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 Fama Destinata                                   Belle
 Fleeting Days                          Ludvig Forssell
+マリタイム                                   AprilBlue
 STERNENGESANG                        Cyua & Hiroyuki S
-Dragon                                     Yuta Bandoh
 ```
 
 <!-- spotify_track end -->
