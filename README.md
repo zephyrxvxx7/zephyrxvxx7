@@ -39,7 +39,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Age of Empires II: Definitive Edition 🕘 73 hrs 14 mins
+🎮 Age of Empires II: Definitive Edition 🕘 73 hrs 24 mins
 ```
 
 <!-- steam_time end -->
@@ -52,13 +52,13 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 歌よ                                             Belle
 Swarms of Song                                   Belle
 A Million Miles Away                             Belle
+Opening of "The Last Te                       RADWIMPS
 Alle Psallite Cum Luya                Ryoko Moriyama &
 U                                    millennium parade
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 Fama Destinata                                   Belle
 Fleeting Days                          Ludvig Forssell
 マリタイム                                   AprilBlue
-STERNENGESANG                        Cyua & Hiroyuki S
 ```
 
 <!-- spotify_track end -->
