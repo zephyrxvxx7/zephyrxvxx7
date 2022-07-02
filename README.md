@@ -51,12 +51,12 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 ```text
 歌よ                                             Belle
 Swarms of Song                                   Belle
-A Million Miles Away                             Belle
 化作青煙 (さくらひらり)            Tomo & 陰陽師 Onmyo
+A Million Miles Away                             Belle
 Opening of "The Last Te                       RADWIMPS
+神鈴賜緣 (手の鈴を振る)            銀蓮花 & 陰陽師 Onm
 Alle Psallite Cum Luya                Ryoko Moriyama &
 U                                    millennium parade
-神鈴賜緣 (手の鈴を振る)            銀蓮花 & 陰陽師 Onm
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 Fama Destinata                                   Belle
 ```
