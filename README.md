@@ -49,16 +49,16 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-歌よ                                             Belle
 化作青煙 (さくらひらり)            Tomo & 陰陽師 Onmyo
-Swarms of Song                                   Belle
-A Million Miles Away                             Belle
 Opening of "The Last Te                       RADWIMPS
 神鈴賜緣 (手の鈴を振る)            銀蓮花 & 陰陽師 Onm
-Alle Psallite Cum Luya                Ryoko Moriyama &
-U                                    millennium parade
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
-Fama Destinata                                   Belle
+マリタイム                                   AprilBlue
+STERNENGESANG                        Cyua & Hiroyuki S
+光影 (光と陰)                      Tomo & 陰陽師 Onmyo
+Setbacks                                      RADWIMPS
+The First Good-Bye                            RADWIMPS
+Ms. Phenomenal                                RADWIMPS
 ```
 
 <!-- spotify_track end -->
