@@ -54,11 +54,11 @@ Opening of "The Last Te                       RADWIMPS
 神鈴賜緣 (手の鈴を振る)            銀蓮花 & 陰陽師 Onm
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 マリタイム                                   AprilBlue
-STERNENGESANG                        Cyua & Hiroyuki S
 光影 (光と陰)                      Tomo & 陰陽師 Onmyo
 Setbacks                                      RADWIMPS
 The First Good-Bye                            RADWIMPS
 Ms. Phenomenal                                RADWIMPS
+Confusion                                     RADWIMPS
 ```
 
 <!-- spotify_track end -->
