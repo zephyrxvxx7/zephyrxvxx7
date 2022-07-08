@@ -58,7 +58,7 @@ Opening of "The Last Te                       RADWIMPS
 光影 (光と陰)                      Tomo & 陰陽師 Onmyo
 Setbacks                                      RADWIMPS
 The First Good-Bye                            RADWIMPS
-Ms. Phenomenal                                RADWIMPS
+超度我                                          福禄寿
 ```
 
 <!-- spotify_track end -->
