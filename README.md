@@ -52,13 +52,13 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 化作青煙 (さくらひらり)            Tomo & 陰陽師 Onmyo
 Opening of "The Last Te                       RADWIMPS
 神鈴賜緣 (手の鈴を振る)            銀蓮花 & 陰陽師 Onm
+失恋ソング沢山聴いて 泣い                       Riria.
 マリタイム                                   AprilBlue
 カシオピア係留所                            amazarashi
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
 光影 (光と陰)                      Tomo & 陰陽師 Onmyo
 Ms. Phenomenal                                RADWIMPS
 Setbacks                                      RADWIMPS
-The First Good-Bye                            RADWIMPS
 ```
 
 <!-- spotify_track end -->
