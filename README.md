@@ -56,9 +56,9 @@ Opening of "The Last Te                       RADWIMPS
 マリタイム                                   AprilBlue
 カシオピア係留所                            amazarashi
 ヒカリアレ-Moonlight Vers            BURNOUT SYNDROMES
-光影 (光と陰)                      Tomo & 陰陽師 Onmyo
 Ms. Phenomenal                                RADWIMPS
-Setbacks                                      RADWIMPS
+ヒロイン                                        DAZBEE
+モラトリアム                         ROOKiEZ is PUNK'D
 ```
 
 <!-- spotify_track end -->
