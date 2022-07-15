@@ -58,7 +58,7 @@ Ms. Phenomenal                                RADWIMPS
 失恋ソング沢山聴いて 泣い                       Riria.
 モラトリアム                         ROOKiEZ is PUNK'D
 面影                                        クレナズム
-カシオピア係留所                            amazarashi
+Cassiopeia Keiryuujo                        amazarashi
 ```
 
 <!-- spotify_track end -->
