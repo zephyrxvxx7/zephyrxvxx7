@@ -50,15 +50,15 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 化作青煙 (さくらひらり)            Tomo & 陰陽師 Onmyo
+ヒロイン                                        DAZBEE
 Opening of "The Last Te                       RADWIMPS
 マリタイム                                   AprilBlue
-ヒロイン                                        DAZBEE
+Sincerely                                          Lia
 Ms. Phenomenal                                RADWIMPS
 神鈴賜緣 (手の鈴を振る)            銀蓮花 & 陰陽師 Onm
 失恋ソング沢山聴いて 泣い                       Riria.
 モラトリアム                         ROOKiEZ is PUNK'D
-面影                                        クレナズム
-Cassiopeia Keiryuujo                        amazarashi
+Good Morning [New] World!            BURNOUT SYNDROMES
 ```
 
 <!-- spotify_track end -->
