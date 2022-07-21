@@ -52,13 +52,13 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 化作青煙 (さくらひらり)            Tomo & 陰陽師 Onmyo
 Sincerely                                          Lia
 ヒロイン                                        DAZBEE
+Endless Dreams (Midnigh                         守夜人
 マリタイム                                   AprilBlue
 Opening of "The Last Te                       RADWIMPS
 Ms. Phenomenal                                RADWIMPS
-神鈴賜緣 (手の鈴を振る)            銀蓮花 & 陰陽師 Onm
-失恋ソング沢山聴いて 泣い                       Riria.
+Seafloor                                    夜韻-Yoin-
 モラトリアム                         ROOKiEZ is PUNK'D
-面影                                        クレナズム
+リセット                                  Taichi Mukai
 ```
 
 <!-- spotify_track end -->
