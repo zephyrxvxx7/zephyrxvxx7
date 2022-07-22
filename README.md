@@ -53,12 +53,12 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 Sincerely                                          Lia
 ヒロイン                                        DAZBEE
 Endless Dreams (Midnigh                         守夜人
+リセット                                  Taichi Mukai
 マリタイム                                   AprilBlue
 Opening of "The Last Te                       RADWIMPS
-Ms. Phenomenal                                RADWIMPS
 Seafloor                                    夜韻-Yoin-
+Ms. Phenomenal                                RADWIMPS
 モラトリアム                         ROOKiEZ is PUNK'D
-リセット                                  Taichi Mukai
 ```
 
 <!-- spotify_track end -->
