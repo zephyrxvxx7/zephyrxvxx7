@@ -39,7 +39,10 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Age of Empires II: Definitive Edition 🕘 75 hrs 36 mins
+🎮 Hollow Knight                    🕘 88 hrs 39 mins
+🎮 Oxygen Not Included              🕘 40 hrs 44 mins
+🎮 Ori and the Will of the Wisps    🕘 34 hrs 29 mins
+🎮 Age of Empires II (2013)         🕘 12 hrs 4 mins
 ```
 
 <!-- steam_time end -->
