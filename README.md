@@ -57,11 +57,11 @@ Sincerely                                          Lia
 ヒロイン                                        DAZBEE
 Endless Dreams (Midnigh                         守夜人
 リセット                                  Taichi Mukai
-Opening of "The Last Te                       RADWIMPS
 Seafloor                                    夜韻-Yoin-
-Ms. Phenomenal                                RADWIMPS
 モラトリアム                         ROOKiEZ is PUNK'D
 神鈴賜緣 (手の鈴を振る)            銀蓮花 & 陰陽師 Onm
+失恋ソング沢山聴いて 泣い                       Riria.
+Good Morning [New] World!            BURNOUT SYNDROMES
 ```
 
 <!-- spotify_track end -->
