@@ -52,16 +52,16 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-化作青煙 (さくらひらり)            Tomo & 陰陽師 Onmyo
 Sincerely                                          Lia
+化作青煙 (さくらひらり)            Tomo & 陰陽師 Onmyo
 ヒロイン                                        DAZBEE
 Endless Dreams (Midnigh                         守夜人
 リセット                                  Taichi Mukai
 Seafloor                                    夜韻-Yoin-
 モラトリアム                         ROOKiEZ is PUNK'D
-神鈴賜緣 (手の鈴を振る)            銀蓮花 & 陰陽師 Onm
 失恋ソング沢山聴いて 泣い                       Riria.
 Good Morning [New] World!            BURNOUT SYNDROMES
+面影                                        クレナズム
 ```
 
 <!-- spotify_track end -->
