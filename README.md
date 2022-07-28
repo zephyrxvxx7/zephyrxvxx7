@@ -39,10 +39,8 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Hollow Knight                    🕘 88 hrs 39 mins
-🎮 Oxygen Not Included              🕘 40 hrs 44 mins
-🎮 Ori and the Will of the Wisps    🕘 34 hrs 29 mins
-🎮 Age of Empires II (2013)         🕘 12 hrs 4 mins
+🎮 Ori and the Will of the Wisps    🕘 34 hrs 56 mins
+🎮 Ori and the Blind Forest: Definitive Edition 🕘 0 hrs 10 mins
 ```
 
 <!-- steam_time end -->
@@ -53,9 +51,9 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 Sincerely                                          Lia
-化作青煙 (さくらひらり)            Tomo & 陰陽師 Onmyo
 ヒロイン                                        DAZBEE
 Endless Dreams (Midnigh                         守夜人
+化作青煙 (さくらひらり)            Tomo & 陰陽師 Onmyo
 リセット                                  Taichi Mukai
 Seafloor                                    夜韻-Yoin-
 モラトリアム                         ROOKiEZ is PUNK'D
