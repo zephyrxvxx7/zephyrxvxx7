@@ -55,10 +55,10 @@ Sincerely                                          Lia
 Endless Dreams (Midnigh                         守夜人
 リセット                                  Taichi Mukai
 Seafloor                                    夜韻-Yoin-
-化作青煙 (さくらひらり)            Tomo & 陰陽師 Onmyo
 A Place In My Heart                  tricolor & Koichi
-モラトリアム                         ROOKiEZ is PUNK'D
+化作青煙 (さくらひらり)            Tomo & 陰陽師 Onmyo
 失恋ソング沢山聴いて 泣い                       Riria.
+モラトリアム                         ROOKiEZ is PUNK'D
 We Own the Sky                                     M83
 ```
 
