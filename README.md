@@ -55,12 +55,12 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 Sincerely                                          Lia
 Endless Dreams (Midnigh                         守夜人
 リセット                                  Taichi Mukai
-ヒロイン                                        DAZBEE
-Seafloor                                    夜韻-Yoin-
 A Place In My Heart                  tricolor & Koichi
+ヒロイン                                        DAZBEE
 We Own the Sky                                     M83
+Seafloor                                    夜韻-Yoin-
 Good Morning [New] World!            BURNOUT SYNDROMES
-化作青煙 (さくらひらり)            Tomo & 陰陽師 Onmyo
+Loop                                 Martin Garrix & D
 モラトリアム                         ROOKiEZ is PUNK'D
 ```
 
