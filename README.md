@@ -59,9 +59,9 @@ A Place In My Heart                  tricolor & Koichi
 ヒロイン                                        DAZBEE
 We Own the Sky                                     M83
 Seafloor                                    夜韻-Yoin-
-Good Morning [New] World!            BURNOUT SYNDROMES
 Loop                                 Martin Garrix & D
 モラトリアム                         ROOKiEZ is PUNK'D
+彗星                                          白鲨JAWS
 ```
 
 <!-- spotify_track end -->
