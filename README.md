@@ -40,9 +40,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 Age of Empires IV                🕘 0 hrs 30 mins
-🎮 Ori and the Will of the Wisps    🕘 34 hrs 56 mins
 💻 Wallpaper Engine                 🕘 13 hrs 26 mins
-🎮 Ori and the Blind Forest: Definitive Edition 🕘 0 hrs 10 mins
 ```
 
 <!-- steam_time end -->
@@ -56,9 +54,9 @@ Sincerely                                          Lia
 Endless Dreams (Midnigh                         守夜人
 リセット                                  Taichi Mukai
 A Place In My Heart                  tricolor & Koichi
-ヒロイン                                        DAZBEE
 We Own the Sky                                     M83
 Seafloor                                    夜韻-Yoin-
+ヒロイン                                        DAZBEE
 Loop                                 Martin Garrix & D
 モラトリアム                         ROOKiEZ is PUNK'D
 彗星                                          白鲨JAWS
