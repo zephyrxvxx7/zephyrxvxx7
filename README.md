@@ -50,10 +50,10 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Sincerely                                          Lia
 Endless Dreams (Midnigh                         守夜人
-リセット                                  Taichi Mukai
+Sincerely                                          Lia
 A Place In My Heart                  tricolor & Koichi
+リセット                                  Taichi Mukai
 We Own the Sky                                     M83
 Seafloor                                    夜韻-Yoin-
 ヒロイン                                        DAZBEE
