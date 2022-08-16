@@ -50,16 +50,16 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Endless Dreams (Midnigh                         守夜人
-Sincerely                                          Lia
-A Place In My Heart                  tricolor & Koichi
-リセット                                  Taichi Mukai
 We Own the Sky                                     M83
-Seafloor                                    夜韻-Yoin-
-ヒロイン                                        DAZBEE
+Sincerely                                          Lia
+Endless Dreams (Midnigh                         守夜人
+リセット                                  Taichi Mukai
 Loop                                 Martin Garrix & D
-モラトリアム                         ROOKiEZ is PUNK'D
+A Place In My Heart                  tricolor & Koichi
 彗星                                          白鲨JAWS
+煽げや尊し                                        Reol
+他們說我是沒有用的年輕人                     Good Band
+resonance                              Aiobahn & KOCHO
 ```
 
 <!-- spotify_track end -->
