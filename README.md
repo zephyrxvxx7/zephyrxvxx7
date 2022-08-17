@@ -50,16 +50,16 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-We Own the Sky                                     M83
-Sincerely                                          Lia
-Endless Dreams (Midnigh                         守夜人
-リセット                                  Taichi Mukai
+Happy!!! 運將情歌                          EggPlantEgg
 Loop                                 Martin Garrix & D
-A Place In My Heart                  tricolor & Koichi
-彗星                                          白鲨JAWS
 煽げや尊し                                        Reol
-他們說我是沒有用的年輕人                     Good Band
 resonance                              Aiobahn & KOCHO
+滯留鋒                                        理想混蛋
+憨孫仔 feat. 流氓阿德              Theseus 忒修斯 & 流
+A Place In My Heart                  tricolor & Koichi
+In Too Deep                           The Chainsmokers
+不是因為天氣晴朗才愛你                        理想混蛋
+行星                                          理想混蛋
 ```
 
 <!-- spotify_track end -->
