@@ -51,15 +51,15 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 Happy!!! 運將情歌                          EggPlantEgg
-Loop                                 Martin Garrix & D
 煽げや尊し                                        Reol
-resonance                              Aiobahn & KOCHO
 滯留鋒                                        理想混蛋
+resonance                              Aiobahn & KOCHO
+Udyr, the Spirit Walker              League of Legends
 憨孫仔 feat. 流氓阿德              Theseus 忒修斯 & 流
 A Place In My Heart                  tricolor & Koichi
 In Too Deep                           The Chainsmokers
+Loop                                 Martin Garrix & D
 不是因為天氣晴朗才愛你                        理想混蛋
-行星                                          理想混蛋
 ```
 
 <!-- spotify_track end -->
