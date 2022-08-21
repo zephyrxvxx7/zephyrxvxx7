@@ -39,7 +39,6 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Age of Empires IV                🕘 0 hrs 30 mins
 💻 Wallpaper Engine                 🕘 13 hrs 26 mins
 ```
 
@@ -51,7 +50,6 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 Happy!!! 運將情歌                          EggPlantEgg
-滯留鋒                                        理想混蛋
 煽げや尊し                                        Reol
 In Too Deep                           The Chainsmokers
 I Love U                              The Chainsmokers
@@ -59,6 +57,7 @@ resonance                              Aiobahn & KOCHO
 Udyr, the Spirit Walker              League of Legends
 Riptide                               The Chainsmokers
 憨孫仔 feat. 流氓阿德              Theseus 忒修斯 & 流
+滯留鋒                                        理想混蛋
 A Place In My Heart                  tricolor & Koichi
 ```
 
