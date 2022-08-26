@@ -60,8 +60,8 @@ resonance                              Aiobahn & KOCHO
 Udyr, the Spirit Walker              League of Legends
 Riptide                               The Chainsmokers
 憨孫仔 feat. 流氓阿德              Theseus 忒修斯 & 流
-A Place In My Heart                  tricolor & Koichi
 If You're Serious                     The Chainsmokers
+Why Can't You Wait                    The Chainsmokers
 ```
 
 <!-- spotify_track end -->
