@@ -56,12 +56,12 @@ Happy!!! 運將情歌                          EggPlantEgg
 煙花                                          Neci Ken
 In Too Deep                           The Chainsmokers
 I Love U                              The Chainsmokers
-resonance                              Aiobahn & KOCHO
 Udyr, the Spirit Walker              League of Legends
 Riptide                               The Chainsmokers
 憨孫仔 feat. 流氓阿德              Theseus 忒修斯 & 流
 If You're Serious                     The Chainsmokers
 Why Can't You Wait                    The Chainsmokers
+Solo Mission                          The Chainsmokers
 ```
 
 <!-- spotify_track end -->
