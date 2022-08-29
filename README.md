@@ -49,16 +49,16 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Happy!!! 運將情歌                          EggPlantEgg
 煙花                                          Neci Ken
+Happy!!! 運將情歌                          EggPlantEgg
 In Too Deep                           The Chainsmokers
 I Love U                              The Chainsmokers
 Udyr, the Spirit Walker              League of Legends
+練習一個人生活                                Neci Ken
 Riptide                               The Chainsmokers
 憨孫仔 feat. 流氓阿德              Theseus 忒修斯 & 流
 If You're Serious                     The Chainsmokers
 Why Can't You Wait                    The Chainsmokers
-Solo Mission                          The Chainsmokers
 ```
 
 <!-- spotify_track end -->
