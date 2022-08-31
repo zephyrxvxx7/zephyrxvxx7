@@ -50,15 +50,15 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 リンカーネーション                    チョーキューメイ
+心とは~kolu_kokolu~                      LEGO BIG MORL
+また夏を追う                                  あたらよ
 煙花                                          Neci Ken
-Happy!!! 運將情歌                          EggPlantEgg
 She Side Blue                         チョーキューメイ
+Happy!!! 運將情歌                          EggPlantEgg
+この恋の捨て方                                野田愛実
 In Too Deep                           The Chainsmokers
 I Love U                              The Chainsmokers
 Udyr, the Spirit Walker              League of Legends
-練習一個人生活                                Neci Ken
-Riptide                               The Chainsmokers
-憨孫仔 feat. 流氓阿德              Theseus 忒修斯 & 流
 ```
 
 <!-- spotify_track end -->
