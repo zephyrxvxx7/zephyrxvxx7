@@ -49,16 +49,16 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-リンカーネーション                    チョーキューメイ
 心とは~kolu_kokolu~                      LEGO BIG MORL
+リンカーネーション                    チョーキューメイ
 また夏を追う                                  あたらよ
+Name of Love                              cinema staff
+この恋の捨て方                                野田愛実
 煙花                                          Neci Ken
+song for you                       長瀬麻奈 (CV:神田沙
 She Side Blue                         チョーキューメイ
 Happy!!! 運將情歌                          EggPlantEgg
-この恋の捨て方                                野田愛実
 In Too Deep                           The Chainsmokers
-I Love U                              The Chainsmokers
-Udyr, the Spirit Walker              League of Legends
 ```
 
 <!-- spotify_track end -->
