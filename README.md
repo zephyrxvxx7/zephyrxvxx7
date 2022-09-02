@@ -52,13 +52,13 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 心とは~kolu_kokolu~                      LEGO BIG MORL
 リンカーネーション                    チョーキューメイ
 また夏を追う                                  あたらよ
+煙花                                          Neci Ken
 Name of Love                              cinema staff
 この恋の捨て方                                野田愛実
-煙花                                          Neci Ken
 song for you                       長瀬麻奈 (CV:神田沙
 She Side Blue                         チョーキューメイ
 Happy!!! 運將情歌                          EggPlantEgg
-In Too Deep                           The Chainsmokers
+練習一個人生活                                Neci Ken
 ```
 
 <!-- spotify_track end -->
