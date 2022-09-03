@@ -56,8 +56,8 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 Name of Love                              cinema staff
 この恋の捨て方                                野田愛実
 song for you                       長瀬麻奈 (CV:神田沙
-She Side Blue                         チョーキューメイ
 Happy!!! 運將情歌                          EggPlantEgg
+She Side Blue                         チョーキューメイ
 練習一個人生活                                Neci Ken
 ```
 
