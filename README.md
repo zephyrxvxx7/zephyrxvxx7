@@ -40,6 +40,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 FreshWomen - Season 1            🕘 2 hrs 57 mins
+🎮 Apex Legends                     🕘 9 hrs 46 mins
 ```
 
 <!-- steam_time end -->
@@ -51,14 +52,14 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 ```text
 心とは~kolu_kokolu~                      LEGO BIG MORL
 リンカーネーション                    チョーキューメイ
+再見之前                                     Control T
 また夏を追う                                  あたらよ
-煙花                                          Neci Ken
 Name of Love                              cinema staff
 この恋の捨て方                                野田愛実
+煙花                                          Neci Ken
 song for you                       長瀬麻奈 (CV:神田沙
 Happy!!! 運將情歌                          EggPlantEgg
 She Side Blue                         チョーキューメイ
-練習一個人生活                                Neci Ken
 ```
 
 <!-- spotify_track end -->
