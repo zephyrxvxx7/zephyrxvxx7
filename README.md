@@ -40,7 +40,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 FreshWomen - Season 1            🕘 2 hrs 57 mins
-🎮 Apex Legends                     🕘 9 hrs 46 mins
+🎮 Apex Legends                     🕘 9 hrs 52 mins
 ```
 
 <!-- steam_time end -->
@@ -55,11 +55,11 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 リンカーネーション                    チョーキューメイ
 また夏を追う                                  あたらよ
 Name of Love                              cinema staff
-この恋の捨て方                                野田愛実
 煙花                                          Neci Ken
+この恋の捨て方                                野田愛実
 song for you                       長瀬麻奈 (CV:神田沙
+Purely                                        Neci Ken
 A Place In My Heart                  tricolor & Koichi
-Happy!!! 運將情歌                          EggPlantEgg
 ```
 
 <!-- spotify_track end -->
