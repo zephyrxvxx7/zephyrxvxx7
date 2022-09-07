@@ -40,7 +40,7 @@ Roff       26 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 FreshWomen - Season 1            🕘 2 hrs 57 mins
-🎮 Apex Legends                     🕘 9 hrs 52 mins
+🎮 Apex Legends                     🕘 12 hrs 7 mins
 ```
 
 <!-- steam_time end -->
