@@ -58,8 +58,8 @@ Name of Love                              cinema staff
 煙花                                          Neci Ken
 この恋の捨て方                                野田愛実
 song for you                       長瀬麻奈 (CV:神田沙
+Second Limit (re:rec)                   MY FIRST STORY
 Purely                                        Neci Ken
-A Place In My Heart                  tricolor & Koichi
 ```
 
 <!-- spotify_track end -->
