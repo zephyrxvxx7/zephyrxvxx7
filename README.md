@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     6 hrs 39 mins  ███████▌░░░░░░░░░░░░░  36.1%
-Vue.js     5 hrs 42 mins  ██████▍░░░░░░░░░░░░░░  30.9%
-JavaScript 4 hrs 5 mins   ████▋░░░░░░░░░░░░░░░░  22.2%
-Other      40 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
-INI        33 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+Vue.js     7 hrs 36 mins  ███████▉░░░░░░░░░░░░░  37.5%
+Python     5 hrs 35 mins  █████▊░░░░░░░░░░░░░░░  27.6%
+JavaScript 4 hrs 47 mins  ████▉░░░░░░░░░░░░░░░░  23.6%
+Other      46 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+INI        33 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
 ```
 
 <!-- code_time end -->
@@ -53,15 +53,15 @@ INI        33 mins        ▋░░░░░░░░░░░░░░░░░
 
 ```text
 心とは~kolu_kokolu~                      LEGO BIG MORL
-再見之前                                     Control T
+She Side Blue                         チョーキューメイ
 リンカーネーション                    チョーキューメイ
+再見之前                                     Control T
 また夏を追う                                  あたらよ
 Name of Love                              cinema staff
 煙花                                          Neci Ken
 この恋の捨て方                                野田愛実
 song for you                       長瀬麻奈 (CV:神田沙
 Second Limit (re:rec)                   MY FIRST STORY
-Purely                                        Neci Ken
 ```
 
 <!-- spotify_track end -->
