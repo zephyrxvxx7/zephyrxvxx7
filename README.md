@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     7 hrs 36 mins  ████████▊░░░░░░░░░░░░  42.0%
-Python     4 hrs 25 mins  █████▏░░░░░░░░░░░░░░░  24.4%
-JavaScript 4 hrs 23 mins  █████░░░░░░░░░░░░░░░░  24.3%
-Other      40 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.7%
-Docker     21 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+Vue.js     7 hrs 34 mins  █████████▎░░░░░░░░░░░  44.2%
+Python     4 hrs 25 mins  █████▍░░░░░░░░░░░░░░░  25.9%
+JavaScript 4 hrs 23 mins  █████▍░░░░░░░░░░░░░░░  25.7%
+Other      12 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+Bash       11 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
 ```
 
 <!-- code_time end -->
@@ -53,14 +53,14 @@ Docker     21 mins        ▍░░░░░░░░░░░░░░░░░
 ```text
 心とは~kolu_kokolu~                      LEGO BIG MORL
 She Side Blue                         チョーキューメイ
-リンカーネーション                    チョーキューメイ
 再見之前                                     Control T
+リンカーネーション                    チョーキューメイ
 煙花                                          Neci Ken
 また夏を追う                                  あたらよ
 Name of Love                              cinema staff
 この恋の捨て方                                野田愛実
-song for you                       長瀬麻奈 (CV:神田沙
 Second Limit (re:rec)                   MY FIRST STORY
+song for you                       長瀬麻奈 (CV:神田沙
 ```
 
 <!-- spotify_track end -->
