@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     7 hrs 34 mins  █████████▎░░░░░░░░░░░  44.2%
-Python     4 hrs 25 mins  █████▍░░░░░░░░░░░░░░░  25.9%
-JavaScript 4 hrs 23 mins  █████▍░░░░░░░░░░░░░░░  25.7%
-Other      12 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
-Bash       11 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Vue.js     5 hrs 22 mins  ████████▉░░░░░░░░░░░░  42.4%
+Python     4 hrs 25 mins  ███████▎░░░░░░░░░░░░░  34.9%
+JavaScript 2 hrs 21 mins  ███▉░░░░░░░░░░░░░░░░░  18.6%
+Other      12 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+Bash       11 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
 ```
 
 <!-- code_time end -->
@@ -60,7 +60,7 @@ She Side Blue                         チョーキューメイ
 Name of Love                              cinema staff
 この恋の捨て方                                野田愛実
 Second Limit (re:rec)                   MY FIRST STORY
-song for you                       長瀬麻奈 (CV:神田沙
+Purely                                        Neci Ken
 ```
 
 <!-- spotify_track end -->
