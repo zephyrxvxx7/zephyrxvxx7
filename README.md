@@ -58,8 +58,8 @@ She Side Blue                         チョーキューメイ
 また夏を追う                                  あたらよ
 Name of Love                              cinema staff
 この恋の捨て方                                野田愛実
-Second Limit (re:rec)                   MY FIRST STORY
 Purely                                        Neci Ken
+Second Limit (re:rec)                   MY FIRST STORY
 ```
 
 <!-- spotify_track end -->
