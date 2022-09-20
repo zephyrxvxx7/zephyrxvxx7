@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     1 min          ██████████████▉░░░░░░  71.4%
-Markdown   0 secs         █████▏░░░░░░░░░░░░░░░  24.7%
-YAML       0 secs         ▋░░░░░░░░░░░░░░░░░░░░   3.3%
-Text       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.6%
+Vue.js     46 mins        ██████▌░░░░░░░░░░░░░░  31.1%
+Python     44 mins        ██████▎░░░░░░░░░░░░░░  30.2%
+Other      26 mins        ███▊░░░░░░░░░░░░░░░░░  18.1%
+JSON       19 mins        ██▊░░░░░░░░░░░░░░░░░░  13.2%
+JavaScript 10 mins        █▌░░░░░░░░░░░░░░░░░░░   7.4%
 ```
 
 <!-- code_time end -->
@@ -50,15 +51,15 @@ Text       0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-心とは~kolu_kokolu~                      LEGO BIG MORL
-再見之前                                     Control T
 She Side Blue                         チョーキューメイ
+再見之前                                     Control T
+心とは~kolu_kokolu~                      LEGO BIG MORL
 リンカーネーション                    チョーキューメイ
+去海邊                                            鄭興
 煙花                                          Neci Ken
 また夏を追う                                  あたらよ
 Name of Love                              cinema staff
 この恋の捨て方                                野田愛実
-Purely                                        Neci Ken
 Second Limit (re:rec)                   MY FIRST STORY
 ```
 
