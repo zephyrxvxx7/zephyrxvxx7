@@ -41,7 +41,8 @@ JavaScript 10 mins        █▌░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Apex Legends                     🕘 12 hrs 7 mins
+🎮 Apex Legends                     🕘 14 hrs 1 mins
+🎮 DEATH STRANDING                  🕘 1 hrs 4 mins
 ```
 
 <!-- steam_time end -->
@@ -51,11 +52,11 @@ JavaScript 10 mins        █▌░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+去海邊                                            鄭興
 She Side Blue                         チョーキューメイ
 再見之前                                     Control T
 心とは~kolu_kokolu~                      LEGO BIG MORL
 リンカーネーション                    チョーキューメイ
-去海邊                                            鄭興
 煙花                                          Neci Ken
 また夏を追う                                  あたらよ
 Name of Love                              cinema staff
