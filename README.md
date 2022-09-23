@@ -41,7 +41,7 @@ JavaScript 14 mins        ▌░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Apex Legends                     🕘 14 hrs 1 mins
+🎮 Apex Legends                     🕘 14 hrs 31 mins
 🎮 DEATH STRANDING                  🕘 1 hrs 4 mins
 ```
 
