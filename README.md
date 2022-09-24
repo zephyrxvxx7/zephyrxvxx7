@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     5 hrs 50 mins  ███████████████░░░░░░  71.8%
-Vue.js     1 hr 11 mins   ███░░░░░░░░░░░░░░░░░░  14.6%
-Other      27 mins        █▏░░░░░░░░░░░░░░░░░░░   5.5%
-JSON       19 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
-JavaScript 14 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
+Python     10 hrs 31 mins ████████████████▋░░░░  79.2%
+Vue.js     1 hr 19 mins   ██░░░░░░░░░░░░░░░░░░░  10.0%
+Other      42 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
+JSON       21 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+JavaScript 15 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
 ```
 
 <!-- code_time end -->
@@ -61,7 +61,7 @@ She Side Blue                         チョーキューメイ
 また夏を追う                                  あたらよ
 Name of Love                              cinema staff
 この恋の捨て方                                野田愛実
-Second Limit (re:rec)                   MY FIRST STORY
+貴方の恋人になりたい                  チョーキューメイ
 ```
 
 <!-- spotify_track end -->
