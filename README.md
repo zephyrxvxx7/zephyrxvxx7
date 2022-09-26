@@ -57,12 +57,12 @@ JSON       31 mins        ▌░░░░░░░░░░░░░░░░░
 She Side Blue                         チョーキューメイ
 再見之前                                     Control T
 心とは~kolu_kokolu~                      LEGO BIG MORL
-リンカーネーション                    チョーキューメイ
 煙花                                          Neci Ken
+リンカーネーション                    チョーキューメイ
 また夏を追う                                  あたらよ
 Name of Love                              cinema staff
 この恋の捨て方                                野田愛実
-song for you                       長瀬麻奈 (CV:神田沙
+Second Limit (re:rec)                   MY FIRST STORY
 ```
 
 <!-- spotify_track end -->
