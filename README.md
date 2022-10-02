@@ -59,8 +59,8 @@ She Side Blue                         チョーキューメイ
 Ripe Aster                                    八木海莉
 I Really Want to Stay a              Rosa Walton & Hal
 煙花                                          Neci Ken
-リンカーネーション                    チョーキューメイ
 また夏を追う                                  あたらよ
+リンカーネーション                    チョーキューメイ
 心とは~kolu_kokolu~                      LEGO BIG MORL
 outcry                                        あたらよ
 ```
