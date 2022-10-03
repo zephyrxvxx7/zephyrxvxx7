@@ -41,9 +41,10 @@ Bash       28 mins        ▌░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Apex Legends                     🕘 23 hrs 33 mins
+🎮 Apex Legends                     🕘 24 hrs 24 mins
 🎮 DEATH STRANDING                  🕘 1 hrs 4 mins
 🎮 FreshWomen - Season 1            🕘 3 hrs 14 mins
+🎮 Ultimate Chicken Horse           🕘 9 hrs 15 mins
 ```
 
 <!-- steam_time end -->
