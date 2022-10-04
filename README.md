@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     7 hrs 51 mins  █████████▍░░░░░░░░░░░  45.2%
-JavaScript 5 hrs 23 mins  ██████▌░░░░░░░░░░░░░░  31.1%
-Vue.js     2 hrs 30 mins  ███░░░░░░░░░░░░░░░░░░  14.4%
-Other      40 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
-Bash       28 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
+Python     7 hrs 29 mins  █████████▌░░░░░░░░░░░  45.4%
+JavaScript 4 hrs 37 mins  █████▉░░░░░░░░░░░░░░░  28.1%
+Vue.js     1 hr 44 mins   ██▏░░░░░░░░░░░░░░░░░░  10.5%
+JSON       43 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
+Other      33 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
 ```
 
 <!-- code_time end -->
@@ -56,8 +56,8 @@ Bash       28 mins        ▌░░░░░░░░░░░░░░░░░
 ```text
 去海邊                                            鄭興
 She Side Blue                         チョーキューメイ
-再見之前                                     Control T
 Ripe Aster                                    八木海莉
+再見之前                                     Control T
 I Really Want to Stay a              Rosa Walton & Hal
 煙花                                          Neci Ken
 また夏を追う                                  あたらよ
