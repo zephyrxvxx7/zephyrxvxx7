@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     10 hrs 51 mins ████████████▎░░░░░░░░  58.6%
-JavaScript 2 hrs 50 mins  ███▏░░░░░░░░░░░░░░░░░  15.3%
-TypeScript 1 hr 41 mins   █▉░░░░░░░░░░░░░░░░░░░   9.1%
-Vue.js     1 hr 9 mins    █▎░░░░░░░░░░░░░░░░░░░   6.3%
-Other      46 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.2%
+Python     7 hrs 10 mins  ███████████▍░░░░░░░░░  54.3%
+TypeScript 1 hr 48 mins   ██▊░░░░░░░░░░░░░░░░░░  13.7%
+JavaScript 1 hr 46 mins   ██▊░░░░░░░░░░░░░░░░░░  13.4%
+Vue.js     1 hr 3 mins    █▋░░░░░░░░░░░░░░░░░░░   8.0%
+JSON       35 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.5%
 ```
 
 <!-- code_time end -->
@@ -58,11 +58,11 @@ She Side Blue                         チョーキューメイ
 Ripe Aster                                    八木海莉
 I Really Want to Stay a              Rosa Walton & Hal
 再見之前                                     Control T
-煙花                                          Neci Ken
 Greatest Strength                     Hiroaki Tsutsumi
 心とは~kolu_kokolu~                      LEGO BIG MORL
 また夏を追う                                  あたらよ
 outcry                                        あたらよ
+Endless Dreams (Midnigh                         守夜人
 ```
 
 <!-- spotify_track end -->
