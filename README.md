@@ -42,8 +42,8 @@ JavaScript 32 mins        █░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 Apex Legends                     🕘 26 hrs 24 mins
-🎮 FreshWomen - Season 1            🕘 3 hrs 15 mins
 🎮 Ultimate Chicken Horse           🕘 9 hrs 15 mins
+🎮 FreshWomen - Season 1            🕘 3 hrs 15 mins
 ```
 
 <!-- steam_time end -->
@@ -55,8 +55,8 @@ JavaScript 32 mins        █░░░░░░░░░░░░░░░░░
 ```text
 去海邊                                            鄭興
 She Side Blue                         チョーキューメイ
-Ripe Aster                                    八木海莉
 I Really Want to Stay a              Rosa Walton & Hal
+Ripe Aster                                    八木海莉
 再見之前                                     Control T
 Greatest Strength                     Hiroaki Tsutsumi
 心とは~kolu_kokolu~                      LEGO BIG MORL
