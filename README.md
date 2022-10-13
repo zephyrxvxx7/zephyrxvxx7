@@ -27,10 +27,7 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-TypeScript 1 hr 1 min     ██████████████████░░░  85.7%
-Other      6 mins         █▊░░░░░░░░░░░░░░░░░░░   8.4%
-XML        4 mins         █▏░░░░░░░░░░░░░░░░░░░   5.5%
-Cocoa      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+TypeScript 7 mins         █████████████████████ 100.0%
 ```
 
 <!-- code_time end -->
