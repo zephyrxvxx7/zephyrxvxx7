@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-TypeScript 7 mins         █████████████████████ 100.0%
+Python     3 hrs 5 mins   ████████████▊░░░░░░░░  61.1%
+JavaScript 1 hr 21 mins   █████▌░░░░░░░░░░░░░░░  26.7%
+JSON       17 mins        █▏░░░░░░░░░░░░░░░░░░░   5.7%
+Vue.js     14 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%
+Other      5 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.8%
 ```
 
 <!-- code_time end -->
