@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     3 hrs 5 mins   ████████████▊░░░░░░░░  61.1%
-JavaScript 1 hr 21 mins   █████▌░░░░░░░░░░░░░░░  26.7%
-JSON       17 mins        █▏░░░░░░░░░░░░░░░░░░░   5.7%
-Vue.js     14 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%
-Other      5 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.8%
+Python     5 hrs 53 mins  ████████████▌░░░░░░░░  59.7%
+JavaScript 2 hrs 42 mins  █████▊░░░░░░░░░░░░░░░  27.5%
+Vue.js     44 mins        █▌░░░░░░░░░░░░░░░░░░░   7.5%
+JSON       17 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
+Other      6 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.2%
 ```
 
 <!-- code_time end -->
@@ -41,7 +41,7 @@ Other      5 mins         ▍░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Apex Legends                     🕘 30 hrs 7 mins
+🎮 Apex Legends                     🕘 31 hrs 45 mins
 🎮 Project Winter                   🕘 4 hrs 18 mins
 🎮 Ultimate Chicken Horse           🕘 9 hrs 15 mins
 🎮 FreshWomen - Season 1            🕘 3 hrs 15 mins
@@ -56,8 +56,8 @@ Other      5 mins         ▍░░░░░░░░░░░░░░░░░
 ```text
 去海邊                                            鄭興
 She Side Blue                         チョーキューメイ
-I Really Want to Stay a              Rosa Walton & Hal
 Greatest Strength                     Hiroaki Tsutsumi
+I Really Want to Stay a              Rosa Walton & Hal
 Ripe Aster                                    八木海莉
 再見之前                                     Control T
 outcry                                        あたらよ
