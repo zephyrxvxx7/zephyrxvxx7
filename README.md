@@ -55,15 +55,15 @@ Other      6 mins         ▏░░░░░░░░░░░░░░░░░
 
 ```text
 去海邊                                            鄭興
-She Side Blue                         チョーキューメイ
 Greatest Strength                     Hiroaki Tsutsumi
 I Really Want to Stay a              Rosa Walton & Hal
 Ripe Aster                                    八木海莉
+She Side Blue                         チョーキューメイ
 再見之前                                     Control T
 outcry                                        あたらよ
-心とは~kolu_kokolu~                      LEGO BIG MORL
 また夏を追う                                  あたらよ
-Endless Dreams (Midnigh                         守夜人
+心とは~kolu_kokolu~                      LEGO BIG MORL
+A Million Miles Away                             Belle
 ```
 
 <!-- spotify_track end -->
