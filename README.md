@@ -41,9 +41,8 @@ Other      6 mins         ▏░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Apex Legends                     🕘 31 hrs 45 mins
+🎮 Apex Legends                     🕘 33 hrs 7 mins
 🎮 Project Winter                   🕘 4 hrs 18 mins
-🎮 Ultimate Chicken Horse           🕘 9 hrs 15 mins
 🎮 FreshWomen - Season 1            🕘 3 hrs 15 mins
 ```
 
@@ -59,8 +58,8 @@ Greatest Strength                     Hiroaki Tsutsumi
 I Really Want to Stay a              Rosa Walton & Hal
 Ripe Aster                                    八木海莉
 She Side Blue                         チョーキューメイ
-再見之前                                     Control T
 outcry                                        あたらよ
+再見之前                                     Control T
 また夏を追う                                  あたらよ
 心とは~kolu_kokolu~                      LEGO BIG MORL
 A Million Miles Away                             Belle
