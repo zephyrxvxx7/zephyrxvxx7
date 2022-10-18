@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     5 hrs 53 mins  ████████████▌░░░░░░░░  59.7%
-JavaScript 2 hrs 42 mins  █████▊░░░░░░░░░░░░░░░  27.5%
-Vue.js     44 mins        █▌░░░░░░░░░░░░░░░░░░░   7.5%
-JSON       17 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
-Other      6 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.2%
+Python     8 hrs 15 mins  ████████████░░░░░░░░░  57.3%
+JavaScript 4 hrs 19 mins  ██████▎░░░░░░░░░░░░░░  30.0%
+Vue.js     1 hr           █▍░░░░░░░░░░░░░░░░░░░   7.0%
+JSON       17 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+HTML       11 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
 ```
 
 <!-- code_time end -->
@@ -57,8 +57,8 @@ Other      6 mins         ▏░░░░░░░░░░░░░░░░░
 Greatest Strength                     Hiroaki Tsutsumi
 I Really Want to Stay a              Rosa Walton & Hal
 Ripe Aster                                    八木海莉
-She Side Blue                         チョーキューメイ
 outcry                                        あたらよ
+She Side Blue                         チョーキューメイ
 再見之前                                     Control T
 また夏を追う                                  あたらよ
 心とは~kolu_kokolu~                      LEGO BIG MORL
