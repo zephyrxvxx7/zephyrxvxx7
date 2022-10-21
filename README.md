@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     9 hrs 30 mins  ████████▌░░░░░░░░░░░░  40.6%
-JavaScript 6 hrs 21 mins  █████▋░░░░░░░░░░░░░░░  27.2%
-Vue.js     6 hrs 7 mins   █████▍░░░░░░░░░░░░░░░  26.2%
-Go         25 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
-Other      19 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Vue.js     8 hrs 49 mins  ████████░░░░░░░░░░░░░  38.4%
+Python     8 hrs 1 min    ███████▎░░░░░░░░░░░░░  34.9%
+JavaScript 5 hrs 4 mins   ████▋░░░░░░░░░░░░░░░░  22.1%
+Go         25 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+Other      16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
 ```
 
 <!-- code_time end -->
@@ -59,8 +59,8 @@ Ripe Aster                                    八木海莉
 outcry                                        あたらよ
 She Side Blue                         チョーキューメイ
 再見之前                                     Control T
-また夏を追う                                  あたらよ
 A Million Miles Away                             Belle
+また夏を追う                                  あたらよ
 Endless Dreams (Midnigh                         守夜人
 ```
 
