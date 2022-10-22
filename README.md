@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     8 hrs 49 mins  ████████░░░░░░░░░░░░░  38.4%
-Python     8 hrs 1 min    ███████▎░░░░░░░░░░░░░  34.9%
-JavaScript 5 hrs 4 mins   ████▋░░░░░░░░░░░░░░░░  22.1%
-Go         25 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
-Other      16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+Vue.js     10 hrs 6 mins  █████████▉░░░░░░░░░░░  47.2%
+Python     6 hrs          █████▉░░░░░░░░░░░░░░░  28.0%
+JavaScript 4 hrs 15 mins  ████▏░░░░░░░░░░░░░░░░  19.9%
+Other      20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+Go         20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
 ```
 
 <!-- code_time end -->
@@ -57,9 +57,9 @@ I Really Want to Stay a              Rosa Walton & Hal
 Ripe Aster                                    八木海莉
 去海邊                                            鄭興
 outcry                                        あたらよ
+A Million Miles Away                             Belle
 She Side Blue                         チョーキューメイ
 再見之前                                     Control T
-A Million Miles Away                             Belle
 また夏を追う                                  あたらよ
 Endless Dreams (Midnigh                         守夜人
 ```
