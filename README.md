@@ -54,14 +54,14 @@ Go         20 mins        ▎░░░░░░░░░░░░░░░░░
 ```text
 Greatest Strength                     Hiroaki Tsutsumi
 I Really Want to Stay a              Rosa Walton & Hal
-Ripe Aster                                    八木海莉
 去海邊                                            鄭興
+Ripe Aster                                    八木海莉
 outcry                                        あたらよ
 A Million Miles Away                             Belle
 She Side Blue                         チョーキューメイ
 再見之前                                     Control T
 また夏を追う                                  あたらよ
-Endless Dreams (Midnigh                         守夜人
+マリタイム                                   AprilBlue
 ```
 
 <!-- spotify_track end -->
