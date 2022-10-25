@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     10 hrs 6 mins  █████████▋░░░░░░░░░░░  46.3%
-Python     6 hrs          █████▊░░░░░░░░░░░░░░░  27.5%
-JavaScript 4 hrs 37 mins  ████▍░░░░░░░░░░░░░░░░  21.2%
-Other      20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-Go         20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+Vue.js     12 hrs 19 mins ██████████▏░░░░░░░░░░  48.3%
+JavaScript 5 hrs 56 mins  ████▉░░░░░░░░░░░░░░░░  23.3%
+Python     5 hrs 3 mins   ████▏░░░░░░░░░░░░░░░░  19.8%
+Other      1 hr 23 mins   █▏░░░░░░░░░░░░░░░░░░░   5.5%
+Go         17 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
 ```
 
 <!-- code_time end -->
@@ -51,16 +51,16 @@ Go         20 mins        ▎░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Greatest Strength                     Hiroaki Tsutsumi
 美好的事可不可以發生在我                康士坦的變化球
+Greatest Strength                     Hiroaki Tsutsumi
 去海邊                                            鄭興
-I Really Want to Stay a              Rosa Walton & Hal
-A Million Miles Away                             Belle
-outcry                                        あたらよ
-Ripe Aster                                    八木海莉
-マリタイム                                   AprilBlue
 煙花                                          Neci Ken
-歌よ                                             Belle
+outcry                                        あたらよ
+A Million Miles Away                             Belle
+I Really Want to Stay a              Rosa Walton & Hal
+Ripe Aster                                    八木海莉
+Final Call                                       milet
+求救訊號                              VH (Vast & Hazy)
 ```
 
 <!-- spotify_track end -->
