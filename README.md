@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     12 hrs 19 mins ██████████▏░░░░░░░░░░  48.3%
-JavaScript 5 hrs 56 mins  ████▉░░░░░░░░░░░░░░░░  23.3%
-Python     5 hrs 3 mins   ████▏░░░░░░░░░░░░░░░░  19.8%
-Other      1 hr 23 mins   █▏░░░░░░░░░░░░░░░░░░░   5.5%
-Go         17 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
+Vue.js     13 hrs 53 mins █████████▉░░░░░░░░░░░  47.6%
+JavaScript 7 hrs 31 mins  █████▍░░░░░░░░░░░░░░░  25.8%
+Python     5 hrs 49 mins  ████▏░░░░░░░░░░░░░░░░  20.0%
+Other      1 hr 16 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.4%
+Bash       17 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 ```
 
 <!-- code_time end -->
@@ -52,15 +52,15 @@ Go         17 mins        ▏░░░░░░░░░░░░░░░░░
 
 ```text
 美好的事可不可以發生在我                康士坦的變化球
+鴦                                         PA PUN BAND
 Greatest Strength                     Hiroaki Tsutsumi
-去海邊                                            鄭興
 煙花                                          Neci Ken
+去海邊                                            鄭興
+請記得揍我一拳                             PA PUN BAND
+魚                                         PA PUN BAND
 outcry                                        あたらよ
-A Million Miles Away                             Belle
 I Really Want to Stay a              Rosa Walton & Hal
-Ripe Aster                                    八木海莉
-Final Call                                       milet
-求救訊號                              VH (Vast & Hazy)
+A Million Miles Away                             Belle
 ```
 
 <!-- spotify_track end -->
