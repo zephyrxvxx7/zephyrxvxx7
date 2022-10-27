@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     13 hrs 53 mins █████████▉░░░░░░░░░░░  47.6%
-JavaScript 7 hrs 31 mins  █████▍░░░░░░░░░░░░░░░  25.8%
-Python     5 hrs 49 mins  ████▏░░░░░░░░░░░░░░░░  20.0%
-Other      1 hr 16 mins   ▉░░░░░░░░░░░░░░░░░░░░   4.4%
+Vue.js     13 hrs 10 mins ██████████░░░░░░░░░░░  47.8%
+JavaScript 6 hrs 50 mins  █████▏░░░░░░░░░░░░░░░  24.8%
+Python     5 hrs 44 mins  ████▎░░░░░░░░░░░░░░░░  20.8%
+Other      1 hr 21 mins   █░░░░░░░░░░░░░░░░░░░░   4.9%
 Bash       17 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 ```
 
@@ -60,7 +60,7 @@ Greatest Strength                     Hiroaki Tsutsumi
 魚                                         PA PUN BAND
 outcry                                        あたらよ
 I Really Want to Stay a              Rosa Walton & Hal
-A Million Miles Away                             Belle
+She Side Blue                         チョーキューメイ
 ```
 
 <!-- spotify_track end -->
