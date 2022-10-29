@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     10 hrs 14 mins ████████▋░░░░░░░░░░░░  41.5%
-JavaScript 8 hrs 16 mins  ███████░░░░░░░░░░░░░░  33.5%
-Python     4 hrs 7 mins   ███▌░░░░░░░░░░░░░░░░░  16.7%
-Other      1 hr 33 mins   █▎░░░░░░░░░░░░░░░░░░░   6.3%
-Bash       18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+JavaScript 11 hrs 38 mins ████████▍░░░░░░░░░░░░  40.3%
+Vue.js     10 hrs 1 min   ███████▎░░░░░░░░░░░░░  34.6%
+Python     4 hrs 26 mins  ███▏░░░░░░░░░░░░░░░░░  15.3%
+Other      1 hr 52 mins   █▎░░░░░░░░░░░░░░░░░░░   6.5%
+Bash       33 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
 ```
 
 <!-- code_time end -->
@@ -55,9 +55,9 @@ Bash       18 mins        ▎░░░░░░░░░░░░░░░░░
 鴦                                         PA PUN BAND
 Greatest Strength                     Hiroaki Tsutsumi
 煙花                                          Neci Ken
-去海邊                                            鄭興
-請記得揍我一拳                             PA PUN BAND
 魚                                         PA PUN BAND
+請記得揍我一拳                             PA PUN BAND
+去海邊                                            鄭興
 outcry                                        あたらよ
 捲菸                                      Amazing Show
 I Really Want to Stay a              Rosa Walton & Hal
