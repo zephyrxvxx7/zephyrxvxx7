@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-JavaScript 11 hrs 52 mins ████████▍░░░░░░░░░░░░  40.0%
-Vue.js     10 hrs 1 min   ███████░░░░░░░░░░░░░░  33.8%
-Python     4 hrs 26 mins  ███▏░░░░░░░░░░░░░░░░░  14.9%
-Other      1 hr 54 mins   █▎░░░░░░░░░░░░░░░░░░░   6.4%
-Bash       1 hr 3 mins    ▋░░░░░░░░░░░░░░░░░░░░   3.6%
+JavaScript 11 hrs 30 mins ████████▎░░░░░░░░░░░░  39.3%
+Vue.js     10 hrs 1 min   ███████▏░░░░░░░░░░░░░  34.2%
+Python     4 hrs 26 mins  ███▏░░░░░░░░░░░░░░░░░  15.2%
+Other      1 hr 54 mins   █▎░░░░░░░░░░░░░░░░░░░   6.5%
+Bash       1 hr           ▋░░░░░░░░░░░░░░░░░░░░   3.5%
 ```
 
 <!-- code_time end -->
@@ -53,14 +53,14 @@ Bash       1 hr 3 mins    ▋░░░░░░░░░░░░░░░░░
 ```text
 鴦                                         PA PUN BAND
 美好的事可不可以發生在我                康士坦的變化球
-Greatest Strength                     Hiroaki Tsutsumi
 煙花                                          Neci Ken
 魚                                         PA PUN BAND
 請記得揍我一拳                             PA PUN BAND
+Greatest Strength                     Hiroaki Tsutsumi
 去海邊                                            鄭興
 outcry                                        あたらよ
 I Really Want to Stay a              Rosa Walton & Hal
-捲菸                                      Amazing Show
+She Side Blue                         チョーキューメイ
 ```
 
 <!-- spotify_track end -->
