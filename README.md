@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-JavaScript 8 hrs 55 mins  ████████░░░░░░░░░░░░░  38.2%
-Vue.js     8 hrs 8 mins   ███████▎░░░░░░░░░░░░░  34.9%
-Python     4 hrs 4 mins   ███▋░░░░░░░░░░░░░░░░░  17.4%
-Other      1 hr           ▉░░░░░░░░░░░░░░░░░░░░   4.3%
-Bash       55 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+Vue.js     9 hrs 39 mins  ████████▌░░░░░░░░░░░░  41.1%
+JavaScript 6 hrs 58 mins  ██████▏░░░░░░░░░░░░░░  29.6%
+Python     4 hrs 3 mins   ███▋░░░░░░░░░░░░░░░░░  17.3%
+Other      1 hr 30 mins   █▎░░░░░░░░░░░░░░░░░░░   6.4%
+Bash       58 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
 ```
 
 <!-- code_time end -->
