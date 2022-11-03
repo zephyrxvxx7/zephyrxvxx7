@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     9 hrs 39 mins  ████████▌░░░░░░░░░░░░  41.1%
-JavaScript 6 hrs 58 mins  ██████▏░░░░░░░░░░░░░░  29.6%
-Python     4 hrs 3 mins   ███▋░░░░░░░░░░░░░░░░░  17.3%
-Other      1 hr 30 mins   █▎░░░░░░░░░░░░░░░░░░░   6.4%
-Bash       58 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
+JavaScript 7 hrs 54 mins  ███████▊░░░░░░░░░░░░░  37.1%
+Vue.js     7 hrs 9 mins   ███████░░░░░░░░░░░░░░  33.6%
+Python     3 hrs 20 mins  ███▎░░░░░░░░░░░░░░░░░  15.7%
+Other      1 hr 33 mins   █▌░░░░░░░░░░░░░░░░░░░   7.3%
+Bash       58 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.6%
 ```
 
 <!-- code_time end -->
@@ -51,8 +51,8 @@ Bash       58 mins        ▊░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-鴦                                         PA PUN BAND
 美好的事可不可以發生在我                康士坦的變化球
+鴦                                         PA PUN BAND
 煙花                                          Neci Ken
 魚                                         PA PUN BAND
 請記得揍我一拳                             PA PUN BAND
