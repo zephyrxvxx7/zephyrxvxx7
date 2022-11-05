@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-JavaScript 8 hrs 57 mins  ███████▌░░░░░░░░░░░░░  36.0%
-Vue.js     8 hrs 32 mins  ███████▏░░░░░░░░░░░░░  34.3%
-Python     3 hrs 32 mins  ██▉░░░░░░░░░░░░░░░░░░  14.3%
-Other      1 hr 57 mins   █▋░░░░░░░░░░░░░░░░░░░   7.9%
-Bash       57 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
+Vue.js     9 hrs 6 mins   ████████▌░░░░░░░░░░░░  40.9%
+JavaScript 6 hrs 58 mins  ██████▌░░░░░░░░░░░░░░  31.3%
+Python     2 hrs 45 mins  ██▌░░░░░░░░░░░░░░░░░░  12.4%
+Other      2 hrs 1 min    █▉░░░░░░░░░░░░░░░░░░░   9.1%
+Bash       41 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
 ```
 
 <!-- code_time end -->
@@ -57,10 +57,10 @@ Bash       57 mins        ▊░░░░░░░░░░░░░░░░░
 魚                                         PA PUN BAND
 請記得揍我一拳                             PA PUN BAND
 去海邊                                            鄭興
-Greatest Strength                     Hiroaki Tsutsumi
-She Side Blue                         チョーキューメイ
 捲菸                                      Amazing Show
-outcry                                        あたらよ
+She Side Blue                         チョーキューメイ
+擋一根                                    Amazing Show
+Don't Be Afraid (電影《白           Boon Hui Lu & 黃祝
 ```
 
 <!-- spotify_track end -->
