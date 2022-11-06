@@ -59,8 +59,8 @@ Bash       41 mins        ▋░░░░░░░░░░░░░░░░░
 去海邊                                            鄭興
 捲菸                                      Amazing Show
 She Side Blue                         チョーキューメイ
-擋一根                                    Amazing Show
 Don't Be Afraid (電影《白           Boon Hui Lu & 黃祝
+擋一根                                    Amazing Show
 ```
 
 <!-- spotify_track end -->
