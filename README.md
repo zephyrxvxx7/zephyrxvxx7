@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     11 hrs 4 mins  ████████▉░░░░░░░░░░░░  42.8%
-JavaScript 7 hrs 45 mins  ██████▎░░░░░░░░░░░░░░  29.9%
-Python     4 hrs 18 mins  ███▍░░░░░░░░░░░░░░░░░  16.6%
-Other      1 hr 54 mins   █▌░░░░░░░░░░░░░░░░░░░   7.3%
-JSON       17 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Vue.js     8 hrs 59 mins  ███████▋░░░░░░░░░░░░░  36.6%
+JavaScript 7 hrs 35 mins  ██████▍░░░░░░░░░░░░░░  30.8%
+Python     5 hrs 43 mins  ████▉░░░░░░░░░░░░░░░░  23.3%
+Other      1 hr 30 mins   █▎░░░░░░░░░░░░░░░░░░░   6.1%
+Makefile   13 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
 ```
 
 <!-- code_time end -->
@@ -53,14 +53,14 @@ JSON       17 mins        ▏░░░░░░░░░░░░░░░░░
 ```text
 美好的事可不可以發生在我                康士坦的變化球
 鴦                                         PA PUN BAND
+讓我照顧妳                           芒果醬 & Xiao Qiu
 煙花                                          Neci Ken
 魚                                         PA PUN BAND
-請記得揍我一拳                             PA PUN BAND
 アカネチル                                    あたらよ
+請記得揍我一拳                             PA PUN BAND
 去海邊                                            鄭興
+愛河                                            芒果醬
 おにごっこ                                       Yuuri
-捲菸                                      Amazing Show
-リビングデッド・スイマー               Halo at Yojohan
 ```
 
 <!-- spotify_track end -->
