@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     8 hrs 59 mins  ███████▋░░░░░░░░░░░░░  36.6%
-JavaScript 7 hrs 35 mins  ██████▍░░░░░░░░░░░░░░  30.8%
-Python     5 hrs 43 mins  ████▉░░░░░░░░░░░░░░░░  23.3%
-Other      1 hr 30 mins   █▎░░░░░░░░░░░░░░░░░░░   6.1%
-Makefile   13 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+Vue.js     10 hrs 46 mins ████████▌░░░░░░░░░░░░  41.0%
+JavaScript 6 hrs 44 mins  █████▍░░░░░░░░░░░░░░░  25.6%
+Python     6 hrs 28 mins  █████▏░░░░░░░░░░░░░░░  24.7%
+Other      1 hr 29 mins   █▏░░░░░░░░░░░░░░░░░░░   5.7%
+Makefile   13 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 
 <!-- code_time end -->
@@ -53,7 +53,7 @@ Makefile   13 mins        ▏░░░░░░░░░░░░░░░░░
 ```text
 美好的事可不可以發生在我                康士坦的變化球
 鴦                                         PA PUN BAND
-讓我照顧妳                           芒果醬 & Xiao Qiu
+讓我照顧妳                          芒果醬 & 小球(莊鵑
 煙花                                          Neci Ken
 魚                                         PA PUN BAND
 アカネチル                                    あたらよ
