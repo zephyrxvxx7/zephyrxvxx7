@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     10 hrs 46 mins ████████▌░░░░░░░░░░░░  41.0%
-JavaScript 6 hrs 44 mins  █████▍░░░░░░░░░░░░░░░  25.6%
-Python     6 hrs 28 mins  █████▏░░░░░░░░░░░░░░░  24.7%
-Other      1 hr 29 mins   █▏░░░░░░░░░░░░░░░░░░░   5.7%
-Makefile   13 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
+Vue.js     10 hrs 48 mins █████████▋░░░░░░░░░░░  46.3%
+Python     6 hrs 44 mins  ██████░░░░░░░░░░░░░░░  28.9%
+JavaScript 4 hrs 11 mins  ███▊░░░░░░░░░░░░░░░░░  17.9%
+Other      59 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.3%
+Markdown   10 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 
 <!-- code_time end -->
@@ -55,11 +55,11 @@ Makefile   13 mins        ▏░░░░░░░░░░░░░░░░░
 鴦                                         PA PUN BAND
 讓我照顧妳                          芒果醬 & 小球(莊鵑
 煙花                                          Neci Ken
-魚                                         PA PUN BAND
 アカネチル                                    あたらよ
+魚                                         PA PUN BAND
 請記得揍我一拳                             PA PUN BAND
-去海邊                                            鄭興
 愛河                                            芒果醬
+去海邊                                            鄭興
 おにごっこ                                       Yuuri
 ```
 
