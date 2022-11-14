@@ -60,8 +60,8 @@ Markdown   10 mins        ▏░░░░░░░░░░░░░░░░░
 魚                                         PA PUN BAND
 請記得揍我一拳                             PA PUN BAND
 愛河                                            芒果醬
-去海邊                                            鄭興
 KANATA HALUKA                                 RADWIMPS
+去海邊                                            鄭興
 ```
 
 <!-- spotify_track end -->
