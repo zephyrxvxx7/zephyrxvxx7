@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     6 hrs 18 mins  █████████▏░░░░░░░░░░░  43.5%
-Python     6 hrs 2 mins   ████████▊░░░░░░░░░░░░  41.8%
-JavaScript 54 mins        █▎░░░░░░░░░░░░░░░░░░░   6.3%
-Other      26 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-Text       15 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.8%
+Vue.js     5 hrs 42 mins  ████████▊░░░░░░░░░░░░  42.2%
+Python     4 hrs 48 mins  ███████▍░░░░░░░░░░░░░  35.5%
+JavaScript 1 hr 33 mins   ██▍░░░░░░░░░░░░░░░░░░  11.5%
+Other      45 mins        █▏░░░░░░░░░░░░░░░░░░░   5.5%
+Text       15 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
 ```
 
 <!-- code_time end -->
@@ -59,9 +59,9 @@ Text       15 mins        ▎░░░░░░░░░░░░░░░░░
 アカネチル                                    あたらよ
 魚                                         PA PUN BAND
 請記得揍我一拳                             PA PUN BAND
-愛河                                            芒果醬
 KANATA HALUKA                                 RADWIMPS
-去海邊                                            鄭興
+擱淺的人                                康士坦的變化球
+愛河                                            芒果醬
 ```
 
 <!-- spotify_track end -->
