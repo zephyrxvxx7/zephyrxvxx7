@@ -52,15 +52,15 @@ Makefile   21 mins        ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+讓我照顧妳                          芒果醬 & 小球(莊鵑
 鴦                                         PA PUN BAND
 美好的事可不可以發生在我                康士坦的變化球
-讓我照顧妳                          芒果醬 & 小球(莊鵑
-煙花                                          Neci Ken
 アカネチル                                    あたらよ
+煙花                                          Neci Ken
 魚                                         PA PUN BAND
-請記得揍我一拳                             PA PUN BAND
-擱淺的人                                康士坦的變化球
 KANATA HALUKA                                 RADWIMPS
+擱淺的人                                康士坦的變化球
+愛河                                            芒果醬
 去海邊                                            鄭興
 ```
 
