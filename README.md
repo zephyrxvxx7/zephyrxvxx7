@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     4 hrs 50 mins  ██████▎░░░░░░░░░░░░░░  30.2%
-Vue.js     4 hrs 1 min    █████▎░░░░░░░░░░░░░░░  25.1%
-JavaScript 2 hrs 56 mins  ███▊░░░░░░░░░░░░░░░░░  18.4%
-Other      2 hrs 23 mins  ███▏░░░░░░░░░░░░░░░░░  14.9%
-Text       31 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
+Vue.js     4 hrs 36 mins  ███████░░░░░░░░░░░░░░  33.6%
+Python     3 hrs 27 mins  █████▎░░░░░░░░░░░░░░░  25.3%
+Other      2 hrs 1 min    ███░░░░░░░░░░░░░░░░░░  14.8%
+JavaScript 1 hr 45 mins   ██▋░░░░░░░░░░░░░░░░░░  12.9%
+Text       31 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
 ```
 
 <!-- code_time end -->
@@ -53,14 +53,14 @@ Text       31 mins        ▋░░░░░░░░░░░░░░░░░
 ```text
 讓我照顧妳                          芒果醬 & 小球(莊鵑
 美好的事可不可以發生在我                康士坦的變化球
+Knock Knock                                     生命樹
 鴦                                         PA PUN BAND
 アカネチル                                    あたらよ
+人間失格                                        生命樹
 煙花                                          Neci Ken
-Knock Knock                                     生命樹
-KANATA HALUKA                                 RADWIMPS
-擱淺的人                                康士坦的變化球
-愛河                                            芒果醬
-魚                                         PA PUN BAND
+微光少年                                        生命樹
+羽根                                            生命樹
+Agnes Creek                                     生命樹
 ```
 
 <!-- spotify_track end -->
