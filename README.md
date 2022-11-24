@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     4 hrs 36 mins  ███████░░░░░░░░░░░░░░  33.6%
-Python     3 hrs 27 mins  █████▎░░░░░░░░░░░░░░░  25.3%
-Other      2 hrs 1 min    ███░░░░░░░░░░░░░░░░░░  14.8%
-JavaScript 1 hr 45 mins   ██▋░░░░░░░░░░░░░░░░░░  12.9%
-Text       31 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+Vue.js     6 hrs 29 mins  ███████████▉░░░░░░░░░  56.9%
+Python     1 hr 7 mins    ██░░░░░░░░░░░░░░░░░░░   9.9%
+JavaScript 1 hr 7 mins    ██░░░░░░░░░░░░░░░░░░░   9.9%
+Other      1 hr 3 mins    █▉░░░░░░░░░░░░░░░░░░░   9.2%
+Text       30 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.5%
 ```
 
 <!-- code_time end -->
@@ -54,11 +54,11 @@ Text       31 mins        ▊░░░░░░░░░░░░░░░░░
 讓我照顧妳                          芒果醬 & 小球(莊鵑
 美好的事可不可以發生在我                康士坦的變化球
 Knock Knock                                     生命樹
-鴦                                         PA PUN BAND
 アカネチル                                    あたらよ
 人間失格                                        生命樹
 煙花                                          Neci Ken
 微光少年                                        生命樹
+鴦                                         PA PUN BAND
 羽根                                            生命樹
 Agnes Creek                                     生命樹
 ```
