@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     9 hrs 28 mins  ████████████░░░░░░░░░  57.5%
-JavaScript 3 hrs 23 mins  ████▎░░░░░░░░░░░░░░░░  20.6%
-Python     1 hr 2 mins    █▎░░░░░░░░░░░░░░░░░░░   6.4%
-INI        52 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
-Text       30 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
+Vue.js     8 hrs          ███████████▊░░░░░░░░░  56.1%
+JavaScript 3 hrs 7 mins   ████▌░░░░░░░░░░░░░░░░  21.9%
+Python     1 hr 11 mins   █▊░░░░░░░░░░░░░░░░░░░   8.4%
+INI        53 mins        █▎░░░░░░░░░░░░░░░░░░░   6.2%
+Bash       29 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
 ```
 
 <!-- code_time end -->
@@ -63,7 +63,7 @@ Knock Knock                                     生命樹
 羽根                                            生命樹
 Agnes Creek                                     生命樹
 蟻                                              生命樹
-煙花                                          Neci Ken
+擱淺的人                                康士坦的變化球
 ```
 
 <!-- spotify_track end -->
