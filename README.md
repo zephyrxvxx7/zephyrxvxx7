@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     9 hrs 22 mins  ███████████▉░░░░░░░░░  56.5%
-JavaScript 2 hrs 59 mins  ███▊░░░░░░░░░░░░░░░░░  18.0%
-Python     1 hr 53 mins   ██▍░░░░░░░░░░░░░░░░░░  11.4%
-INI        53 mins        █▏░░░░░░░░░░░░░░░░░░░   5.4%
-Other      43 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
+Vue.js     11 hrs 6 mins  ████████████▌░░░░░░░░  59.8%
+JavaScript 3 hrs 4 mins   ███▍░░░░░░░░░░░░░░░░░  16.6%
+Python     2 hrs 7 mins   ██▍░░░░░░░░░░░░░░░░░░  11.5%
+INI        53 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
+Bash       32 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
 ```
 
 <!-- code_time end -->
@@ -54,12 +54,12 @@ Other      43 mins        ▉░░░░░░░░░░░░░░░░░
 讓我照顧妳                          芒果醬 & 小球(莊鵑
 美好的事可不可以發生在我                康士坦的變化球
 Knock Knock                                     生命樹
+Con La Brisa - Film Ver              Foudeqush & Ludwi
 アカネチル                                    あたらよ
 人間失格                                        生命樹
 微光少年                                        生命樹
 羽根                                            生命樹
 Agnes Creek                                     生命樹
-蟻                                              生命樹
 擱淺的人                                康士坦的變化球
 ```
 
