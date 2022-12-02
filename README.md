@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     11 hrs 6 mins  ████████████▌░░░░░░░░  59.8%
-JavaScript 3 hrs 4 mins   ███▍░░░░░░░░░░░░░░░░░  16.6%
-Python     2 hrs 7 mins   ██▍░░░░░░░░░░░░░░░░░░  11.5%
-INI        53 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
-Bash       32 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
+Vue.js     12 hrs 20 mins ████████████▊░░░░░░░░  60.9%
+Python     3 hrs 34 mins  ███▋░░░░░░░░░░░░░░░░░  17.7%
+JavaScript 1 hr 20 mins   █▍░░░░░░░░░░░░░░░░░░░   6.7%
+Other      58 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
+INI        53 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
 ```
 
 <!-- code_time end -->
@@ -52,8 +52,8 @@ Bash       32 mins        ▌░░░░░░░░░░░░░░░░░
 
 ```text
 讓我照顧妳                          芒果醬 & 小球(莊鵑
-美好的事可不可以發生在我                康士坦的變化球
 Knock Knock                                     生命樹
+美好的事可不可以發生在我                康士坦的變化球
 Con La Brisa - Film Ver              Foudeqush & Ludwi
 アカネチル                                    あたらよ
 人間失格                                        生命樹
