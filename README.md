@@ -41,6 +41,7 @@ Bash       11 mins        ▏░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
+🎮 Apex Legends                     🕘 38 hrs 33 mins
 🎮 Hollow Knight                    🕘 90 hrs 22 mins
 ```
 
@@ -51,7 +52,6 @@ Bash       11 mins        ▏░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-讓我照顧妳                          芒果醬 & 小球(莊鵑
 Knock Knock                                     生命樹
 美好的事可不可以發生在我                康士坦的變化球
 Con La Brisa - Film Ver              Foudeqush & Ludwi
@@ -61,6 +61,7 @@ Con La Brisa - Film Ver              Foudeqush & Ludwi
 Agnes Creek                                     生命樹
 擱淺的人                                康士坦的變化球
 蟻                                              生命樹
+解 離                                           生命樹
 ```
 
 <!-- spotify_track end -->
