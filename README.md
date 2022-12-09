@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     11 hrs 28 mins ████████████▏░░░░░░░░  57.9%
-Python     4 hrs 31 mins  ████▊░░░░░░░░░░░░░░░░  22.8%
-Other      1 hr 44 mins   █▊░░░░░░░░░░░░░░░░░░░   8.8%
-JavaScript 1 hr 29 mins   █▌░░░░░░░░░░░░░░░░░░░   7.5%
-Properties 14 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
+Vue.js     13 hrs 48 mins ██████████████▋░░░░░░  70.2%
+Python     2 hrs 52 mins  ███░░░░░░░░░░░░░░░░░░  14.6%
+Other      1 hr 25 mins   █▌░░░░░░░░░░░░░░░░░░░   7.3%
+JavaScript 1 hr 16 mins   █▎░░░░░░░░░░░░░░░░░░░   6.4%
+Properties 14 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
 ```
 
 <!-- code_time end -->
@@ -60,8 +60,8 @@ Con La Brisa - Film Ver              Foudeqush & Ludwi
 羽根                                            生命樹
 Agnes Creek                                     生命樹
 蟻                                              生命樹
-擱淺的人                                康士坦的變化球
 解 離                                           生命樹
+擱淺的人                                康士坦的變化球
 ```
 
 <!-- spotify_track end -->
