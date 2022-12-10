@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     13 hrs 48 mins ██████████████▋░░░░░░  70.2%
-Python     2 hrs 52 mins  ███░░░░░░░░░░░░░░░░░░  14.6%
-Other      1 hr 25 mins   █▌░░░░░░░░░░░░░░░░░░░   7.3%
-JavaScript 1 hr 16 mins   █▎░░░░░░░░░░░░░░░░░░░   6.4%
-Properties 14 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+Vue.js     13 hrs 29 mins ███████████████▉░░░░░  75.8%
+JavaScript 1 hr 37 mins   █▉░░░░░░░░░░░░░░░░░░░   9.2%
+Python     1 hr 20 mins   █▌░░░░░░░░░░░░░░░░░░░   7.5%
+Other      1 hr 3 mins    █▎░░░░░░░░░░░░░░░░░░░   6.0%
+Properties 14 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
 ```
 
 <!-- code_time end -->
@@ -53,15 +53,15 @@ Properties 14 mins        ▎░░░░░░░░░░░░░░░░░
 
 ```text
 Knock Knock                                     生命樹
-美好的事可不可以發生在我                康士坦的變化球
 Con La Brisa - Film Ver              Foudeqush & Ludwi
 人間失格                                        生命樹
+美好的事可不可以發生在我                康士坦的變化球
 微光少年                                        生命樹
 羽根                                            生命樹
 Agnes Creek                                     生命樹
 蟻                                              生命樹
 解 離                                           生命樹
-擱淺的人                                康士坦的變化球
+時漪                                            生命樹
 ```
 
 <!-- spotify_track end -->
