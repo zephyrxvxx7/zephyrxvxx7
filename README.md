@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     16 hrs 1 min   █████████████████▎░░░  82.3%
-Other      1 hr 12 mins   █▎░░░░░░░░░░░░░░░░░░░   6.2%
-JavaScript 1 hr 12 mins   █▎░░░░░░░░░░░░░░░░░░░   6.2%
-Python     1 hr           █░░░░░░░░░░░░░░░░░░░░   5.2%
+Vue.js     16 hrs 52 mins ████████████████░░░░░  76.3%
+Python     1 hr 53 mins   █▊░░░░░░░░░░░░░░░░░░░   8.5%
+JavaScript 1 hr 48 mins   █▋░░░░░░░░░░░░░░░░░░░   8.2%
+Other      1 hr 30 mins   █▍░░░░░░░░░░░░░░░░░░░   6.8%
 JSON       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
@@ -60,7 +60,7 @@ Agnes Creek                                     生命樹
 蟻                                              生命樹
 解 離                                           生命樹
 時漪                                            生命樹
-Pre-Romance                         eill & ☆Taku Taka
+Finale.                                           eill
 ```
 
 <!-- spotify_track end -->
