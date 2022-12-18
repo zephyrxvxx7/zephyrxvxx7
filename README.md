@@ -51,16 +51,16 @@ JSON       0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Knock Knock                                     生命樹
 Con La Brisa - Film Ver              Foudeqush & Ludwi
-人間失格                                        生命樹
-微光少年                                        生命樹
-羽根                                            生命樹
-Agnes Creek                                     生命樹
-蟻                                              生命樹
-解 離                                           生命樹
-時漪                                            生命樹
+(sic)'s sense                            (sic)boy & KM
+Knock Knock                                     生命樹
+Last Dance                           (sic)boy & Wes Pe
+Misty!!                                  (sic)boy & KM
+Heartache                                     (sic)boy
 Finale.                                           eill
+Pre-Romance                         eill & ☆Taku Taka
+FLN                                  (sic)boy & Jez Di
+Heaven's Drive                       (sic)boy & KM & v
 ```
 
 <!-- spotify_track end -->
