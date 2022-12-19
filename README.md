@@ -41,7 +41,10 @@ JSON       0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Apex Legends                     🕘 38 hrs 33 mins
+🎮 Hollow Knight                    🕘 88 hrs 39 mins
+🎮 Oxygen Not Included              🕘 40 hrs 44 mins
+🎮 Ori and the Will of the Wisps    🕘 34 hrs 29 mins
+🎮 Age of Empires II (2013)         🕘 12 hrs 4 mins
 ```
 
 <!-- steam_time end -->
@@ -53,14 +56,14 @@ JSON       0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 Con La Brisa - Film Ver              Foudeqush & Ludwi
 (sic)'s sense                            (sic)boy & KM
-Knock Knock                                     生命樹
-Last Dance                           (sic)boy & Wes Pe
 Misty!!                                  (sic)boy & KM
+Last Dance                           (sic)boy & Wes Pe
 Heartache                                     (sic)boy
 Finale.                                           eill
 Pre-Romance                         eill & ☆Taku Taka
 FLN                                  (sic)boy & Jez Di
 Heaven's Drive                       (sic)boy & KM & v
+夏夜晚風                                        芒果醬
 ```
 
 <!-- spotify_track end -->
