@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     12 hrs 3 mins  ██████████████▉░░░░░░  71.4%
-Python     2 hrs 3 mins   ██▌░░░░░░░░░░░░░░░░░░  12.2%
-JavaScript 1 hr 36 mins   █▉░░░░░░░░░░░░░░░░░░░   9.5%
-Other      1 hr 9 mins    █▍░░░░░░░░░░░░░░░░░░░   6.9%
-JSON       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Vue.js     12 hrs 55 mins █████████████▊░░░░░░░  65.7%
+JavaScript 3 hrs 19 mins  ███▌░░░░░░░░░░░░░░░░░  16.9%
+Python     2 hrs 4 mins   ██▏░░░░░░░░░░░░░░░░░░  10.5%
+Other      1 hr 19 mins   █▍░░░░░░░░░░░░░░░░░░░   6.8%
+Markdown   1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
 <!-- code_time end -->
@@ -58,9 +58,9 @@ Con La Brisa - Film Ver              Foudeqush & Ludwi
 (sic)'s sense                            (sic)boy & KM
 Misty!!                                  (sic)boy & KM
 Last Dance                           (sic)boy & Wes Pe
-Heartache                                     (sic)boy
 Finale.                                           eill
 Pre-Romance                         eill & ☆Taku Taka
+Heartache                                     (sic)boy
 FLN                                  (sic)boy & Jez Di
 Heaven's Drive                       (sic)boy & KM & v
 夏夜晚風                                        芒果醬
