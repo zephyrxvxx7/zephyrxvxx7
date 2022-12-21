@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     12 hrs 55 mins █████████████▊░░░░░░░  65.7%
-JavaScript 3 hrs 19 mins  ███▌░░░░░░░░░░░░░░░░░  16.9%
-Python     2 hrs 4 mins   ██▏░░░░░░░░░░░░░░░░░░  10.5%
-Other      1 hr 19 mins   █▍░░░░░░░░░░░░░░░░░░░   6.8%
+Vue.js     9 hrs 49 mins  █████████████▌░░░░░░░  64.5%
+JavaScript 3 hrs 9 mins   ████▎░░░░░░░░░░░░░░░░  20.8%
+Python     1 hr 9 mins    █▌░░░░░░░░░░░░░░░░░░░   7.6%
+Other      1 hr 4 mins    █▍░░░░░░░░░░░░░░░░░░░   7.0%
 Markdown   1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
@@ -61,9 +61,9 @@ Last Dance                           (sic)boy & Wes Pe
 Finale.                                           eill
 Pre-Romance                         eill & ☆Taku Taka
 Heartache                                     (sic)boy
+夏夜晚風                                        芒果醬
 FLN                                  (sic)boy & Jez Di
 Heaven's Drive                       (sic)boy & KM & v
-夏夜晚風                                        芒果醬
 ```
 
 <!-- spotify_track end -->
