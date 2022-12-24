@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     10 hrs 59 mins ████████████▋░░░░░░░░  60.2%
-JavaScript 5 hrs 48 mins  ██████▋░░░░░░░░░░░░░░  31.8%
-Other      56 mins        █░░░░░░░░░░░░░░░░░░░░   5.1%
-Python     29 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+Vue.js     8 hrs 44 mins  ███████████▏░░░░░░░░░  53.5%
+JavaScript 5 hrs 52 mins  ███████▌░░░░░░░░░░░░░  36.0%
+Other      1 hr 10 mins   █▌░░░░░░░░░░░░░░░░░░░   7.2%
+Python     29 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
 Markdown   1 min          ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
@@ -54,9 +54,9 @@ Markdown   1 min          ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Con La Brisa - Film Ver              Foudeqush & Ludwi
 (sic)'s sense                            (sic)boy & KM
 Misty!!                                  (sic)boy & KM
+Con La Brisa - Film Ver              Foudeqush & Ludwi
 Last Dance                           (sic)boy & Wes Pe
 Finale.                                           eill
 Pre-Romance                         eill & ☆Taku Taka
