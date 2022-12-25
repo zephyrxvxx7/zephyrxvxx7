@@ -56,7 +56,6 @@ Markdown   1 min          ░░░░░░░░░░░░░░░░░░
 ```text
 (sic)'s sense                            (sic)boy & KM
 Misty!!                                  (sic)boy & KM
-Con La Brisa - Film Ver              Foudeqush & Ludwi
 Last Dance                           (sic)boy & Wes Pe
 Finale.                                           eill
 Pre-Romance                         eill & ☆Taku Taka
@@ -64,6 +63,7 @@ Heartache                                     (sic)boy
 夏夜晚風                                        芒果醬
 FLN                                  (sic)boy & Jez Di
 Heaven's Drive                       (sic)boy & KM & v
+vanitas                                  (sic)boy & KM
 ```
 
 <!-- spotify_track end -->
