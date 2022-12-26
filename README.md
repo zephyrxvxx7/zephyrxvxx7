@@ -41,10 +41,7 @@ Markdown   1 min          ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Hollow Knight                    🕘 88 hrs 39 mins
-🎮 Oxygen Not Included              🕘 40 hrs 44 mins
-🎮 Ori and the Will of the Wisps    🕘 34 hrs 29 mins
-🎮 Age of Empires II (2013)         🕘 12 hrs 4 mins
+🦾 Cyberpunk 2077                   🕘 1 hrs 57 mins
 ```
 
 <!-- steam_time end -->
@@ -56,8 +53,8 @@ Markdown   1 min          ░░░░░░░░░░░░░░░░░░
 ```text
 (sic)'s sense                            (sic)boy & KM
 Misty!!                                  (sic)boy & KM
-Last Dance                           (sic)boy & Wes Pe
 Finale.                                           eill
+Last Dance                           (sic)boy & Wes Pe
 Pre-Romance                         eill & ☆Taku Taka
 Heartache                                     (sic)boy
 夏夜晚風                                        芒果醬
