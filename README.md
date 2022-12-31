@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     9 hrs 34 mins  ████████████▎░░░░░░░░  58.4%
-Python     2 hrs 56 mins  ███▊░░░░░░░░░░░░░░░░░  18.0%
-JavaScript 2 hrs 40 mins  ███▍░░░░░░░░░░░░░░░░░  16.3%
-Other      52 mins        █▏░░░░░░░░░░░░░░░░░░░   5.4%
-Markdown   9 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+Vue.js     10 hrs 27 mins ██████████▉░░░░░░░░░░  52.1%
+JavaScript 5 hrs 16 mins  █████▌░░░░░░░░░░░░░░░  26.2%
+Python     3 hrs 15 mins  ███▍░░░░░░░░░░░░░░░░░  16.2%
+Other      39 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.2%
+Markdown   9 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 
 <!-- code_time end -->
@@ -57,10 +57,10 @@ Finale.                                           eill
 Last Dance                           (sic)boy & Wes Pe
 Pre-Romance                         eill & ☆Taku Taka
 Heartache                                     (sic)boy
+I Don't Wanna Die in th              BURNOUT SYNDROMES
 夏夜晚風                                        芒果醬
 FLN                                  (sic)boy & Jez Di
 Heaven's Drive                       (sic)boy & KM & v
-vanitas                                  (sic)boy & KM
 ```
 
 <!-- spotify_track end -->
