@@ -41,6 +41,7 @@ Markdown   9 mins         ▏░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
+🎮 DEATH STRANDING                  🕘 4 hrs 41 mins
 🦾 Cyberpunk 2077                   🕘 1 hrs 57 mins
 ```
 
@@ -58,9 +59,9 @@ Last Dance                           (sic)boy & Wes Pe
 Pre-Romance                         eill & ☆Taku Taka
 Heartache                                     (sic)boy
 I Don't Wanna Die in th              BURNOUT SYNDROMES
-夏夜晚風                                        芒果醬
 FLN                                  (sic)boy & Jez Di
 Heaven's Drive                       (sic)boy & KM & v
+vanitas                                  (sic)boy & KM
 ```
 
 <!-- spotify_track end -->
