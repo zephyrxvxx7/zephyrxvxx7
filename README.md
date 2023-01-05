@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     9 hrs 32 mins  ██████████░░░░░░░░░░░  47.9%
-JavaScript 7 hrs 9 mins   ███████▌░░░░░░░░░░░░░  35.9%
-Python     2 hrs 22 mins  ██▍░░░░░░░░░░░░░░░░░░  11.9%
-Other      37 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.1%
-YAML       8 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Vue.js     6 hrs 5 mins   ███████▋░░░░░░░░░░░░░  36.6%
+JavaScript 6 hrs 1 min    ███████▌░░░░░░░░░░░░░  36.2%
+Python     3 hrs 15 mins  ████░░░░░░░░░░░░░░░░░  19.6%
+Other      52 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
+JSON       12 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
 ```
 
 <!-- code_time end -->
@@ -56,9 +56,9 @@ YAML       8 mins         ▏░░░░░░░░░░░░░░░░░
 Misty!!                                  (sic)boy & KM
 Finale.                                           eill
 Last Dance                           (sic)boy & Wes Pe
-Pre-Romance                         eill & ☆Taku Taka
 Heartache                                     (sic)boy
 I Don't Wanna Die in th              BURNOUT SYNDROMES
+Pre-Romance                         eill & ☆Taku Taka
 FLN                                  (sic)boy & Jez Di
 Heaven's Drive                       (sic)boy & KM & v
 vanitas                                  (sic)boy & KM
