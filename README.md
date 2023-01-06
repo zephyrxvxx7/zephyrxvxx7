@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     6 hrs 5 mins   ███████▋░░░░░░░░░░░░░  36.6%
-JavaScript 6 hrs 1 min    ███████▌░░░░░░░░░░░░░  36.2%
-Python     3 hrs 15 mins  ████░░░░░░░░░░░░░░░░░  19.6%
-Other      52 mins        █░░░░░░░░░░░░░░░░░░░░   5.3%
-JSON       12 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+JavaScript 5 hrs 8 mins   █████████▉░░░░░░░░░░░  47.5%
+Python     2 hrs 28 mins  ████▊░░░░░░░░░░░░░░░░  22.8%
+Vue.js     2 hrs 28 mins  ████▊░░░░░░░░░░░░░░░░  22.8%
+Other      26 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
+JSON       9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.5%
 ```
 
 <!-- code_time end -->
@@ -52,13 +52,13 @@ JSON       12 mins        ▎░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+心悶                                      Amazing Show
 (sic)'s sense                            (sic)boy & KM
 Misty!!                                  (sic)boy & KM
-Finale.                                           eill
 Last Dance                           (sic)boy & Wes Pe
 Heartache                                     (sic)boy
 I Don't Wanna Die in th              BURNOUT SYNDROMES
-Pre-Romance                         eill & ☆Taku Taka
+物語                                      Amazing Show
 FLN                                  (sic)boy & Jez Di
 Heaven's Drive                       (sic)boy & KM & v
 vanitas                                  (sic)boy & KM
