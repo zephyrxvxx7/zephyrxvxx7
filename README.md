@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     3 hrs 34 mins  ███████░░░░░░░░░░░░░░  33.6%
-JavaScript 3 hrs 33 mins  ███████░░░░░░░░░░░░░░  33.5%
-Python     2 hrs 43 mins  █████▍░░░░░░░░░░░░░░░  25.7%
-Other      35 mins        █▏░░░░░░░░░░░░░░░░░░░   5.6%
-JSON       9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+JavaScript 5 hrs 9 mins   ███████▌░░░░░░░░░░░░░  36.2%
+Vue.js     4 hrs 24 mins  ██████▍░░░░░░░░░░░░░░  30.9%
+Python     3 hrs 27 mins  █████░░░░░░░░░░░░░░░░  24.2%
+Other      1 hr 3 mins    █▌░░░░░░░░░░░░░░░░░░░   7.4%
+JSON       10 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
 ```
 
 <!-- code_time end -->
@@ -52,16 +52,16 @@ JSON       9 mins         ▎░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+Alive                                            ReoNa
 心悶                                      Amazing Show
 (sic)'s sense                            (sic)boy & KM
 Misty!!                                  (sic)boy & KM
+Numb                                             ReoNa
 Last Dance                           (sic)boy & Wes Pe
 Heartache                                     (sic)boy
 I Don't Wanna Die in th              BURNOUT SYNDROMES
 物語                                      Amazing Show
 FLN                                  (sic)boy & Jez Di
-Heaven's Drive                       (sic)boy & KM & v
-vanitas                                  (sic)boy & KM
 ```
 
 <!-- spotify_track end -->
