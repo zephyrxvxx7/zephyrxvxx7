@@ -42,7 +42,6 @@ JSON       10 mins        ▏░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 DEATH STRANDING                  🕘 4 hrs 41 mins
-🦾 Cyberpunk 2077                   🕘 1 hrs 57 mins
 ```
 
 <!-- steam_time end -->
@@ -55,13 +54,13 @@ JSON       10 mins        ▏░░░░░░░░░░░░░░░░░
 Alive                                            ReoNa
 心悶                                      Amazing Show
 (sic)'s sense                            (sic)boy & KM
+Last Dance                           (sic)boy & Wes Pe
+美好的事可不可以發生在我                康士坦的變化球
 Misty!!                                  (sic)boy & KM
 Numb                                             ReoNa
-Last Dance                           (sic)boy & Wes Pe
 Heartache                                     (sic)boy
-I Don't Wanna Die in th              BURNOUT SYNDROMES
-物語                                      Amazing Show
-FLN                                  (sic)boy & Jez Di
+Kill this                            (sic)boy & KM & O
+Heaven's Drive                       (sic)boy & KM & v
 ```
 
 <!-- spotify_track end -->
