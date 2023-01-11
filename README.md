@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-JavaScript 5 hrs 9 mins   ██████▌░░░░░░░░░░░░░░  31.4%
-Python     5 hrs 7 mins   ██████▌░░░░░░░░░░░░░░  31.2%
-Vue.js     4 hrs 36 mins  █████▉░░░░░░░░░░░░░░░  28.0%
-Other      1 hr 8 mins    █▍░░░░░░░░░░░░░░░░░░░   6.9%
-JSON       24 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+Python     4 hrs 50 mins  ███████▏░░░░░░░░░░░░░  34.5%
+Vue.js     4 hrs 32 mins  ██████▊░░░░░░░░░░░░░░  32.4%
+JavaScript 3 hrs 4 mins   ████▌░░░░░░░░░░░░░░░░  22.0%
+Other      1 hr 8 mins    █▋░░░░░░░░░░░░░░░░░░░   8.1%
+JSON       24 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
 ```
 
 <!-- code_time end -->
@@ -54,13 +54,13 @@ JSON       24 mins        ▌░░░░░░░░░░░░░░░░░
 Alive                                            ReoNa
 心悶                                      Amazing Show
 (sic)'s sense                            (sic)boy & KM
-Last Dance                           (sic)boy & Wes Pe
 美好的事可不可以發生在我                康士坦的變化球
-Misty!!                                  (sic)boy & KM
 Numb                                             ReoNa
-Heartache                                     (sic)boy
+Misty!!                                  (sic)boy & KM
+Last Dance                           (sic)boy & Wes Pe
+I Don't Wanna Die in th              BURNOUT SYNDROMES
+物語                                      Amazing Show
 Kill this                            (sic)boy & KM & O
-Heaven's Drive                       (sic)boy & KM & v
 ```
 
 <!-- spotify_track end -->
