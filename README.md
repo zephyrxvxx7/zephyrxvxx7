@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     4 hrs 50 mins  ███████▏░░░░░░░░░░░░░  34.5%
-Vue.js     4 hrs 32 mins  ██████▊░░░░░░░░░░░░░░  32.4%
-JavaScript 3 hrs 4 mins   ████▌░░░░░░░░░░░░░░░░  22.0%
-Other      1 hr 8 mins    █▋░░░░░░░░░░░░░░░░░░░   8.1%
-JSON       24 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
+Python     7 hrs 44 mins  █████████░░░░░░░░░░░░  43.3%
+Vue.js     5 hrs 15 mins  ██████▏░░░░░░░░░░░░░░  29.4%
+JavaScript 3 hrs 4 mins   ███▌░░░░░░░░░░░░░░░░░  17.2%
+Other      1 hr 32 mins   █▊░░░░░░░░░░░░░░░░░░░   8.6%
+JSON       14 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
 ```
 
 <!-- code_time end -->
@@ -51,16 +51,16 @@ JSON       24 mins        ▌░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Alive                                            ReoNa
 心悶                                      Amazing Show
-(sic)'s sense                            (sic)boy & KM
+Alive                                            ReoNa
 美好的事可不可以發生在我                康士坦的變化球
-Numb                                             ReoNa
-Misty!!                                  (sic)boy & KM
-Last Dance                           (sic)boy & Wes Pe
-I Don't Wanna Die in th              BURNOUT SYNDROMES
+(sic)'s sense                            (sic)boy & KM
 物語                                      Amazing Show
-Kill this                            (sic)boy & KM & O
+Numb                                             ReoNa
+Last Dance                           (sic)boy & Wes Pe
+Misty!!                                  (sic)boy & KM
+對不起我做不到答應了你的                康士坦的變化球
+群像                                      Amazing Show
 ```
 
 <!-- spotify_track end -->
