@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     7 hrs 44 mins  █████████░░░░░░░░░░░░  43.3%
-Vue.js     5 hrs 15 mins  ██████▏░░░░░░░░░░░░░░  29.4%
-JavaScript 3 hrs 4 mins   ███▌░░░░░░░░░░░░░░░░░  17.2%
-Other      1 hr 32 mins   █▊░░░░░░░░░░░░░░░░░░░   8.6%
-JSON       14 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Python     13 hrs 5 mins  ███████████▍░░░░░░░░░  54.3%
+Vue.js     5 hrs 39 mins  ████▉░░░░░░░░░░░░░░░░  23.5%
+JavaScript 3 hrs 28 mins  ███░░░░░░░░░░░░░░░░░░  14.4%
+Other      1 hr 36 mins   █▍░░░░░░░░░░░░░░░░░░░   6.7%
+JSON       14 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 ```
 
 <!-- code_time end -->
@@ -54,13 +54,13 @@ JSON       14 mins        ▎░░░░░░░░░░░░░░░░░
 心悶                                      Amazing Show
 Alive                                            ReoNa
 美好的事可不可以發生在我                康士坦的變化球
-(sic)'s sense                            (sic)boy & KM
-物語                                      Amazing Show
 Numb                                             ReoNa
-Last Dance                           (sic)boy & Wes Pe
-Misty!!                                  (sic)boy & KM
+物語                                      Amazing Show
 對不起我做不到答應了你的                康士坦的變化球
 群像                                      Amazing Show
+擱淺的人                                康士坦的變化球
+I Don't Wanna Die in th              BURNOUT SYNDROMES
+一番星                                           ReoNa
 ```
 
 <!-- spotify_track end -->
