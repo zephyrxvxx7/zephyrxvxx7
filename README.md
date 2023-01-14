@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     13 hrs 5 mins  ███████████▍░░░░░░░░░  54.3%
-Vue.js     5 hrs 39 mins  ████▉░░░░░░░░░░░░░░░░  23.5%
-JavaScript 3 hrs 28 mins  ███░░░░░░░░░░░░░░░░░░  14.4%
-Other      1 hr 36 mins   █▍░░░░░░░░░░░░░░░░░░░   6.7%
-JSON       14 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+Python     15 hrs 22 mins █████████████▉░░░░░░░  66.1%
+JavaScript 2 hrs 40 mins  ██▍░░░░░░░░░░░░░░░░░░  11.5%
+Vue.js     2 hrs 37 mins  ██▎░░░░░░░░░░░░░░░░░░  11.3%
+Other      2 hrs 16 mins  ██░░░░░░░░░░░░░░░░░░░   9.8%
+JSON       14 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
 ```
 
 <!-- code_time end -->
@@ -52,15 +52,15 @@ JSON       14 mins        ▏░░░░░░░░░░░░░░░░░
 
 ```text
 心悶                                      Amazing Show
-Alive                                            ReoNa
 美好的事可不可以發生在我                康士坦的變化球
+Alive                                            ReoNa
 Numb                                             ReoNa
 物語                                      Amazing Show
 對不起我做不到答應了你的                康士坦的變化球
-群像                                      Amazing Show
 擱淺的人                                康士坦的變化球
+群像                                      Amazing Show
+低賤的人                                     Obviously
 I Don't Wanna Die in th              BURNOUT SYNDROMES
-一番星                                           ReoNa
 ```
 
 <!-- spotify_track end -->
