@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     15 hrs 22 mins █████████████▉░░░░░░░  66.1%
-JavaScript 2 hrs 40 mins  ██▍░░░░░░░░░░░░░░░░░░  11.5%
-Vue.js     2 hrs 37 mins  ██▎░░░░░░░░░░░░░░░░░░  11.3%
-Other      2 hrs 16 mins  ██░░░░░░░░░░░░░░░░░░░   9.8%
-JSON       14 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Python     14 hrs 38 mins ███████████████▋░░░░░  74.7%
+Other      1 hr 48 mins   █▉░░░░░░░░░░░░░░░░░░░   9.2%
+Vue.js     1 hr 46 mins   █▉░░░░░░░░░░░░░░░░░░░   9.1%
+JavaScript 1 hr 4 mins    █▏░░░░░░░░░░░░░░░░░░░   5.5%
+JSON       14 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
 ```
 
 <!-- code_time end -->
@@ -51,8 +51,8 @@ JSON       14 mins        ▏░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-心悶                                      Amazing Show
 美好的事可不可以發生在我                康士坦的變化球
+心悶                                      Amazing Show
 Alive                                            ReoNa
 Numb                                             ReoNa
 物語                                      Amazing Show
@@ -60,7 +60,7 @@ Numb                                             ReoNa
 擱淺的人                                康士坦的變化球
 群像                                      Amazing Show
 低賤的人                                     Obviously
-I Don't Wanna Die in th              BURNOUT SYNDROMES
+安靜的美好                              康士坦的變化球
 ```
 
 <!-- spotify_track end -->
