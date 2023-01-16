@@ -41,7 +41,10 @@ JSON       14 mins        ▏░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 DEATH STRANDING                  🕘 4 hrs 41 mins
+🎮 Hollow Knight                    🕘 88 hrs 39 mins
+🎮 Oxygen Not Included              🕘 40 hrs 44 mins
+🎮 Ori and the Will of the Wisps    🕘 34 hrs 29 mins
+🎮 Age of Empires II (2013)         🕘 12 hrs 4 mins
 ```
 
 <!-- steam_time end -->
@@ -55,8 +58,8 @@ JSON       14 mins        ▏░░░░░░░░░░░░░░░░░
 心悶                                      Amazing Show
 Alive                                            ReoNa
 Numb                                             ReoNa
-物語                                      Amazing Show
 對不起我做不到答應了你的                康士坦的變化球
+物語                                      Amazing Show
 擱淺的人                                康士坦的變化球
 群像                                      Amazing Show
 低賤的人                                     Obviously
