@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     14 hrs 38 mins ███████████████▋░░░░░  74.7%
-Other      1 hr 48 mins   █▉░░░░░░░░░░░░░░░░░░░   9.2%
-Vue.js     1 hr 46 mins   █▉░░░░░░░░░░░░░░░░░░░   9.1%
-JavaScript 1 hr 4 mins    █▏░░░░░░░░░░░░░░░░░░░   5.5%
-JSON       14 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.2%
+Python     14 hrs 24 mins ████████████▉░░░░░░░░  61.4%
+Vue.js     4 hrs 8 mins   ███▋░░░░░░░░░░░░░░░░░  17.7%
+JavaScript 2 hrs 17 mins  ██░░░░░░░░░░░░░░░░░░░   9.8%
+Other      2 hrs 1 min    █▊░░░░░░░░░░░░░░░░░░░   8.6%
+YAML       15 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
 ```
 
 <!-- code_time end -->
@@ -57,13 +57,13 @@ JSON       14 mins        ▏░░░░░░░░░░░░░░░░░
 美好的事可不可以發生在我                康士坦的變化球
 心悶                                      Amazing Show
 Alive                                            ReoNa
-Numb                                             ReoNa
 對不起我做不到答應了你的                康士坦的變化球
-物語                                      Amazing Show
 擱淺的人                                康士坦的變化球
+Numb                                             ReoNa
+物語                                      Amazing Show
+安靜的美好                              康士坦的變化球
 群像                                      Amazing Show
 低賤的人                                     Obviously
-安靜的美好                              康士坦的變化球
 ```
 
 <!-- spotify_track end -->
