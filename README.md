@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     14 hrs 56 mins ███████████▏░░░░░░░░░  53.3%
-Vue.js     7 hrs 22 mins  █████▌░░░░░░░░░░░░░░░  26.3%
-Other      2 hrs 37 mins  █▉░░░░░░░░░░░░░░░░░░░   9.3%
-JavaScript 2 hrs 22 mins  █▊░░░░░░░░░░░░░░░░░░░   8.5%
-YAML       15 mins        ▏░░░░░░░░░░░░░░░░░░░░   0.9%
+Vue.js     9 hrs 51 mins  ████████▋░░░░░░░░░░░░  41.5%
+Python     7 hrs 16 mins  ██████▍░░░░░░░░░░░░░░  30.7%
+JavaScript 3 hrs 21 mins  ██▉░░░░░░░░░░░░░░░░░░  14.1%
+Other      2 hrs 30 mins  ██▏░░░░░░░░░░░░░░░░░░  10.6%
+YAML       15 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
 ```
 
 <!-- code_time end -->
@@ -55,15 +55,15 @@ YAML       15 mins        ▏░░░░░░░░░░░░░░░░░
 
 ```text
 美好的事可不可以發生在我                康士坦的變化球
+Missing Piece -WwisH-                         SennaRin
 心悶                                      Amazing Show
 Alive                                            ReoNa
 對不起我做不到答應了你的                康士坦的變化球
 擱淺的人                                康士坦的變化球
 Numb                                             ReoNa
 物語                                      Amazing Show
+Till I                                        SennaRin
 安靜的美好                              康士坦的變化球
-群像                                      Amazing Show
-低賤的人                                     Obviously
 ```
 
 <!-- spotify_track end -->
