@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     9 hrs 51 mins  ████████▋░░░░░░░░░░░░  41.5%
-Python     7 hrs 16 mins  ██████▍░░░░░░░░░░░░░░  30.7%
-JavaScript 3 hrs 21 mins  ██▉░░░░░░░░░░░░░░░░░░  14.1%
-Other      2 hrs 30 mins  ██▏░░░░░░░░░░░░░░░░░░  10.6%
-YAML       15 mins        ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Vue.js     9 hrs 34 mins  ██████████▋░░░░░░░░░░  51.0%
+Python     4 hrs 12 mins  ████▋░░░░░░░░░░░░░░░░  22.4%
+JavaScript 2 hrs 40 mins  ██▉░░░░░░░░░░░░░░░░░░  14.2%
+Other      1 hr 38 mins   █▊░░░░░░░░░░░░░░░░░░░   8.7%
+YAML       15 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
 ```
 
 <!-- code_time end -->
@@ -61,9 +61,9 @@ Alive                                            ReoNa
 對不起我做不到答應了你的                康士坦的變化球
 擱淺的人                                康士坦的變化球
 Numb                                             ReoNa
+IiIiI                              SawanoHiroyuki[nZk]
 物語                                      Amazing Show
 Till I                                        SennaRin
-安靜的美好                              康士坦的變化球
 ```
 
 <!-- spotify_track end -->
