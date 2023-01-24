@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     9 hrs 34 mins  ██████████▌░░░░░░░░░░  50.3%
-Python     4 hrs 29 mins  ████▉░░░░░░░░░░░░░░░░  23.6%
-JavaScript 2 hrs 40 mins  ██▉░░░░░░░░░░░░░░░░░░  14.0%
-Other      1 hr 38 mins   █▊░░░░░░░░░░░░░░░░░░░   8.6%
-YAML       15 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+Vue.js     7 hrs 1 min    ███████████▎░░░░░░░░░  53.9%
+Python     3 hrs 2 mins   ████▉░░░░░░░░░░░░░░░░  23.4%
+JavaScript 1 hr 27 mins   ██▎░░░░░░░░░░░░░░░░░░  11.2%
+Other      1 hr 20 mins   ██▏░░░░░░░░░░░░░░░░░░  10.3%
+Markdown   9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.2%
 ```
 
 <!-- code_time end -->
@@ -63,7 +63,7 @@ Alive                                            ReoNa
 IiIiI                              SawanoHiroyuki[nZk]
 FAKEit                               SawanoHiroyuki[nZ
 Numb                                             ReoNa
-物語                                      Amazing Show
+LilaS                                SawanoHiroyuki[nZ
 ```
 
 <!-- spotify_track end -->
