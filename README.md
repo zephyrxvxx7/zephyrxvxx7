@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     7 hrs 1 min    ███████████▎░░░░░░░░░  53.9%
-Python     3 hrs 2 mins   ████▉░░░░░░░░░░░░░░░░  23.4%
-JavaScript 1 hr 27 mins   ██▎░░░░░░░░░░░░░░░░░░  11.2%
-Other      1 hr 20 mins   ██▏░░░░░░░░░░░░░░░░░░  10.3%
-Markdown   9 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.2%
+Vue.js     3 hrs 47 mins  █████████▍░░░░░░░░░░░  44.9%
+Python     2 hrs 31 mins  ██████▎░░░░░░░░░░░░░░  29.9%
+JavaScript 1 hr 22 mins   ███▍░░░░░░░░░░░░░░░░░  16.2%
+Other      44 mins        █▊░░░░░░░░░░░░░░░░░░░   8.8%
+Markdown   1 min          ░░░░░░░░░░░░░░░░░░░░░   0.2%
 ```
 
 <!-- code_time end -->
@@ -58,8 +58,8 @@ Markdown   9 mins         ▎░░░░░░░░░░░░░░░░░
 Missing Piece -WwisH-                         SennaRin
 心悶                                      Amazing Show
 Alive                                            ReoNa
-對不起我做不到答應了你的                康士坦的變化球
 擱淺的人                                康士坦的變化球
+對不起我做不到答應了你的                康士坦的變化球
 IiIiI                              SawanoHiroyuki[nZk]
 FAKEit                               SawanoHiroyuki[nZ
 Numb                                             ReoNa
