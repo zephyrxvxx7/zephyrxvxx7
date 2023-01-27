@@ -27,11 +27,7 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     2 hrs 15 mins  ██████████████░░░░░░░  66.7%
-Python     42 mins        ████▍░░░░░░░░░░░░░░░░  21.0%
-Other      23 mins        ██▍░░░░░░░░░░░░░░░░░░  11.8%
-Markdown   1 min          ░░░░░░░░░░░░░░░░░░░░░   0.5%
-HTML       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
+Python     17 mins        █████████████████████ 100.0%
 ```
 
 <!-- code_time end -->
