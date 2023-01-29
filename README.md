@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     17 mins        █████████████████████ 100.0%
+Python     0 secs         █████████████████████ 100.0%
 ```
 
 <!-- code_time end -->
@@ -37,10 +37,9 @@ Python     17 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Hollow Knight                    🕘 88 hrs 39 mins
-🎮 Oxygen Not Included              🕘 40 hrs 44 mins
-🎮 Ori and the Will of the Wisps    🕘 34 hrs 29 mins
-🎮 Age of Empires II (2013)         🕘 12 hrs 4 mins
+🎮 Apex Legends                     🕘 39 hrs 16 mins
+🎮 Vampire Survivors                🕘 10 hrs 32 mins
+🎮 Cities: Skylines                 🕘 1 hrs 36 mins
 ```
 
 <!-- steam_time end -->
