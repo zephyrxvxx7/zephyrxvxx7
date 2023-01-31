@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     0 secs         █████████████████████ 100.0%
+Vue.js     1 hr 32 mins   ████████▊░░░░░░░░░░░░  42.2%
+JavaScript 1 hr 28 mins   ████████▌░░░░░░░░░░░░  40.7%
+SCSS       21 mins        ██░░░░░░░░░░░░░░░░░░░  10.0%
+Markdown   6 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.2%
+Other      6 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.9%
 ```
 
 <!-- code_time end -->
@@ -51,8 +55,8 @@ Python     0 secs         ██████████████████
 ```text
 Missing Piece -WwisH-                         SennaRin
 美好的事可不可以發生在我                康士坦的變化球
-心悶                                      Amazing Show
 Alive                                            ReoNa
+心悶                                      Amazing Show
 擱淺的人                                康士坦的變化球
 IiIiI                              SawanoHiroyuki[nZk]
 對不起我做不到答應了你的                康士坦的變化球
