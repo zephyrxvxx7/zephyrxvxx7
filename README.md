@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     1 hr 32 mins   ████████▊░░░░░░░░░░░░  42.2%
-JavaScript 1 hr 28 mins   ████████▌░░░░░░░░░░░░  40.7%
-SCSS       21 mins        ██░░░░░░░░░░░░░░░░░░░  10.0%
-Markdown   6 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.2%
-Other      6 mins         ▌░░░░░░░░░░░░░░░░░░░░   2.9%
+Vue.js     2 hrs 58 mins  ███████████▏░░░░░░░░░  53.1%
+JavaScript 1 hr 57 mins   ███████▎░░░░░░░░░░░░░  34.9%
+SCSS       24 mins        █▌░░░░░░░░░░░░░░░░░░░   7.4%
+Markdown   6 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.1%
+Other      6 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.9%
 ```
 
 <!-- code_time end -->
@@ -56,13 +56,13 @@ Other      6 mins         ▌░░░░░░░░░░░░░░░░░
 Missing Piece -WwisH-                         SennaRin
 美好的事可不可以發生在我                康士坦的變化球
 Alive                                            ReoNa
-心悶                                      Amazing Show
-擱淺的人                                康士坦的變化球
 IiIiI                              SawanoHiroyuki[nZk]
-對不起我做不到答應了你的                康士坦的變化球
+擱淺的人                                康士坦的變化球
 FAKEit                               SawanoHiroyuki[nZ
+對不起我做不到答應了你的                康士坦的變化球
 Till I                                        SennaRin
 Numb                                             ReoNa
+LilaS                                SawanoHiroyuki[nZ
 ```
 
 <!-- spotify_track end -->
