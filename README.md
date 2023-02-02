@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     2 hrs 58 mins  ███████████▏░░░░░░░░░  53.1%
-JavaScript 1 hr 57 mins   ███████▎░░░░░░░░░░░░░  34.9%
-SCSS       24 mins        █▌░░░░░░░░░░░░░░░░░░░   7.4%
-Markdown   6 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.1%
-Other      6 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+Vue.js     7 hrs 28 mins  ████████████▉░░░░░░░░  61.7%
+JavaScript 2 hrs 36 mins  ████▌░░░░░░░░░░░░░░░░  21.6%
+Other      51 mins        █▍░░░░░░░░░░░░░░░░░░░   7.1%
+Python     36 mins        █░░░░░░░░░░░░░░░░░░░░   5.0%
+SCSS       25 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
 ```
 
 <!-- code_time end -->
@@ -53,6 +53,7 @@ Other      6 mins         ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+ソラゴト                                          明透
 Missing Piece -WwisH-                         SennaRin
 美好的事可不可以發生在我                康士坦的變化球
 Alive                                            ReoNa
@@ -61,7 +62,6 @@ IiIiI                              SawanoHiroyuki[nZk]
 FAKEit                               SawanoHiroyuki[nZ
 對不起我做不到答應了你的                康士坦的變化球
 Till I                                        SennaRin
-Numb                                             ReoNa
 LilaS                                SawanoHiroyuki[nZ
 ```
 
