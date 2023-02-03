@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     7 hrs 28 mins  ████████████▉░░░░░░░░  61.7%
-JavaScript 2 hrs 36 mins  ████▌░░░░░░░░░░░░░░░░  21.6%
-Other      51 mins        █▍░░░░░░░░░░░░░░░░░░░   7.1%
-Python     36 mins        █░░░░░░░░░░░░░░░░░░░░   5.0%
-SCSS       25 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.5%
+Vue.js     11 hrs 32 mins █████████████▎░░░░░░░  63.3%
+JavaScript 2 hrs 38 mins  ███░░░░░░░░░░░░░░░░░░  14.5%
+Python     1 hr 57 mins   ██▎░░░░░░░░░░░░░░░░░░  10.7%
+Other      1 hr 24 mins   █▌░░░░░░░░░░░░░░░░░░░   7.7%
+SCSS       27 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
 ```
 
 <!-- code_time end -->
@@ -56,13 +56,13 @@ SCSS       25 mins        ▋░░░░░░░░░░░░░░░░░
 ソラゴト                                          明透
 Missing Piece -WwisH-                         SennaRin
 美好的事可不可以發生在我                康士坦的變化球
-Alive                                            ReoNa
+菸癮                                  Who Cares 胡凱兒
 IiIiI                              SawanoHiroyuki[nZk]
-擱淺的人                                康士坦的變化球
 FAKEit                               SawanoHiroyuki[nZ
-對不起我做不到答應了你的                康士坦的變化球
+擱淺的人                                康士坦的變化球
 Till I                                        SennaRin
 LilaS                                SawanoHiroyuki[nZ
+對不起我做不到答應了你的                康士坦的變化球
 ```
 
 <!-- spotify_track end -->
