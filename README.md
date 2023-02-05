@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     13 hrs 26 mins ████████████░░░░░░░░░  57.5%
-Python     3 hrs 45 mins  ███▎░░░░░░░░░░░░░░░░░  16.1%
-JavaScript 2 hrs 42 mins  ██▍░░░░░░░░░░░░░░░░░░  11.6%
-Other      2 hrs 29 mins  ██▏░░░░░░░░░░░░░░░░░░  10.7%
-SCSS       27 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+Vue.js     14 hrs 45 mins ████████████▎░░░░░░░░  58.5%
+Python     3 hrs 45 mins  ███▏░░░░░░░░░░░░░░░░░  14.9%
+JavaScript 3 hrs 3 mins   ██▌░░░░░░░░░░░░░░░░░░  12.1%
+Other      2 hrs 39 mins  ██▏░░░░░░░░░░░░░░░░░░  10.6%
+SCSS       27 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
 ```
 
 <!-- code_time end -->
@@ -60,9 +60,9 @@ Missing Piece -WwisH-                         SennaRin
 IiIiI                              SawanoHiroyuki[nZk]
 FAKEit                               SawanoHiroyuki[nZ
 Till I                                        SennaRin
-LilaS                                SawanoHiroyuki[nZ
 擱淺的人                                康士坦的變化球
-地球という名の都                     SawanoHiroyuki[nZ
+對不起我做不到答應了你的                康士坦的變化球
+LilaS                                SawanoHiroyuki[nZ
 ```
 
 <!-- spotify_track end -->
