@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     14 hrs 35 mins █████████████▏░░░░░░░  62.9%
-Python     3 hrs 49 mins  ███▍░░░░░░░░░░░░░░░░░  16.5%
-Other      2 hrs 40 mins  ██▍░░░░░░░░░░░░░░░░░░  11.6%
-JavaScript 1 hr 35 mins   █▍░░░░░░░░░░░░░░░░░░░   6.9%
-JSON       20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+Vue.js     13 hrs 9 mins  ████████████▉░░░░░░░░  61.9%
+Python     3 hrs 49 mins  ███▊░░░░░░░░░░░░░░░░░  18.0%
+Other      2 hrs 40 mins  ██▋░░░░░░░░░░░░░░░░░░  12.6%
+JavaScript 1 hr 7 mins    █░░░░░░░░░░░░░░░░░░░░   5.3%
+JSON       20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
 ```
 
 <!-- code_time end -->
@@ -61,8 +61,8 @@ IiIiI                              SawanoHiroyuki[nZk]
 FAKEit                               SawanoHiroyuki[nZ
 Till I                                        SennaRin
 LilaS                                SawanoHiroyuki[nZ
-擱淺的人                                康士坦的變化球
-對不起我做不到答應了你的                康士坦的變化球
+昨天                                Who Cares 胡凱兒 &
+地球という名の都                     SawanoHiroyuki[nZ
 ```
 
 <!-- spotify_track end -->
