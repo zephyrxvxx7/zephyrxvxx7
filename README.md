@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     13 hrs 9 mins  ████████████▉░░░░░░░░  61.9%
-Python     3 hrs 49 mins  ███▊░░░░░░░░░░░░░░░░░  18.0%
-Other      2 hrs 40 mins  ██▋░░░░░░░░░░░░░░░░░░  12.6%
-JavaScript 1 hr 7 mins    █░░░░░░░░░░░░░░░░░░░░   5.3%
-JSON       20 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+Vue.js     10 hrs 55 mins ████████████▋░░░░░░░░  60.2%
+Python     3 hrs 25 mins  ███▉░░░░░░░░░░░░░░░░░  18.9%
+Other      2 hrs 7 mins   ██▍░░░░░░░░░░░░░░░░░░  11.8%
+JavaScript 1 hr 1 min     █▏░░░░░░░░░░░░░░░░░░░   5.7%
+JSON       32 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
 ```
 
 <!-- code_time end -->
@@ -56,11 +56,11 @@ JSON       20 mins        ▎░░░░░░░░░░░░░░░░░
 ソラゴト                                          明透
 Missing Piece -WwisH-                         SennaRin
 菸癮                                  Who Cares 胡凱兒
-美好的事可不可以發生在我                康士坦的變化球
 IiIiI                              SawanoHiroyuki[nZk]
 FAKEit                               SawanoHiroyuki[nZ
 Till I                                        SennaRin
 LilaS                                SawanoHiroyuki[nZ
+美好的事可不可以發生在我                康士坦的變化球
 昨天                                Who Cares 胡凱兒 &
 地球という名の都                     SawanoHiroyuki[nZ
 ```
