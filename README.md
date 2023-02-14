@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Vue.js     3 hrs 57 mins  █████████░░░░░░░░░░░░  43.3%
-Python     2 hrs 35 mins  █████▉░░░░░░░░░░░░░░░  28.4%
-JavaScript 1 hr 37 mins   ███▋░░░░░░░░░░░░░░░░░  17.8%
-Other      45 mins        █▋░░░░░░░░░░░░░░░░░░░   8.3%
-JSON       12 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+Python     6 hrs 33 mins  ██████████▉░░░░░░░░░░  52.0%
+Vue.js     2 hrs 35 mins  ████▎░░░░░░░░░░░░░░░░  20.6%
+JavaScript 1 hr 36 mins   ██▋░░░░░░░░░░░░░░░░░░  12.8%
+Other      1 hr 30 mins   ██▌░░░░░░░░░░░░░░░░░░  12.0%
+JSON       16 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
 ```
 
 <!-- code_time end -->
@@ -55,15 +55,15 @@ JSON       12 mins        ▍░░░░░░░░░░░░░░░░░
 
 ```text
 ソラゴト                                          明透
-Missing Piece -WwisH-                         SennaRin
 菸癮                                  Who Cares 胡凱兒
+Missing Piece -WwisH-                         SennaRin
 IiIiI                              SawanoHiroyuki[nZk]
 FAKEit                               SawanoHiroyuki[nZ
-Till I                                        SennaRin
 LilaS                                SawanoHiroyuki[nZ
 昨天                                Who Cares 胡凱兒 &
 地球という名の都                     SawanoHiroyuki[nZ
 LEMONADE                             SawanoHiroyuki[nZ
+V                                  SawanoHiroyuki[nZk]
 ```
 
 <!-- spotify_track end -->
