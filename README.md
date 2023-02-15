@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     6 hrs 33 mins  ██████████▉░░░░░░░░░░  52.0%
-Vue.js     2 hrs 35 mins  ████▎░░░░░░░░░░░░░░░░  20.6%
-JavaScript 1 hr 36 mins   ██▋░░░░░░░░░░░░░░░░░░  12.8%
-Other      1 hr 30 mins   ██▌░░░░░░░░░░░░░░░░░░  12.0%
-JSON       16 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+Python     10 hrs 52 mins █████████████▏░░░░░░░  62.6%
+Vue.js     2 hrs 35 mins  ███▏░░░░░░░░░░░░░░░░░  14.9%
+Other      1 hr 49 mins   ██▏░░░░░░░░░░░░░░░░░░  10.5%
+JavaScript 1 hr 40 mins   ██░░░░░░░░░░░░░░░░░░░   9.7%
+JSON       18 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
 ```
 
 <!-- code_time end -->
@@ -57,13 +57,13 @@ JSON       16 mins        ▍░░░░░░░░░░░░░░░░░
 ソラゴト                                          明透
 菸癮                                  Who Cares 胡凱兒
 Missing Piece -WwisH-                         SennaRin
-IiIiI                              SawanoHiroyuki[nZk]
 FAKEit                               SawanoHiroyuki[nZ
-LilaS                                SawanoHiroyuki[nZ
 昨天                                Who Cares 胡凱兒 &
+LilaS                                SawanoHiroyuki[nZ
+IiIiI                              SawanoHiroyuki[nZk]
 地球という名の都                     SawanoHiroyuki[nZ
+你終究不愛這世界                            傻子與白痴
 LEMONADE                             SawanoHiroyuki[nZ
-V                                  SawanoHiroyuki[nZk]
 ```
 
 <!-- spotify_track end -->
