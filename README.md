@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     10 hrs 52 mins █████████████▏░░░░░░░  62.6%
-Vue.js     2 hrs 35 mins  ███▏░░░░░░░░░░░░░░░░░  14.9%
-Other      1 hr 49 mins   ██▏░░░░░░░░░░░░░░░░░░  10.5%
-JavaScript 1 hr 40 mins   ██░░░░░░░░░░░░░░░░░░░   9.7%
-JSON       18 mins        ▍░░░░░░░░░░░░░░░░░░░░   1.8%
+Python     12 hrs 19 mins ███████████████▌░░░░░  74.2%
+Other      2 hrs 33 mins  ███▏░░░░░░░░░░░░░░░░░  15.4%
+JavaScript 1 hr 7 mins    █▍░░░░░░░░░░░░░░░░░░░   6.8%
+Vue.js     20 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+JSON       6 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
 ```
 
 <!-- code_time end -->
@@ -57,13 +57,13 @@ JSON       18 mins        ▍░░░░░░░░░░░░░░░░░
 ソラゴト                                          明透
 菸癮                                  Who Cares 胡凱兒
 Missing Piece -WwisH-                         SennaRin
-FAKEit                               SawanoHiroyuki[nZ
 昨天                                Who Cares 胡凱兒 &
-LilaS                                SawanoHiroyuki[nZ
-IiIiI                              SawanoHiroyuki[nZk]
-地球という名の都                     SawanoHiroyuki[nZ
 你終究不愛這世界                            傻子與白痴
-LEMONADE                             SawanoHiroyuki[nZ
+リマインド                           ROOKiEZ is PUNK'D
+如何                                  Who Cares 胡凱兒
+二十億光年の恋                          MY FIRST STORY
+Voices of the Chord                    Hiroyuki Sawano
+對不起我做不到答應了你的                康士坦的變化球
 ```
 
 <!-- spotify_track end -->
