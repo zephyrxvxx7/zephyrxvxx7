@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     12 hrs 19 mins ███████████████▌░░░░░  74.2%
-Other      2 hrs 33 mins  ███▏░░░░░░░░░░░░░░░░░  15.4%
-JavaScript 1 hr 7 mins    █▍░░░░░░░░░░░░░░░░░░░   6.8%
-Vue.js     20 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
-JSON       6 mins         ▏░░░░░░░░░░░░░░░░░░░░   0.7%
+Python     13 hrs 39 mins ████████████████▉░░░░  80.9%
+Other      2 hrs 33 mins  ███▏░░░░░░░░░░░░░░░░░  15.2%
+JavaScript 16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
+JSON       9 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+Markdown   4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 ```
 
 <!-- code_time end -->
@@ -63,7 +63,7 @@ Missing Piece -WwisH-                         SennaRin
 如何                                  Who Cares 胡凱兒
 二十億光年の恋                          MY FIRST STORY
 Voices of the Chord                    Hiroyuki Sawano
-對不起我做不到答應了你的                康士坦的變化球
+HERO                                       Mr.Children
 ```
 
 <!-- spotify_track end -->
