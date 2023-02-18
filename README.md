@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     13 hrs 39 mins ████████████████▉░░░░  80.9%
-Other      2 hrs 33 mins  ███▏░░░░░░░░░░░░░░░░░  15.2%
-JavaScript 16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.6%
-JSON       9 mins         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
-Markdown   4 mins         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+Python     16 hrs 7 mins  ████████████████▎░░░░  77.9%
+Other      3 hrs 3 mins   ███░░░░░░░░░░░░░░░░░░  14.8%
+Vue.js     32 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
+Go         19 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+JavaScript 16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
 ```
 
 <!-- code_time end -->
@@ -63,7 +63,7 @@ Missing Piece -WwisH-                         SennaRin
 如何                                  Who Cares 胡凱兒
 二十億光年の恋                          MY FIRST STORY
 Voices of the Chord                    Hiroyuki Sawano
-HERO                                       Mr.Children
+Over The Sky [Angel Fea                         Hitomi
 ```
 
 <!-- spotify_track end -->
