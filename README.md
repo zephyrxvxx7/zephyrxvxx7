@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     16 hrs 7 mins  ████████████████▎░░░░  77.9%
-Other      3 hrs 3 mins   ███░░░░░░░░░░░░░░░░░░  14.8%
-Vue.js     32 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
-Go         19 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.5%
+Python     16 hrs 48 mins ████████████████▏░░░░  77.3%
+Other      3 hrs 13 mins  ███░░░░░░░░░░░░░░░░░░  14.8%
+Vue.js     33 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
+Go         29 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
 JavaScript 16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
 ```
 
@@ -62,8 +62,8 @@ Missing Piece -WwisH-                         SennaRin
 リマインド                           ROOKiEZ is PUNK'D
 如何                                  Who Cares 胡凱兒
 二十億光年の恋                          MY FIRST STORY
+あたしが隣にいるうちに                        藤川千愛
 Voices of the Chord                    Hiroyuki Sawano
-Over The Sky [Angel Fea                         Hitomi
 ```
 
 <!-- spotify_track end -->
