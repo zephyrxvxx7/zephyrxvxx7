@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     16 hrs 48 mins ████████████████▏░░░░  77.3%
-Other      3 hrs 13 mins  ███░░░░░░░░░░░░░░░░░░  14.8%
-Vue.js     33 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
-Go         29 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
-JavaScript 16 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+Python     15 hrs 7 mins  ████████████████▌░░░░  78.8%
+Other      2 hrs 23 mins  ██▌░░░░░░░░░░░░░░░░░░  12.5%
+Vue.js     33 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.9%
+Go         29 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.6%
+JavaScript 22 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.0%
 ```
 
 <!-- code_time end -->
@@ -57,13 +57,13 @@ JavaScript 16 mins        ▎░░░░░░░░░░░░░░░░░
 ソラゴト                                          明透
 菸癮                                  Who Cares 胡凱兒
 Missing Piece -WwisH-                         SennaRin
+CRY                                             Tielle
 昨天                                Who Cares 胡凱兒 &
 你終究不愛這世界                            傻子與白痴
 リマインド                           ROOKiEZ is PUNK'D
+花火                                            Tielle
 如何                                  Who Cares 胡凱兒
 二十億光年の恋                          MY FIRST STORY
-あたしが隣にいるうちに                        藤川千愛
-Voices of the Chord                    Hiroyuki Sawano
 ```
 
 <!-- spotify_track end -->
