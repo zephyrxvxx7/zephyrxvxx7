@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     11 hrs 18 mins ███████████▊░░░░░░░░░  56.4%
-Vue.js     4 hrs 44 mins  ████▉░░░░░░░░░░░░░░░░  23.6%
-Other      2 hrs 4 mins   ██▏░░░░░░░░░░░░░░░░░░  10.4%
-JavaScript 59 mins        █░░░░░░░░░░░░░░░░░░░░   4.9%
-Go         29 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+Python     12 hrs 5 mins  ███████████▌░░░░░░░░░  54.8%
+Vue.js     6 hrs 22 mins  ██████░░░░░░░░░░░░░░░  28.9%
+Other      1 hr 24 mins   █▎░░░░░░░░░░░░░░░░░░░   6.4%
+JavaScript 1 hr 5 mins    █░░░░░░░░░░░░░░░░░░░░   5.0%
+Go         29 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
 ```
 
 <!-- code_time end -->
@@ -58,12 +58,12 @@ Go         29 mins        ▌░░░░░░░░░░░░░░░░░
 菸癮                                  Who Cares 胡凱兒
 Missing Piece -WwisH-                         SennaRin
 CRY                                             Tielle
-昨天                                Who Cares 胡凱兒 &
-リマインド                           ROOKiEZ is PUNK'D
 花火                                            Tielle
+リマインド                           ROOKiEZ is PUNK'D
+昨天                                Who Cares 胡凱兒 &
 你終究不愛這世界                            傻子與白痴
 如何                                  Who Cares 胡凱兒
-二十億光年の恋                          MY FIRST STORY
+始まりの風                                         RIN
 ```
 
 <!-- spotify_track end -->
