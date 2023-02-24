@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     12 hrs 5 mins  ███████████▌░░░░░░░░░  54.8%
-Vue.js     6 hrs 22 mins  ██████░░░░░░░░░░░░░░░  28.9%
-Other      1 hr 24 mins   █▎░░░░░░░░░░░░░░░░░░░   6.4%
-JavaScript 1 hr 5 mins    █░░░░░░░░░░░░░░░░░░░░   5.0%
-Go         29 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.2%
+Python     10 hrs 36 mins ██████████▎░░░░░░░░░░  49.1%
+Vue.js     7 hrs 42 mins  ███████▍░░░░░░░░░░░░░  35.7%
+Other      1 hr 14 mins   █▏░░░░░░░░░░░░░░░░░░░   5.7%
+JavaScript 53 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.2%
+Go         29 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
 ```
 
 <!-- code_time end -->
@@ -63,7 +63,7 @@ CRY                                             Tielle
 昨天                                Who Cares 胡凱兒 &
 你終究不愛這世界                            傻子與白痴
 如何                                  Who Cares 胡凱兒
-始まりの風                                         RIN
+二十億光年の恋                          MY FIRST STORY
 ```
 
 <!-- spotify_track end -->
