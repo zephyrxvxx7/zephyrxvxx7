@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     10 hrs 36 mins ██████████▎░░░░░░░░░░  49.1%
-Vue.js     7 hrs 42 mins  ███████▍░░░░░░░░░░░░░  35.7%
-Other      1 hr 14 mins   █▏░░░░░░░░░░░░░░░░░░░   5.7%
-JavaScript 53 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.2%
-Go         29 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
+Python     11 hrs 25 mins ██████████▌░░░░░░░░░░  50.4%
+Vue.js     7 hrs 13 mins  ██████▋░░░░░░░░░░░░░░  31.9%
+Other      1 hr 17 mins   █▏░░░░░░░░░░░░░░░░░░░   5.7%
+JavaScript 53 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.0%
+Bash       32 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.4%
 ```
 
 <!-- code_time end -->
@@ -61,9 +61,9 @@ CRY                                             Tielle
 花火                                            Tielle
 リマインド                           ROOKiEZ is PUNK'D
 昨天                                Who Cares 胡凱兒 &
+.                                               Drogas
 你終究不愛這世界                            傻子與白痴
 如何                                  Who Cares 胡凱兒
-二十億光年の恋                          MY FIRST STORY
 ```
 
 <!-- spotify_track end -->
