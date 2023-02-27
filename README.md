@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     10 hrs 44 mins ██████████▍░░░░░░░░░░  49.6%
-Vue.js     7 hrs 12 mins  ███████░░░░░░░░░░░░░░  33.4%
-Other      1 hr 7 mins    █░░░░░░░░░░░░░░░░░░░░   5.2%
-JavaScript 53 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
+Python     10 hrs 46 mins ██████████▎░░░░░░░░░░  48.9%
+Vue.js     7 hrs 12 mins  ██████▊░░░░░░░░░░░░░░  32.7%
+JavaScript 1 hr 15 mins   █▏░░░░░░░░░░░░░░░░░░░   5.7%
+Other      1 hr 7 mins    █░░░░░░░░░░░░░░░░░░░░   5.1%
 Bash       32 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
 ```
 
@@ -57,8 +57,8 @@ Bash       32 mins        ▌░░░░░░░░░░░░░░░░░
 ソラゴト                                          明透
 菸癮                                  Who Cares 胡凱兒
 終究還是因為愛 (REMIX) [f          TRASH & 李浩瑋 Howa
-Missing Piece -WwisH-                         SennaRin
 CRY                                             Tielle
+Missing Piece -WwisH-                         SennaRin
 花火                                            Tielle
 .                                               Drogas
 リマインド                           ROOKiEZ is PUNK'D
