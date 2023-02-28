@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     10 hrs 46 mins ██████████▎░░░░░░░░░░  48.9%
-Vue.js     7 hrs 12 mins  ██████▊░░░░░░░░░░░░░░  32.7%
-JavaScript 1 hr 15 mins   █▏░░░░░░░░░░░░░░░░░░░   5.7%
-Other      1 hr 7 mins    █░░░░░░░░░░░░░░░░░░░░   5.1%
-Bash       32 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.5%
+Python     8 hrs 23 mins  █████████░░░░░░░░░░░░  43.0%
+Vue.js     7 hrs 12 mins  ███████▊░░░░░░░░░░░░░  37.0%
+JavaScript 1 hr 9 mins    █▏░░░░░░░░░░░░░░░░░░░   5.9%
+Other      1 hr 4 mins    █▏░░░░░░░░░░░░░░░░░░░   5.5%
+Bash       32 mins        ▌░░░░░░░░░░░░░░░░░░░░   2.8%
 ```
 
 <!-- code_time end -->
@@ -54,16 +54,16 @@ Bash       32 mins        ▌░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-ソラゴト                                          明透
 菸癮                                  Who Cares 胡凱兒
 終究還是因為愛 (REMIX) [f          TRASH & 李浩瑋 Howa
 CRY                                             Tielle
-Missing Piece -WwisH-                         SennaRin
+ソラゴト                                          明透
 花火                                            Tielle
-.                                               Drogas
-リマインド                           ROOKiEZ is PUNK'D
-昨天                                Who Cares 胡凱兒 &
 希望你回來                                       TRASH
+綻放                                             TRASH
+.                                               Drogas
+昨天                                Who Cares 胡凱兒 &
+終究還是因為愛                                   TRASH
 ```
 
 <!-- spotify_track end -->
