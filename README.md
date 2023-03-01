@@ -57,13 +57,13 @@ Bash       32 mins        ▌░░░░░░░░░░░░░░░░░
 菸癮                                  Who Cares 胡凱兒
 終究還是因為愛 (REMIX) [f          TRASH & 李浩瑋 Howa
 CRY                                             Tielle
-ソラゴト                                          明透
 花火                                            Tielle
 希望你回來                                       TRASH
-綻放                                             TRASH
 .                                               Drogas
+綻放                                             TRASH
 昨天                                Who Cares 胡凱兒 &
-終究還是因為愛                                   TRASH
+離開台北                                         TRASH
+你終究不愛這世界                            傻子與白痴
 ```
 
 <!-- spotify_track end -->
