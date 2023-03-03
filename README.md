@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     6 hrs 50 mins  ██████████▎░░░░░░░░░░  49.1%
-Vue.js     2 hrs 19 mins  ███▌░░░░░░░░░░░░░░░░░  16.7%
-Other      51 mins        █▎░░░░░░░░░░░░░░░░░░░   6.2%
-YAML       48 mins        █▏░░░░░░░░░░░░░░░░░░░   5.8%
-Bash       42 mins        █░░░░░░░░░░░░░░░░░░░░   5.1%
+Python     6 hrs 18 mins  ████████▌░░░░░░░░░░░░  40.8%
+Vue.js     3 hrs 19 mins  ████▌░░░░░░░░░░░░░░░░  21.5%
+Other      1 hr 16 mins   █▋░░░░░░░░░░░░░░░░░░░   8.2%
+YAML       1 hr 7 mins    █▌░░░░░░░░░░░░░░░░░░░   7.2%
+Bash       42 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.6%
 ```
 
 <!-- code_time end -->
@@ -54,13 +54,13 @@ Bash       42 mins        █░░░░░░░░░░░░░░░░░
 終究還是因為愛 (REMIX) [f          TRASH & 李浩瑋 Howa
 CRY                                             Tielle
 花火                                            Tielle
-菸癮                                  Who Cares 胡凱兒
 希望你回來                                       TRASH
+菸癮                                  Who Cares 胡凱兒
 .                                               Drogas
 綻放                                             TRASH
 離開台北                                         TRASH
 你終究不愛這世界                            傻子與白痴
-對不起我做不到答應了你的                康士坦的變化球
+終究還是因為愛                                   TRASH
 ```
 
 <!-- spotify_track end -->
