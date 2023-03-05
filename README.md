@@ -55,8 +55,8 @@ Other      44 mins        █▎░░░░░░░░░░░░░░░░
 CRY                                             Tielle
 花火                                            Tielle
 希望你回來                                       TRASH
-菸癮                                  Who Cares 胡凱兒
 .                                               Drogas
+菸癮                                  Who Cares 胡凱兒
 綻放                                             TRASH
 離開台北                                         TRASH
 你終究不愛這世界                            傻子與白痴
