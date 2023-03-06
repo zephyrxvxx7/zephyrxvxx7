@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     3 hrs 56 mins  ██████▋░░░░░░░░░░░░░░  32.1%
-Vue.js     3 hrs 24 mins  █████▊░░░░░░░░░░░░░░░  27.7%
-YAML       1 hr 16 mins   ██▏░░░░░░░░░░░░░░░░░░  10.4%
-JavaScript 48 mins        █▍░░░░░░░░░░░░░░░░░░░   6.6%
-Other      44 mins        █▎░░░░░░░░░░░░░░░░░░░   6.0%
+Python     3 hrs 54 mins  ██████▉░░░░░░░░░░░░░░  33.0%
+Vue.js     3 hrs 24 mins  ██████░░░░░░░░░░░░░░░  28.7%
+YAML       1 hr 16 mins   ██▎░░░░░░░░░░░░░░░░░░  10.8%
+Other      43 mins        █▎░░░░░░░░░░░░░░░░░░░   6.2%
+Docker     35 mins        █░░░░░░░░░░░░░░░░░░░░   5.0%
 ```
 
 <!-- code_time end -->
@@ -56,11 +56,11 @@ CRY                                             Tielle
 花火                                            Tielle
 希望你回來                                       TRASH
 .                                               Drogas
-菸癮                                  Who Cares 胡凱兒
 綻放                                             TRASH
 離開台北                                         TRASH
-你終究不愛這世界                            傻子與白痴
+菸癮                                  Who Cares 胡凱兒
 終究還是因為愛                                   TRASH
+世界盡頭                                         TRASH
 ```
 
 <!-- spotify_track end -->
