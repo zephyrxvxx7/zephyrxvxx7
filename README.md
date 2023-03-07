@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     3 hrs 54 mins  ██████▉░░░░░░░░░░░░░░  33.0%
-Vue.js     3 hrs 24 mins  ██████░░░░░░░░░░░░░░░  28.7%
-YAML       1 hr 16 mins   ██▎░░░░░░░░░░░░░░░░░░  10.8%
-Other      43 mins        █▎░░░░░░░░░░░░░░░░░░░   6.2%
-Docker     35 mins        █░░░░░░░░░░░░░░░░░░░░   5.0%
+Python     4 hrs 22 mins  ███████▎░░░░░░░░░░░░░  35.0%
+Vue.js     3 hrs 24 mins  █████▋░░░░░░░░░░░░░░░  27.2%
+YAML       1 hr 16 mins   ██▏░░░░░░░░░░░░░░░░░░  10.2%
+Other      53 mins        █▌░░░░░░░░░░░░░░░░░░░   7.2%
+Docker     36 mins        █░░░░░░░░░░░░░░░░░░░░   4.8%
 ```
 
 <!-- code_time end -->
@@ -53,11 +53,11 @@ Docker     35 mins        █░░░░░░░░░░░░░░░░░
 ```text
 終究還是因為愛 (REMIX) [f          TRASH & 李浩瑋 Howa
 CRY                                             Tielle
-花火                                            Tielle
 希望你回來                                       TRASH
+花火                                            Tielle
+離開台北                                         TRASH
 .                                               Drogas
 綻放                                             TRASH
-離開台北                                         TRASH
 菸癮                                  Who Cares 胡凱兒
 終究還是因為愛                                   TRASH
 世界盡頭                                         TRASH
