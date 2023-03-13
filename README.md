@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     5 hrs 46 mins  █████████░░░░░░░░░░░░  42.9%
-Bash       2 hrs 50 mins  ████▍░░░░░░░░░░░░░░░░  21.2%
-Other      53 mins        █▍░░░░░░░░░░░░░░░░░░░   6.7%
-JavaScript 51 mins        █▎░░░░░░░░░░░░░░░░░░░   6.4%
-JSON       35 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.4%
+Python     5 hrs 46 mins  ███████▊░░░░░░░░░░░░░  37.3%
+Bash       2 hrs 52 mins  ███▉░░░░░░░░░░░░░░░░░  18.6%
+JavaScript 2 hrs 11 mins  ██▉░░░░░░░░░░░░░░░░░░  14.1%
+Other      56 mins        █▎░░░░░░░░░░░░░░░░░░░   6.1%
+JSON       35 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
 ```
 
 <!-- code_time end -->
@@ -57,9 +57,9 @@ CRY                                             Tielle
 花火                                            Tielle
 離開台北                                         TRASH
 .                                               Drogas
+s-AVE                                SawanoHiroyuki[nZ
 綻放                                             TRASH
 終究還是因為愛                                   TRASH
-世界盡頭                                         TRASH
 菸癮                                  Who Cares 胡凱兒
 ```
 
