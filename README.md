@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     5 hrs 46 mins  ███████▊░░░░░░░░░░░░░  37.3%
-Bash       2 hrs 52 mins  ███▉░░░░░░░░░░░░░░░░░  18.6%
-JavaScript 2 hrs 11 mins  ██▉░░░░░░░░░░░░░░░░░░  14.1%
-Other      56 mins        █▎░░░░░░░░░░░░░░░░░░░   6.1%
-JSON       35 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.8%
+Python     6 hrs 11 mins  ██████░░░░░░░░░░░░░░░  29.1%
+Bash       3 hrs 59 mins  ███▉░░░░░░░░░░░░░░░░░  18.7%
+Text       2 hrs 48 mins  ██▊░░░░░░░░░░░░░░░░░░  13.2%
+JavaScript 2 hrs 28 mins  ██▍░░░░░░░░░░░░░░░░░░  11.6%
+Makefile   1 hr 10 mins   █▏░░░░░░░░░░░░░░░░░░░   5.5%
 ```
 
 <!-- code_time end -->
