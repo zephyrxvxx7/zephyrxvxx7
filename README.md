@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     6 hrs 11 mins  ██████░░░░░░░░░░░░░░░  29.1%
-Bash       3 hrs 59 mins  ███▉░░░░░░░░░░░░░░░░░  18.7%
-Text       2 hrs 48 mins  ██▊░░░░░░░░░░░░░░░░░░  13.2%
-JavaScript 2 hrs 28 mins  ██▍░░░░░░░░░░░░░░░░░░  11.6%
-Makefile   1 hr 10 mins   █▏░░░░░░░░░░░░░░░░░░░   5.5%
+Python     5 hrs 58 mins  █████▌░░░░░░░░░░░░░░░  26.4%
+Bash       5 hrs 22 mins  ████▉░░░░░░░░░░░░░░░░  23.8%
+JavaScript 3 hrs          ██▊░░░░░░░░░░░░░░░░░░  13.3%
+Text       2 hrs 51 mins  ██▋░░░░░░░░░░░░░░░░░░  12.7%
+Makefile   1 hr 14 mins   █▏░░░░░░░░░░░░░░░░░░░   5.5%
 ```
 
 <!-- code_time end -->
@@ -55,9 +55,9 @@ Makefile   1 hr 10 mins   █▏░░░░░░░░░░░░░░░░
 CRY                                             Tielle
 希望你回來                                       TRASH
 花火                                            Tielle
+s-AVE                                SawanoHiroyuki[nZ
 離開台北                                         TRASH
 .                                               Drogas
-s-AVE                                SawanoHiroyuki[nZ
 綻放                                             TRASH
 終究還是因為愛                                   TRASH
 菸癮                                  Who Cares 胡凱兒
