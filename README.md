@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Bash       8 hrs 18 mins  ███████▌░░░░░░░░░░░░░  36.1%
-Python     4 hrs 20 mins  ███▉░░░░░░░░░░░░░░░░░  18.9%
-Text       2 hrs 53 mins  ██▋░░░░░░░░░░░░░░░░░░  12.6%
-JavaScript 2 hrs 44 mins  ██▌░░░░░░░░░░░░░░░░░░  11.9%
-Makefile   1 hr 14 mins   █▏░░░░░░░░░░░░░░░░░░░   5.4%
+Bash       7 hrs 16 mins  ██████▋░░░░░░░░░░░░░░  31.6%
+Python     3 hrs 27 mins  ███▏░░░░░░░░░░░░░░░░░  15.0%
+Text       2 hrs 52 mins  ██▌░░░░░░░░░░░░░░░░░░  12.5%
+JavaScript 2 hrs 50 mins  ██▌░░░░░░░░░░░░░░░░░░  12.3%
+Other      1 hr 46 mins   █▌░░░░░░░░░░░░░░░░░░░   7.7%
 ```
 
 <!-- code_time end -->
@@ -63,7 +63,7 @@ s-AVE                                SawanoHiroyuki[nZ
 .                                               Drogas
 綻放                                             TRASH
 終究還是因為愛                                   TRASH
-菸癮                                  Who Cares 胡凱兒
+世界盡頭                                         TRASH
 ```
 
 <!-- spotify_track end -->
