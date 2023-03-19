@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Bash       5 hrs 38 mins  █████░░░░░░░░░░░░░░░░  24.1%
-Python     4 hrs 2 mins   ███▌░░░░░░░░░░░░░░░░░  17.2%
-Text       3 hrs 20 mins  ██▉░░░░░░░░░░░░░░░░░░  14.3%
-JavaScript 2 hrs 43 mins  ██▍░░░░░░░░░░░░░░░░░░  11.6%
-Makefile   2 hrs 26 mins  ██▏░░░░░░░░░░░░░░░░░░  10.4%
+Bash       5 hrs 35 mins  █████░░░░░░░░░░░░░░░░  24.1%
+Python     4 hrs 2 mins   ███▋░░░░░░░░░░░░░░░░░  17.5%
+Text       3 hrs 20 mins  ███░░░░░░░░░░░░░░░░░░  14.5%
+JavaScript 2 hrs 39 mins  ██▍░░░░░░░░░░░░░░░░░░  11.5%
+Makefile   2 hrs 26 mins  ██▏░░░░░░░░░░░░░░░░░░  10.5%
 ```
 
 <!-- code_time end -->
@@ -55,15 +55,15 @@ Makefile   2 hrs 26 mins  ██▏░░░░░░░░░░░░░░░
 
 ```text
 終究還是因為愛 (REMIX) [f          TRASH & 李浩瑋 Howa
-CRY                                             Tielle
 希望你回來                                       TRASH
-花火                                            Tielle
+打開太陽 - 美聲版                     Kimberley Chen &
 s-AVE                                SawanoHiroyuki[nZ
 離開台北                                         TRASH
 .                                               Drogas
 綻放                                             TRASH
 終究還是因為愛                                   TRASH
-打開太陽 - 美聲版                     Kimberley Chen &
+世界盡頭                                         TRASH
+StarRingChild                                    Aimer
 ```
 
 <!-- spotify_track end -->
