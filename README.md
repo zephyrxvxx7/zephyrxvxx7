@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Bash       5 hrs 35 mins  █████░░░░░░░░░░░░░░░░  24.1%
-Python     4 hrs 2 mins   ███▋░░░░░░░░░░░░░░░░░  17.5%
-Text       3 hrs 20 mins  ███░░░░░░░░░░░░░░░░░░  14.5%
-JavaScript 2 hrs 39 mins  ██▍░░░░░░░░░░░░░░░░░░  11.5%
-Makefile   2 hrs 26 mins  ██▏░░░░░░░░░░░░░░░░░░  10.5%
+Bash       5 hrs 33 mins  █████▌░░░░░░░░░░░░░░░  26.3%
+Python     4 hrs 2 mins   ████░░░░░░░░░░░░░░░░░  19.1%
+Text       3 hrs 20 mins  ███▎░░░░░░░░░░░░░░░░░  15.9%
+Makefile   2 hrs 26 mins  ██▍░░░░░░░░░░░░░░░░░░  11.6%
+Other      2 hrs 13 mins  ██▏░░░░░░░░░░░░░░░░░░  10.5%
 ```
 
 <!-- code_time end -->
@@ -62,8 +62,8 @@ s-AVE                                SawanoHiroyuki[nZ
 .                                               Drogas
 綻放                                             TRASH
 終究還是因為愛                                   TRASH
+LAST STARDUST                                    Aimer
 世界盡頭                                         TRASH
-StarRingChild                                    Aimer
 ```
 
 <!-- spotify_track end -->
