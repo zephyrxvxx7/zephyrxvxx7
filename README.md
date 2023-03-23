@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     7 hrs 4 mins   ████████▋░░░░░░░░░░░░  41.2%
-Bash       3 hrs 2 mins   ███▋░░░░░░░░░░░░░░░░░  17.8%
-Other      2 hrs 23 mins  ██▉░░░░░░░░░░░░░░░░░░  13.9%
-Makefile   1 hr 27 mins   █▊░░░░░░░░░░░░░░░░░░░   8.5%
-Text       1 hr 16 mins   █▌░░░░░░░░░░░░░░░░░░░   7.4%
+Python     7 hrs 53 mins  █████████▍░░░░░░░░░░░  45.2%
+Other      2 hrs 20 mins  ██▊░░░░░░░░░░░░░░░░░░  13.4%
+Go         2 hrs 5 mins   ██▌░░░░░░░░░░░░░░░░░░  11.9%
+Makefile   1 hr 35 mins   █▉░░░░░░░░░░░░░░░░░░░   9.1%
+Text       1 hr 14 mins   █▍░░░░░░░░░░░░░░░░░░░   7.1%
 ```
 
 <!-- code_time end -->
@@ -56,14 +56,14 @@ Text       1 hr 16 mins   █▌░░░░░░░░░░░░░░░░
 ```text
 終究還是因為愛 (REMIX) [f          TRASH & 李浩瑋 Howa
 希望你回來                                       TRASH
+感謝勞力                                  Flesh Juicer
 打開太陽 - 美聲版                     Kimberley Chen &
 s-AVE                                SawanoHiroyuki[nZ
 離開台北                                         TRASH
-.                                               Drogas
 綻放                                             TRASH
+打開太陽                                  Flesh Juicer
 終究還是因為愛                                   TRASH
-LAST STARDUST                                    Aimer
-世界盡頭                                         TRASH
+關閉太陽                                  Flesh Juicer
 ```
 
 <!-- spotify_track end -->
