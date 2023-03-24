@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     7 hrs 53 mins  █████████▍░░░░░░░░░░░  45.2%
-Other      2 hrs 20 mins  ██▊░░░░░░░░░░░░░░░░░░  13.4%
-Go         2 hrs 5 mins   ██▌░░░░░░░░░░░░░░░░░░  11.9%
-Makefile   1 hr 35 mins   █▉░░░░░░░░░░░░░░░░░░░   9.1%
-Text       1 hr 14 mins   █▍░░░░░░░░░░░░░░░░░░░   7.1%
+Python     8 hrs 58 mins  ██████████▍░░░░░░░░░░  49.6%
+Go         3 hrs 48 mins  ████▍░░░░░░░░░░░░░░░░  21.1%
+Other      1 hr 38 mins   █▉░░░░░░░░░░░░░░░░░░░   9.1%
+Makefile   1 hr 37 mins   █▉░░░░░░░░░░░░░░░░░░░   8.9%
+Text       56 mins        █░░░░░░░░░░░░░░░░░░░░   5.2%
 ```
 
 <!-- code_time end -->
@@ -54,16 +54,16 @@ Text       1 hr 14 mins   █▍░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-終究還是因為愛 (REMIX) [f          TRASH & 李浩瑋 Howa
-希望你回來                                       TRASH
 感謝勞力                                  Flesh Juicer
+終究還是因為愛 (REMIX) [f          TRASH & 李浩瑋 Howa
 打開太陽 - 美聲版                     Kimberley Chen &
 s-AVE                                SawanoHiroyuki[nZ
-離開台北                                         TRASH
-綻放                                             TRASH
 打開太陽                                  Flesh Juicer
-終究還是因為愛                                   TRASH
+玉山 Ft. ØZI                      Flesh Juicer & ØZI
 關閉太陽                                  Flesh Juicer
+LAST STARDUST                                    Aimer
+StarRingChild                                    Aimer
+希望你回來                                       TRASH
 ```
 
 <!-- spotify_track end -->
