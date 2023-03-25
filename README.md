@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     8 hrs 58 mins  ██████████▍░░░░░░░░░░  49.6%
-Go         3 hrs 48 mins  ████▍░░░░░░░░░░░░░░░░  21.1%
-Other      1 hr 38 mins   █▉░░░░░░░░░░░░░░░░░░░   9.1%
-Makefile   1 hr 37 mins   █▉░░░░░░░░░░░░░░░░░░░   8.9%
-Text       56 mins        █░░░░░░░░░░░░░░░░░░░░   5.2%
+Go         10 hrs 7 mins  █████████▉░░░░░░░░░░░  47.4%
+Python     8 hrs 22 mins  ████████▏░░░░░░░░░░░░  39.2%
+Other      59 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%
+Makefile   46 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.7%
+Text       18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
 ```
 
 <!-- code_time end -->
@@ -57,13 +57,13 @@ Text       56 mins        █░░░░░░░░░░░░░░░░░
 感謝勞力                                  Flesh Juicer
 終究還是因為愛 (REMIX) [f          TRASH & 李浩瑋 Howa
 打開太陽 - 美聲版                     Kimberley Chen &
+Sunset                                    The Midnight
 s-AVE                                SawanoHiroyuki[nZ
 打開太陽                                  Flesh Juicer
 玉山 Ft. ØZI                      Flesh Juicer & ØZI
 關閉太陽                                  Flesh Juicer
+Los Angeles                               The Midnight
 LAST STARDUST                                    Aimer
-StarRingChild                                    Aimer
-希望你回來                                       TRASH
 ```
 
 <!-- spotify_track end -->
