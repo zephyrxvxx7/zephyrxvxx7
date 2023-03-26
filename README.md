@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Go         10 hrs 7 mins  █████████▉░░░░░░░░░░░  47.4%
-Python     8 hrs 22 mins  ████████▏░░░░░░░░░░░░  39.2%
-Other      59 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.7%
-Makefile   46 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.7%
-Text       18 mins        ▎░░░░░░░░░░░░░░░░░░░░   1.4%
+Go         11 hrs 26 mins █████████▍░░░░░░░░░░░  45.0%
+Python     9 hrs 35 mins  ███████▉░░░░░░░░░░░░░  37.7%
+Other      59 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
+Makefile   51 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
+JavaScript 46 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
 ```
 
 <!-- code_time end -->
@@ -55,15 +55,15 @@ Text       18 mins        ▎░░░░░░░░░░░░░░░░░
 
 ```text
 感謝勞力                                  Flesh Juicer
-終究還是因為愛 (REMIX) [f          TRASH & 李浩瑋 Howa
-打開太陽 - 美聲版                     Kimberley Chen &
-Sunset                                    The Midnight
-s-AVE                                SawanoHiroyuki[nZ
 打開太陽                                  Flesh Juicer
+Sunset                                    The Midnight
 玉山 Ft. ØZI                      Flesh Juicer & ØZI
+打開太陽 - 美聲版                     Kimberley Chen &
+s-AVE                                SawanoHiroyuki[nZ
 關閉太陽                                  Flesh Juicer
-Los Angeles                               The Midnight
-LAST STARDUST                                    Aimer
+歡迎光臨                                  Flesh Juicer
+雲煙                                  Kimberley Chen &
+Modern Siren                         Flesh Juicer & Ju
 ```
 
 <!-- spotify_track end -->
