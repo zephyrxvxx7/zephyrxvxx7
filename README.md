@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Go         11 hrs 26 mins █████████▍░░░░░░░░░░░  45.0%
-Python     9 hrs 35 mins  ███████▉░░░░░░░░░░░░░  37.7%
-Other      59 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.9%
-Makefile   51 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.4%
-JavaScript 46 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
+Go         11 hrs 26 mins █████████▏░░░░░░░░░░░  43.5%
+Python     10 hrs 23 mins ████████▎░░░░░░░░░░░░  39.5%
+YAML       57 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
+Other      56 mins        ▊░░░░░░░░░░░░░░░░░░░░   3.6%
+Makefile   52 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.3%
 ```
 
 <!-- code_time end -->
@@ -63,7 +63,7 @@ by your side                                    Tielle
 s-AVE                                SawanoHiroyuki[nZ
 關閉太陽                                  Flesh Juicer
 歡迎光臨                                  Flesh Juicer
-BLESSLESS                                       Tielle
+雲煙                                  Kimberley Chen &
 ```
 
 <!-- spotify_track end -->
