@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Go         10 hrs 9 mins  ████████▋░░░░░░░░░░░░  41.3%
-Python     7 hrs          █████▉░░░░░░░░░░░░░░░  28.5%
-Makefile   1 hr 37 mins   █▍░░░░░░░░░░░░░░░░░░░   6.6%
-JavaScript 1 hr 24 mins   █▏░░░░░░░░░░░░░░░░░░░   5.7%
-Other      1 hr           ▊░░░░░░░░░░░░░░░░░░░░   4.1%
+Go         9 hrs 18 mins  █████████▏░░░░░░░░░░░  43.7%
+Python     5 hrs 27 mins  █████▍░░░░░░░░░░░░░░░  25.6%
+JavaScript 1 hr 24 mins   █▍░░░░░░░░░░░░░░░░░░░   6.6%
+Makefile   1 hr 23 mins   █▍░░░░░░░░░░░░░░░░░░░   6.5%
+YAML       58 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.5%
 ```
 
 <!-- code_time end -->
@@ -60,8 +60,8 @@ Sunset                                    The Midnight
 by your side                                    Tielle
 玉山 Ft. ØZI                      Flesh Juicer & ØZI
 打開太陽 - 美聲版                     Kimberley Chen &
-s-AVE                                SawanoHiroyuki[nZ
 關閉太陽                                  Flesh Juicer
+s-AVE                                SawanoHiroyuki[nZ
 歡迎光臨                                  Flesh Juicer
 雲煙                                  Kimberley Chen &
 ```
