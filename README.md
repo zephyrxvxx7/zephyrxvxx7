@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Go         6 hrs 34 mins  ████████▌░░░░░░░░░░░░  40.6%
-Python     4 hrs 21 mins  █████▋░░░░░░░░░░░░░░░  26.9%
-Makefile   1 hr 9 mins    █▌░░░░░░░░░░░░░░░░░░░   7.2%
-HTML       58 mins        █▎░░░░░░░░░░░░░░░░░░░   6.0%
-YAML       54 mins        █▏░░░░░░░░░░░░░░░░░░░   5.6%
+Go         6 hrs 34 mins  █████████▌░░░░░░░░░░░  45.2%
+Python     3 hrs 19 mins  ████▊░░░░░░░░░░░░░░░░  22.9%
+Makefile   1 hr 7 mins    █▋░░░░░░░░░░░░░░░░░░░   7.8%
+HTML       58 mins        █▍░░░░░░░░░░░░░░░░░░░   6.7%
+JavaScript 35 mins        ▊░░░░░░░░░░░░░░░░░░░░   4.1%
 ```
 
 <!-- code_time end -->
