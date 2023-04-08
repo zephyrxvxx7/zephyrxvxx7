@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Go         4 hrs 56 mins  ████████████▉░░░░░░░░  61.8%
-Python     1 hr 27 mins   ███▊░░░░░░░░░░░░░░░░░  18.3%
-Makefile   54 mins        ██▎░░░░░░░░░░░░░░░░░░  11.3%
-Text       8 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.7%
-YAML       8 mins         ▎░░░░░░░░░░░░░░░░░░░░   1.7%
+Python     2 hrs 55 mins  ██████████▉░░░░░░░░░░  51.9%
+Makefile   1 hr 4 mins    ████░░░░░░░░░░░░░░░░░  19.2%
+Other      22 mins        █▍░░░░░░░░░░░░░░░░░░░   6.6%
+Vue.js     21 mins        █▎░░░░░░░░░░░░░░░░░░░   6.5%
+YAML       14 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.2%
 ```
 
 <!-- code_time end -->
@@ -55,14 +55,14 @@ YAML       8 mins         ▎░░░░░░░░░░░░░░░░░
 
 ```text
 感謝勞力                                  Flesh Juicer
-打開太陽                                  Flesh Juicer
 開店歌                                      無妄合作社
+打開太陽                                  Flesh Juicer
 Sunset                                    The Midnight
 by your side                                    Tielle
 玉山 Ft. ØZI                      Flesh Juicer & ØZI
-打開太陽 - 美聲版                     Kimberley Chen &
 山頭                                        無妄合作社
 關閉太陽                                  Flesh Juicer
+打開太陽 - 美聲版                     Kimberley Chen &
 歡迎光臨                                  Flesh Juicer
 ```
 
