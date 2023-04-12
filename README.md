@@ -59,8 +59,8 @@ YAML       14 mins        ▉░░░░░░░░░░░░░░░░░
 打開太陽                                  Flesh Juicer
 by your side                                    Tielle
 Sunset                                    The Midnight
-玉山 Ft. ØZI                      Flesh Juicer & ØZI
 山頭                                        無妄合作社
+玉山 Ft. ØZI                      Flesh Juicer & ØZI
 關閉太陽                                  Flesh Juicer
 打開太陽 - 美聲版                     Kimberley Chen &
 雲煙                                  Kimberley Chen &
