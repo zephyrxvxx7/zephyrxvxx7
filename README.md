@@ -57,13 +57,13 @@ YAML       14 mins        ▉░░░░░░░░░░░░░░░░░
 感謝勞力                                  Flesh Juicer
 開店歌                                      無妄合作社
 打開太陽                                  Flesh Juicer
+山頭                                        無妄合作社
 by your side                                    Tielle
 Sunset                                    The Midnight
-山頭                                        無妄合作社
 玉山 Ft. ØZI                      Flesh Juicer & ØZI
 關閉太陽                                  Flesh Juicer
-打開太陽 - 美聲版                     Kimberley Chen &
-雲煙                                  Kimberley Chen &
+二十一世紀的破青年                          無妄合作社
+青春之歌                                    無妄合作社
 ```
 
 <!-- spotify_track end -->
