@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     2 hrs 55 mins  ██████████▉░░░░░░░░░░  51.9%
-Makefile   1 hr 4 mins    ████░░░░░░░░░░░░░░░░░  19.2%
-Other      22 mins        █▍░░░░░░░░░░░░░░░░░░░   6.6%
-Vue.js     21 mins        █▎░░░░░░░░░░░░░░░░░░░   6.5%
-YAML       14 mins        ▉░░░░░░░░░░░░░░░░░░░░   4.2%
+Python     1 hr 46 mins   ██████████▊░░░░░░░░░░  51.6%
+Vue.js     21 mins        ██▏░░░░░░░░░░░░░░░░░░  10.5%
+Other      17 mins        █▊░░░░░░░░░░░░░░░░░░░   8.7%
+YAML       14 mins        █▍░░░░░░░░░░░░░░░░░░░   6.8%
+JavaScript 13 mins        █▍░░░░░░░░░░░░░░░░░░░   6.6%
 ```
 
 <!-- code_time end -->
@@ -61,9 +61,9 @@ YAML       14 mins        ▉░░░░░░░░░░░░░░░░░
 by your side                                    Tielle
 Sunset                                    The Midnight
 玉山 Ft. ØZI                      Flesh Juicer & ØZI
-關閉太陽                                  Flesh Juicer
 二十一世紀的破青年                          無妄合作社
 青春之歌                                    無妄合作社
+雲煙                                  Kimberley Chen &
 ```
 
 <!-- spotify_track end -->
