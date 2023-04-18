@@ -56,14 +56,14 @@ JavaScript 13 mins        █▍░░░░░░░░░░░░░░░░
 ```text
 感謝勞力                                  Flesh Juicer
 開店歌                                      無妄合作社
-打開太陽                                  Flesh Juicer
 山頭                                        無妄合作社
 by your side                                    Tielle
 Sunset                                    The Midnight
-玉山 Ft. ØZI                      Flesh Juicer & ØZI
+打開太陽                                  Flesh Juicer
 二十一世紀的破青年                          無妄合作社
 青春之歌                                    無妄合作社
-雲煙                                  Kimberley Chen &
+玉山 Ft. ØZI                      Flesh Juicer & ØZI
+BLESSLESS                                       Tielle
 ```
 
 <!-- spotify_track end -->
