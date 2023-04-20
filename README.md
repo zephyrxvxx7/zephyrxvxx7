@@ -41,10 +41,7 @@ JavaScript 13 mins        █▍░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Hollow Knight                    🕘 88 hrs 39 mins
-🎮 Oxygen Not Included              🕘 40 hrs 44 mins
-🎮 Ori and the Will of the Wisps    🕘 34 hrs 29 mins
-🎮 Age of Empires II (2013)         🕘 12 hrs 4 mins
+🎮 Vampire Survivors                🕘 11 hrs 56 mins
 ```
 
 <!-- steam_time end -->
@@ -56,14 +53,14 @@ JavaScript 13 mins        █▍░░░░░░░░░░░░░░░░
 ```text
 開店歌                                      無妄合作社
 山頭                                        無妄合作社
+床                                    No Party For Cao
 by your side                                    Tielle
-Sunset                                    The Midnight
-感謝勞力                                  Flesh Juicer
 二十一世紀的破青年                          無妄合作社
 青春之歌                                    無妄合作社
+感謝勞力                                  Flesh Juicer
+但                                    No Party For Cao
 打開太陽                                  Flesh Juicer
 BLESSLESS                                       Tielle
-Noir.                                           Tielle
 ```
 
 <!-- spotify_track end -->
