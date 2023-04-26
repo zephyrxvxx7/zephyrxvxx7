@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-TOML       20 mins        █████████████████▏░░░  81.7%
-JavaScript 3 mins         ███▎░░░░░░░░░░░░░░░░░  16.0%
+TOML       20 mins        ████████████████▉░░░░  80.5%
+JavaScript 3 mins         ███▎░░░░░░░░░░░░░░░░░  15.7%
 Docker     0 secs         ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+YAML       0 secs         ▎░░░░░░░░░░░░░░░░░░░░   1.4%
 Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.4%
-Git Config 0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time end -->
