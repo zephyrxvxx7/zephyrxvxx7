@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-YAML       0 secs         █████████████████████ 100.0%
+TOML       1 min          █████████████████████ 100.0%
 ```
 
 <!-- code_time end -->
