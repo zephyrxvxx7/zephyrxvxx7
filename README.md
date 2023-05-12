@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-TOML       13 mins        █████████████████████ 100.0%
+Other      0 secs         ███████████████▏░░░░░  72.3%
+INI        0 secs         ████▏░░░░░░░░░░░░░░░░  20.1%
+Roff       0 secs         █▌░░░░░░░░░░░░░░░░░░░   7.6%
 ```
 
 <!-- code_time end -->
