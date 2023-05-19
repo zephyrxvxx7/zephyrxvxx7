@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Other      4 mins         ████████████████████▌  97.9%
-INI        0 secs         ▎░░░░░░░░░░░░░░░░░░░░   1.5%
-Roff       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.6%
+Other      4 mins         █████████████████████ 100.0%
 ```
 
 <!-- code_time end -->
