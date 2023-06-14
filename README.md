@@ -37,7 +37,7 @@ CSS        0 secs         ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Vampire Survivors                🕘 11 hrs 56 mins
+🎮 Hades                            🕘 2 hrs 34 mins
 ```
 
 <!-- steam_time end -->
