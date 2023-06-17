@@ -27,7 +27,10 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-CSS        0 secs         █████████████████████ 100.0%
+Markdown   2 mins         ██████████████████▉░░  90.3%
+CSS        0 secs         █▊░░░░░░░░░░░░░░░░░░░   8.7%
+Text       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.5%
+Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 ```
 
 <!-- code_time end -->
