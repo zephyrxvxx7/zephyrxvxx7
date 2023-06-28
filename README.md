@@ -50,16 +50,16 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-開店歌                                      無妄合作社
-山頭                                        無妄合作社
-床                                    No Party For Cao
-by your side                                    Tielle
-二十一世紀的破青年                          無妄合作社
-青春之歌                                    無妄合作社
-感謝勞力                                  Flesh Juicer
-但                                    No Party For Cao
-打開太陽                                  Flesh Juicer
-BLESSLESS                                       Tielle
+染                                                Reol
+我也曾經想過這樣殺了我自                       NeciKen
+伊的身邊已經有別人2023             許富凱 & Flesh Juic
+迷霧之子                                        告五人
+平面鏡                                            Reol
+綺羅綺羅                                          Reol
+護國山 Pattonkan                              CHTHONIC
+Without Pain                                    OBSESS
+野獸                                            OBSESS
+放空                                      老破麻 O.S.D
 ```
 
 <!-- spotify_track end -->
