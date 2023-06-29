@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Markdown   2 mins         ██████████████████▉░░  90.3%
-CSS        0 secs         █▊░░░░░░░░░░░░░░░░░░░   8.7%
-Text       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.5%
-Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+JavaScript 9 mins         ████████████████▋░░░░  79.7%
+Other      2 mins         ████▏░░░░░░░░░░░░░░░░  20.2%
+YAML       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 ```
 
 <!-- code_time end -->
@@ -51,9 +50,9 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 染                                                Reol
+迷霧之子                                        告五人
 我也曾經想過這樣殺了我自                       NeciKen
 伊的身邊已經有別人2023             許富凱 & Flesh Juic
-迷霧之子                                        告五人
 平面鏡                                            Reol
 綺羅綺羅                                          Reol
 護國山 Pattonkan                              CHTHONIC
