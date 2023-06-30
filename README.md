@@ -56,9 +56,9 @@ YAML       0 secs         ░░░░░░░░░░░░░░░░░░
 平面鏡                                            Reol
 綺羅綺羅                                          Reol
 護國山 Pattonkan                              CHTHONIC
-Without Pain                                    OBSESS
-野獸                                            OBSESS
 放空                                      老破麻 O.S.D
+Without Pain                                    OBSESS
+-nil-                                             Reol
 ```
 
 <!-- spotify_track end -->
