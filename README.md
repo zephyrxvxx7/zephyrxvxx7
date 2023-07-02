@@ -58,7 +58,7 @@ YAML       0 secs         ░░░░░░░░░░░░░░░░░░
 護國山 Pattonkan                              CHTHONIC
 放空                                      老破麻 O.S.D
 Without Pain                                    OBSESS
--nil-                                             Reol
+野獸                                            OBSESS
 ```
 
 <!-- spotify_track end -->
