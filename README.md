@@ -51,14 +51,14 @@ YAML       0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 迷霧之子                                        告五人
 我也曾經想過這樣殺了我自                       NeciKen
-染                                                Reol
 伊的身邊已經有別人2023             許富凱 & Flesh Juic
+染                                                Reol
 平面鏡                                            Reol
-綺羅綺羅                                          Reol
 護國山 Pattonkan                              CHTHONIC
 Flower Dance                                DJ Okawari
 Without Pain                                    OBSESS
 放空                                      老破麻 O.S.D
+野獸                                            OBSESS
 ```
 
 <!-- spotify_track end -->
