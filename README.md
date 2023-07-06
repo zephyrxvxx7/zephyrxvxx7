@@ -55,9 +55,9 @@ YAML       0 secs         ░░░░░░░░░░░░░░░░░░
 平面鏡                                            Reol
 護國山 Pattonkan                              CHTHONIC
 染                                                Reol
-Without Pain                                    OBSESS
 Flower Dance                                DJ Okawari
-放空                                      老破麻 O.S.D
+Without Pain                                    OBSESS
+愛在西元前                                    Jay Chou
 野獸                                            OBSESS
 ```
 
