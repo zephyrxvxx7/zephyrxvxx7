@@ -54,8 +54,8 @@ YAML       0 secs         ░░░░░░░░░░░░░░░░░░
 伊的身邊已經有別人2023             許富凱 & Flesh Juic
 平面鏡                                            Reol
 護國山 Pattonkan                              CHTHONIC
-染                                                Reol
 Flower Dance                                DJ Okawari
+染                                                Reol
 Without Pain                                    OBSESS
 愛在西元前                                    Jay Chou
 野獸                                            OBSESS
