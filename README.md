@@ -55,10 +55,10 @@ YAML       0 secs         ░░░░░░░░░░░░░░░░░░
 平面鏡                                            Reol
 護國山 Pattonkan                              CHTHONIC
 Flower Dance                                DJ Okawari
-染                                                Reol
 Without Pain                                    OBSESS
-愛在西元前                                    Jay Chou
+染                                                Reol
 野獸                                            OBSESS
+愛在西元前                                    Jay Chou
 ```
 
 <!-- spotify_track end -->
