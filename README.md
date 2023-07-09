@@ -55,9 +55,9 @@ YAML       0 secs         ░░░░░░░░░░░░░░░░░░
 平面鏡                                            Reol
 護國山 Pattonkan                              CHTHONIC
 Flower Dance                                DJ Okawari
+揹上悲傷北上                              Crispy脆樂團
 Without Pain                                    OBSESS
 染                                                Reol
-野獸                                            OBSESS
 愛在西元前                                    Jay Chou
 ```
 
