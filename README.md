@@ -39,7 +39,7 @@ YAML       0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Hades                            🕘 2 hrs 34 mins
+🎮 Age of Empires II: Definitive Edition 🕘 77 hrs 36 mins
 ```
 
 <!-- steam_time end -->
