@@ -52,13 +52,13 @@ YAML       0 secs         ░░░░░░░░░░░░░░░░░░
 迷霧之子                                        告五人
 我也曾經想過這樣殺了我自                       NeciKen
 伊的身邊已經有別人2023             許富凱 & Flesh Juic
-平面鏡                                            Reol
 護國山 Pattonkan                              CHTHONIC
 Flower Dance                                DJ Okawari
 揹上悲傷北上                              Crispy脆樂團
 Without Pain                                    OBSESS
-染                                                Reol
 愛在西元前                                    Jay Chou
+痛苦造就了我們                                  OBSESS
+你終究不愛這世界                            傻子與白痴
 ```
 
 <!-- spotify_track end -->
