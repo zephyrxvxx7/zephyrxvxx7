@@ -55,7 +55,7 @@ YAML       0 secs         ░░░░░░░░░░░░░░░░░░
 護國山 Pattonkan                              CHTHONIC
 Flower Dance                                DJ Okawari
 揹上悲傷北上                              Crispy脆樂團
-痛苦造就了我們                                  OBSESS
+海闊天空                                        Beyond
 愛在西元前                                    Jay Chou
 你終究不愛這世界                            傻子與白痴
 Everything's Alright               塞壬唱片-MSR & DJ O
