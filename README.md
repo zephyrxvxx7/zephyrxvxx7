@@ -53,12 +53,12 @@ YAML       0 secs         ░░░░░░░░░░░░░░░░░░
 伊的身邊已經有別人2023             許富凱 & Flesh Juic
 海闊天空                                        Beyond
 我也曾經想過這樣殺了我自                       NeciKen
-護國山 Pattonkan                              CHTHONIC
 Flower Dance                                DJ Okawari
+護國山 Pattonkan                              CHTHONIC
 揹上悲傷北上                              Crispy脆樂團
+Everything's Alright               塞壬唱片-MSR & DJ O
 愛在西元前                                    Jay Chou
 你終究不愛這世界                            傻子與白痴
-Everything's Alright               塞壬唱片-MSR & DJ O
 ```
 
 <!-- spotify_track end -->
