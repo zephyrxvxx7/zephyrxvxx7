@@ -50,7 +50,6 @@ YAML       0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 迷霧之子                                        告五人
-伊的身邊已經有別人2023             許富凱 & Flesh Juic
 海闊天空                                        Beyond
 我也曾經想過這樣殺了我自                       NeciKen
 Flower Dance                                DJ Okawari
@@ -59,6 +58,7 @@ Flower Dance                                DJ Okawari
 Everything's Alright               塞壬唱片-MSR & DJ O
 愛在西元前                                    Jay Chou
 你終究不愛這世界                            傻子與白痴
+如果你能到我的雨裡面               白頻率 White Freque
 ```
 
 <!-- spotify_track end -->
