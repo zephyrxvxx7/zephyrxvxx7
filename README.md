@@ -54,11 +54,11 @@ YAML       0 secs         ░░░░░░░░░░░░░░░░░░
 Flower Dance                                DJ Okawari
 揹上悲傷北上                              Crispy脆樂團
 Everything's Alright               塞壬唱片-MSR & DJ O
-我也曾經想過這樣殺了我自                       NeciKen
 愛在西元前                                    Jay Chou
 你終究不愛這世界                            傻子與白痴
 真的愛妳                                        Beyond
 如果你能到我的雨裡面               白頻率 White Freque
+護國山 Pattonkan                              CHTHONIC
 ```
 
 <!-- spotify_track end -->
