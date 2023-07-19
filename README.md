@@ -49,16 +49,16 @@ YAML       0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-迷霧之子                                        告五人
 海闊天空                                        Beyond
+迷霧之子                                        告五人
 Flower Dance                                DJ Okawari
 揹上悲傷北上                              Crispy脆樂團
 Everything's Alright               塞壬唱片-MSR & DJ O
-愛在西元前                                    Jay Chou
-你終究不愛這世界                            傻子與白痴
 真的愛妳                                        Beyond
+愛在西元前                                    Jay Chou
 如果你能到我的雨裡面               白頻率 White Freque
-護國山 Pattonkan                              CHTHONIC
+光輝歲月                                        Beyond
+ユラレル                                        みゆな
 ```
 
 <!-- spotify_track end -->
