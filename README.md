@@ -27,9 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-JavaScript 9 mins         ████████████████▋░░░░  79.7%
-Other      2 mins         ████▏░░░░░░░░░░░░░░░░  20.2%
-YAML       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+CSS        22 mins        ███████░░░░░░░░░░░░░░  33.7%
+JavaScript 20 mins        ██████▌░░░░░░░░░░░░░░  31.2%
+JSON       20 mins        ██████▍░░░░░░░░░░░░░░  30.6%
+HTML       2 mins         ▊░░░░░░░░░░░░░░░░░░░░   4.1%
+XML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 ```
 
 <!-- code_time end -->
@@ -53,12 +55,12 @@ YAML       0 secs         ░░░░░░░░░░░░░░░░░░
 迷霧之子                                        告五人
 惑者                                  Who Cares 胡凱兒
 揹上悲傷北上                              Crispy脆樂團
+如果你能到我的雨裡面               白頻率 White Freque
 真的愛妳                                        Beyond
 愛在西元前                                    Jay Chou
-如果你能到我的雨裡面               白頻率 White Freque
-護國山 Pattonkan                              CHTHONIC
-光輝歲月                                        Beyond
 ユラレル                                        みゆな
+光輝歲月                                        Beyond
+我也曾經想過這樣殺了我自                       NeciKen
 ```
 
 <!-- spotify_track end -->
