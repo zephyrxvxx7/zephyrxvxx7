@@ -54,11 +54,11 @@ XML        0 secs         ░░░░░░░░░░░░░░░░░░
 海闊天空                                        Beyond
 惑者                                  Who Cares 胡凱兒
 揹上悲傷北上                              Crispy脆樂團
-迷霧之子                                        告五人
 如果你能到我的雨裡面               白頻率 White Freque
 真的愛妳                                        Beyond
 愛在西元前                                    Jay Chou
 ユラレル                                        みゆな
+迷霧之子                                        告五人
 光輝歲月                                        Beyond
 Natsumekuru                                 クレナズム
 ```
