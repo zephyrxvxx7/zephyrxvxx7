@@ -58,9 +58,9 @@ XML        0 secs         ░░░░░░░░░░░░░░░░░░
 真的愛妳                                        Beyond
 愛在西元前                                    Jay Chou
 ユラレル                                        みゆな
+你終究不愛這世界                            傻子與白痴
+迷霧之子                                        告五人
 光輝歲月                                        Beyond
-Natsumekuru                                 クレナズム
-Everything's Alright               塞壬唱片-MSR & DJ O
 ```
 
 <!-- spotify_track end -->
