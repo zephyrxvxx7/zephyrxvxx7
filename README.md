@@ -27,11 +27,10 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-CSS        22 mins        ███████░░░░░░░░░░░░░░  33.7%
-JavaScript 20 mins        ██████▌░░░░░░░░░░░░░░  31.2%
-JSON       20 mins        ██████▍░░░░░░░░░░░░░░  30.6%
-HTML       2 mins         ▊░░░░░░░░░░░░░░░░░░░░   4.1%
-XML        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+CSS        5 mins         █████████▎░░░░░░░░░░░  44.6%
+JavaScript 4 mins         ██████▍░░░░░░░░░░░░░░  30.7%
+JSON       1 min          ███░░░░░░░░░░░░░░░░░░  14.7%
+HTML       1 min          ██░░░░░░░░░░░░░░░░░░░  10.0%
 ```
 
 <!-- code_time end -->
@@ -57,10 +56,10 @@ XML        0 secs         ░░░░░░░░░░░░░░░░░░
 如果你能到我的雨裡面               白頻率 White Freque
 真的愛妳                                        Beyond
 愛在西元前                                    Jay Chou
-ユラレル                                        みゆな
+Natsumekuru                                 クレナズム
 你終究不愛這世界                            傻子與白痴
-迷霧之子                                        告五人
 光輝歲月                                        Beyond
+迷霧之子                                        告五人
 ```
 
 <!-- spotify_track end -->
