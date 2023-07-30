@@ -55,11 +55,11 @@ HTML       1 min          ██░░░░░░░░░░░░░░░░
 揹上悲傷北上                              Crispy脆樂團
 如果你能到我的雨裡面               白頻率 White Freque
 真的愛妳                                        Beyond
-愛在西元前                                    Jay Chou
 Natsumekuru                                 クレナズム
-你終究不愛這世界                            傻子與白痴
 光輝歲月                                        Beyond
 迷霧之子                                        告五人
+ユラレル                                        みゆな
+痛苦造就了我們                                  OBSESS
 ```
 
 <!-- spotify_track end -->
