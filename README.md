@@ -59,7 +59,7 @@ Natsumekuru                                 クレナズム
 光輝歲月                                        Beyond
 迷霧之子                                        告五人
 ユラレル                                        みゆな
-痛苦造就了我們                                  OBSESS
+鴦                                         PA PUN BAND
 ```
 
 <!-- spotify_track end -->
