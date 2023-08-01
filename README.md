@@ -53,13 +53,13 @@ HTML       1 min          ██░░░░░░░░░░░░░░░░
 海闊天空                                        Beyond
 惑者                                  Who Cares 胡凱兒
 揹上悲傷北上                              Crispy脆樂團
-如果你能到我的雨裡面               白頻率 White Freque
 真的愛妳                                        Beyond
+如果你能到我的雨裡面               白頻率 White Freque
 Natsumekuru                                 クレナズム
 光輝歲月                                        Beyond
 迷霧之子                                        告五人
-ユラレル                                        みゆな
 鴦                                         PA PUN BAND
+請記得揍我一拳                             PA PUN BAND
 ```
 
 <!-- spotify_track end -->
