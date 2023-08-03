@@ -27,10 +27,7 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-CSS        5 mins         █████████▎░░░░░░░░░░░  44.6%
-JavaScript 4 mins         ██████▍░░░░░░░░░░░░░░  30.7%
-JSON       1 min          ███░░░░░░░░░░░░░░░░░░  14.7%
-HTML       1 min          ██░░░░░░░░░░░░░░░░░░░  10.0%
+Batchfile  0 secs         █████████████████████ 100.0%
 ```
 
 <!-- code_time end -->
@@ -52,14 +49,14 @@ HTML       1 min          ██░░░░░░░░░░░░░░░░
 ```text
 海闊天空                                        Beyond
 惑者                                  Who Cares 胡凱兒
-揹上悲傷北上                              Crispy脆樂團
 Natsumekuru                                 クレナズム
 真的愛妳                                        Beyond
-鴦                                         PA PUN BAND
-請記得揍我一拳                             PA PUN BAND
+揹上悲傷北上                              Crispy脆樂團
 光輝歲月                                        Beyond
 痛苦造就了我們                                  OBSESS
-愛河                                 芒果醬 Mango Jump
+野獸                                            OBSESS
+感謝勞力                                  Flesh Juicer
+鴦                                         PA PUN BAND
 ```
 
 <!-- spotify_track end -->
