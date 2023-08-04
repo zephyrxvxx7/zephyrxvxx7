@@ -50,12 +50,12 @@ Batchfile  0 secs         ██████████████████
 海闊天空                                        Beyond
 惑者                                  Who Cares 胡凱兒
 Natsumekuru                                 クレナズム
-真的愛妳                                        Beyond
-揹上悲傷北上                              Crispy脆樂團
-光輝歲月                                        Beyond
-痛苦造就了我們                                  OBSESS
 野獸                                            OBSESS
+真的愛妳                                        Beyond
+痛苦造就了我們                                  OBSESS
+光輝歲月                                        Beyond
 感謝勞力                                  Flesh Juicer
+請記得揍我一拳                             PA PUN BAND
 鴦                                         PA PUN BAND
 ```
 
