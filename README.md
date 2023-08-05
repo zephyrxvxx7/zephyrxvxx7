@@ -54,9 +54,9 @@ Natsumekuru                                 クレナズム
 真的愛妳                                        Beyond
 痛苦造就了我們                                  OBSESS
 光輝歲月                                        Beyond
-感謝勞力                                  Flesh Juicer
 請記得揍我一拳                             PA PUN BAND
-鴦                                         PA PUN BAND
+夏夜晚風                             芒果醬 Mango Jump
+感謝勞力                                  Flesh Juicer
 ```
 
 <!-- spotify_track end -->
