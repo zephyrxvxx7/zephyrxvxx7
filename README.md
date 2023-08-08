@@ -50,13 +50,13 @@ Batchfile  0 secs         ██████████████████
 海闊天空                                        Beyond
 惑者                                  Who Cares 胡凱兒
 野獸                                            OBSESS
-真的愛妳                                        Beyond
-痛苦造就了我們                                  OBSESS
 Natsumekuru                                 クレナズム
-光輝歲月                                        Beyond
+痛苦造就了我們                                  OBSESS
 請記得揍我一拳                             PA PUN BAND
 夏夜晚風                             芒果醬 Mango Jump
 感謝勞力                                  Flesh Juicer
+鴦                                         PA PUN BAND
+真的愛妳                                        Beyond
 ```
 
 <!-- spotify_track end -->
