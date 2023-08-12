@@ -48,15 +48,15 @@ Batchfile  0 secs         ██████████████████
 
 ```text
 惑者                                  Who Cares 胡凱兒
-海闊天空                                        Beyond
+不遠處                                          Marz23
 野獸                                            OBSESS
 痛苦造就了我們                                  OBSESS
 伊的身邊已經有別人2023             許富凱 & Flesh Juic
 Natsumekuru                                 クレナズム
 昨天 2023                           Who Cares 胡凱兒 &
-請記得揍我一拳                             PA PUN BAND
-感謝勞力                                  Flesh Juicer
+最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
 野鳥                                              鄭興
+請記得揍我一拳                             PA PUN BAND
 ```
 
 <!-- spotify_track end -->
