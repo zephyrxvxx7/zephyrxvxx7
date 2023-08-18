@@ -47,16 +47,16 @@ Batchfile  0 secs         ██████████████████
 <!-- spotify_track start -->
 
 ```text
-不遠處                                          Marz23
 Mayonaka no Door / Stay                 Miki Matsubara
+不遠處                                          Marz23
 昨天 2023                           Who Cares 胡凱兒 &
 野獸                                            OBSESS
 痛苦造就了我們                                  OBSESS
 最美的風景 (feat. 莫宰羊)              Marz23 & 莫宰羊
 野鳥                                              鄭興
 伊的身邊已經有別人2023             許富凱 & Flesh Juic
-寂寞男孩 (feat. TYSON YOS            Marz23 & Tyson Yo
 終究還是因為愛                                   TRASH
+寂寞男孩 (feat. TYSON YOS            Marz23 & Tyson Yo
 ```
 
 <!-- spotify_track end -->
