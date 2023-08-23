@@ -48,15 +48,15 @@ Batchfile  0 secs         ██████████████████
 
 ```text
 Mayonaka no Door / Stay                 Miki Matsubara
+Los Angeles                               The Midnight
 昨天 2023                           Who Cares 胡凱兒 &
 野獸                                            OBSESS
-痛苦造就了我們                                  OBSESS
 不遠處                                          Marz23
 伊的身邊已經有別人2023             許富凱 & Flesh Juic
 終究還是因為愛                                   TRASH
-浪花                               白頻率 White Freque
-Natsumekuru                                 クレナズム
-野鳥                                              鄭興
+痛苦造就了我們                                  OBSESS
+Sunset                                    The Midnight
+The Voyager                                 Futurecop!
 ```
 
 <!-- spotify_track end -->
