@@ -49,12 +49,12 @@ Batchfile  0 secs         ██████████████████
 ```text
 Los Angeles                               The Midnight
 Mayonaka no Door / Stay                 Miki Matsubara
-昨天 2023                           Who Cares 胡凱兒 &
 野獸                                            OBSESS
-不遠處                                          Marz23
+昨天 2023                           Who Cares 胡凱兒 &
 The Voyager                                 Futurecop!
-伊的身邊已經有別人2023             許富凱 & Flesh Juic
+不遠處                                          Marz23
 Sunset                                    The Midnight
+伊的身邊已經有別人2023             許富凱 & Flesh Juic
 終究還是因為愛                                   TRASH
 痛苦造就了我們                                  OBSESS
 ```
