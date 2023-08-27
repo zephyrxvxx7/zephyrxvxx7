@@ -54,9 +54,9 @@ Mayonaka no Door / Stay                 Miki Matsubara
 The Voyager                                 Futurecop!
 昨天 2023                           Who Cares 胡凱兒 &
 Sunset                                    The Midnight
+終究還是因為愛                                   TRASH
 痛苦造就了我們                                  OBSESS
 Never Enough (The Midni               Scavenger Hunt &
-伊的身邊已經有別人2023             許富凱 & Flesh Juic
 ```
 
 <!-- spotify_track end -->
