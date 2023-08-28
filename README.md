@@ -37,7 +37,7 @@ Batchfile  0 secs         ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Age of Empires II: Definitive Edition 🕘 77 hrs 36 mins
+💻 Wallpaper Engine                 🕘 13 hrs 26 mins
 ```
 
 <!-- steam_time end -->
