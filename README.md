@@ -49,14 +49,14 @@ Batchfile  0 secs         ██████████████████
 ```text
 Los Angeles                               The Midnight
 Mayonaka no Door / Stay                 Miki Matsubara
+社會豢養的畜牲                           Traveller旅人
+終究還是因為愛                                   TRASH
 不遠處                                          Marz23
 The Voyager                                 Futurecop!
 昨天 2023                           Who Cares 胡凱兒 &
 Sunset                                    The Midnight
-終究還是因為愛                                   TRASH
-野獸                                            OBSESS
+誰還記得我                               Traveller旅人
 Never Enough (The Midni               Scavenger Hunt &
-伊的身邊已經有別人2023             許富凱 & Flesh Juic
 ```
 
 <!-- spotify_track end -->
