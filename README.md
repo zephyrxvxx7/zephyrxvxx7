@@ -53,10 +53,10 @@ The Voyager                                 Futurecop!
 社會豢養的畜牲                           Traveller旅人
 終究還是因為愛                                   TRASH
 不遠處                                          Marz23
-昨天 2023                           Who Cares 胡凱兒 &
 Sunset                                    The Midnight
 我的未來還是夢                          康士坦的變化球
 誰還記得我                               Traveller旅人
+Never Enough (The Midni               Scavenger Hunt &
 ```
 
 <!-- spotify_track end -->
