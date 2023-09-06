@@ -52,10 +52,10 @@ Mayonaka no Door / Stay                 Miki Matsubara
 The Voyager                                 Futurecop!
 社會豢養的畜牲                           Traveller旅人
 終究還是因為愛                                   TRASH
-不遠處                                          Marz23
 Sunset                                    The Midnight
 我的未來還是夢                          康士坦的變化球
 誰還記得我                               Traveller旅人
+不遠處                                          Marz23
 Never Enough (The Midni               Scavenger Hunt &
 ```
 
