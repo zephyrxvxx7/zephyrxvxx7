@@ -56,7 +56,7 @@ Sunset                                    The Midnight
 誰還記得我                               Traveller旅人
 Never Enough (The Midni               Scavenger Hunt &
 感謝勞力                                  Flesh Juicer
-終究還是因為愛                                   TRASH
+別再掩飾你的厭世                                宋德鶴
 ```
 
 <!-- spotify_track end -->
