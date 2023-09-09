@@ -51,12 +51,12 @@ Los Angeles                               The Midnight
 Mayonaka no Door / Stay                 Miki Matsubara
 The Voyager                                 Futurecop!
 社會豢養的畜牲                           Traveller旅人
+Never Enough (The Midni               Scavenger Hunt &
 Sunset                                    The Midnight
 我的未來還是夢                          康士坦的變化球
 誰還記得我                               Traveller旅人
-Never Enough (The Midni               Scavenger Hunt &
 感謝勞力                                  Flesh Juicer
-別再掩飾你的厭世                                宋德鶴
+昨天 2023                           Who Cares 胡凱兒 &
 ```
 
 <!-- spotify_track end -->
