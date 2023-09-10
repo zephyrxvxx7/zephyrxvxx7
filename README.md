@@ -56,7 +56,7 @@ Sunset                                    The Midnight
 我的未來還是夢                          康士坦的變化球
 誰還記得我                               Traveller旅人
 感謝勞力                                  Flesh Juicer
-昨天 2023                           Who Cares 胡凱兒 &
+別再掩飾你的厭世                                宋德鶴
 ```
 
 <!-- spotify_track end -->
