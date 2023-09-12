@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     5 mins         █████████████████████ 100.0%
+JavaScript 26 mins        ███████████░░░░░░░░░░  53.0%
+TOML       20 mins        ████████▌░░░░░░░░░░░░  40.5%
+Ezhil      2 mins         █░░░░░░░░░░░░░░░░░░░░   5.2%
+Bash       0 secs         ▎░░░░░░░░░░░░░░░░░░░░   1.3%
+Docker     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
 ```
 
 <!-- code_time end -->
@@ -53,9 +57,9 @@ The Voyager                                 Futurecop!
 Never Enough (The Midni               Scavenger Hunt &
 Sunset                                    The Midnight
 我的未來還是夢                          康士坦的變化球
-Mayonaka no Door / Stay                 Miki Matsubara
 誰還記得我                               Traveller旅人
 感謝勞力                                  Flesh Juicer
+夏天                                         Nicky Lee
 別再掩飾你的厭世                                宋德鶴
 ```
 
