@@ -59,8 +59,8 @@ Never Enough (The Midni               Scavenger Hunt &
 Sunset                                    The Midnight
 我的未來還是夢                          康士坦的變化球
 誰還記得我                               Traveller旅人
+不遠處                                          Marz23
 感謝勞力                                  Flesh Juicer
-別再掩飾你的厭世                                宋德鶴
 ```
 
 <!-- spotify_track end -->
