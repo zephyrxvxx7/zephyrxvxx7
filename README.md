@@ -51,16 +51,16 @@ Docker     0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+Renegades - Japanese Ve                    ONE OK ROCK
 夏天                                         Nicky Lee
+Wherever you are                           ONE OK ROCK
 社會豢養的畜牲                           Traveller旅人
 我的未來還是夢                          康士坦的變化球
 誰還記得我                               Traveller旅人
 不遠處                                          Marz23
+We Are                                     ONE OK ROCK
 感謝勞力                                  Flesh Juicer
 Everything (feat. W.LIN)                Marz23 & W.LIN
-別再掩飾你的厭世                                宋德鶴
-Wherever you are                           ONE OK ROCK
-眠月線                                  康士坦的變化球
 ```
 
 <!-- spotify_track end -->
