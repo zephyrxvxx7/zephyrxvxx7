@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-JavaScript 26 mins        ███████████░░░░░░░░░░  53.0%
-TOML       20 mins        ████████▌░░░░░░░░░░░░  40.5%
-Ezhil      2 mins         █░░░░░░░░░░░░░░░░░░░░   5.2%
-Bash       0 secs         ▎░░░░░░░░░░░░░░░░░░░░   1.3%
-Docker     0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+JavaScript 1 min          ██████████████████▋░░  88.9%
+TOML       0 secs         █▉░░░░░░░░░░░░░░░░░░░   9.0%
+Markdown   0 secs         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
+Bash       0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+Ezhil      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.4%
 ```
 
 <!-- code_time end -->
@@ -55,12 +55,12 @@ Renegades - Japanese Ve                    ONE OK ROCK
 夏天                                         Nicky Lee
 Wherever you are                           ONE OK ROCK
 社會豢養的畜牲                           Traveller旅人
-我的未來還是夢                          康士坦的變化球
-誰還記得我                               Traveller旅人
-不遠處                                          Marz23
 We Are                                     ONE OK ROCK
-感謝勞力                                  Flesh Juicer
-Everything (feat. W.LIN)                Marz23 & W.LIN
+The Beginning                              ONE OK ROCK
+我的未來還是夢                          康士坦的變化球
+Take What You Want (fea              ONE OK ROCK & 5 S
+誰還記得我                               Traveller旅人
+Kanzen kankaku Dreamer                     ONE OK ROCK
 ```
 
 <!-- spotify_track end -->
