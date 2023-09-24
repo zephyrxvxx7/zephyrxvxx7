@@ -52,15 +52,15 @@ Ezhil      0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 Renegades - Japanese Ve                    ONE OK ROCK
-夏天                                         Nicky Lee
 Wherever you are                           ONE OK ROCK
+夏天                                         Nicky Lee
 We Are                                     ONE OK ROCK
-社會豢養的畜牲                           Traveller旅人
-rockstar (feat. 21 Sava               Post Malone & 21
 我的未來還是夢                          康士坦的變化球
-誰還記得我                               Traveller旅人
+rockstar (feat. 21 Sava               Post Malone & 21
 The Beginning                              ONE OK ROCK
 Take What You Want (fea              ONE OK ROCK & 5 S
+Kanzen kankaku Dreamer                     ONE OK ROCK
+社會豢養的畜牲                           Traveller旅人
 ```
 
 <!-- spotify_track end -->
