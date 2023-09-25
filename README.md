@@ -55,12 +55,12 @@ Renegades - Japanese Ve                    ONE OK ROCK
 Wherever you are                           ONE OK ROCK
 夏天                                         Nicky Lee
 We Are                                     ONE OK ROCK
-我的未來還是夢                          康士坦的變化球
 rockstar (feat. 21 Sava               Post Malone & 21
 The Beginning                              ONE OK ROCK
 Take What You Want (fea              ONE OK ROCK & 5 S
 Kanzen kankaku Dreamer                     ONE OK ROCK
-社會豢養的畜牲                           Traveller旅人
+不遠處                                          Marz23
+別再掩飾你的厭世                                宋德鶴
 ```
 
 <!-- spotify_track end -->
