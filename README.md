@@ -52,8 +52,8 @@ Ezhil      0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 Renegades - Japanese Ve                    ONE OK ROCK
-Wherever you are                           ONE OK ROCK
 夏天                                         Nicky Lee
+Wherever you are                           ONE OK ROCK
 We Are                                     ONE OK ROCK
 rockstar (feat. 21 Sava               Post Malone & 21
 The Beginning                              ONE OK ROCK
