@@ -52,15 +52,15 @@ Ezhil      0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 Renegades - Japanese Ve                    ONE OK ROCK
+山頭                                        無妄合作社
 夏天                                         Nicky Lee
 We Are                                     ONE OK ROCK
 Wherever you are                           ONE OK ROCK
-山頭                                        無妄合作社
-rockstar (feat. 21 Sava               Post Malone & 21
-The Beginning                              ONE OK ROCK
-Take What You Want (fea              ONE OK ROCK & 5 S
-Kanzen kankaku Dreamer                     ONE OK ROCK
 二十一世紀的破青年                          無妄合作社
+rockstar (feat. 21 Sava               Post Malone & 21
+青春之歌                                    無妄合作社
+more than words                         Hitsujibungaku
+The Beginning                              ONE OK ROCK
 ```
 
 <!-- spotify_track end -->
