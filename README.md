@@ -56,11 +56,11 @@ Renegades - Japanese Ve                    ONE OK ROCK
 夏天                                         Nicky Lee
 We Are                                     ONE OK ROCK
 Wherever you are                           ONE OK ROCK
-二十一世紀的破青年                          無妄合作社
-rockstar (feat. 21 Sava               Post Malone & 21
-青春之歌                                    無妄合作社
 more than words                         Hitsujibungaku
+rockstar (feat. 21 Sava               Post Malone & 21
+二十一世紀的破青年                          無妄合作社
 The Beginning                              ONE OK ROCK
+Take What You Want (fea              ONE OK ROCK & 5 S
 ```
 
 <!-- spotify_track end -->
