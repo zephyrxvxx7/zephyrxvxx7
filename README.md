@@ -54,8 +54,8 @@ Ezhil      0 secs         ░░░░░░░░░░░░░░░░░░
 Renegades - Japanese Ve                    ONE OK ROCK
 山頭                                        無妄合作社
 夏天                                         Nicky Lee
-We Are                                     ONE OK ROCK
 Wherever you are                           ONE OK ROCK
+We Are                                     ONE OK ROCK
 more than words                         Hitsujibungaku
 rockstar (feat. 21 Sava               Post Malone & 21
 二十一世紀的破青年                          無妄合作社
