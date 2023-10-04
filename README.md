@@ -58,9 +58,9 @@ Wherever you are                           ONE OK ROCK
 We Are                                     ONE OK ROCK
 more than words                         Hitsujibungaku
 二十一世紀的破青年                          無妄合作社
+Explore the World                     Brainheart & Sis
 開店歌                                      無妄合作社
 rockstar (feat. 21 Sava               Post Malone & 21
-青春之歌                                    無妄合作社
 ```
 
 <!-- spotify_track end -->
