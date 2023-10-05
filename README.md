@@ -53,14 +53,14 @@ Ezhil      0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 Renegades - Japanese Ve                    ONE OK ROCK
 山頭                                        無妄合作社
-夏天                                         Nicky Lee
-Wherever you are                           ONE OK ROCK
-We Are                                     ONE OK ROCK
 more than words                         Hitsujibungaku
-二十一世紀的破青年                          無妄合作社
+夏天                                         Nicky Lee
+We Are                                     ONE OK ROCK
+Wherever you are                           ONE OK ROCK
 Explore the World                     Brainheart & Sis
+二十一世紀的破青年                          無妄合作社
 開店歌                                      無妄合作社
-rockstar (feat. 21 Sava               Post Malone & 21
+青春之歌                                    無妄合作社
 ```
 
 <!-- spotify_track end -->
