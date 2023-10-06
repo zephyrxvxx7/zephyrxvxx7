@@ -57,8 +57,8 @@ more than words                         Hitsujibungaku
 夏天                                         Nicky Lee
 We Are                                     ONE OK ROCK
 Wherever you are                           ONE OK ROCK
-Explore the World                     Brainheart & Sis
 二十一世紀的破青年                          無妄合作社
+Explore the World                     Brainheart & Sis
 開店歌                                      無妄合作社
 青春之歌                                    無妄合作社
 ```
