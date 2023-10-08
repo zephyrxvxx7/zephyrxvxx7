@@ -41,7 +41,7 @@ Ezhil      0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-💻 Wallpaper Engine                 🕘 13 hrs 26 mins
+🎮 Oxygen Not Included              🕘 41 hrs 6 mins
 ```
 
 <!-- steam_time end -->
@@ -54,11 +54,11 @@ Ezhil      0 secs         ░░░░░░░░░░░░░░░░░░
 Renegades - Japanese Ve                    ONE OK ROCK
 山頭                                        無妄合作社
 more than words                         Hitsujibungaku
-夏天                                         Nicky Lee
 We Are                                     ONE OK ROCK
 Wherever you are                           ONE OK ROCK
 二十一世紀的破青年                          無妄合作社
 Explore the World                     Brainheart & Sis
+夏天                                         Nicky Lee
 開店歌                                      無妄合作社
 青春之歌                                    無妄合作社
 ```
