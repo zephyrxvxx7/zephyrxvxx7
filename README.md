@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-JavaScript 1 min          ██████████████████▋░░  88.9%
-TOML       0 secs         █▉░░░░░░░░░░░░░░░░░░░   9.0%
-Markdown   0 secs         ▏░░░░░░░░░░░░░░░░░░░░   1.1%
-Bash       0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
-Ezhil      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.4%
+JavaScript 14 mins        ██████████▍░░░░░░░░░░  49.6%
+JSON       6 mins         ████▉░░░░░░░░░░░░░░░░  23.6%
+HTML       5 mins         ███▋░░░░░░░░░░░░░░░░░  17.4%
+XML        2 mins         █▉░░░░░░░░░░░░░░░░░░░   9.1%
+CSS        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 ```
 
 <!-- code_time end -->
@@ -58,9 +58,9 @@ We Are                                     ONE OK ROCK
 Wherever you are                           ONE OK ROCK
 二十一世紀的破青年                          無妄合作社
 Explore the World                     Brainheart & Sis
-夏天                                         Nicky Lee
 開店歌                                      無妄合作社
 青春之歌                                    無妄合作社
+好想愛這個世界啊                           Hua Chen Yu
 ```
 
 <!-- spotify_track end -->
