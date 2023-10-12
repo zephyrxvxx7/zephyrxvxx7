@@ -55,9 +55,9 @@ Renegades - Japanese Ve                    ONE OK ROCK
 山頭                                        無妄合作社
 more than words                         Hitsujibungaku
 We Are                                     ONE OK ROCK
-Wherever you are                           ONE OK ROCK
 二十一世紀的破青年                          無妄合作社
 Explore the World                     Brainheart & Sis
+Wherever you are                           ONE OK ROCK
 開店歌                                      無妄合作社
 青春之歌                                    無妄合作社
 好想愛這個世界啊                           Hua Chen Yu
