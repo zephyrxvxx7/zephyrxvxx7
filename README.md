@@ -52,15 +52,15 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 Renegades - Japanese Ve                    ONE OK ROCK
-山頭                                        無妄合作社
 more than words                         Hitsujibungaku
+山頭                                        無妄合作社
 Explore the World                     Brainheart & Sis
+不遠處                                          Marz23
 We Are                                     ONE OK ROCK
+地球儀 - Spinning Globe                  Kenshi Yonezu
 二十一世紀的破青年                          無妄合作社
 Wherever you are                           ONE OK ROCK
-不遠處                                          Marz23
-開店歌                                      無妄合作社
-地球儀 - Spinning Globe                  Kenshi Yonezu
+與火星的孩子對話                           Hua Chen Yu
 ```
 
 <!-- spotify_track end -->
