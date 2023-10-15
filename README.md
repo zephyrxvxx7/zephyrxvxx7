@@ -56,10 +56,10 @@ more than words                         Hitsujibungaku
 山頭                                        無妄合作社
 Explore the World                     Brainheart & Sis
 不遠處                                          Marz23
-We Are                                     ONE OK ROCK
 地球儀 - Spinning Globe                  Kenshi Yonezu
 二十一世紀的破青年                          無妄合作社
-Wherever you are                           ONE OK ROCK
+We Are                                     ONE OK ROCK
+Dream Of Me                                   wagamama
 與火星的孩子對話                           Hua Chen Yu
 ```
 
