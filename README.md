@@ -58,9 +58,9 @@ Explore the World                     Brainheart & Sis
 不遠處                                          Marz23
 地球儀 - Spinning Globe                  Kenshi Yonezu
 二十一世紀的破青年                          無妄合作社
-We Are                                     ONE OK ROCK
 Dream Of Me                                   wagamama
 與火星的孩子對話                           Hua Chen Yu
+好想愛這個世界啊                           Hua Chen Yu
 ```
 
 <!-- spotify_track end -->
