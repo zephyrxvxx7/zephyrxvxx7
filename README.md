@@ -51,7 +51,6 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Renegades - Japanese Ve                    ONE OK ROCK
 more than words                         Hitsujibungaku
 山頭                                        無妄合作社
 Explore the World                     Brainheart & Sis
@@ -59,8 +58,9 @@ Explore the World                     Brainheart & Sis
 地球儀 - Spinning Globe                  Kenshi Yonezu
 二十一世紀的破青年                          無妄合作社
 Dream Of Me                                   wagamama
+開店歌                                      無妄合作社
 與火星的孩子對話                           Hua Chen Yu
-好想愛這個世界啊                           Hua Chen Yu
+オシマイ                                      wagamama
 ```
 
 <!-- spotify_track end -->
