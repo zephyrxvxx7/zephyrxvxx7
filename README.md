@@ -59,8 +59,8 @@ Explore the World                     Brainheart & Sis
 二十一世紀的破青年                          無妄合作社
 Dream Of Me                                   wagamama
 開店歌                                      無妄合作社
-與火星的孩子對話                           Hua Chen Yu
 オシマイ                                      wagamama
+青春之歌                                    無妄合作社
 ```
 
 <!-- spotify_track end -->
