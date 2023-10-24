@@ -52,15 +52,15 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 山頭                                        無妄合作社
-more than words                         Hitsujibungaku
 Explore the World                     Brainheart & Sis
+more than words                         Hitsujibungaku
 不遠處                                          Marz23
 地球儀 - Spinning Globe                  Kenshi Yonezu
-二十一世紀的破青年                          無妄合作社
-開店歌                                      無妄合作社
 Dream Of Me                                   wagamama
-青春之歌                                    無妄合作社
+開店歌                                      無妄合作社
 オシマイ                                      wagamama
+二十一世紀的破青年                          無妄合作社
+Sphere                                      DJ Okawari
 ```
 
 <!-- spotify_track end -->
