@@ -55,10 +55,10 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 Explore the World                     Brainheart & Sis
 不遠處                                          Marz23
 地球儀 - Spinning Globe                  Kenshi Yonezu
-more than words                         Hitsujibungaku
 Dream Of Me                                   wagamama
-オシマイ                                      wagamama
 二十一世紀的破青年                          無妄合作社
+more than words                         Hitsujibungaku
+オシマイ                                      wagamama
 開店歌                                      無妄合作社
 Sphere                                      DJ Okawari
 ```
