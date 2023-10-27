@@ -57,9 +57,9 @@ Explore the World                     Brainheart & Sis
 地球儀 - Spinning Globe                  Kenshi Yonezu
 Dream Of Me                                   wagamama
 二十一世紀的破青年                          無妄合作社
+開店歌                                      無妄合作社
 more than words                         Hitsujibungaku
 オシマイ                                      wagamama
-開店歌                                      無妄合作社
 Sphere                                      DJ Okawari
 ```
 
