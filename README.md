@@ -51,15 +51,15 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-山頭                                        無妄合作社
 夢の礫                                    Kiro Akiyama
+山頭                                        無妄合作社
 地球儀 - Spinning Globe                  Kenshi Yonezu
 不遠處                                          Marz23
 What's a Pop?                        KAMI WA SAIKORO W
 Dream Of Me                                   wagamama
+オシマイ                                      wagamama
 二十一世紀的破青年                          無妄合作社
 Explore the World                     Brainheart & Sis
-オシマイ                                      wagamama
 開店歌                                      無妄合作社
 ```
 
