@@ -58,7 +58,7 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 What's a Pop?                        KAMI WA SAIKORO W
 Dream Of Me                                   wagamama
 オシマイ                                      wagamama
-Sphere                                      DJ Okawari
+青春之歌                                    無妄合作社
 開店歌                                      無妄合作社
 Yonaga Uta                           KAMI WA SAIKORO W
 ```
