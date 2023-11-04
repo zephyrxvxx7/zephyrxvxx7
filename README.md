@@ -52,15 +52,15 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 夢の礫                                    Kiro Akiyama
+不遠處                                          Marz23
 山頭                                        無妄合作社
 地球儀 - Spinning Globe                  Kenshi Yonezu
-不遠處                                          Marz23
 What's a Pop?                        KAMI WA SAIKORO W
 Dream Of Me                                   wagamama
-オシマイ                                      wagamama
 青春之歌                                    無妄合作社
+オシマイ                                      wagamama
 開店歌                                      無妄合作社
-Yonaga Uta                           KAMI WA SAIKORO W
+アイドル                                       YOASOBI
 ```
 
 <!-- spotify_track end -->
