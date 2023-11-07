@@ -56,11 +56,11 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 地球儀 - Spinning Globe                  Kenshi Yonezu
 不遠處                                          Marz23
 アイドル                                       YOASOBI
+Heart                                           Aimyon
 What's a Pop?                        KAMI WA SAIKORO W
 Dream Of Me                                   wagamama
 青春之歌                                    無妄合作社
 開店歌                                      無妄合作社
-Yonaga Uta                           KAMI WA SAIKORO W
 ```
 
 <!-- spotify_track end -->
