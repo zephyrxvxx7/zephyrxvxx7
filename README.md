@@ -53,11 +53,11 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 夢の礫                                    Kiro Akiyama
 山頭                                        無妄合作社
-Heart                                           Aimyon
 アイドル                                       YOASOBI
-不遠處                                          Marz23
+Heart                                           Aimyon
 What's a Pop?                        KAMI WA SAIKORO W
-地球儀 - Spinning Globe                  Kenshi Yonezu
+Heart                                           Aimyon
+不遠處                                          Marz23
 君はロックを聴かない                            Aimyon
 青春之歌                                    無妄合作社
 開店歌                                      無妄合作社
