@@ -55,8 +55,8 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 山頭                                        無妄合作社
 アイドル                                       YOASOBI
 Heart                                           Aimyon
-What's a Pop?                        KAMI WA SAIKORO W
 Heart                                           Aimyon
+What's a Pop?                        KAMI WA SAIKORO W
 不遠處                                          Marz23
 君はロックを聴かない                            Aimyon
 青春之歌                                    無妄合作社
