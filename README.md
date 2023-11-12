@@ -56,8 +56,8 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 アイドル                                       YOASOBI
 Heart                                           Aimyon
 Heart                                           Aimyon
-What's a Pop?                        KAMI WA SAIKORO W
 不遠處                                          Marz23
+What's a Pop?                        KAMI WA SAIKORO W
 君はロックを聴かない                            Aimyon
 青春之歌                                    無妄合作社
 開店歌                                      無妄合作社
