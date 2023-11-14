@@ -60,7 +60,7 @@ Heart                                           Aimyon
 君はロックを聴かない                            Aimyon
 青春之歌                                    無妄合作社
 開店歌                                      無妄合作社
-What's a Pop?                        KAMI WA SAIKORO W
+On a Cherry Blossom Night                       Aimyon
 ```
 
 <!-- spotify_track end -->
