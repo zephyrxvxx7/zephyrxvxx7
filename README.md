@@ -57,10 +57,10 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 Heart                                           Aimyon
 Heart                                           Aimyon
 不遠處                                          Marz23
-君はロックを聴かない                            Aimyon
 青春之歌                                    無妄合作社
 開店歌                                      無妄合作社
-On a Cherry Blossom Night                       Aimyon
+君はロックを聴かない                            Aimyon
+Moon River                                   ALBATROSS
 ```
 
 <!-- spotify_track end -->
