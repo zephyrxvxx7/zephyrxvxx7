@@ -52,15 +52,15 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 夢の礫                                    Kiro Akiyama
-山頭                                        無妄合作社
 アイドル                                       YOASOBI
 Heart                                           Aimyon
 Heart                                           Aimyon
+山頭                                        無妄合作社
 不遠處                                          Marz23
-青春之歌                                    無妄合作社
-開店歌                                      無妄合作社
 君はロックを聴かない                            Aimyon
+青春之歌                                    無妄合作社
 Moon River                                   ALBATROSS
+On a Cherry Blossom Night                       Aimyon
 ```
 
 <!-- spotify_track end -->
