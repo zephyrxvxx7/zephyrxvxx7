@@ -58,7 +58,7 @@ Heart                                           Aimyon
 山頭                                        無妄合作社
 不遠處                                          Marz23
 君はロックを聴かない                            Aimyon
-青春之歌                                    無妄合作社
+護國山 Pattonkan                              CHTHONIC
 Moon River                                   ALBATROSS
 On a Cherry Blossom Night                       Aimyon
 ```
