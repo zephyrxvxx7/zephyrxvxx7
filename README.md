@@ -55,8 +55,8 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 アイドル                                       YOASOBI
 Heart                                           Aimyon
 Heart                                           Aimyon
-山頭                                        無妄合作社
 不遠處                                          Marz23
+山頭                                        無妄合作社
 君はロックを聴かない                            Aimyon
 護國山 Pattonkan                              CHTHONIC
 Moon River                                   ALBATROSS
