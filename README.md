@@ -56,11 +56,11 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 Heart                                           Aimyon
 Heart                                           Aimyon
 不遠處                                          Marz23
-山頭                                        無妄合作社
 君はロックを聴かない                            Aimyon
 護國山 Pattonkan                              CHTHONIC
 Moon River                                   ALBATROSS
 On a Cherry Blossom Night                       Aimyon
+Naked Heart                                     Aimyon
 ```
 
 <!-- spotify_track end -->
