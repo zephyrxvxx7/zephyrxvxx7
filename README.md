@@ -51,16 +51,16 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-夢の礫                                    Kiro Akiyama
 アイドル                                       YOASOBI
 Heart                                           Aimyon
 Heart                                           Aimyon
-不遠處                                          Marz23
 護國山 Pattonkan                              CHTHONIC
 君はロックを聴かない                            Aimyon
 Moon River                                   ALBATROSS
-On a Cherry Blossom Night                       Aimyon
+不遠處                                          Marz23
 Naked Heart                                     Aimyon
+Eye-Water                              Hiroyuki Sawano
+Something Just Like This              The Chainsmokers
 ```
 
 <!-- spotify_track end -->
