@@ -55,9 +55,9 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 Heart                                           Aimyon
 Heart                                           Aimyon
 護國山 Pattonkan                              CHTHONIC
+Without Pain                                    OBSESS
 君はロックを聴かない                            Aimyon
 拼死的掙扎 (feat. 魏小)                  步行者 & 魏小
-Without Pain                                    OBSESS
 不遠處                                          Marz23
 Naked Heart                                     Aimyon
 Eye-Water                              Hiroyuki Sawano
