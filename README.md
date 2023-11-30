@@ -54,13 +54,13 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 Heart                                           Aimyon
 Heart                                           Aimyon
 アイドル                                       YOASOBI
-護國山 Pattonkan                              CHTHONIC
 Anone                                           Aimyon
-Without Pain                                    OBSESS
-拼死的掙扎 (feat. 魏小)                  步行者 & 魏小
-君はロックを聴かない                            Aimyon
+護國山 Pattonkan                              CHTHONIC
 Naked Heart                                     Aimyon
 Eye-Water                              Hiroyuki Sawano
+Without Pain                                    OBSESS
+君はロックを聴かない                            Aimyon
+拼死的掙扎 (feat. 魏小)                  步行者 & 魏小
 ```
 
 <!-- spotify_track end -->
