@@ -51,16 +51,16 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Heart                                           Aimyon
-Heart                                           Aimyon
 Anone                                           Aimyon
+Heart                                           Aimyon
+Heart                                           Aimyon
 護國山 Pattonkan                              CHTHONIC
 Naked Heart                                     Aimyon
-アイドル                                       YOASOBI
 Eye-Water                              Hiroyuki Sawano
-美人鱼                                     鱼闪闪BLING
-君はロックを聴かない                            Aimyon
 Without Pain                                    OBSESS
+美人鱼                                     鱼闪闪BLING
+拼死的掙扎 (feat. 魏小)                  步行者 & 魏小
+アイドル                                       YOASOBI
 ```
 
 <!-- spotify_track end -->
