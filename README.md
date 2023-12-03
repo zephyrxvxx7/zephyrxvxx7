@@ -53,14 +53,14 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 Anone                                           Aimyon
 Heart                                           Aimyon
-Heart                                           Aimyon
 護國山 Pattonkan                              CHTHONIC
-Naked Heart                                     Aimyon
 Eye-Water                              Hiroyuki Sawano
-Without Pain                                    OBSESS
+Naked Heart                                     Aimyon
 美人鱼                                     鱼闪闪BLING
+Without Pain                                    OBSESS
 拼死的掙扎 (feat. 魏小)                  步行者 & 魏小
 アイドル                                       YOASOBI
+Something Just Like This              The Chainsmokers
 ```
 
 <!-- spotify_track end -->
