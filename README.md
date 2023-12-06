@@ -54,8 +54,8 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 Anone                                           Aimyon
 護國山 Pattonkan                              CHTHONIC
 Eye-Water                              Hiroyuki Sawano
-美人鱼                                     鱼闪闪BLING
 Without Pain                                    OBSESS
+美人鱼                                     鱼闪闪BLING
 拼死的掙扎 (feat. 魏小)                  步行者 & 魏小
 Naked Heart                                     Aimyon
 Something Just Like This              The Chainsmokers
