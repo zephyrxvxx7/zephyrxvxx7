@@ -59,8 +59,8 @@ Without Pain                                    OBSESS
 Something Just Like This              The Chainsmokers
 Naked Heart                                     Aimyon
 感謝勞力                                  Flesh Juicer
+你終究不愛這世界                            傻子與白痴
 I can't                                         OBSESS
-放空                                      老破麻 O.S.D
 ```
 
 <!-- spotify_track end -->
