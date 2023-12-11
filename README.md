@@ -57,8 +57,8 @@ Without Pain                                    OBSESS
 美人鱼                                     鱼闪闪BLING
 拼死的掙扎 (feat. 魏小)                  步行者 & 魏小
 Something Just Like This              The Chainsmokers
-Naked Heart                                     Aimyon
 感謝勞力                                  Flesh Juicer
+Naked Heart                                     Aimyon
 你終究不愛這世界                            傻子與白痴
 I can't                                         OBSESS
 ```
