@@ -56,11 +56,11 @@ Anone                                           Aimyon
 Without Pain                                    OBSESS
 美人鱼                                     鱼闪闪BLING
 拼死的掙扎 (feat. 魏小)                  步行者 & 魏小
-Something Just Like This              The Chainsmokers
 感謝勞力                                  Flesh Juicer
-Naked Heart                                     Aimyon
+グッドラッカー                                    美波
 你終究不愛這世界                            傻子與白痴
 I can't                                         OBSESS
+放空                                      老破麻 O.S.D
 ```
 
 <!-- spotify_track end -->
