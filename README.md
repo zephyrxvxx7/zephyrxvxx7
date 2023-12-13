@@ -53,14 +53,14 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 Anone                                           Aimyon
 護國山 Pattonkan                              CHTHONIC
-Without Pain                                    OBSESS
 美人鱼                                     鱼闪闪BLING
-拼死的掙扎 (feat. 魏小)                  步行者 & 魏小
-感謝勞力                                  Flesh Juicer
 グッドラッカー                                    美波
+カワキヲアメク                                    美波
+アイドル                                       YOASOBI
+拼死的掙扎 (feat. 魏小)                  步行者 & 魏小
 你終究不愛這世界                            傻子與白痴
-I can't                                         OBSESS
-放空                                      老破麻 O.S.D
+ブルーグラス                                      美波
+main actor                                        美波
 ```
 
 <!-- spotify_track end -->
