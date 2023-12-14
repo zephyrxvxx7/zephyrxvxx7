@@ -53,10 +53,10 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 Anone                                           Aimyon
 護國山 Pattonkan                              CHTHONIC
-美人鱼                                     鱼闪闪BLING
-グッドラッカー                                    美波
 カワキヲアメク                                    美波
 アイドル                                       YOASOBI
+美人鱼                                     鱼闪闪BLING
+グッドラッカー                                    美波
 拼死的掙扎 (feat. 魏小)                  步行者 & 魏小
 你終究不愛這世界                            傻子與白痴
 ブルーグラス                                      美波
