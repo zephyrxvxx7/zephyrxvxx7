@@ -52,15 +52,15 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 Anone                                           Aimyon
+孤勇者 - 《英雄聯盟:雙城                    Eason Chan
 護國山 Pattonkan                              CHTHONIC
 カワキヲアメク                                    美波
 アイドル                                       YOASOBI
-美人鱼                                     鱼闪闪BLING
 グッドラッカー                                    美波
+美人鱼                                     鱼闪闪BLING
+ブルーグラス                                      美波
 拼死的掙扎 (feat. 魏小)                  步行者 & 魏小
 你終究不愛這世界                            傻子與白痴
-ブルーグラス                                      美波
-main actor                                        美波
 ```
 
 <!-- spotify_track end -->
