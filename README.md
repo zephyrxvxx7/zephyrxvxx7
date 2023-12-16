@@ -51,16 +51,16 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Anone                                           Aimyon
 孤勇者 - 《英雄聯盟:雙城                    Eason Chan
-護國山 Pattonkan                              CHTHONIC
+Anone                                           Aimyon
 カワキヲアメク                                    美波
+護國山 Pattonkan                              CHTHONIC
 アイドル                                       YOASOBI
 グッドラッカー                                    美波
 美人鱼                                     鱼闪闪BLING
 ブルーグラス                                      美波
+アメヲマツ、                                      美波
 拼死的掙扎 (feat. 魏小)                  步行者 & 魏小
-你終究不愛這世界                            傻子與白痴
 ```
 
 <!-- spotify_track end -->
