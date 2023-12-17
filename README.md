@@ -55,12 +55,12 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 Anone                                           Aimyon
 カワキヲアメク                                    美波
 護國山 Pattonkan                              CHTHONIC
-アイドル                                       YOASOBI
 グッドラッカー                                    美波
-美人鱼                                     鱼闪闪BLING
+山頭                                        無妄合作社
+アイドル                                       YOASOBI
 ブルーグラス                                      美波
 アメヲマツ、                                      美波
-拼死的掙扎 (feat. 魏小)                  步行者 & 魏小
+美人鱼                                     鱼闪闪BLING
 ```
 
 <!-- spotify_track end -->
