@@ -57,10 +57,10 @@ Anone                                           Aimyon
 護國山 Pattonkan                              CHTHONIC
 グッドラッカー                                    美波
 山頭                                        無妄合作社
-アイドル                                       YOASOBI
 ブルーグラス                                      美波
+アイドル                                       YOASOBI
 アメヲマツ、                                      美波
-美人鱼                                     鱼闪闪BLING
+你終究不愛這世界                            傻子與白痴
 ```
 
 <!-- spotify_track end -->
