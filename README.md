@@ -52,15 +52,15 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 孤勇者 - 《英雄聯盟:雙城                    Eason Chan
+Viva La Vida                                  Coldplay
 Anone                                           Aimyon
 カワキヲアメク                                    美波
 グッドラッカー                                    美波
+山頭                                        無妄合作社
 ブルーグラス                                      美波
 アイドル                                       YOASOBI
 アメヲマツ、                                      美波
-山頭                                        無妄合作社
-護國山 Pattonkan                              CHTHONIC
-你終究不愛這世界                            傻子與白痴
+改變 (feat. 張震嶽)                  MC HotDog & Zhang
 ```
 
 <!-- spotify_track end -->
