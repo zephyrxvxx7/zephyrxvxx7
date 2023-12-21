@@ -55,12 +55,12 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 Viva La Vida                                  Coldplay
 Anone                                           Aimyon
 カワキヲアメク                                    美波
+怨偶 (feat. 艾怡良)                 MC HotDog & Eve Ai
 グッドラッカー                                    美波
 山頭                                        無妄合作社
 ブルーグラス                                      美波
 アイドル                                       YOASOBI
 アメヲマツ、                                      美波
-改變 (feat. 張震嶽)                  MC HotDog & Zhang
 ```
 
 <!-- spotify_track end -->
