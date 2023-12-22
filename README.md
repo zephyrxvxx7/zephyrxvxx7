@@ -53,14 +53,14 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 孤勇者 - 《英雄聯盟:雙城                    Eason Chan
 Viva La Vida                                  Coldplay
-Anone                                           Aimyon
 カワキヲアメク                                    美波
 怨偶 (feat. 艾怡良)                 MC HotDog & Eve Ai
 グッドラッカー                                    美波
 山頭                                        無妄合作社
+Anone                                           Aimyon
 ブルーグラス                                      美波
-アイドル                                       YOASOBI
 アメヲマツ、                                      美波
+アイドル                                       YOASOBI
 ```
 
 <!-- spotify_track end -->
