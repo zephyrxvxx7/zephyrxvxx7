@@ -58,9 +58,9 @@ Viva La Vida                                  Coldplay
 怨偶 (feat. 艾怡良)                 MC HotDog & Eve Ai
 グッドラッカー                                    美波
 青春之歌                                    無妄合作社
+Dirty Paws                         Of Monsters and Men
 ブルーグラス                                      美波
-アメヲマツ、                                      美波
-Anone                                           Aimyon
+你終究不愛這世界                            傻子與白痴
 ```
 
 <!-- spotify_track end -->
