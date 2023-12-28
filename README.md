@@ -41,8 +41,11 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 OCTOPATH TRAVELER II             🕘 0 hrs 40 mins
-🎮 Summer Memories                  🕘 7 hrs 11 mins
+🎮 OCTOPATH TRAVELER II             🕘 1 hrs 32 mins
+🎮 Detroit: Become Human            🕘 0 hrs 39 mins
+🦾 Cyberpunk 2077                   🕘 2 hrs 7 mins
+🎮 Wuppo - Definitive Edition       🕘 0 hrs 44 mins
+🎮 Summer Memories                  🕘 7 hrs 12 mins
 ```
 
 <!-- steam_time end -->
