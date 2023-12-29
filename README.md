@@ -41,7 +41,7 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 OCTOPATH TRAVELER II             🕘 1 hrs 32 mins
+🎮 OCTOPATH TRAVELER II             🕘 2 hrs 21 mins
 🎮 Detroit: Become Human            🕘 0 hrs 39 mins
 🦾 Cyberpunk 2077                   🕘 2 hrs 7 mins
 🎮 Wuppo - Definitive Edition       🕘 0 hrs 44 mins
@@ -63,8 +63,8 @@ Viva La Vida                                  Coldplay
 グッドラッカー                                    美波
 青春之歌                                    無妄合作社
 你終究不愛這世界                            傻子與白痴
+Sukini Nattewa Ikenai R                       藤川千愛
 Dirty Paws                         Of Monsters and Men
-ブルーグラス                                      美波
 ```
 
 <!-- spotify_track end -->
