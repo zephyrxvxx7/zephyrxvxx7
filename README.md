@@ -42,10 +42,10 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 OCTOPATH TRAVELER II             🕘 2 hrs 21 mins
+🎮 ENDER LILIES                     🕘 1 hrs 41 mins
 🎮 Detroit: Become Human            🕘 0 hrs 39 mins
+🎮 Ori and the Will of the Wisps    🕘 35 hrs 12 mins
 🦾 Cyberpunk 2077                   🕘 2 hrs 7 mins
-🎮 Wuppo - Definitive Edition       🕘 0 hrs 44 mins
-🎮 Summer Memories                  🕘 7 hrs 12 mins
 ```
 
 <!-- steam_time end -->
@@ -60,11 +60,11 @@ Viva La Vida                                  Coldplay
 山頭                                        無妄合作社
 怨偶 (feat. 艾怡良)                 MC HotDog & Eve Ai
 カワキヲアメク                                    美波
-グッドラッカー                                    美波
 青春之歌                                    無妄合作社
-你終究不愛這世界                            傻子與白痴
-Sukini Nattewa Ikenai R                       藤川千愛
+グッドラッカー                                    美波
 Dirty Paws                         Of Monsters and Men
+你終究不愛這世界                            傻子與白痴
+美好的事可不可以發生在我                康士坦的變化球
 ```
 
 <!-- spotify_track end -->
