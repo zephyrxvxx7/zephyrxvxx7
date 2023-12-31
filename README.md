@@ -42,10 +42,10 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 OCTOPATH TRAVELER II             🕘 2 hrs 21 mins
-🎮 ENDER LILIES                     🕘 1 hrs 41 mins
+🎮 ENDER LILIES                     🕘 2 hrs 0 mins
 🎮 Detroit: Become Human            🕘 0 hrs 39 mins
 🎮 Ori and the Will of the Wisps    🕘 35 hrs 12 mins
-🦾 Cyberpunk 2077                   🕘 2 hrs 7 mins
+🎮 Rain World                       🕘 0 hrs 46 mins
 ```
 
 <!-- steam_time end -->
