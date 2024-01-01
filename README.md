@@ -43,9 +43,9 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 🎮 OCTOPATH TRAVELER II             🕘 2 hrs 21 mins
 🎮 ENDER LILIES                     🕘 2 hrs 0 mins
+🎮 Apex Legends                     🕘 40 hrs 18 mins
 🎮 Detroit: Become Human            🕘 0 hrs 39 mins
-🎮 Ori and the Will of the Wisps    🕘 35 hrs 12 mins
-🎮 Rain World                       🕘 0 hrs 46 mins
+🎮 RIDE 3                           🕘 4 hrs 32 mins
 ```
 
 <!-- steam_time end -->
@@ -63,8 +63,8 @@ Viva La Vida                                  Coldplay
 青春之歌                                    無妄合作社
 グッドラッカー                                    美波
 Dirty Paws                         Of Monsters and Men
-你終究不愛這世界                            傻子與白痴
 美好的事可不可以發生在我                康士坦的變化球
+你終究不愛這世界                            傻子與白痴
 ```
 
 <!-- spotify_track end -->
