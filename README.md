@@ -43,9 +43,9 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 🎮 OCTOPATH TRAVELER II             🕘 2 hrs 21 mins
 🎮 ENDER LILIES                     🕘 2 hrs 0 mins
-🎮 Apex Legends                     🕘 40 hrs 18 mins
+🎮 Apex Legends                     🕘 40 hrs 23 mins
 🎮 Detroit: Become Human            🕘 0 hrs 39 mins
-🎮 RIDE 3                           🕘 4 hrs 32 mins
+🎮 Slay the Spire                   🕘 4 hrs 53 mins
 ```
 
 <!-- steam_time end -->
@@ -61,10 +61,10 @@ Viva La Vida                                  Coldplay
 怨偶 (feat. 艾怡良)                 MC HotDog & Eve Ai
 カワキヲアメク                                    美波
 青春之歌                                    無妄合作社
+你終究不愛這世界                            傻子與白痴
 グッドラッカー                                    美波
 Dirty Paws                         Of Monsters and Men
 美好的事可不可以發生在我                康士坦的變化球
-你終究不愛這世界                            傻子與白痴
 ```
 
 <!-- spotify_track end -->
