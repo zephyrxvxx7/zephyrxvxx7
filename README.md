@@ -61,10 +61,10 @@ Viva La Vida                                  Coldplay
 怨偶 (feat. 艾怡良)                 MC HotDog & Eve Ai
 カワキヲアメク                                    美波
 青春之歌                                    無妄合作社
-你終究不愛這世界                            傻子與白痴
 グッドラッカー                                    美波
 Dirty Paws                         Of Monsters and Men
 美好的事可不可以發生在我                康士坦的變化球
+二十一世紀的破青年                          無妄合作社
 ```
 
 <!-- spotify_track end -->
