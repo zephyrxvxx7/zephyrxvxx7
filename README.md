@@ -42,10 +42,10 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 OCTOPATH TRAVELER II             🕘 2 hrs 23 mins
+🎮 Peeping Dorm Manager             🕘 2 hrs 12 mins
 🎮 ENDER LILIES                     🕘 2 hrs 0 mins
 🎮 Apex Legends                     🕘 40 hrs 23 mins
-🎮 Detroit: Become Human            🕘 0 hrs 39 mins
-🎮 Slay the Spire                   🕘 4 hrs 53 mins
+🎮 幸福的二人房                     🕘 0 hrs 39 mins
 ```
 
 <!-- steam_time end -->
@@ -60,11 +60,11 @@ Viva La Vida                                  Coldplay
 山頭                                        無妄合作社
 怨偶 (feat. 艾怡良)                 MC HotDog & Eve Ai
 Dirty Paws                         Of Monsters and Men
-カワキヲアメク                                    美波
 Sin                                             OBSESS
 青春之歌                                    無妄合作社
-グッドラッカー                                    美波
 美好的事可不可以發生在我                康士坦的變化球
+二十一世紀的破青年                          無妄合作社
+伊的身邊已經有別人2023             許富凱 & Flesh Juic
 ```
 
 <!-- spotify_track end -->
