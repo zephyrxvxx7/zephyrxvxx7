@@ -41,11 +41,11 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Peeping Dorm Manager             🕘 4 hrs 21 mins
+🎮 Peeping Dorm Manager             🕘 6 hrs 18 mins
 🎮 OCTOPATH TRAVELER II             🕘 2 hrs 23 mins
 🎮 ENDER LILIES                     🕘 2 hrs 0 mins
 🎮 Apex Legends                     🕘 40 hrs 23 mins
-🎮 幸福的二人房                     🕘 0 hrs 39 mins
+🎮 幸福的二人房                     🕘 0 hrs 45 mins
 ```
 
 <!-- steam_time end -->
@@ -60,8 +60,8 @@ Viva La Vida                                  Coldplay
 山頭                                        無妄合作社
 怨偶 (feat. 艾怡良)                 MC HotDog & Eve Ai
 Sunset                                    The Midnight
-Dirty Paws                         Of Monsters and Men
 Los Angeles                               The Midnight
+Dirty Paws                         Of Monsters and Men
 Sin                                             OBSESS
 青春之歌                                    無妄合作社
 美好的事可不可以發生在我                康士坦的變化球
