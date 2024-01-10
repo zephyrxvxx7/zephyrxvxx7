@@ -55,16 +55,16 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-孤勇者 - 《英雄聯盟:雙城                    Eason Chan
 Viva La Vida                                  Coldplay
+孤勇者 - 《英雄聯盟:雙城                    Eason Chan
 山頭                                        無妄合作社
 Los Angeles                               The Midnight
 怨偶 (feat. 艾怡良)                 MC HotDog & Eve Ai
 Sunset                                    The Midnight
+Memories                                  The Midnight
 Dirty Paws                         Of Monsters and Men
 青春之歌                                    無妄合作社
-美好的事可不可以發生在我                康士坦的變化球
-Memories                                  The Midnight
+Sin                                             OBSESS
 ```
 
 <!-- spotify_track end -->
