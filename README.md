@@ -42,10 +42,10 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 Peeping Dorm Manager             🕘 6 hrs 18 mins
-🎮 OCTOPATH TRAVELER II             🕘 2 hrs 23 mins
+🎮 Dead Cells                       🕘 1 hrs 18 mins
 🎮 ENDER LILIES                     🕘 2 hrs 0 mins
 🎮 Apex Legends                     🕘 40 hrs 23 mins
-🎮 幸福的二人房                     🕘 0 hrs 45 mins
+🎮 OCTOPATH TRAVELER II             🕘 2 hrs 23 mins
 ```
 
 <!-- steam_time end -->
@@ -56,15 +56,15 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 Viva La Vida                                  Coldplay
-孤勇者 - 《英雄聯盟:雙城                    Eason Chan
-山頭                                        無妄合作社
 Los Angeles                               The Midnight
-怨偶 (feat. 艾怡良)                 MC HotDog & Eve Ai
 Sunset                                    The Midnight
+怨偶 (feat. 艾怡良)                 MC HotDog & Eve Ai
+山頭                                        無妄合作社
 Memories                                  The Midnight
 Dirty Paws                         Of Monsters and Men
-青春之歌                                    無妄合作社
 Sin                                             OBSESS
+Never Enough (The Midni               Scavenger Hunt &
+America 2                                 The Midnight
 ```
 
 <!-- spotify_track end -->
