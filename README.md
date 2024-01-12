@@ -45,7 +45,7 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 🎮 Dead Cells                       🕘 1 hrs 18 mins
 🎮 ENDER LILIES                     🕘 2 hrs 0 mins
 🎮 Apex Legends                     🕘 40 hrs 23 mins
-🎮 OCTOPATH TRAVELER II             🕘 2 hrs 23 mins
+🎮 幸福的二人房                     🕘 0 hrs 45 mins
 ```
 
 <!-- steam_time end -->
@@ -59,12 +59,12 @@ Viva La Vida                                  Coldplay
 Los Angeles                               The Midnight
 Sunset                                    The Midnight
 怨偶 (feat. 艾怡良)                 MC HotDog & Eve Ai
-山頭                                        無妄合作社
 Memories                                  The Midnight
 Dirty Paws                         Of Monsters and Men
-Sin                                             OBSESS
+山頭                                        無妄合作社
 Never Enough (The Midni               Scavenger Hunt &
-America 2                                 The Midnight
+Sin                                             OBSESS
+Memory Reboot                           VØJ & Narvent
 ```
 
 <!-- spotify_track end -->
