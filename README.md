@@ -43,9 +43,9 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 🎮 Peeping Dorm Manager             🕘 6 hrs 18 mins
 🎮 Dead Cells                       🕘 1 hrs 20 mins
+🎮 Baba Is You                      🕘 1 hrs 16 mins
 🎮 Apex Legends                     🕘 40 hrs 23 mins
 🎮 幸福的二人房                     🕘 0 hrs 45 mins
-🎮 Slay the Spire                   🕘 4 hrs 53 mins
 ```
 
 <!-- steam_time end -->
@@ -56,15 +56,15 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 Los Angeles                               The Midnight
-Viva La Vida                                  Coldplay
 Sunset                                    The Midnight
 怨偶 (feat. 艾怡良)                 MC HotDog & Eve Ai
-Memories                                  The Midnight
+Viva La Vida                                  Coldplay
 山頭                                        無妄合作社
-Never Enough (The Midni               Scavenger Hunt &
+Memories                                  The Midnight
+野獸                                            OBSESS
+伊的身邊已經有別人2023             許富凱 & Flesh Juic
+護國山 Pattonkan                              CHTHONIC
 Sin                                             OBSESS
-America 2                                 The Midnight
-Memory Reboot                           VØJ & Narvent
 ```
 
 <!-- spotify_track end -->
