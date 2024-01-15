@@ -42,9 +42,9 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 Peeping Dorm Manager             🕘 6 hrs 18 mins
+🎮 Baba Is You                      🕘 2 hrs 33 mins
+🎮 Nobody Saves the World           🕘 2 hrs 25 mins
 🎮 Dead Cells                       🕘 1 hrs 20 mins
-🎮 Baba Is You                      🕘 1 hrs 16 mins
-🎮 Apex Legends                     🕘 40 hrs 23 mins
 🎮 幸福的二人房                     🕘 0 hrs 45 mins
 ```
 
@@ -57,14 +57,14 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 Los Angeles                               The Midnight
 Sunset                                    The Midnight
-怨偶 (feat. 艾怡良)                 MC HotDog & Eve Ai
-Viva La Vida                                  Coldplay
+伊的身邊已經有別人2023             許富凱 & Flesh Juic
 山頭                                        無妄合作社
+護國山 Pattonkan                              CHTHONIC
 Memories                                  The Midnight
 野獸                                            OBSESS
-伊的身邊已經有別人2023             許富凱 & Flesh Juic
-護國山 Pattonkan                              CHTHONIC
 Sin                                             OBSESS
+拼死的掙扎 (feat. 魏小)                  步行者 & 魏小
+Never Enough (The Midni               Scavenger Hunt &
 ```
 
 <!-- spotify_track end -->
