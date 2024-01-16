@@ -57,13 +57,13 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 Los Angeles                               The Midnight
 Sunset                                    The Midnight
-伊的身邊已經有別人2023             許富凱 & Flesh Juic
-山頭                                        無妄合作社
 護國山 Pattonkan                              CHTHONIC
-Memories                                  The Midnight
 野獸                                            OBSESS
+山頭                                        無妄合作社
+伊的身邊已經有別人2023             許富凱 & Flesh Juic
+Memories                                  The Midnight
 Sin                                             OBSESS
-拼死的掙扎 (feat. 魏小)                  步行者 & 魏小
+Without Pain                                    OBSESS
 Never Enough (The Midni               Scavenger Hunt &
 ```
 
