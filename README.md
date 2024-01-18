@@ -57,14 +57,14 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 Los Angeles                               The Midnight
 Sunset                                    The Midnight
-護國山 Pattonkan                              CHTHONIC
-山頭                                        無妄合作社
 Memories                                  The Midnight
-野獸                                            OBSESS
+山頭                                        無妄合作社
+護國山 Pattonkan                              CHTHONIC
 Never Enough (The Midni               Scavenger Hunt &
+野獸                                            OBSESS
+America 2                                 The Midnight
+Memory Reboot                           VØJ & Narvent
 Sin                                             OBSESS
-痛苦造就了我們                                  OBSESS
-拼死的掙扎 (feat. 魏小)                  步行者 & 魏小
 ```
 
 <!-- spotify_track end -->
