@@ -45,7 +45,7 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 🎮 Baba Is You                      🕘 2 hrs 33 mins
 🎮 Nobody Saves the World           🕘 2 hrs 25 mins
 🎮 Dead Cells                       🕘 1 hrs 20 mins
-🎮 幸福的二人房                     🕘 0 hrs 45 mins
+🎮 DAVE THE DIVER                   🕘 0 hrs 16 mins
 ```
 
 <!-- steam_time end -->
@@ -57,14 +57,14 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 Los Angeles                               The Midnight
 Sunset                                    The Midnight
+護國山 Pattonkan                              CHTHONIC
 Memories                                  The Midnight
 山頭                                        無妄合作社
-護國山 Pattonkan                              CHTHONIC
-Never Enough (The Midni               Scavenger Hunt &
 野獸                                            OBSESS
-America 2                                 The Midnight
-Memory Reboot                           VØJ & Narvent
+Never Enough (The Midni               Scavenger Hunt &
 Sin                                             OBSESS
+Without Pain                                    OBSESS
+America 2                                 The Midnight
 ```
 
 <!-- spotify_track end -->
