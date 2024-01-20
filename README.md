@@ -41,11 +41,11 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Peeping Dorm Manager             🕘 6 hrs 18 mins
 🎮 Baba Is You                      🕘 2 hrs 33 mins
+🎮 Peeping Dorm Manager             🕘 6 hrs 18 mins
 🎮 Nobody Saves the World           🕘 2 hrs 25 mins
 🎮 Dead Cells                       🕘 1 hrs 20 mins
-🎮 DAVE THE DIVER                   🕘 0 hrs 16 mins
+🎮 幸福的二人房                     🕘 0 hrs 45 mins
 ```
 
 <!-- steam_time end -->
@@ -59,11 +59,11 @@ Los Angeles                               The Midnight
 Sunset                                    The Midnight
 護國山 Pattonkan                              CHTHONIC
 Memories                                  The Midnight
-山頭                                        無妄合作社
 野獸                                            OBSESS
 Never Enough (The Midni               Scavenger Hunt &
 Sin                                             OBSESS
 Without Pain                                    OBSESS
+痛苦造就了我們                                  OBSESS
 America 2                                 The Midnight
 ```
 
