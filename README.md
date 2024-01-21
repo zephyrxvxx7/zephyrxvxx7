@@ -62,8 +62,8 @@ Memories                                  The Midnight
 野獸                                            OBSESS
 Never Enough (The Midni               Scavenger Hunt &
 Sin                                             OBSESS
+伊的身邊已經有別人2023             許富凱 & Flesh Juic
 Without Pain                                    OBSESS
-痛苦造就了我們                                  OBSESS
 America 2                                 The Midnight
 ```
 
