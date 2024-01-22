@@ -42,10 +42,10 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 Baba Is You                      🕘 2 hrs 33 mins
-🎮 Peeping Dorm Manager             🕘 6 hrs 18 mins
 🎮 Nobody Saves the World           🕘 2 hrs 25 mins
 🎮 Dead Cells                       🕘 1 hrs 20 mins
-🎮 幸福的二人房                     🕘 0 hrs 45 mins
+🎮 Wuppo - Definitive Edition       🕘 0 hrs 49 mins
+🎮 Ultimate Chicken Horse           🕘 9 hrs 18 mins
 ```
 
 <!-- steam_time end -->
