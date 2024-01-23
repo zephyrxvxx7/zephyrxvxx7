@@ -58,8 +58,8 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 Los Angeles                               The Midnight
 Sunset                                    The Midnight
 護國山 Pattonkan                              CHTHONIC
-Memories                                  The Midnight
 野獸                                            OBSESS
+Memories                                  The Midnight
 Never Enough (The Midni               Scavenger Hunt &
 Sin                                             OBSESS
 伊的身邊已經有別人2023             許富凱 & Flesh Juic
