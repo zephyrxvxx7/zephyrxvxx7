@@ -61,10 +61,10 @@ Sunset                                    The Midnight
 野獸                                            OBSESS
 Memories                                  The Midnight
 Never Enough (The Midni               Scavenger Hunt &
+太子哥                                    Flesh Juicer
 Sin                                             OBSESS
-伊的身邊已經有別人2023             許富凱 & Flesh Juic
 Without Pain                                    OBSESS
-America 2                                 The Midnight
+痛苦造就了我們                                  OBSESS
 ```
 
 <!-- spotify_track end -->
