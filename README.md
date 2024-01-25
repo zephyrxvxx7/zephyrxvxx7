@@ -43,8 +43,8 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 🎮 Baba Is You                      🕘 2 hrs 33 mins
 🎮 Nobody Saves the World           🕘 2 hrs 25 mins
-🎮 Dead Cells                       🕘 1 hrs 20 mins
 🎮 Wuppo - Definitive Edition       🕘 0 hrs 49 mins
+🎮 Dead Cells                       🕘 1 hrs 20 mins
 🎮 Ultimate Chicken Horse           🕘 9 hrs 18 mins
 ```
 
@@ -62,7 +62,7 @@ Sunset                                    The Midnight
 Memories                                  The Midnight
 Never Enough (The Midni               Scavenger Hunt &
 太子哥                                    Flesh Juicer
-Sin                                             OBSESS
+America 2                                 The Midnight
 Without Pain                                    OBSESS
 痛苦造就了我們                                  OBSESS
 ```
