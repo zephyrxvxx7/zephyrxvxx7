@@ -58,12 +58,12 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 Los Angeles                               The Midnight
 Sunset                                    The Midnight
 護國山 Pattonkan                              CHTHONIC
-野獸                                            OBSESS
 Memories                                  The Midnight
+野獸                                            OBSESS
 Never Enough (The Midni               Scavenger Hunt &
-太子哥                                    Flesh Juicer
 America 2                                 The Midnight
-Without Pain                                    OBSESS
+太子哥                                    Flesh Juicer
+Memory Reboot                           VØJ & Narvent
 痛苦造就了我們                                  OBSESS
 ```
 
