@@ -44,7 +44,6 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 🎮 Baba Is You                      🕘 2 hrs 33 mins
 🎮 Nobody Saves the World           🕘 2 hrs 25 mins
 🎮 Wuppo - Definitive Edition       🕘 0 hrs 49 mins
-🎮 Dead Cells                       🕘 1 hrs 20 mins
 🎮 Ultimate Chicken Horse           🕘 9 hrs 18 mins
 ```
 
