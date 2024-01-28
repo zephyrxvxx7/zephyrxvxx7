@@ -41,8 +41,9 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Baba Is You                      🕘 2 hrs 33 mins
 🎮 Nobody Saves the World           🕘 2 hrs 25 mins
+🎮 Baba Is You                      🕘 2 hrs 33 mins
+🎮 Summer Memories                  🕘 8 hrs 18 mins
 🎮 Wuppo - Definitive Edition       🕘 0 hrs 49 mins
 🎮 Ultimate Chicken Horse           🕘 9 hrs 18 mins
 ```
