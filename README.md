@@ -41,11 +41,9 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Nobody Saves the World           🕘 2 hrs 25 mins
-🎮 Baba Is You                      🕘 2 hrs 33 mins
+🎮 幸福的二人房                     🕘 2 hrs 3 mins
 🎮 Summer Memories                  🕘 8 hrs 18 mins
-🎮 Wuppo - Definitive Edition       🕘 0 hrs 49 mins
-🎮 Ultimate Chicken Horse           🕘 9 hrs 18 mins
+🎮 DOUKYUUSEI                       🕘 0 hrs 1 mins
 ```
 
 <!-- steam_time end -->
