@@ -62,7 +62,7 @@ Never Enough (The Midni               Scavenger Hunt &
 America 2                                 The Midnight
 太子哥                                    Flesh Juicer
 Memory Reboot                           VØJ & Narvent
-The Voyager                                 Futurecop!
+痛苦造就了我們                                  OBSESS
 ```
 
 <!-- spotify_track end -->
