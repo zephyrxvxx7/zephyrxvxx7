@@ -54,15 +54,15 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 Los Angeles                               The Midnight
-Sunset                                    The Midnight
-Memories                                  The Midnight
 護國山 Pattonkan                              CHTHONIC
-Never Enough (The Midni               Scavenger Hunt &
+燈塔                                            宋德鶴
 野獸                                            OBSESS
-America 2                                 The Midnight
 太子哥                                    Flesh Juicer
-Memory Reboot                           VØJ & Narvent
 痛苦造就了我們                                  OBSESS
+Never Enough (The Midni               Scavenger Hunt &
+關閉太陽                                  Flesh Juicer
+感謝勞力                                  Flesh Juicer
+伊的身邊已經有別人2023             許富凱 & Flesh Juic
 ```
 
 <!-- spotify_track end -->
