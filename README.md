@@ -53,16 +53,16 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Los Angeles                               The Midnight
 護國山 Pattonkan                              CHTHONIC
+Los Angeles                               The Midnight
 燈塔                                            宋德鶴
 野獸                                            OBSESS
 太子哥                                    Flesh Juicer
 痛苦造就了我們                                  OBSESS
-Never Enough (The Midni               Scavenger Hunt &
 關閉太陽                                  Flesh Juicer
 感謝勞力                                  Flesh Juicer
 伊的身邊已經有別人2023             許富凱 & Flesh Juic
+Without Pain                                    OBSESS
 ```
 
 <!-- spotify_track end -->
