@@ -59,8 +59,8 @@ Los Angeles                               The Midnight
 野獸                                            OBSESS
 太子哥                                    Flesh Juicer
 痛苦造就了我們                                  OBSESS
-關閉太陽                                  Flesh Juicer
 感謝勞力                                  Flesh Juicer
+關閉太陽                                  Flesh Juicer
 伊的身邊已經有別人2023             許富凱 & Flesh Juic
 Without Pain                                    OBSESS
 ```
