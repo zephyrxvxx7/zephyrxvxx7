@@ -41,7 +41,7 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Nobody Saves the World           🕘 3 hrs 53 mins
+🎮 Nobody Saves the World           🕘 4 hrs 28 mins
 🎮 幸福的二人房                     🕘 2 hrs 3 mins
 🎮 Summer Memories                  🕘 8 hrs 18 mins
 🎮 DAVE THE DIVER                   🕘 0 hrs 28 mins
@@ -62,9 +62,9 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 痛苦造就了我們                                  OBSESS
 感謝勞力                                  Flesh Juicer
 關閉太陽                                  Flesh Juicer
-Los Angeles                               The Midnight
 伊的身邊已經有別人2023             許富凱 & Flesh Juic
 Without Pain                                    OBSESS
+海闊天空                                        Beyond
 ```
 
 <!-- spotify_track end -->
