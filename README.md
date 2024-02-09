@@ -41,7 +41,7 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Nobody Saves the World           🕘 4 hrs 28 mins
+🎮 Nobody Saves the World           🕘 8 hrs 28 mins
 🎮 幸福的二人房                     🕘 2 hrs 3 mins
 🎮 Summer Memories                  🕘 8 hrs 18 mins
 🎮 DAVE THE DIVER                   🕘 0 hrs 28 mins
@@ -56,15 +56,15 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 護國山 Pattonkan                              CHTHONIC
-野獸                                            OBSESS
-太子哥                                    Flesh Juicer
-痛苦造就了我們                                  OBSESS
-關閉太陽                                  Flesh Juicer
-感謝勞力                                  Flesh Juicer
-Without Pain                                    OBSESS
 燈塔                                            宋德鶴
-伊的身邊已經有別人2023             許富凱 & Flesh Juic
 海闊天空                                        Beyond
+太子哥                                    Flesh Juicer
+野獸                                            OBSESS
+fragrance                               mahiru & RINZO
+關閉太陽                                  Flesh Juicer
+Without Pain                                    OBSESS
+痛苦造就了我們                                  OBSESS
+惡果                                            OBSESS
 ```
 
 <!-- spotify_track end -->
