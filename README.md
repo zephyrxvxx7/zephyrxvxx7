@@ -41,11 +41,11 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Nobody Saves the World           🕘 8 hrs 28 mins
+🎮 Nobody Saves the World           🕘 15 hrs 19 mins
 🎮 幸福的二人房                     🕘 2 hrs 3 mins
 🎮 Summer Memories                  🕘 8 hrs 18 mins
 🎮 DAVE THE DIVER                   🕘 0 hrs 28 mins
-🎮 DOUKYUUSEI                       🕘 0 hrs 1 mins
+🎮 DOUKYUUSEI                       🕘 0 hrs 4 mins
 ```
 
 <!-- steam_time end -->
@@ -59,12 +59,12 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 燈塔                                            宋德鶴
 海闊天空                                        Beyond
 太子哥                                    Flesh Juicer
-野獸                                            OBSESS
 fragrance                               mahiru & RINZO
+野獸                                            OBSESS
 關閉太陽                                  Flesh Juicer
 Without Pain                                    OBSESS
-痛苦造就了我們                                  OBSESS
-惡果                                            OBSESS
+斜陽                                            宋德鶴
+鲜花                                            回春丹
 ```
 
 <!-- spotify_track end -->
