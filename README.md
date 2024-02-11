@@ -41,9 +41,8 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Nobody Saves the World           🕘 15 hrs 19 mins
+🎮 Nobody Saves the World           🕘 22 hrs 33 mins
 🎮 幸福的二人房                     🕘 2 hrs 3 mins
-🎮 Summer Memories                  🕘 8 hrs 18 mins
 🎮 DAVE THE DIVER                   🕘 0 hrs 28 mins
 🎮 DOUKYUUSEI                       🕘 0 hrs 4 mins
 ```
@@ -55,16 +54,16 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-護國山 Pattonkan                              CHTHONIC
 燈塔                                            宋德鶴
 海闊天空                                        Beyond
-太子哥                                    Flesh Juicer
 fragrance                               mahiru & RINZO
-野獸                                            OBSESS
-關閉太陽                                  Flesh Juicer
-Without Pain                                    OBSESS
+護國山 Pattonkan                              CHTHONIC
 斜陽                                            宋德鶴
+太子哥                                    Flesh Juicer
 鲜花                                            回春丹
+野獸                                            OBSESS
+我喜歡你                             芒果醬 Mango Jump
+感謝勞力                                  Flesh Juicer
 ```
 
 <!-- spotify_track end -->
