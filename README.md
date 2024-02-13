@@ -61,8 +61,8 @@ fragrance                               mahiru & RINZO
 鲜花                                            回春丹
 野獸                                            OBSESS
 我喜歡你                             芒果醬 Mango Jump
-感謝勞力                                  Flesh Juicer
 關閉太陽                                  Flesh Juicer
+Without Pain                                    OBSESS
 ```
 
 <!-- spotify_track end -->
