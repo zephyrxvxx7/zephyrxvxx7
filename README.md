@@ -54,15 +54,15 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 燈塔                                            宋德鶴
-fragrance                               mahiru & RINZO
-護國山 Pattonkan                              CHTHONIC
+fragrance                               茉ひる & RINZO
 斜陽                                            宋德鶴
-太子哥                                    Flesh Juicer
 鲜花                                            回春丹
-野獸                                            OBSESS
+護國山 Pattonkan                              CHTHONIC
 我喜歡你                             芒果醬 Mango Jump
-關閉太陽                                  Flesh Juicer
-Without Pain                                    OBSESS
+太子哥                                    Flesh Juicer
+夏夜晚風                             芒果醬 Mango Jump
+野獸                                            OBSESS
+惡果                                            OBSESS
 ```
 
 <!-- spotify_track end -->
