@@ -53,16 +53,16 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-燈塔                                            宋德鶴
 fragrance                               茉ひる & RINZO
+燈塔                                            宋德鶴
 斜陽                                            宋德鶴
-鲜花                                            回春丹
 護國山 Pattonkan                              CHTHONIC
-我喜歡你                             芒果醬 Mango Jump
 太子哥                                    Flesh Juicer
-夏夜晚風                             芒果醬 Mango Jump
 野獸                                            OBSESS
 惡果                                            OBSESS
+感謝勞力                                  Flesh Juicer
+Fragile                              DJ Okawari & Cele
+Everything (feat. W.LIN                 Marz23 & W.LIN
 ```
 
 <!-- spotify_track end -->
