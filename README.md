@@ -59,8 +59,8 @@ fragrance                               茉ひる & RINZO
 護國山 Pattonkan                              CHTHONIC
 太子哥                                    Flesh Juicer
 野獸                                            OBSESS
-惡果                                            OBSESS
 感謝勞力                                  Flesh Juicer
+惡果                                            OBSESS
 Fragile                              DJ Okawari & Cele
 Everything (feat. W.LIN                 Marz23 & W.LIN
 ```
