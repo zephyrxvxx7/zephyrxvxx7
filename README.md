@@ -53,16 +53,16 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+朝が来る前に                             Motohiro Hata
 fragrance                               茉ひる & RINZO
 燈塔                                            宋德鶴
 斜陽                                            宋德鶴
+A new one for all, All                     ONE OK ROCK
+泡沫花火                             KAMI WA SAIKORO W
 護國山 Pattonkan                              CHTHONIC
 太子哥                                    Flesh Juicer
 野獸                                            OBSESS
 感謝勞力                                  Flesh Juicer
-惡果                                            OBSESS
-Fragile                              DJ Okawari & Cele
-Everything (feat. W.LIN                 Marz23 & W.LIN
 ```
 
 <!-- spotify_track end -->
