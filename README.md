@@ -42,7 +42,6 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 Nobody Saves the World           🕘 22 hrs 33 mins
-🎮 DAVE THE DIVER                   🕘 0 hrs 28 mins
 🎮 DOUKYUUSEI                       🕘 0 hrs 4 mins
 ```
 
@@ -55,14 +54,14 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 朝が来る前に                             Motohiro Hata
 fragrance                               茉ひる & RINZO
-燈塔                                            宋德鶴
-斜陽                                            宋德鶴
-A new one for all, All                     ONE OK ROCK
 泡沫花火                             KAMI WA SAIKORO W
+A new one for all, All                     ONE OK ROCK
+斜陽                                            宋德鶴
+燈塔                                            宋德鶴
 護國山 Pattonkan                              CHTHONIC
-太子哥                                    Flesh Juicer
-野獸                                            OBSESS
-感謝勞力                                  Flesh Juicer
+怨偶 (feat. 艾怡良)                 MC HotDog & Eve Ai
+惡果                                            OBSESS
+Fragile                              DJ Okawari & Cele
 ```
 
 <!-- spotify_track end -->
