@@ -54,13 +54,13 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 朝が来る前に                             Motohiro Hata
 fragrance                               茉ひる & RINZO
-泡沫花火                             KAMI WA SAIKORO W
 A new one for all, All                     ONE OK ROCK
+泡沫花火                             KAMI WA SAIKORO W
 斜陽                                            宋德鶴
 燈塔                                            宋德鶴
-護國山 Pattonkan                              CHTHONIC
+Call of Silence                        Hiroyuki Sawano
 怨偶 (feat. 艾怡良)                 MC HotDog & Eve Ai
-惡果                                            OBSESS
+護國山 Pattonkan                              CHTHONIC
 Fragile                              DJ Okawari & Cele
 ```
 
