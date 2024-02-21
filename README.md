@@ -60,8 +60,8 @@ A new one for all, All                     ONE OK ROCK
 燈塔                                            宋德鶴
 Call of Silence                        Hiroyuki Sawano
 怨偶 (feat. 艾怡良)                 MC HotDog & Eve Ai
-護國山 Pattonkan                              CHTHONIC
 Fragile                              DJ Okawari & Cele
+不是因為天氣晴朗才愛你                        理想混蛋
 ```
 
 <!-- spotify_track end -->
