@@ -58,10 +58,10 @@ A new one for all, All                     ONE OK ROCK
 泡沫花火                             KAMI WA SAIKORO W
 斜陽                                            宋德鶴
 燈塔                                            宋德鶴
+鴦                                         PA PUN BAND
 Call of Silence                        Hiroyuki Sawano
-怨偶 (feat. 艾怡良)                 MC HotDog & Eve Ai
-Fragile                              DJ Okawari & Cele
 不是因為天氣晴朗才愛你                        理想混蛋
+請記得揍我一拳                             PA PUN BAND
 ```
 
 <!-- spotify_track end -->
