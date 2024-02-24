@@ -42,7 +42,6 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 Nobody Saves the World           🕘 22 hrs 33 mins
-🎮 DOUKYUUSEI                       🕘 0 hrs 4 mins
 ```
 
 <!-- steam_time end -->
