@@ -52,15 +52,15 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 朝が来る前に                             Motohiro Hata
-fragrance                               茉ひる & RINZO
 A new one for all, All                     ONE OK ROCK
+fragrance                               茉ひる & RINZO
 泡沫花火                             KAMI WA SAIKORO W
-斜陽                                            宋德鶴
-燈塔                                            宋德鶴
 鴦                                         PA PUN BAND
 Call of Silence                        Hiroyuki Sawano
+斜陽                                            宋德鶴
 不是因為天氣晴朗才愛你                        理想混蛋
 請記得揍我一拳                             PA PUN BAND
+護國山 Pattonkan                              CHTHONIC
 ```
 
 <!-- spotify_track end -->
