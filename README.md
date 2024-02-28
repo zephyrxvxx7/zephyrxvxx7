@@ -60,7 +60,7 @@ Call of Silence                        Hiroyuki Sawano
 斜陽                                            宋德鶴
 不是因為天氣晴朗才愛你                        理想混蛋
 請記得揍我一拳                             PA PUN BAND
-護國山 Pattonkan                              CHTHONIC
+ナルキッソス                                  eufonius
 ```
 
 <!-- spotify_track end -->
