@@ -55,12 +55,12 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 A new one for all, All                     ONE OK ROCK
 fragrance                               茉ひる & RINZO
 泡沫花火                             KAMI WA SAIKORO W
-鴦                                         PA PUN BAND
-Call of Silence                        Hiroyuki Sawano
-斜陽                                            宋德鶴
-不是因為天氣晴朗才愛你                        理想混蛋
-請記得揍我一拳                             PA PUN BAND
 ナルキッソス                                  eufonius
+鴦                                         PA PUN BAND
+斜陽                                            宋德鶴
+Call of Silence                        Hiroyuki Sawano
+Victim of Love - feat.                    ayaka & Taka
+不是因為天氣晴朗才愛你                        理想混蛋
 ```
 
 <!-- spotify_track end -->
