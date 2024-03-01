@@ -56,10 +56,10 @@ A new one for all, All                     ONE OK ROCK
 fragrance                               茉ひる & RINZO
 泡沫花火                             KAMI WA SAIKORO W
 ナルキッソス                                  eufonius
-鴦                                         PA PUN BAND
 斜陽                                            宋德鶴
-Call of Silence                        Hiroyuki Sawano
+鴦                                         PA PUN BAND
 Victim of Love - feat.                    ayaka & Taka
+Call of Silence                        Hiroyuki Sawano
 不是因為天氣晴朗才愛你                        理想混蛋
 ```
 
