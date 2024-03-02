@@ -55,12 +55,12 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 A new one for all, All                     ONE OK ROCK
 fragrance                               茉ひる & RINZO
 泡沫花火                             KAMI WA SAIKORO W
+Renegades                                  ONE OK ROCK
 ナルキッソス                                  eufonius
 斜陽                                            宋德鶴
 鴦                                         PA PUN BAND
 Victim of Love - feat.                    ayaka & Taka
 Call of Silence                        Hiroyuki Sawano
-不是因為天氣晴朗才愛你                        理想混蛋
 ```
 
 <!-- spotify_track end -->
