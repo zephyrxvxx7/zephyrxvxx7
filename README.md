@@ -41,7 +41,10 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Nobody Saves the World           🕘 22 hrs 33 mins
+🎮 DAVE THE DIVER                   🕘 4 hrs 52 mins
+🎮 Nobody Saves the World           🕘 24 hrs 36 mins
+🎮 Ori and the Will of the Wisps    🕘 35 hrs 24 mins
+🎮 Ori and the Blind Forest: Definitive Edition 🕘 0 hrs 16 mins
 ```
 
 <!-- steam_time end -->
@@ -55,12 +58,12 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 A new one for all, All                     ONE OK ROCK
 fragrance                               茉ひる & RINZO
 泡沫花火                             KAMI WA SAIKORO W
-Renegades                                  ONE OK ROCK
 ナルキッソス                                  eufonius
+Renegades                                  ONE OK ROCK
+Victim of Love - feat.                    ayaka & Taka
+SPARKLES                             STEREO DIVE FOUND
 斜陽                                            宋德鶴
 鴦                                         PA PUN BAND
-Victim of Love - feat.                    ayaka & Taka
-Call of Silence                        Hiroyuki Sawano
 ```
 
 <!-- spotify_track end -->
