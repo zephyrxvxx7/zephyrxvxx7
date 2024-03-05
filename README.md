@@ -60,8 +60,8 @@ fragrance                               茉ひる & RINZO
 泡沫花火                             KAMI WA SAIKORO W
 ナルキッソス                                  eufonius
 Renegades                                  ONE OK ROCK
-Victim of Love - feat.                    ayaka & Taka
 SPARKLES                             STEREO DIVE FOUND
+Victim of Love - feat.                    ayaka & Taka
 斜陽                                            宋德鶴
 鴦                                         PA PUN BAND
 ```
