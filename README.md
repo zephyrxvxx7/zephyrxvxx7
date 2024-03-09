@@ -61,8 +61,8 @@ fragrance                               茉ひる & RINZO
 ナルキッソス                                  eufonius
 Renegades                                  ONE OK ROCK
 Victim of Love - feat.                    ayaka & Taka
-SPARKLES                             STEREO DIVE FOUND
 鴦                                         PA PUN BAND
+SPARKLES                             STEREO DIVE FOUND
 斜陽                                            宋德鶴
 ```
 
