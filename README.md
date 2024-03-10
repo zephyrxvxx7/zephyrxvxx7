@@ -58,12 +58,12 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 A new one for all, All                     ONE OK ROCK
 fragrance                               茉ひる & RINZO
 泡沫花火                             KAMI WA SAIKORO W
+Los Angeles                               The Midnight
 ナルキッソス                                  eufonius
 Renegades                                  ONE OK ROCK
+Sunset                                    The Midnight
 Victim of Love - feat.                    ayaka & Taka
 鴦                                         PA PUN BAND
-SPARKLES                             STEREO DIVE FOUND
-斜陽                                            宋德鶴
 ```
 
 <!-- spotify_track end -->
