@@ -55,15 +55,15 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 朝が来る前に                             Motohiro Hata
+Los Angeles                               The Midnight
 A new one for all, All                     ONE OK ROCK
 fragrance                               茉ひる & RINZO
 泡沫花火                             KAMI WA SAIKORO W
-Los Angeles                               The Midnight
+Sunset                                    The Midnight
 ナルキッソス                                  eufonius
 Renegades                                  ONE OK ROCK
-Sunset                                    The Midnight
+The Voyager                                 Futurecop!
 Victim of Love - feat.                    ayaka & Taka
-鴦                                         PA PUN BAND
 ```
 
 <!-- spotify_track end -->
