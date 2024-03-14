@@ -58,9 +58,9 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 Los Angeles                               The Midnight
 A new one for all, All                     ONE OK ROCK
 泡沫花火                             KAMI WA SAIKORO W
-fragrance                               茉ひる & RINZO
 ナルキッソス                                  eufonius
 Sunset                                    The Midnight
+fragrance                               茉ひる & RINZO
 Renegades                                  ONE OK ROCK
 SPARKLES                             STEREO DIVE FOUND
 The Voyager                                 Futurecop!
