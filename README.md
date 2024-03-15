@@ -54,16 +54,16 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-朝が来る前に                             Motohiro Hata
 Los Angeles                               The Midnight
-A new one for all, All                     ONE OK ROCK
-泡沫花火                             KAMI WA SAIKORO W
 ナルキッソス                                  eufonius
 Sunset                                    The Midnight
-fragrance                               茉ひる & RINZO
 Renegades                                  ONE OK ROCK
 SPARKLES                             STEREO DIVE FOUND
+朝が来る前に                             Motohiro Hata
 The Voyager                                 Futurecop!
+Victim of Love - feat.                    ayaka & Taka
+A new one for all, All                     ONE OK ROCK
+鴦                                         PA PUN BAND
 ```
 
 <!-- spotify_track end -->
