@@ -59,11 +59,11 @@ Los Angeles                               The Midnight
 Sunset                                    The Midnight
 Renegades                                  ONE OK ROCK
 SPARKLES                             STEREO DIVE FOUND
-朝が来る前に                             Motohiro Hata
 The Voyager                                 Futurecop!
 Victim of Love - feat.                    ayaka & Taka
-A new one for all, All                     ONE OK ROCK
 鴦                                         PA PUN BAND
+Never Enough (The Midni               Scavenger Hunt &
+葵橋                                            Sayuri
 ```
 
 <!-- spotify_track end -->
