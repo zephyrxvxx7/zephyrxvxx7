@@ -61,9 +61,9 @@ Renegades                                  ONE OK ROCK
 SPARKLES                             STEREO DIVE FOUND
 The Voyager                                 Futurecop!
 Victim of Love - feat.                    ayaka & Taka
-鴦                                         PA PUN BAND
 Never Enough (The Midni               Scavenger Hunt &
 葵橋                                            Sayuri
+America 2                                 The Midnight
 ```
 
 <!-- spotify_track end -->
