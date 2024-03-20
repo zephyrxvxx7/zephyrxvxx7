@@ -58,12 +58,12 @@ Los Angeles                               The Midnight
 ナルキッソス                                  eufonius
 Sunset                                    The Midnight
 Renegades                                  ONE OK ROCK
+Victim of Love - feat.                    ayaka & Taka
 SPARKLES                             STEREO DIVE FOUND
 The Voyager                                 Futurecop!
-Victim of Love - feat.                    ayaka & Taka
 Never Enough (The Midni               Scavenger Hunt &
+朝が来る前に                             Motohiro Hata
 葵橋                                            Sayuri
-America 2                                 The Midnight
 ```
 
 <!-- spotify_track end -->
