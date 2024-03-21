@@ -41,10 +41,7 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 DAVE THE DIVER                   🕘 4 hrs 52 mins
-🎮 Nobody Saves the World           🕘 24 hrs 36 mins
-🎮 Ori and the Will of the Wisps    🕘 35 hrs 24 mins
-🎮 Ori and the Blind Forest: Definitive Edition 🕘 0 hrs 16 mins
+🎮 Winter Memories                  🕘 1 hrs 29 mins
 ```
 
 <!-- steam_time end -->
@@ -56,14 +53,14 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 Los Angeles                               The Midnight
 ナルキッソス                                  eufonius
-Sunset                                    The Midnight
-Renegades                                  ONE OK ROCK
 Victim of Love - feat.                    ayaka & Taka
 SPARKLES                             STEREO DIVE FOUND
+Sunset                                    The Midnight
+Renegades                                  ONE OK ROCK
+恋するもののあはれ                            あたらよ
 The Voyager                                 Futurecop!
-Never Enough (The Midni               Scavenger Hunt &
 朝が来る前に                             Motohiro Hata
-葵橋                                            Sayuri
+Never Enough (The Midni               Scavenger Hunt &
 ```
 
 <!-- spotify_track end -->
