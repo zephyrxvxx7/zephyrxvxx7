@@ -53,15 +53,15 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 Los Angeles                               The Midnight
-ナルキッソス                                  eufonius
 新造的人                                    Enno Cheng
-Victim of Love - feat.                    ayaka & Taka
 SPARKLES                             STEREO DIVE FOUND
-Sunset                                    The Midnight
+Victim of Love - feat.                    ayaka & Taka
+ナルキッソス                                  eufonius
+嘻哈庄腳情 (Feat. LuLu)                  玖壹壹 & Lulu
 恋するもののあはれ                            あたらよ
+Sunset                                    The Midnight
+浄歌                                              TRUE
 Renegades                                  ONE OK ROCK
-改變 (feat. 張震嶽)                  MC HotDog & Zhang
-The Voyager                                 Futurecop!
 ```
 
 <!-- spotify_track end -->
