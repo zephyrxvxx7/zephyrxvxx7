@@ -27,11 +27,7 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-JavaScript 14 mins        ██████████▍░░░░░░░░░░  49.6%
-JSON       6 mins         ████▉░░░░░░░░░░░░░░░░  23.6%
-HTML       5 mins         ███▋░░░░░░░░░░░░░░░░░  17.4%
-XML        2 mins         █▉░░░░░░░░░░░░░░░░░░░   9.1%
-CSS        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+JavaScript 0 secs         █████████████████████ 100.0%
 ```
 
 <!-- code_time end -->
@@ -56,8 +52,8 @@ Los Angeles                               The Midnight
 新造的人                                    Enno Cheng
 SPARKLES                             STEREO DIVE FOUND
 Victim of Love - feat.                    ayaka & Taka
-ナルキッソス                                  eufonius
 嘻哈庄腳情 (Feat. LuLu)                  玖壹壹 & Lulu
+ナルキッソス                                  eufonius
 恋するもののあはれ                            あたらよ
 Sunset                                    The Midnight
 浄歌                                              TRUE
