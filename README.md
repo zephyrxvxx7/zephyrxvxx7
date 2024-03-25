@@ -49,12 +49,12 @@ JavaScript 0 secs         ██████████████████
 
 ```text
 Los Angeles                               The Midnight
-新造的人                                    Enno Cheng
 SPARKLES                             STEREO DIVE FOUND
-Victim of Love - feat.                    ayaka & Taka
+新造的人                                    Enno Cheng
 嘻哈庄腳情 (Feat. LuLu)                  玖壹壹 & Lulu
-ナルキッソス                                  eufonius
 恋するもののあはれ                            あたらよ
+Victim of Love - feat.                    ayaka & Taka
+ナルキッソス                                  eufonius
 Sunset                                    The Midnight
 浄歌                                              TRUE
 Renegades                                  ONE OK ROCK
