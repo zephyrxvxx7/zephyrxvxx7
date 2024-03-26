@@ -52,12 +52,12 @@ Los Angeles                               The Midnight
 SPARKLES                             STEREO DIVE FOUND
 新造的人                                    Enno Cheng
 嘻哈庄腳情 (Feat. LuLu)                  玖壹壹 & Lulu
-恋するもののあはれ                            あたらよ
-Victim of Love - feat.                    ayaka & Taka
-ナルキッソス                                  eufonius
 Sunset                                    The Midnight
 浄歌                                              TRUE
 Renegades                                  ONE OK ROCK
+改變 (feat. 張震嶽)                  MC HotDog & Zhang
+恋するもののあはれ                            あたらよ
+The Voyager                                 Futurecop!
 ```
 
 <!-- spotify_track end -->
