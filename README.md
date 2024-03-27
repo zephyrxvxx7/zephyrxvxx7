@@ -56,8 +56,8 @@ Sunset                                    The Midnight
 浄歌                                              TRUE
 Renegades                                  ONE OK ROCK
 改變 (feat. 張震嶽)                  MC HotDog & Zhang
-恋するもののあはれ                            あたらよ
 The Voyager                                 Futurecop!
+恋するもののあはれ                            あたらよ
 ```
 
 <!-- spotify_track end -->
