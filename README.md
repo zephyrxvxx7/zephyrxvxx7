@@ -54,10 +54,10 @@ SPARKLES                             STEREO DIVE FOUND
 嘻哈庄腳情 (Feat. LuLu)                  玖壹壹 & Lulu
 Sunset                                    The Midnight
 浄歌                                              TRUE
-Renegades                                  ONE OK ROCK
 改變 (feat. 張震嶽)                  MC HotDog & Zhang
 The Voyager                                 Futurecop!
 恋するもののあはれ                            あたらよ
+癡情男子漢                         玖壹壹 & Under Love
 ```
 
 <!-- spotify_track end -->
