@@ -49,15 +49,15 @@ JavaScript 0 secs         ██████████████████
 
 ```text
 Los Angeles                               The Midnight
-SPARKLES                             STEREO DIVE FOUND
 新造的人                                    Enno Cheng
 嘻哈庄腳情 (Feat. LuLu)                  玖壹壹 & Lulu
 Sunset                                    The Midnight
-浄歌                                              TRUE
 改變 (feat. 張震嶽)                  MC HotDog & Zhang
+浄歌                                              TRUE
 The Voyager                                 Futurecop!
-恋するもののあはれ                            あたらよ
+SPARKLES                             STEREO DIVE FOUND
 癡情男子漢                         玖壹壹 & Under Love
+Never Enough (The Midni               Scavenger Hunt &
 ```
 
 <!-- spotify_track end -->
