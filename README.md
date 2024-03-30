@@ -51,13 +51,13 @@ JavaScript 0 secs         ██████████████████
 Los Angeles                               The Midnight
 新造的人                                    Enno Cheng
 嘻哈庄腳情 (Feat. LuLu)                  玖壹壹 & Lulu
+The Voyager                                 Futurecop!
 Sunset                                    The Midnight
 改變 (feat. 張震嶽)                  MC HotDog & Zhang
 浄歌                                              TRUE
-The Voyager                                 Futurecop!
 SPARKLES                             STEREO DIVE FOUND
-癡情男子漢                         玖壹壹 & Under Love
 Never Enough (The Midni               Scavenger Hunt &
+癡情男子漢                         玖壹壹 & Under Love
 ```
 
 <!-- spotify_track end -->
