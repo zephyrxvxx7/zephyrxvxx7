@@ -54,8 +54,8 @@ Los Angeles                               The Midnight
 Sunset                                    The Midnight
 The Voyager                                 Futurecop!
 改變 (feat. 張震嶽)                  MC HotDog & Zhang
-浄歌                                              TRUE
 SPARKLES                             STEREO DIVE FOUND
+浄歌                                              TRUE
 Never Enough (The Midni               Scavenger Hunt &
 癡情男子漢                         玖壹壹 & Under Love
 ```
