@@ -56,8 +56,8 @@ The Voyager                                 Futurecop!
 改變 (feat. 張震嶽)                  MC HotDog & Zhang
 SPARKLES                             STEREO DIVE FOUND
 浄歌                                              TRUE
-Never Enough (The Midni               Scavenger Hunt &
 癡情男子漢                         玖壹壹 & Under Love
+恋するもののあはれ                            あたらよ
 ```
 
 <!-- spotify_track end -->
