@@ -37,8 +37,8 @@ JavaScript 0 secs         ██████████████████
 <!-- steam_time start -->
 
 ```text
+🎮 乡村狂想曲                       🕘 2 hrs 17 mins
 🎮 Winter Memories                  🕘 2 hrs 13 mins
-🎮 乡村狂想曲                       🕘 0 hrs 4 mins
 ```
 
 <!-- steam_time end -->
@@ -51,13 +51,13 @@ JavaScript 0 secs         ██████████████████
 Los Angeles                               The Midnight
 新造的人                                    Enno Cheng
 嘻哈庄腳情 (Feat. LuLu)                  玖壹壹 & Lulu
-Sunset                                    The Midnight
-The Voyager                                 Futurecop!
 改變 (feat. 張震嶽)                  MC HotDog & Zhang
 SPARKLES                             STEREO DIVE FOUND
 浄歌                                              TRUE
 野獸                                            OBSESS
+The Voyager                                 Futurecop!
 癡情男子漢                         玖壹壹 & Under Love
+恋するもののあはれ                            あたらよ
 ```
 
 <!-- spotify_track end -->
