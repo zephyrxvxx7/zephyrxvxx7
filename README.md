@@ -38,7 +38,10 @@ JavaScript 0 secs         ██████████████████
 
 ```text
 🎮 乡村狂想曲                       🕘 2 hrs 17 mins
-🎮 Winter Memories                  🕘 2 hrs 13 mins
+🎮 Lovey-Dovey Lockdown             🕘 1 hrs 48 mins
+🎮 Peeping Dorm Manager             🕘 6 hrs 29 mins
+🎮 Danganronpa: Trigger Happy Havoc 🕘 3 hrs 17 mins
+🎮 Handyman Legend                  🕘 0 hrs 1 mins
 ```
 
 <!-- steam_time end -->
@@ -48,16 +51,16 @@ JavaScript 0 secs         ██████████████████
 <!-- spotify_track start -->
 
 ```text
-Los Angeles                               The Midnight
 新造的人                                    Enno Cheng
 嘻哈庄腳情 (Feat. LuLu)                  玖壹壹 & Lulu
+Los Angeles                               The Midnight
 改變 (feat. 張震嶽)                  MC HotDog & Zhang
 SPARKLES                             STEREO DIVE FOUND
 浄歌                                              TRUE
 野獸                                            OBSESS
-The Voyager                                 Futurecop!
 癡情男子漢                         玖壹壹 & Under Love
 恋するもののあはれ                            あたらよ
+你現在的生活（How's your                        OBSESS
 ```
 
 <!-- spotify_track end -->
