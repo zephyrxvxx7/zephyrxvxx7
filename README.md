@@ -53,7 +53,6 @@ JavaScript 0 secs         ██████████████████
 ```text
 新造的人                                    Enno Cheng
 嘻哈庄腳情 (Feat. LuLu)                  玖壹壹 & Lulu
-Los Angeles                               The Midnight
 改變 (feat. 張震嶽)                  MC HotDog & Zhang
 SPARKLES                             STEREO DIVE FOUND
 浄歌                                              TRUE
@@ -61,6 +60,7 @@ SPARKLES                             STEREO DIVE FOUND
 癡情男子漢                         玖壹壹 & Under Love
 恋するもののあはれ                            あたらよ
 你現在的生活（How's your                        OBSESS
+euphoric field - Japanese                        ELISA
 ```
 
 <!-- spotify_track end -->
