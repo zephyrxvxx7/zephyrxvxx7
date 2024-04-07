@@ -54,12 +54,12 @@ JavaScript 0 secs         ██████████████████
 新造的人                                    Enno Cheng
 嘻哈庄腳情 (Feat. LuLu)                  玖壹壹 & Lulu
 改變 (feat. 張震嶽)                  MC HotDog & Zhang
-SPARKLES                             STEREO DIVE FOUND
-浄歌                                              TRUE
 野獸                                            OBSESS
+浄歌                                              TRUE
 癡情男子漢                         玖壹壹 & Under Love
-恋するもののあはれ                            あたらよ
+SPARKLES                             STEREO DIVE FOUND
 你現在的生活（How's your                        OBSESS
+恋するもののあはれ                            あたらよ
 euphoric field - Japanese                        ELISA
 ```
 
