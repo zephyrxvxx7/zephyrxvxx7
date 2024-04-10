@@ -56,13 +56,13 @@ JavaScript 0 secs         ▎░░░░░░░░░░░░░░░░░
 新造的人                                    Enno Cheng
 嘻哈庄腳情 (Feat. LuLu)                  玖壹壹 & Lulu
 Lost Boy                                  The Midnight
+沒有你的地方                          眠氣 Hypersomnia
 改變 (feat. 張震嶽)                  MC HotDog & Zhang
 野獸                                            OBSESS
 浄歌                                              TRUE
 癡情男子漢                         玖壹壹 & Under Love
 SPARKLES                             STEREO DIVE FOUND
 你現在的生活（How's your                        OBSESS
-Los Angeles                               The Midnight
 ```
 
 <!-- spotify_track end -->
