@@ -57,12 +57,12 @@ JavaScript 0 secs         ▎░░░░░░░░░░░░░░░░░
 新造的人                                    Enno Cheng
 嘻哈庄腳情 (Feat. LuLu)                  玖壹壹 & Lulu
 Lost Boy                                  The Midnight
-改變 (feat. 張震嶽)                  MC HotDog & Zhang
-野獸                                            OBSESS
 SPARKLES                             STEREO DIVE FOUND
 浄歌                                              TRUE
-癡情男子漢                         玖壹壹 & Under Love
+改變 (feat. 張震嶽)                  MC HotDog & Zhang
+誰還記得我                               Traveller旅人
 菸癮 - Unplugged                      Who Cares 胡凱兒
+野獸                                            OBSESS
 ```
 
 <!-- spotify_track end -->
