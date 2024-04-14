@@ -43,7 +43,7 @@ JavaScript 0 secs         ▎░░░░░░░░░░░░░░░░░
 🎮 Lovey-Dovey Lockdown             🕘 1 hrs 48 mins
 🎮 Peeping Dorm Manager             🕘 6 hrs 29 mins
 🎮 Danganronpa: Trigger Happy Havoc 🕘 3 hrs 17 mins
-🎮 Handyman Legend                  🕘 0 hrs 1 mins
+🎮 Hollow Knight                    🕘 90 hrs 43 mins
 ```
 
 <!-- steam_time end -->
@@ -57,12 +57,12 @@ JavaScript 0 secs         ▎░░░░░░░░░░░░░░░░░
 新造的人                                    Enno Cheng
 嘻哈庄腳情 (Feat. LuLu)                  玖壹壹 & Lulu
 Lost Boy                                  The Midnight
+野獸                                            OBSESS
 SPARKLES                             STEREO DIVE FOUND
 浄歌                                              TRUE
 改變 (feat. 張震嶽)                  MC HotDog & Zhang
+后来的灯火(Full Band Vers           醒山AwakeMountains
 誰還記得我                               Traveller旅人
-菸癮 - Unplugged                      Who Cares 胡凱兒
-野獸                                            OBSESS
 ```
 
 <!-- spotify_track end -->
