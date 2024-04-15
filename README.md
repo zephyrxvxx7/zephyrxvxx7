@@ -40,10 +40,10 @@ JavaScript 0 secs         ▎░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 乡村狂想曲                       🕘 2 hrs 17 mins
+🎮 Wolf of Stock Street             🕘 2 hrs 9 mins
 🎮 Lovey-Dovey Lockdown             🕘 1 hrs 48 mins
 🎮 Peeping Dorm Manager             🕘 6 hrs 29 mins
 🎮 Danganronpa: Trigger Happy Havoc 🕘 3 hrs 17 mins
-🎮 Hollow Knight                    🕘 90 hrs 43 mins
 ```
 
 <!-- steam_time end -->
@@ -54,13 +54,13 @@ JavaScript 0 secs         ▎░░░░░░░░░░░░░░░░░
 
 ```text
 沒有你的地方                          眠氣 Hypersomnia
+年少的我們永遠輕狂                        Crispy脆樂團
 新造的人                                    Enno Cheng
 嘻哈庄腳情 (Feat. LuLu)                  玖壹壹 & Lulu
 Lost Boy                                  The Midnight
 野獸                                            OBSESS
-SPARKLES                             STEREO DIVE FOUND
-浄歌                                              TRUE
 改變 (feat. 張震嶽)                  MC HotDog & Zhang
+SPARKLES                             STEREO DIVE FOUND
 后来的灯火(Full Band Vers           醒山AwakeMountains
 誰還記得我                               Traveller旅人
 ```
