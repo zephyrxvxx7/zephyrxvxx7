@@ -57,12 +57,12 @@ JavaScript 0 secs         ▎░░░░░░░░░░░░░░░░░
 年少的我們永遠輕狂                        Crispy脆樂團
 新造的人                                    Enno Cheng
 嘻哈庄腳情 (Feat. LuLu)                  玖壹壹 & Lulu
+后来的灯火(Full Band Vers           醒山AwakeMountains
 Lost Boy                                  The Midnight
 野獸                                            OBSESS
 改變 (feat. 張震嶽)                  MC HotDog & Zhang
-SPARKLES                             STEREO DIVE FOUND
-后来的灯火(Full Band Vers           醒山AwakeMountains
 誰還記得我                               Traveller旅人
+飛蛾撲火                                 Way Of Puzzle
 ```
 
 <!-- spotify_track end -->
