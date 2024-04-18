@@ -37,11 +37,11 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 乡村狂想曲                       🕘 2 hrs 17 mins
 🎮 Wolf of Stock Street             🕘 2 hrs 9 mins
 🎮 Lovey-Dovey Lockdown             🕘 1 hrs 48 mins
 🎮 Peeping Dorm Manager             🕘 6 hrs 29 mins
 🎮 Danganronpa: Trigger Happy Havoc 🕘 3 hrs 17 mins
+🎮 Hollow Knight                    🕘 90 hrs 43 mins
 ```
 
 <!-- steam_time end -->
@@ -53,14 +53,14 @@ Other      13 mins        ██████████████████
 ```text
 沒有你的地方                          眠氣 Hypersomnia
 年少的我們永遠輕狂                        Crispy脆樂團
-嘻哈庄腳情 (Feat. LuLu)                  玖壹壹 & Lulu
 后来的灯火(Full Band Vers           醒山AwakeMountains
 Lost Boy                                  The Midnight
-野獸                                            OBSESS
 誰還記得我                               Traveller旅人
+野獸                                            OBSESS
 飛蛾撲火                                 Way Of Puzzle
 菸癮 - Unplugged                      Who Cares 胡凱兒
 Los Angeles                               The Midnight
+你現在的生活（How's your                        OBSESS
 ```
 
 <!-- spotify_track end -->
