@@ -38,6 +38,7 @@ Other      13 mins        ██████████████████
 
 ```text
 🎮 Wolf of Stock Street             🕘 2 hrs 9 mins
+🎮 Nobody Saves the World           🕘 24 hrs 51 mins
 🎮 Hollow Knight                    🕘 90 hrs 43 mins
 🎮 DAVE THE DIVER                   🕘 4 hrs 56 mins
 ```
@@ -54,8 +55,8 @@ Other      13 mins        ██████████████████
 后来的灯火(Full Band Vers           醒山AwakeMountains
 飛蛾撲火                                 Way Of Puzzle
 Lost Boy                                  The Midnight
-誰還記得我                               Traveller旅人
 感謝勞力                                  Flesh Juicer
+誰還記得我                               Traveller旅人
 菸癮 - Unplugged                      Who Cares 胡凱兒
 Los Angeles                               The Midnight
 野獸                                            OBSESS
