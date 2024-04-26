@@ -54,8 +54,8 @@ Other      13 mins        ██████████████████
 年少的我們永遠輕狂                        Crispy脆樂團
 后来的灯火(Full Band Vers           醒山AwakeMountains
 菸癮 - Unplugged                      Who Cares 胡凱兒
-飛蛾撲火                                 Way Of Puzzle
 誰還記得我                               Traveller旅人
+飛蛾撲火                                 Way Of Puzzle
 感謝勞力                                  Flesh Juicer
 Lost Boy                                  The Midnight
 夢中世界                                        Random
