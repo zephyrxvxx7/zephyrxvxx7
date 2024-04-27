@@ -55,11 +55,11 @@ Other      13 mins        ██████████████████
 后来的灯火(Full Band Vers           醒山AwakeMountains
 菸癮 - Unplugged                      Who Cares 胡凱兒
 誰還記得我                               Traveller旅人
-飛蛾撲火                                 Way Of Puzzle
 感謝勞力                                  Flesh Juicer
-Lost Boy                                  The Midnight
+飛蛾撲火                                 Way Of Puzzle
 夢中世界                                        Random
-野獸                                            OBSESS
+Lost Boy                                  The Midnight
+護國山 Pattonkan                              CHTHONIC
 ```
 
 <!-- spotify_track end -->
