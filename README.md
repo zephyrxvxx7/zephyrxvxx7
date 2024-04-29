@@ -37,7 +37,6 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Wolf of Stock Street             🕘 2 hrs 9 mins
 🎮 Nobody Saves the World           🕘 24 hrs 51 mins
 ```
 
@@ -54,10 +53,10 @@ Other      13 mins        ██████████████████
 后来的灯火(Full Band Vers           醒山AwakeMountains
 菸癮 - Unplugged                      Who Cares 胡凱兒
 感謝勞力                                  Flesh Juicer
-誰還記得我                               Traveller旅人
 飛蛾撲火                                 Way Of Puzzle
+誰還記得我                               Traveller旅人
 夢中世界                                        Random
-野獸                                            OBSESS
+Lost Boy                                  The Midnight
 ```
 
 <!-- spotify_track end -->
