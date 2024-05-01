@@ -37,6 +37,7 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
+🎮 Winter Memories                  🕘 6 hrs 7 mins
 🎮 Nobody Saves the World           🕘 24 hrs 51 mins
 ```
 
