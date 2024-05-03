@@ -57,7 +57,7 @@ Other      13 mins        ██████████████████
 誰還記得我                               Traveller旅人
 飛蛾撲火                                 Way Of Puzzle
 夢中世界                                        Random
-Lost Boy                                  The Midnight
+太子哥                                    Flesh Juicer
 ```
 
 <!-- spotify_track end -->
