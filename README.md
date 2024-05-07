@@ -53,10 +53,10 @@ Other      13 mins        ██████████████████
 オレンジ                                        SPYAIR
 后来的灯火(Full Band Vers           醒山AwakeMountains
 感謝勞力                                  Flesh Juicer
-誰還記得我                               Traveller旅人
 飛蛾撲火                                 Way Of Puzzle
 夢中世界                                        Random
-菸癮 - Unplugged                      Who Cares 胡凱兒
+太子哥                                    Flesh Juicer
+野獸                                            OBSESS
 ```
 
 <!-- spotify_track end -->
