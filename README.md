@@ -51,12 +51,12 @@ Other      13 mins        ██████████████████
 沒有你的地方                          眠氣 Hypersomnia
 オレンジ                                        SPYAIR
 護國山 Pattonkan                              CHTHONIC
-后来的灯火(Full Band Vers           醒山AwakeMountains
 感謝勞力                                  Flesh Juicer
 夢中世界                                        Random
-飛蛾撲火                                 Way Of Puzzle
 太子哥                                    Flesh Juicer
 野獸                                            OBSESS
+后来的灯火(Full Band Vers           醒山AwakeMountains
+煙花                                           NeciKen
 ```
 
 <!-- spotify_track end -->
