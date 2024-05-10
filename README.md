@@ -55,8 +55,8 @@ Other      13 mins        ██████████████████
 夢中世界                                        Random
 太子哥                                    Flesh Juicer
 野獸                                            OBSESS
-后来的灯火(Full Band Vers           醒山AwakeMountains
-煙花                                           NeciKen
+FREEDOM                              Takanori Nishikaw
+痛苦造就了我們                                  OBSESS
 ```
 
 <!-- spotify_track end -->
