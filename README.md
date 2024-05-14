@@ -47,8 +47,8 @@ Other      13 mins        ██████████████████
 <!-- spotify_track start -->
 
 ```text
-年少的我們永遠輕狂                        Crispy脆樂團
 オレンジ                                        SPYAIR
+年少的我們永遠輕狂                        Crispy脆樂團
 沒有你的地方                          眠氣 Hypersomnia
 護國山 Pattonkan                              CHTHONIC
 感謝勞力                                  Flesh Juicer
@@ -56,7 +56,7 @@ Other      13 mins        ██████████████████
 太子哥                                    Flesh Juicer
 野獸                                            OBSESS
 Drown with me                                    FUMON
-FREEDOM                              Takanori Nishikaw
+泥地 (Muddy)                          VH (Vast & Hazy)
 ```
 
 <!-- spotify_track end -->
