@@ -48,15 +48,15 @@ Other      13 mins        ██████████████████
 
 ```text
 オレンジ                                        SPYAIR
+護國山 Pattonkan                              CHTHONIC
 年少的我們永遠輕狂                        Crispy脆樂團
 沒有你的地方                          眠氣 Hypersomnia
-護國山 Pattonkan                              CHTHONIC
 夢中世界                                        Random
 太子哥                                    Flesh Juicer
 感謝勞力                                  Flesh Juicer
 Drown with me                                    FUMON
 泥地 (Muddy)                          VH (Vast & Hazy)
-野獸                                            OBSESS
+FREEDOM                              Takanori Nishikaw
 ```
 
 <!-- spotify_track end -->
