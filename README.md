@@ -47,6 +47,7 @@ Other      13 mins        ██████████████████
 <!-- spotify_track start -->
 
 ```text
+inside you                                       milet
 オレンジ                                        SPYAIR
 仍有心跳脈搏                        Maniac & Marf 邱彥
 護國山 Pattonkan                              CHTHONIC
@@ -56,7 +57,6 @@ Other      13 mins        ██████████████████
 感謝勞力                                  Flesh Juicer
 Drown with me                                    FUMON
 泥地 (Muddy)                          VH (Vast & Hazy)
-FREEDOM                              Takanori Nishikaw
 ```
 
 <!-- spotify_track end -->
