@@ -49,14 +49,14 @@ Other      13 mins        ██████████████████
 ```text
 inside you                                       milet
 オレンジ                                        SPYAIR
+痛苦造就了我們 - Acoustic                       OBSESS
 仍有心跳脈搏                        Maniac & Marf 邱彥
 護國山 Pattonkan                              CHTHONIC
-年少的我們永遠輕狂                        Crispy脆樂團
 沒有你的地方                          眠氣 Hypersomnia
 夢中世界                                        Random
-感謝勞力                                  Flesh Juicer
 Drown with me                                    FUMON
-泥地 (Muddy)                          VH (Vast & Hazy)
+年少的我們永遠輕狂                        Crispy脆樂團
+After Depressed                          Way Of Puzzle
 ```
 
 <!-- spotify_track end -->
