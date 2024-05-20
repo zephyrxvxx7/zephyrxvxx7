@@ -37,7 +37,7 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Winter Memories                  🕘 6 hrs 7 mins
+🎮 Wolf of Stock Street             🕘 3 hrs 22 mins
 ```
 
 <!-- steam_time end -->
@@ -47,16 +47,16 @@ Other      13 mins        ██████████████████
 <!-- spotify_track start -->
 
 ```text
+痛苦造就了我們 - Acoustic                       OBSESS
 inside you                                       milet
 オレンジ                                        SPYAIR
-痛苦造就了我們 - Acoustic                       OBSESS
 仍有心跳脈搏                        Maniac & Marf 邱彥
 護國山 Pattonkan                              CHTHONIC
-沒有你的地方                          眠氣 Hypersomnia
-夢中世界                                        Random
 Drown with me                                    FUMON
-年少的我們永遠輕狂                        Crispy脆樂團
 After Depressed                          Way Of Puzzle
+Cantabile                                  Novelbright
+春想                                             krage
+FREEDOM                              Takanori Nishikaw
 ```
 
 <!-- spotify_track end -->
