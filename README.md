@@ -53,10 +53,10 @@ inside you                                       milet
 仍有心跳脈搏                        Maniac & Marf 邱彥
 護國山 Pattonkan                              CHTHONIC
 Drown with me                                    FUMON
-After Depressed                          Way Of Puzzle
-Cantabile                                  Novelbright
 春想                                             krage
+Cantabile                                  Novelbright
 FREEDOM                              Takanori Nishikaw
+永不熄灭的火焰（《和平精            Hua Chen Yu & 和平
 ```
 
 <!-- spotify_track end -->
