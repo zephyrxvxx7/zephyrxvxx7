@@ -52,11 +52,11 @@ inside you                                       milet
 オレンジ                                        SPYAIR
 仍有心跳脈搏                        Maniac & Marf 邱彥
 護國山 Pattonkan                              CHTHONIC
-Drown with me                                    FUMON
+編み目                                             Aki
 春想                                             krage
+Drown with me                                    FUMON
 Cantabile                                  Novelbright
-FREEDOM                              Takanori Nishikaw
-永不熄灭的火焰（《和平精            Hua Chen Yu & 和平
+星めぐる詩                         suis from Yorushika
 ```
 
 <!-- spotify_track end -->
