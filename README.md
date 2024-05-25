@@ -47,16 +47,16 @@ Other      13 mins        ██████████████████
 <!-- spotify_track start -->
 
 ```text
+煙火裡的塵埃                               Hua Chen Yu
 痛苦造就了我們 - Acoustic                       OBSESS
 inside you                                       milet
-煙火裡的塵埃                               Hua Chen Yu
 オレンジ                                        SPYAIR
 仍有心跳脈搏                        Maniac & Marf 邱彥
 編み目                                             Aki
 春想                                             krage
 レンズ                                     Lilas Ikuta
+1999年、夏、沖縄                           Mr.Children
 Drown with me                                    FUMON
-Cantabile                                  Novelbright
 ```
 
 <!-- spotify_track end -->
