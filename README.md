@@ -53,10 +53,10 @@ inside you                                       milet
 オレンジ                                        SPYAIR
 仍有心跳脈搏                        Maniac & Marf 邱彥
 編み目                                             Aki
-春想                                             krage
 レンズ                                     Lilas Ikuta
+春想                                             krage
+你現在的生活（How's your                        OBSESS
 1999年、夏、沖縄                           Mr.Children
-Drown with me                                    FUMON
 ```
 
 <!-- spotify_track end -->
