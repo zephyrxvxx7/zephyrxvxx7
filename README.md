@@ -51,12 +51,12 @@ Other      13 mins        ██████████████████
 痛苦造就了我們 - Acoustic                       OBSESS
 inside you                                       milet
 仍有心跳脈搏                        Maniac & Marf 邱彥
-オレンジ                                        SPYAIR
 編み目                                             Aki
 レンズ                                     Lilas Ikuta
 你現在的生活（How's your                        OBSESS
 春想                                             krage
 1999年、夏、沖縄                           Mr.Children
+オレンジ                                        SPYAIR
 ```
 
 <!-- spotify_track end -->
