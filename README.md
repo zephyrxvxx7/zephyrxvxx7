@@ -56,7 +56,7 @@ inside you                                       milet
 你現在的生活（How's your                        OBSESS
 春想                                             krage
 1999年、夏、沖縄                           Mr.Children
-オレンジ                                        SPYAIR
+你不必那麼堅強                       貝克小姐Miss Bac.
 ```
 
 <!-- spotify_track end -->
