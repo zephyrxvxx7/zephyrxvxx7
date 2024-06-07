@@ -49,8 +49,8 @@ Other      13 mins        ██████████████████
 ```text
 煙火裡的塵埃                               Hua Chen Yu
 痛苦造就了我們 - Acoustic                       OBSESS
-inside you                                       milet
 淹沒我                                       Good Band
+inside you                                       milet
 仍有心跳脈搏                        Maniac & Marf 邱彥
 編み目                                             Aki
 レンズ                                     Lilas Ikuta
