@@ -49,14 +49,14 @@ Other      13 mins        ██████████████████
 ```text
 煙火裡的塵埃                               Hua Chen Yu
 淹沒我                                       Good Band
-痛苦造就了我們 - Acoustic                       OBSESS
-編み目                                             Aki
 レンズ                                     Lilas Ikuta
+編み目                                             Aki
+痛苦造就了我們 - Acoustic                       OBSESS
 你現在的生活（How's your                        OBSESS
 1999年、夏、沖縄                           Mr.Children
 inside you                                       milet
 春想                                             krage
-仍有心跳脈搏                        Maniac & Marf 邱彥
+瞳をとじて                                   Ken Hirai
 ```
 
 <!-- spotify_track end -->
