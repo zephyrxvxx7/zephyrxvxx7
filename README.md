@@ -50,9 +50,9 @@ Other      13 mins        ██████████████████
 煙火裡的塵埃                               Hua Chen Yu
 淹沒我                                       Good Band
 レンズ                                     Lilas Ikuta
-編み目                                             Aki
-痛苦造就了我們 - Acoustic                       OBSESS
 你現在的生活（How's your                        OBSESS
+痛苦造就了我們 - Acoustic                       OBSESS
+編み目                                             Aki
 1999年、夏、沖縄                           Mr.Children
 inside you                                       milet
 春想                                             krage
