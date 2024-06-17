@@ -54,9 +54,9 @@ Other      13 mins        ██████████████████
 痛苦造就了我們 - Acoustic                       OBSESS
 編み目                                             Aki
 1999年、夏、沖縄                           Mr.Children
-inside you                                       milet
-春想                                             krage
 瞳をとじて                                   Ken Hirai
+Sky                                 Seasons for Change
+Runa                                              waka
 ```
 
 <!-- spotify_track end -->
