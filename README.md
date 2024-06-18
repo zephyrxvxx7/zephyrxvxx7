@@ -49,12 +49,12 @@ Other      13 mins        ██████████████████
 ```text
 煙火裡的塵埃                               Hua Chen Yu
 淹沒我                                       Good Band
-レンズ                                     Lilas Ikuta
 你現在的生活（How's your                        OBSESS
 痛苦造就了我們 - Acoustic                       OBSESS
-編み目                                             Aki
-1999年、夏、沖縄                           Mr.Children
+レンズ                                     Lilas Ikuta
 瞳をとじて                                   Ken Hirai
+1999年、夏、沖縄                           Mr.Children
+編み目                                             Aki
 Sky                                 Seasons for Change
 Runa                                              waka
 ```
