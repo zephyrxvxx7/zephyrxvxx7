@@ -47,16 +47,16 @@ Other      13 mins        ██████████████████
 <!-- spotify_track start -->
 
 ```text
-煙火裡的塵埃                               Hua Chen Yu
 淹沒我                                       Good Band
-你現在的生活（How's your                        OBSESS
+煙火裡的塵埃                               Hua Chen Yu
 痛苦造就了我們 - Acoustic                       OBSESS
+你現在的生活（How's your                        OBSESS
 レンズ                                     Lilas Ikuta
 瞳をとじて                                   Ken Hirai
-1999年、夏、沖縄                           Mr.Children
 編み目                                             Aki
 Sky                                 Seasons for Change
 Runa                                              waka
+護國山 Pattonkan                              CHTHONIC
 ```
 
 <!-- spotify_track end -->
