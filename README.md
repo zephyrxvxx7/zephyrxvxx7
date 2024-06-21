@@ -53,10 +53,10 @@ Other      13 mins        ██████████████████
 你現在的生活（How's your                        OBSESS
 レンズ                                     Lilas Ikuta
 瞳をとじて                                   Ken Hirai
-編み目                                             Aki
 Sky                                 Seasons for Change
 Runa                                              waka
-護國山 Pattonkan                              CHTHONIC
+編み目                                             Aki
+オムライス                                       ReoNa
 ```
 
 <!-- spotify_track end -->
