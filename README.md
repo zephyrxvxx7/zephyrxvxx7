@@ -49,14 +49,14 @@ Other      13 mins        ██████████████████
 ```text
 淹沒我                                       Good Band
 煙火裡的塵埃                               Hua Chen Yu
-痛苦造就了我們 - Acoustic                       OBSESS
-你現在的生活（How's your                        OBSESS
-レンズ                                     Lilas Ikuta
 瞳をとじて                                   Ken Hirai
-Sky                                 Seasons for Change
+痛苦造就了我們 - Acoustic                       OBSESS
 Runa                                              waka
-編み目                                             Aki
+你現在的生活（How's your                        OBSESS
+Sky                                 Seasons for Change
+レンズ                                     Lilas Ikuta
 オムライス                                       ReoNa
+Anata ga inakutemo                             Matsuri
 ```
 
 <!-- spotify_track end -->
