@@ -53,10 +53,10 @@ Other      13 mins        ██████████████████
 Runa                                              waka
 你現在的生活（How's your                        OBSESS
 Sky                                 Seasons for Change
+Wherever you are                           ONE OK ROCK
 オムライス                                       ReoNa
 護國山 Pattonkan                              CHTHONIC
 Anata ga inakutemo                             Matsuri
-痛苦造就了我們 - Acoustic                       OBSESS
 ```
 
 <!-- spotify_track end -->
