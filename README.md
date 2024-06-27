@@ -52,10 +52,10 @@ Other      13 mins        ██████████████████
 瞳をとじて                                   Ken Hirai
 Runa                                              waka
 你現在的生活（How's your                        OBSESS
-Sky                                 Seasons for Change
-Wherever you are                           ONE OK ROCK
 オムライス                                       ReoNa
-護國山 Pattonkan                              CHTHONIC
+Sky                                 Seasons for Change
+WILL (album version)                    Mika Nakashima
+Wherever you are                           ONE OK ROCK
 Anata ga inakutemo                             Matsuri
 ```
 
