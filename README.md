@@ -54,9 +54,9 @@ Runa                                              waka
 你現在的生活（How's your                        OBSESS
 オムライス                                       ReoNa
 Sky                                 Seasons for Change
-WILL (album version)                    Mika Nakashima
+護國山 Pattonkan                              CHTHONIC
 Wherever you are                           ONE OK ROCK
-Anata ga inakutemo                             Matsuri
+WILL (album version)                    Mika Nakashima
 ```
 
 <!-- spotify_track end -->
