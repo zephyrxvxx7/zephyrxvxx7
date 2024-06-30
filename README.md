@@ -37,7 +37,7 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Wolf of Stock Street             🕘 3 hrs 22 mins
+🎮 Hollow Knight                    🕘 92 hrs 0 mins
 ```
 
 <!-- steam_time end -->
