@@ -48,15 +48,15 @@ Other      13 mins        ██████████████████
 
 ```text
 淹沒我                                       Good Band
-煙火裡的塵埃                               Hua Chen Yu
 Runa                                              waka
-瞳をとじて                                   Ken Hirai
 オムライス                                       ReoNa
 WILL (album version)                    Mika Nakashima
-你現在的生活（How's your                        OBSESS
+煙火裡的塵埃                               Hua Chen Yu
 Wherever you are                           ONE OK ROCK
-Sky                                 Seasons for Change
 護國山 Pattonkan                              CHTHONIC
+你現在的生活（How's your                        OBSESS
+Anata ga inakutemo                             Matsuri
+KISS OF DEATH（Produced                 Mika Nakashima
 ```
 
 <!-- spotify_track end -->
