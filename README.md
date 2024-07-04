@@ -47,15 +47,15 @@ Other      13 mins        ██████████████████
 <!-- spotify_track start -->
 
 ```text
-護國山 Pattonkan                              CHTHONIC
-Runa                                              waka
-オムライス                                       ReoNa
 WILL (album version)                    Mika Nakashima
+Runa                                              waka
+護國山 Pattonkan                              CHTHONIC
+オムライス                                       ReoNa
+伊的身邊已經有別人2023             許富凱 & Flesh Juic
 Wherever you are                           ONE OK ROCK
-淹沒我                                       Good Band
 煙火裡的塵埃                               Hua Chen Yu
 Los Angeles                               The Midnight
-你現在的生活（How's your                        OBSESS
+淹沒我                                       Good Band
 Anata ga inakutemo                             Matsuri
 ```
 
