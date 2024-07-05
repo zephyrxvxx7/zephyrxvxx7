@@ -51,10 +51,10 @@ WILL (album version)                    Mika Nakashima
 Runa                                              waka
 護國山 Pattonkan                              CHTHONIC
 オムライス                                       ReoNa
-伊的身邊已經有別人2023             許富凱 & Flesh Juic
 Wherever you are                           ONE OK ROCK
 煙火裡的塵埃                               Hua Chen Yu
 Los Angeles                               The Midnight
+伊的身邊已經有別人2023             許富凱 & Flesh Juic
 淹沒我                                       Good Band
 Anata ga inakutemo                             Matsuri
 ```
