@@ -48,15 +48,15 @@ Other      13 mins        ██████████████████
 
 ```text
 WILL (album version)                    Mika Nakashima
-Runa                                              waka
 護國山 Pattonkan                              CHTHONIC
+Runa                                              waka
 オムライス                                       ReoNa
-Wherever you are                           ONE OK ROCK
 煙火裡的塵埃                               Hua Chen Yu
+Wherever you are                           ONE OK ROCK
+Anata ga inakutemo                             Matsuri
+淹沒我                                       Good Band
 Los Angeles                               The Midnight
 伊的身邊已經有別人2023             許富凱 & Flesh Juic
-淹沒我                                       Good Band
-Anata ga inakutemo                             Matsuri
 ```
 
 <!-- spotify_track end -->
