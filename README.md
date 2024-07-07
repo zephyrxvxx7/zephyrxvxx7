@@ -48,15 +48,15 @@ Other      13 mins        ██████████████████
 
 ```text
 WILL (album version)                    Mika Nakashima
-護國山 Pattonkan                              CHTHONIC
-Runa                                              waka
 オムライス                                       ReoNa
+護國山 Pattonkan                              CHTHONIC
+一輪花                                           tuki.
+Runa                                              waka
+曾依賴過的痛 (Live Sessio             眠氣 Hypersomnia
 煙火裡的塵埃                               Hua Chen Yu
 Wherever you are                           ONE OK ROCK
 Anata ga inakutemo                             Matsuri
 淹沒我                                       Good Band
-Los Angeles                               The Midnight
-伊的身邊已經有別人2023             許富凱 & Flesh Juic
 ```
 
 <!-- spotify_track end -->
