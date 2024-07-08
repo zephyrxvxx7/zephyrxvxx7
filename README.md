@@ -38,6 +38,7 @@ Other      13 mins        ██████████████████
 
 ```text
 🎮 Hollow Knight                    🕘 92 hrs 0 mins
+🎮 The Secret Atelier               🕘 0 hrs 8 mins
 ```
 
 <!-- steam_time end -->
@@ -47,16 +48,16 @@ Other      13 mins        ██████████████████
 <!-- spotify_track start -->
 
 ```text
+曾依賴過的痛 (Live Sessio             眠氣 Hypersomnia
 WILL (album version)                    Mika Nakashima
+一輪花                                           tuki.
 オムライス                                       ReoNa
 護國山 Pattonkan                              CHTHONIC
-一輪花                                           tuki.
 Runa                                              waka
-曾依賴過的痛 (Live Sessio             眠氣 Hypersomnia
+サークルゲーム                         Galileo Galilei
 煙火裡的塵埃                               Hua Chen Yu
 Wherever you are                           ONE OK ROCK
 Anata ga inakutemo                             Matsuri
-淹沒我                                       Good Band
 ```
 
 <!-- spotify_track end -->
