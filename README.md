@@ -50,9 +50,9 @@ Other      13 mins        ██████████████████
 ```text
 曾依賴過的痛 (Live Sessio             眠氣 Hypersomnia
 WILL (album version)                    Mika Nakashima
-オムライス                                       ReoNa
-一輪花                                           tuki.
 護國山 Pattonkan                              CHTHONIC
+一輪花                                           tuki.
+オムライス                                       ReoNa
 Los Angeles                               The Midnight
 KISS OF DEATH（Produced                 Mika Nakashima
 サークルゲーム                         Galileo Galilei
