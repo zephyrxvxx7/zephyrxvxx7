@@ -49,15 +49,15 @@ Other      13 mins        ██████████████████
 
 ```text
 曾依賴過的痛 (Live Sessio             眠氣 Hypersomnia
+一輪花                                           tuki.
 WILL (album version)                    Mika Nakashima
 護國山 Pattonkan                              CHTHONIC
-一輪花                                           tuki.
 オムライス                                       ReoNa
+オシマイ                                      wagamama
+星街の駅で                                       tuki.
 Los Angeles                               The Midnight
 KISS OF DEATH（Produced                 Mika Nakashima
 サークルゲーム                         Galileo Galilei
-Wherever you are                           ONE OK ROCK
-オシマイ                                      wagamama
 ```
 
 <!-- spotify_track end -->
