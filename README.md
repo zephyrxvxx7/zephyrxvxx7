@@ -51,11 +51,11 @@ Other      13 mins        ██████████████████
 曾依賴過的痛 (Live Sessio             眠氣 Hypersomnia
 一輪花                                           tuki.
 WILL (album version)                    Mika Nakashima
-護國山 Pattonkan                              CHTHONIC
 オムライス                                       ReoNa
 オシマイ                                      wagamama
 星街の駅で                                       tuki.
 Los Angeles                               The Midnight
+護國山 Pattonkan                              CHTHONIC
 KISS OF DEATH（Produced                 Mika Nakashima
 サークルゲーム                         Galileo Galilei
 ```
