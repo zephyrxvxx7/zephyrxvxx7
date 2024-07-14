@@ -37,8 +37,8 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Hollow Knight                    🕘 92 hrs 0 mins
-🎮 The Secret Atelier               🕘 0 hrs 8 mins
+🎮 Single By Choice                 🕘 2 hrs 13 mins
+🎮 The Secret Atelier               🕘 0 hrs 16 mins
 ```
 
 <!-- steam_time end -->
@@ -51,8 +51,8 @@ Other      13 mins        ██████████████████
 曾依賴過的痛 (Live Sessio             眠氣 Hypersomnia
 一輪花                                           tuki.
 WILL (album version)                    Mika Nakashima
-星街の駅で                                       tuki.
 Los Angeles                               The Midnight
+星街の駅で                                       tuki.
 オムライス                                       ReoNa
 オシマイ                                      wagamama
 護國山 Pattonkan                              CHTHONIC
