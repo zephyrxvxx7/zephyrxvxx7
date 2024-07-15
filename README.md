@@ -55,9 +55,9 @@ Los Angeles                               The Midnight
 星街の駅で                                       tuki.
 オムライス                                       ReoNa
 オシマイ                                      wagamama
-護國山 Pattonkan                              CHTHONIC
 KISS OF DEATH（Produced                 Mika Nakashima
 サークルゲーム                         Galileo Galilei
+護國山 Pattonkan                              CHTHONIC
 ```
 
 <!-- spotify_track end -->
