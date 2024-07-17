@@ -50,14 +50,14 @@ Other      13 mins        ██████████████████
 ```text
 曾依賴過的痛 (Live Sessio             眠氣 Hypersomnia
 一輪花                                           tuki.
+星街の駅で                                       tuki.
 WILL (album version)                    Mika Nakashima
 Los Angeles                               The Midnight
-星街の駅で                                       tuki.
 オシマイ                                      wagamama
+サークルゲーム                         Galileo Galilei
 護國山 Pattonkan                              CHTHONIC
 KISS OF DEATH（Produced                 Mika Nakashima
-サークルゲーム                         Galileo Galilei
-The Voyager                                 Futurecop!
+你就不要想起我                               Hebe Tien
 ```
 
 <!-- spotify_track end -->
