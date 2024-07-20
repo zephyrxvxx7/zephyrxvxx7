@@ -37,6 +37,7 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
+🎮 Summer Clover                    🕘 2 hrs 30 mins
 🎮 Single By Choice                 🕘 2 hrs 13 mins
 🎮 The Secret Atelier               🕘 0 hrs 16 mins
 ```
@@ -51,13 +52,13 @@ Other      13 mins        ██████████████████
 曾依賴過的痛 (Live Sessio             眠氣 Hypersomnia
 一輪花                                           tuki.
 星街の駅で                                       tuki.
+你就不要想起我                               Hebe Tien
 Los Angeles                               The Midnight
 WILL (album version)                    Mika Nakashima
 オシマイ                                      wagamama
 サークルゲーム                         Galileo Galilei
-你就不要想起我                               Hebe Tien
-護國山 Pattonkan                              CHTHONIC
-The Voyager                                 Futurecop!
+01                                           QUEEN BEE
+Tokyo                                Timecop1983 & Kin
 ```
 
 <!-- spotify_track end -->
