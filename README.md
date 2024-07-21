@@ -53,11 +53,11 @@ Other      13 mins        ██████████████████
 一輪花                                           tuki.
 星街の駅で                                       tuki.
 你就不要想起我                               Hebe Tien
-Los Angeles                               The Midnight
-WILL (album version)                    Mika Nakashima
-オシマイ                                      wagamama
-サークルゲーム                         Galileo Galilei
 01                                           QUEEN BEE
+Los Angeles                               The Midnight
+オシマイ                                      wagamama
+WILL (album version)                    Mika Nakashima
+サークルゲーム                         Galileo Galilei
 Tokyo                                Timecop1983 & Kin
 ```
 
