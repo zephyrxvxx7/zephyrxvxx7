@@ -56,8 +56,8 @@ Other      13 mins        ██████████████████
 01                                           QUEEN BEE
 Los Angeles                               The Midnight
 オシマイ                                      wagamama
-WILL (album version)                    Mika Nakashima
 サークルゲーム                         Galileo Galilei
+WILL (album version)                    Mika Nakashima
 Tokyo                                Timecop1983 & Kin
 ```
 
