@@ -37,9 +37,11 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Summer Clover                    🕘 2 hrs 30 mins
+🎮 Street Fighter™ 6                🕘 8 hrs 14 mins
+🎮 Summer Clover                    🕘 3 hrs 20 mins
 🎮 Single By Choice                 🕘 2 hrs 13 mins
-🎮 The Secret Atelier               🕘 0 hrs 16 mins
+🎮 The Secret Atelier               🕘 0 hrs 27 mins
+🎮 女拳主義F-ist                    🕘 0 hrs 16 mins
 ```
 
 <!-- steam_time end -->
@@ -56,9 +58,9 @@ Other      13 mins        ██████████████████
 01                                           QUEEN BEE
 Los Angeles                               The Midnight
 オシマイ                                      wagamama
+Renegades                                  ONE OK ROCK
 サークルゲーム                         Galileo Galilei
 Tokyo                                Timecop1983 & Kin
-Renegades                                  ONE OK ROCK
 ```
 
 <!-- spotify_track end -->
