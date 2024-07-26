@@ -37,7 +37,7 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 8 hrs 14 mins
+🎮 Street Fighter™ 6                🕘 11 hrs 41 mins
 🎮 Summer Clover                    🕘 3 hrs 20 mins
 🎮 Single By Choice                 🕘 2 hrs 13 mins
 🎮 The Secret Atelier               🕘 0 hrs 27 mins
@@ -56,10 +56,10 @@ Other      13 mins        ██████████████████
 星街の駅で                                       tuki.
 你就不要想起我                               Hebe Tien
 01                                           QUEEN BEE
-Los Angeles                               The Midnight
 オシマイ                                      wagamama
 Renegades                                  ONE OK ROCK
 サークルゲーム                         Galileo Galilei
+Los Angeles                               The Midnight
 Tokyo                                Timecop1983 & Kin
 ```
 
