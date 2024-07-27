@@ -56,11 +56,11 @@ Other      13 mins        ██████████████████
 星街の駅で                                       tuki.
 你就不要想起我                               Hebe Tien
 01                                           QUEEN BEE
-オシマイ                                      wagamama
 Renegades                                  ONE OK ROCK
 サークルゲーム                         Galileo Galilei
 Los Angeles                               The Midnight
 Tokyo                                Timecop1983 & Kin
+オシマイ                                      wagamama
 ```
 
 <!-- spotify_track end -->
