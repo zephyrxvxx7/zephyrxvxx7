@@ -39,9 +39,8 @@ Other      13 mins        ██████████████████
 ```text
 🎮 Street Fighter™ 6                🕘 11 hrs 41 mins
 🎮 Summer Clover                    🕘 3 hrs 20 mins
-🎮 Single By Choice                 🕘 2 hrs 13 mins
-🎮 The Secret Atelier               🕘 0 hrs 27 mins
 🎮 女拳主義F-ist                    🕘 0 hrs 16 mins
+🎮 The Secret Atelier               🕘 0 hrs 27 mins
 ```
 
 <!-- steam_time end -->
@@ -57,10 +56,10 @@ Other      13 mins        ██████████████████
 你就不要想起我                               Hebe Tien
 01                                           QUEEN BEE
 Renegades                                  ONE OK ROCK
-サークルゲーム                         Galileo Galilei
 Los Angeles                               The Midnight
 Tokyo                                Timecop1983 & Kin
 オシマイ                                      wagamama
+サークルゲーム                         Galileo Galilei
 ```
 
 <!-- spotify_track end -->
