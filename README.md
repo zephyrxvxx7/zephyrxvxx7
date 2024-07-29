@@ -56,10 +56,10 @@ Other      13 mins        ██████████████████
 你就不要想起我                               Hebe Tien
 01                                           QUEEN BEE
 Renegades                                  ONE OK ROCK
-Los Angeles                               The Midnight
 Tokyo                                Timecop1983 & Kin
 オシマイ                                      wagamama
 サークルゲーム                         Galileo Galilei
+WILL (album version)                    Mika Nakashima
 ```
 
 <!-- spotify_track end -->
