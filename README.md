@@ -58,8 +58,8 @@ Other      13 mins        ██████████████████
 Renegades                                  ONE OK ROCK
 Tokyo                                Timecop1983 & Kin
 オシマイ                                      wagamama
+Los Angeles                               The Midnight
 サークルゲーム                         Galileo Galilei
-WILL (album version)                    Mika Nakashima
 ```
 
 <!-- spotify_track end -->
