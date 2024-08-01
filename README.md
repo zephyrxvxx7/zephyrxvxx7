@@ -37,7 +37,7 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 11 hrs 41 mins
+🎮 Street Fighter™ 6                🕘 11 hrs 43 mins
 🎮 Summer Clover                    🕘 3 hrs 20 mins
 🎮 女拳主義F-ist                    🕘 0 hrs 16 mins
 🎮 The Secret Atelier               🕘 0 hrs 27 mins
@@ -51,15 +51,15 @@ Other      13 mins        ██████████████████
 
 ```text
 曾依賴過的痛 (Live Sessio             眠氣 Hypersomnia
-一輪花                                           tuki.
 星街の駅で                                       tuki.
 你就不要想起我                               Hebe Tien
+一輪花                                           tuki.
 01                                           QUEEN BEE
 Renegades                                  ONE OK ROCK
 Tokyo                                Timecop1983 & Kin
-オシマイ                                      wagamama
 Los Angeles                               The Midnight
-サークルゲーム                         Galileo Galilei
+オシマイ                                      wagamama
+殘破的人生                               Traveller旅人
 ```
 
 <!-- spotify_track end -->
