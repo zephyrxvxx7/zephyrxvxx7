@@ -50,13 +50,13 @@ Other      13 mins        ██████████████████
 <!-- spotify_track start -->
 
 ```text
+你就不要想起我                               Hebe Tien
 曾依賴過的痛 (Live Sessio             眠氣 Hypersomnia
 星街の駅で                                       tuki.
-你就不要想起我                               Hebe Tien
-一輪花                                           tuki.
 01                                           QUEEN BEE
-Renegades                                  ONE OK ROCK
+一輪花                                           tuki.
 Tokyo                                Timecop1983 & Kin
+Renegades                                  ONE OK ROCK
 Los Angeles                               The Midnight
 オシマイ                                      wagamama
 殘破的人生                               Traveller旅人
