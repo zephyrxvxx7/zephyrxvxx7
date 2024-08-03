@@ -51,14 +51,14 @@ Other      13 mins        ██████████████████
 
 ```text
 你就不要想起我                               Hebe Tien
-曾依賴過的痛 (Live Sessio             眠氣 Hypersomnia
 星街の駅で                                       tuki.
 01                                           QUEEN BEE
-一輪花                                           tuki.
+曾依賴過的痛 (Live Sessio             眠氣 Hypersomnia
 Tokyo                                Timecop1983 & Kin
 Renegades                                  ONE OK ROCK
+一輪花                                           tuki.
 Los Angeles                               The Midnight
-オシマイ                                      wagamama
+煙火裡的塵埃                               Hua Chen Yu
 殘破的人生                               Traveller旅人
 ```
 
