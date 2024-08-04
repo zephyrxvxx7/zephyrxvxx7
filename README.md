@@ -57,8 +57,8 @@ Other      13 mins        ██████████████████
 Tokyo                                Timecop1983 & Kin
 Renegades                                  ONE OK ROCK
 一輪花                                           tuki.
-Los Angeles                               The Midnight
 煙火裡的塵埃                               Hua Chen Yu
+Los Angeles                               The Midnight
 殘破的人生                               Traveller旅人
 ```
 
