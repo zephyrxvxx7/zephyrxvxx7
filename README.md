@@ -58,8 +58,8 @@ Renegades                                  ONE OK ROCK
 曾依賴過的痛 (Live Sessio             眠氣 Hypersomnia
 煙火裡的塵埃                               Hua Chen Yu
 一輪花                                           tuki.
+年少的我們永遠輕狂                        Crispy脆樂團
 Los Angeles                               The Midnight
-Kanzen kankaku Dreamer                     ONE OK ROCK
 ```
 
 <!-- spotify_track end -->
