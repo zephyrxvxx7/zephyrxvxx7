@@ -38,9 +38,6 @@ Other      13 mins        ██████████████████
 
 ```text
 🎮 Street Fighter™ 6                🕘 11 hrs 43 mins
-🎮 Summer Clover                    🕘 3 hrs 20 mins
-🎮 女拳主義F-ist                    🕘 0 hrs 16 mins
-🎮 The Secret Atelier               🕘 0 hrs 27 mins
 ```
 
 <!-- steam_time end -->
@@ -55,11 +52,11 @@ Other      13 mins        ██████████████████
 Tokyo                                Timecop1983 & Kin
 Renegades                                  ONE OK ROCK
 星街の駅で                                       tuki.
-曾依賴過的痛 (Live Sessio             眠氣 Hypersomnia
 煙火裡的塵埃                               Hua Chen Yu
-一輪花                                           tuki.
 年少的我們永遠輕狂                        Crispy脆樂團
-Los Angeles                               The Midnight
+一輪花                                           tuki.
+曾依賴過的痛 (Live Sessio             眠氣 Hypersomnia
+Kanzen kankaku Dreamer                     ONE OK ROCK
 ```
 
 <!-- spotify_track end -->
