@@ -49,8 +49,8 @@ Other      13 mins        ██████████████████
 ```text
 你就不要想起我                               Hebe Tien
 01                                           QUEEN BEE
-Tokyo                                Timecop1983 & Kin
 Renegades                                  ONE OK ROCK
+Tokyo                                Timecop1983 & Kin
 星街の駅で                                       tuki.
 煙火裡的塵埃                               Hua Chen Yu
 年少的我們永遠輕狂                        Crispy脆樂團
