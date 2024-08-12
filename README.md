@@ -48,15 +48,15 @@ Other      13 mins        ██████████████████
 
 ```text
 Not Alone                           Kalax & Player One
-你就不要想起我                               Hebe Tien
 01                                           QUEEN BEE
-Tokyo                                Timecop1983 & Kin
+你就不要想起我                               Hebe Tien
 Renegades                                  ONE OK ROCK
 煙火裡的塵埃                               Hua Chen Yu
-星街の駅で                                       tuki.
 年少的我們永遠輕狂                        Crispy脆樂團
-曾依賴過的痛 (Live Sessio             眠氣 Hypersomnia
-一輪花                                           tuki.
+Tokyo                                Timecop1983 & Kin
+Alive (Lost Now Found)                           Kalax
+Back to Life                               Ollie Wride
+星街の駅で                                       tuki.
 ```
 
 <!-- spotify_track end -->
