@@ -56,7 +56,7 @@ Renegades                                  ONE OK ROCK
 Tokyo                                Timecop1983 & Kin
 Alive (Lost Now Found)                           Kalax
 Back to Life                               Ollie Wride
-星街の駅で                                       tuki.
+Kanzen kankaku Dreamer                     ONE OK ROCK
 ```
 
 <!-- spotify_track end -->
