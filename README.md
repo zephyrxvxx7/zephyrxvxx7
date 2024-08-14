@@ -53,10 +53,10 @@ Not Alone                           Kalax & Player One
 Renegades                                  ONE OK ROCK
 煙火裡的塵埃                               Hua Chen Yu
 年少的我們永遠輕狂                        Crispy脆樂團
-Tokyo                                Timecop1983 & Kin
+Los Angeles                               The Midnight
 Alive (Lost Now Found)                           Kalax
 Back to Life                               Ollie Wride
-Kanzen kankaku Dreamer                     ONE OK ROCK
+Tokyo                                Timecop1983 & Kin
 ```
 
 <!-- spotify_track end -->
