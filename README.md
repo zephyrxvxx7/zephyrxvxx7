@@ -48,15 +48,15 @@ Other      13 mins        ██████████████████
 
 ```text
 Not Alone                           Kalax & Player One
-01                                           QUEEN BEE
-你就不要想起我                               Hebe Tien
-Renegades                                  ONE OK ROCK
-煙火裡的塵埃                               Hua Chen Yu
-年少的我們永遠輕狂                        Crispy脆樂團
 Los Angeles                               The Midnight
+煙火裡的塵埃                               Hua Chen Yu
 Alive (Lost Now Found)                           Kalax
+你就不要想起我                               Hebe Tien
+年少的我們永遠輕狂                        Crispy脆樂團
 Back to Life                               Ollie Wride
-Tokyo                                Timecop1983 & Kin
+01                                           QUEEN BEE
+Renegades                                  ONE OK ROCK
+Come Alive                           Ace Buchannon & A
 ```
 
 <!-- spotify_track end -->
