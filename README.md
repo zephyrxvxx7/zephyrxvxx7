@@ -48,14 +48,14 @@ Other      13 mins        ██████████████████
 
 ```text
 Not Alone                           Kalax & Player One
+Lovers (feat. Seawaves)              Timecop1983 & SEA
 Los Angeles                               The Midnight
+Back to Life                               Ollie Wride
 煙火裡的塵埃                               Hua Chen Yu
 Alive (Lost Now Found)                           Kalax
 你就不要想起我                               Hebe Tien
-年少的我們永遠輕狂                        Crispy脆樂團
-Back to Life                               Ollie Wride
-01                                           QUEEN BEE
-Renegades                                  ONE OK ROCK
+Out of Control                         Kalax & Kidburn
+Crystal Waves (From "Wa                          Kalax
 Come Alive                           Ace Buchannon & A
 ```
 
