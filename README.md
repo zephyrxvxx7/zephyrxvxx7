@@ -51,12 +51,12 @@ Not Alone                           Kalax & Player One
 Lovers (feat. Seawaves)              Timecop1983 & SEA
 Los Angeles                               The Midnight
 Back to Life                               Ollie Wride
-煙火裡的塵埃                               Hua Chen Yu
 Alive (Lost Now Found)                           Kalax
+煙火裡的塵埃                               Hua Chen Yu
 你就不要想起我                               Hebe Tien
 Out of Control                         Kalax & Kidburn
 Crystal Waves (From "Wa                          Kalax
-Come Alive                           Ace Buchannon & A
+Rabbit In The Headlights                Michael Oakley
 ```
 
 <!-- spotify_track end -->
