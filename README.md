@@ -37,7 +37,7 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 11 hrs 43 mins
+🎮 Street Fighter™ 6                🕘 12 hrs 8 mins
 ```
 
 <!-- steam_time end -->
@@ -53,10 +53,10 @@ Los Angeles                               The Midnight
 Back to Life                               Ollie Wride
 Alive (Lost Now Found)                           Kalax
 煙火裡的塵埃                               Hua Chen Yu
+Tokyo                                Timecop1983 & Kin
 你就不要想起我                               Hebe Tien
 Out of Control                         Kalax & Kidburn
 Crystal Waves (From "Wa                          Kalax
-Rabbit In The Headlights                Michael Oakley
 ```
 
 <!-- spotify_track end -->
