@@ -37,7 +37,7 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 12 hrs 8 mins
+🎮 Street Fighter™ 6                🕘 12 hrs 23 mins
 🎮 Hollow Knight                    🕘 92 hrs 1 mins
 ```
 
