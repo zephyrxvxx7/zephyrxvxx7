@@ -51,13 +51,13 @@ Other      13 mins        ██████████████████
 Not Alone                           Kalax & Player One
 Lovers (feat. Seawaves)              Timecop1983 & SEA
 Los Angeles                               The Midnight
-Back to Life                               Ollie Wride
-Alive (Lost Now Found)                           Kalax
 煙火裡的塵埃                               Hua Chen Yu
-鴦                                         PA PUN BAND
-Tokyo                                Timecop1983 & Kin
+Back to Life                               Ollie Wride
+01                                           QUEEN BEE
 你就不要想起我                               Hebe Tien
-Rabbit In The Headlights                Michael Oakley
+Alive (Lost Now Found)                           Kalax
+Tokyo                                Timecop1983 & Kin
+The Box                                    Roddy Ricch
 ```
 
 <!-- spotify_track end -->
