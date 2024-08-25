@@ -37,7 +37,8 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 12 hrs 23 mins
+🎮 Street Fighter™ 6                🕘 13 hrs 19 mins
+🎮 Nobody Saves the World           🕘 24 hrs 56 mins
 🎮 Hollow Knight                    🕘 92 hrs 1 mins
 ```
 
