@@ -54,11 +54,11 @@ Lovers (feat. Seawaves)              Timecop1983 & SEA
 it boy                                           bbno$
 Los Angeles                               The Midnight
 煙火裡的塵埃                               Hua Chen Yu
-The Box                                    Roddy Ricch
-Back to Life                               Ollie Wride
 你就不要想起我                               Hebe Tien
 01                                           QUEEN BEE
+The Box                                    Roddy Ricch
 Tokyo                                Timecop1983 & Kin
+Back to Life                               Ollie Wride
 ```
 
 <!-- spotify_track end -->
