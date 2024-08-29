@@ -51,14 +51,14 @@ Other      13 mins        ██████████████████
 ```text
 Not Alone                           Kalax & Player One
 Lovers (feat. Seawaves)              Timecop1983 & SEA
+The Box                                    Roddy Ricch
 it boy                                           bbno$
 Los Angeles                               The Midnight
 煙火裡的塵埃                               Hua Chen Yu
-你就不要想起我                               Hebe Tien
 01                                           QUEEN BEE
-The Box                                    Roddy Ricch
-Tokyo                                Timecop1983 & Kin
 Back to Life                               Ollie Wride
+Alive (Lost Now Found)                           Kalax
+Tokyo                                Timecop1983 & Kin
 ```
 
 <!-- spotify_track end -->
