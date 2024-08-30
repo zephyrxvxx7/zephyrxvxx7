@@ -54,11 +54,11 @@ Lovers (feat. Seawaves)              Timecop1983 & SEA
 The Box                                    Roddy Ricch
 it boy                                           bbno$
 Los Angeles                               The Midnight
-煙火裡的塵埃                               Hua Chen Yu
 01                                           QUEEN BEE
 Back to Life                               Ollie Wride
 Alive (Lost Now Found)                           Kalax
 Tokyo                                Timecop1983 & Kin
+鴦                                         PA PUN BAND
 ```
 
 <!-- spotify_track end -->
