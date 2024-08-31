@@ -37,7 +37,8 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 13 hrs 19 mins
+🎮 Street Fighter™ 6                🕘 14 hrs 19 mins
+🎮 Smash Girls                      🕘 1 hrs 12 mins
 🎮 Nobody Saves the World           🕘 24 hrs 56 mins
 🎮 Hollow Knight                    🕘 92 hrs 1 mins
 ```
@@ -56,9 +57,9 @@ it boy                                           bbno$
 Los Angeles                               The Midnight
 01                                           QUEEN BEE
 Back to Life                               Ollie Wride
-Alive (Lost Now Found)                           Kalax
 Tokyo                                Timecop1983 & Kin
 鴦                                         PA PUN BAND
+Alive (Lost Now Found)                           Kalax
 ```
 
 <!-- spotify_track end -->
