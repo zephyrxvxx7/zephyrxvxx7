@@ -37,7 +37,7 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 18 hrs 9 mins
+🎮 Street Fighter™ 6                🕘 20 hrs 14 mins
 🎮 Smash Girls                      🕘 1 hrs 12 mins
 🎮 Nobody Saves the World           🕘 24 hrs 56 mins
 ```
@@ -54,11 +54,11 @@ Lovers (feat. Seawaves)              Timecop1983 & SEA
 The Box                                    Roddy Ricch
 it boy                                           bbno$
 Los Angeles                               The Midnight
+FREEDOM                              Takanori Nishikaw
 01                                           QUEEN BEE
 Back to Life                               Ollie Wride
-Tokyo                                Timecop1983 & Kin
 鴦                                         PA PUN BAND
-Alive (Lost Now Found)                           Kalax
+Tokyo                                Timecop1983 & Kin
 ```
 
 <!-- spotify_track end -->
