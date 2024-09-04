@@ -37,8 +37,9 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 20 hrs 14 mins
+🎮 Street Fighter™ 6                🕘 21 hrs 31 mins
 🎮 Smash Girls                      🕘 1 hrs 12 mins
+🎮 Horizon Zero Dawn™ Complete Edition 🕘 0 hrs 46 mins
 🎮 Nobody Saves the World           🕘 24 hrs 56 mins
 ```
 
