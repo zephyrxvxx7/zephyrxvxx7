@@ -37,7 +37,7 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 21 hrs 31 mins
+🎮 Street Fighter™ 6                🕘 22 hrs 11 mins
 🎮 Smash Girls                      🕘 1 hrs 12 mins
 🎮 Horizon Zero Dawn™ Complete Edition 🕘 0 hrs 46 mins
 🎮 Nobody Saves the World           🕘 24 hrs 56 mins
@@ -54,12 +54,12 @@ Not Alone                           Kalax & Player One
 Lovers (feat. Seawaves)              Timecop1983 & SEA
 The Box                                    Roddy Ricch
 it boy                                           bbno$
-Los Angeles                               The Midnight
 FREEDOM                              Takanori Nishikaw
+Los Angeles                               The Midnight
 01                                           QUEEN BEE
-Back to Life                               Ollie Wride
-鴦                                         PA PUN BAND
 Tokyo                                Timecop1983 & Kin
+鴦                                         PA PUN BAND
+Back to Life                               Ollie Wride
 ```
 
 <!-- spotify_track end -->
