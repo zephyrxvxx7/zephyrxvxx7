@@ -57,8 +57,8 @@ it boy                                           bbno$
 FREEDOM                              Takanori Nishikaw
 Los Angeles                               The Midnight
 01                                           QUEEN BEE
-Tokyo                                Timecop1983 & Kin
 鴦                                         PA PUN BAND
+Tokyo                                Timecop1983 & Kin
 Back to Life                               Ollie Wride
 ```
 
