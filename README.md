@@ -50,16 +50,16 @@ Other      13 mins        ██████████████████
 <!-- spotify_track start -->
 
 ```text
-Not Alone                           Kalax & Player One
 Lovers (feat. Seawaves)              Timecop1983 & SEA
 The Box                                    Roddy Ricch
 it boy                                           bbno$
 FREEDOM                              Takanori Nishikaw
 Los Angeles                               The Midnight
 01                                           QUEEN BEE
+Not Alone                           Kalax & Player One
 鴦                                         PA PUN BAND
 Tokyo                                Timecop1983 & Kin
-Back to Life                               Ollie Wride
+Lost & Found                              The Midnight
 ```
 
 <!-- spotify_track end -->
