@@ -37,10 +37,9 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 22 hrs 11 mins
+🎮 Street Fighter™ 6                🕘 24 hrs 53 mins
 🎮 Smash Girls                      🕘 1 hrs 12 mins
 🎮 Horizon Zero Dawn™ Complete Edition 🕘 0 hrs 46 mins
-🎮 Nobody Saves the World           🕘 24 hrs 56 mins
 ```
 
 <!-- steam_time end -->
@@ -54,10 +53,10 @@ Lovers (feat. Seawaves)              Timecop1983 & SEA
 The Box                                    Roddy Ricch
 it boy                                           bbno$
 FREEDOM                              Takanori Nishikaw
-Los Angeles                               The Midnight
 01                                           QUEEN BEE
-Not Alone                           Kalax & Player One
+Los Angeles                               The Midnight
 鴦                                         PA PUN BAND
+Not Alone                           Kalax & Player One
 Tokyo                                Timecop1983 & Kin
 Lost & Found                              The Midnight
 ```
