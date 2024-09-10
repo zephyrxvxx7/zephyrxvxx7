@@ -53,12 +53,12 @@ Lovers (feat. Seawaves)              Timecop1983 & SEA
 The Box                                    Roddy Ricch
 it boy                                           bbno$
 FREEDOM                              Takanori Nishikaw
-Deep Sleep Sheep                                 HACHI
+September                           Earth, Wind & Fire
 01                                           QUEEN BEE
-Los Angeles                               The Midnight
-鴦                                         PA PUN BAND
+Deep Sleep Sheep                                 HACHI
+Lost & Found                              The Midnight
 Not Alone                           Kalax & Player One
-Tokyo                                Timecop1983 & Kin
+鴦                                         PA PUN BAND
 ```
 
 <!-- spotify_track end -->
