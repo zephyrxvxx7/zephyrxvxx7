@@ -50,15 +50,15 @@ Other      13 mins        ██████████████████
 
 ```text
 Lovers (feat. Seawaves)              Timecop1983 & SEA
-The Box                                    Roddy Ricch
-it boy                                           bbno$
 FREEDOM                              Takanori Nishikaw
 September                           Earth, Wind & Fire
+The Box                                    Roddy Ricch
+it boy                                           bbno$
+Lost & Found                              The Midnight
 01                                           QUEEN BEE
 Deep Sleep Sheep                                 HACHI
-Lost & Found                              The Midnight
-鴦                                         PA PUN BAND
 Not Alone                           Kalax & Player One
+鴦                                         PA PUN BAND
 ```
 
 <!-- spotify_track end -->
