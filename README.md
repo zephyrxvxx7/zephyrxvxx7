@@ -54,10 +54,10 @@ FREEDOM                              Takanori Nishikaw
 September                           Earth, Wind & Fire
 The Box                                    Roddy Ricch
 it boy                                           bbno$
+Till I Die:[nZk]ver.                   Hiroyuki Sawano
 Lost & Found                              The Midnight
 01                                           QUEEN BEE
 Deep Sleep Sheep                                 HACHI
-Not Alone                           Kalax & Player One
 鴦                                         PA PUN BAND
 ```
 
