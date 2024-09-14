@@ -38,7 +38,6 @@ Other      13 mins        ██████████████████
 
 ```text
 🎮 Street Fighter™ 6                🕘 24 hrs 53 mins
-🎮 Smash Girls                      🕘 1 hrs 12 mins
 🎮 Horizon Zero Dawn™ Complete Edition 🕘 0 hrs 46 mins
 ```
 
@@ -49,12 +48,12 @@ Other      13 mins        ██████████████████
 <!-- spotify_track start -->
 
 ```text
-Lovers (feat. Seawaves)              Timecop1983 & SEA
+Till I Die:[nZk]ver.                   Hiroyuki Sawano
 FREEDOM                              Takanori Nishikaw
+Lovers (feat. Seawaves)              Timecop1983 & SEA
 September                           Earth, Wind & Fire
 The Box                                    Roddy Ricch
 it boy                                           bbno$
-Till I Die:[nZk]ver.                   Hiroyuki Sawano
 Lost & Found                              The Midnight
 01                                           QUEEN BEE
 Deep Sleep Sheep                                 HACHI
