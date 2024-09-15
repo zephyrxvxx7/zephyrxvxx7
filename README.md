@@ -50,10 +50,10 @@ Other      13 mins        ██████████████████
 ```text
 Till I Die:[nZk]ver.                   Hiroyuki Sawano
 FREEDOM                              Takanori Nishikaw
-Lovers (feat. Seawaves)              Timecop1983 & SEA
 September                           Earth, Wind & Fire
 The Box                                    Roddy Ricch
 it boy                                           bbno$
+Lovers (feat. Seawaves)              Timecop1983 & SEA
 Lost & Found                              The Midnight
 01                                           QUEEN BEE
 Deep Sleep Sheep                                 HACHI
