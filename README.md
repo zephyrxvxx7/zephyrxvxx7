@@ -53,9 +53,9 @@ FREEDOM                              Takanori Nishikaw
 September                           Earth, Wind & Fire
 The Box                                    Roddy Ricch
 it boy                                           bbno$
-Lovers (feat. Seawaves)              Timecop1983 & SEA
 Lost & Found                              The Midnight
 01                                           QUEEN BEE
+Lovers (feat. Seawaves)              Timecop1983 & SEA
 Deep Sleep Sheep                                 HACHI
 鴦                                         PA PUN BAND
 ```
