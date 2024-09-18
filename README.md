@@ -38,7 +38,6 @@ Other      13 mins        ██████████████████
 
 ```text
 🎮 Street Fighter™ 6                🕘 24 hrs 53 mins
-🎮 Horizon Zero Dawn™ Complete Edition 🕘 0 hrs 46 mins
 ```
 
 <!-- steam_time end -->
@@ -57,7 +56,7 @@ Lost & Found                              The Midnight
 Deep Sleep Sheep                                 HACHI
 Lovers (feat. Seawaves)              Timecop1983 & SEA
 01                                           QUEEN BEE
-鴦                                         PA PUN BAND
+護國山 Pattonkan                              CHTHONIC
 ```
 
 <!-- spotify_track end -->
