@@ -50,13 +50,13 @@ Other      13 mins        ██████████████████
 Till I Die:[nZk]ver.                   Hiroyuki Sawano
 FREEDOM                              Takanori Nishikaw
 September                           Earth, Wind & Fire
-The Box                                    Roddy Ricch
 it boy                                           bbno$
 Lost & Found                              The Midnight
 Deep Sleep Sheep                                 HACHI
+The Box                                    Roddy Ricch
 Lovers (feat. Seawaves)              Timecop1983 & SEA
-01                                           QUEEN BEE
 護國山 Pattonkan                              CHTHONIC
+manazashi                                        HACHI
 ```
 
 <!-- spotify_track end -->
