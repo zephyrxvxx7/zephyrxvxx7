@@ -47,16 +47,16 @@ Other      13 mins        ██████████████████
 <!-- spotify_track start -->
 
 ```text
+Sleepwalking                                    tayori
 Till I Die:[nZk]ver.                   Hiroyuki Sawano
-FREEDOM                              Takanori Nishikaw
 September                           Earth, Wind & Fire
-it boy                                           bbno$
+FREEDOM                              Takanori Nishikaw
 Lost & Found                              The Midnight
+it boy                                           bbno$
 Deep Sleep Sheep                                 HACHI
-The Box                                    Roddy Ricch
 Lovers (feat. Seawaves)              Timecop1983 & SEA
 護國山 Pattonkan                              CHTHONIC
-manazashi                                        HACHI
+bi-dama                                          HACHI
 ```
 
 <!-- spotify_track end -->
