@@ -52,10 +52,10 @@ Till I Die:[nZk]ver.                   Hiroyuki Sawano
 September                           Earth, Wind & Fire
 FREEDOM                              Takanori Nishikaw
 Lost & Found                              The Midnight
-it boy                                           bbno$
 Deep Sleep Sheep                                 HACHI
 Lovers (feat. Seawaves)              Timecop1983 & SEA
 護國山 Pattonkan                              CHTHONIC
+manazashi                                        HACHI
 bi-dama                                          HACHI
 ```
 
