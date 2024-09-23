@@ -37,7 +37,7 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 24 hrs 53 mins
+🎮 Street Fighter™ 6                🕘 25 hrs 44 mins
 ```
 
 <!-- steam_time end -->
