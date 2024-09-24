@@ -37,7 +37,7 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 25 hrs 44 mins
+🎮 Street Fighter™ 6                🕘 27 hrs 5 mins
 ```
 
 <!-- steam_time end -->
@@ -53,10 +53,10 @@ September                           Earth, Wind & Fire
 FREEDOM                              Takanori Nishikaw
 Lost & Found                              The Midnight
 Deep Sleep Sheep                                 HACHI
-Lovers (feat. Seawaves)              Timecop1983 & SEA
 護國山 Pattonkan                              CHTHONIC
 manazashi                                        HACHI
 bi-dama                                          HACHI
+いのちの名前                            Ayaka Hirahara
 ```
 
 <!-- spotify_track end -->
