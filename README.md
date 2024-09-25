@@ -37,7 +37,7 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 27 hrs 5 mins
+🎮 Street Fighter™ 6                🕘 29 hrs 3 mins
 ```
 
 <!-- steam_time end -->
@@ -52,11 +52,11 @@ Till I Die:[nZk]ver.                   Hiroyuki Sawano
 September                           Earth, Wind & Fire
 FREEDOM                              Takanori Nishikaw
 Lost & Found                              The Midnight
+Kimishidai Ressha                          ONE OK ROCK
 Deep Sleep Sheep                                 HACHI
 護國山 Pattonkan                              CHTHONIC
 manazashi                                        HACHI
 bi-dama                                          HACHI
-いのちの名前                            Ayaka Hirahara
 ```
 
 <!-- spotify_track end -->
