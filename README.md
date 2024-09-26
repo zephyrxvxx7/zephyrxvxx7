@@ -37,7 +37,7 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 29 hrs 3 mins
+🎮 Street Fighter™ 6                🕘 29 hrs 45 mins
 ```
 
 <!-- steam_time end -->
@@ -49,12 +49,12 @@ Other      13 mins        ██████████████████
 ```text
 Sleepwalking                                    tayori
 Till I Die:[nZk]ver.                   Hiroyuki Sawano
-September                           Earth, Wind & Fire
 FREEDOM                              Takanori Nishikaw
+September                           Earth, Wind & Fire
 Lost & Found                              The Midnight
 Kimishidai Ressha                          ONE OK ROCK
 Deep Sleep Sheep                                 HACHI
-護國山 Pattonkan                              CHTHONIC
+Wasted Nights                              ONE OK ROCK
 manazashi                                        HACHI
 bi-dama                                          HACHI
 ```
