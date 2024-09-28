@@ -48,15 +48,15 @@ Other      13 mins        ██████████████████
 
 ```text
 Sleepwalking                                    tayori
+Kimishidai Ressha                          ONE OK ROCK
 Till I Die:[nZk]ver.                   Hiroyuki Sawano
 September                           Earth, Wind & Fire
 FREEDOM                              Takanori Nishikaw
-Kimishidai Ressha                          ONE OK ROCK
 Lost & Found                              The Midnight
 Deep Sleep Sheep                                 HACHI
 Wasted Nights                              ONE OK ROCK
-manazashi                                        HACHI
-bi-dama                                          HACHI
+Kanzen kankaku Dreamer                     ONE OK ROCK
+Wherever you are                           ONE OK ROCK
 ```
 
 <!-- spotify_track end -->
