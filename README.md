@@ -37,7 +37,7 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 30 hrs 57 mins
+🎮 Street Fighter™ 6                🕘 33 hrs 37 mins
 ```
 
 <!-- steam_time end -->
@@ -56,7 +56,7 @@ Lost & Found                              The Midnight
 Deep Sleep Sheep                                 HACHI
 Wasted Nights                              ONE OK ROCK
 Kanzen kankaku Dreamer                     ONE OK ROCK
-Wherever you are                           ONE OK ROCK
+Renegades                                  ONE OK ROCK
 ```
 
 <!-- spotify_track end -->
