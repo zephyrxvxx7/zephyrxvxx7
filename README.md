@@ -37,7 +37,7 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 33 hrs 37 mins
+🎮 Street Fighter™ 6                🕘 36 hrs 23 mins
 ```
 
 <!-- steam_time end -->
@@ -54,8 +54,8 @@ September                           Earth, Wind & Fire
 FREEDOM                              Takanori Nishikaw
 Lost & Found                              The Midnight
 Deep Sleep Sheep                                 HACHI
-Wasted Nights                              ONE OK ROCK
 Kanzen kankaku Dreamer                     ONE OK ROCK
+Wasted Nights                              ONE OK ROCK
 Renegades                                  ONE OK ROCK
 ```
 
