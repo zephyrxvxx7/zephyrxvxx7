@@ -37,7 +37,7 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 36 hrs 23 mins
+🎮 Street Fighter™ 6                🕘 37 hrs 27 mins
 ```
 
 <!-- steam_time end -->
@@ -47,13 +47,13 @@ Other      13 mins        ██████████████████
 <!-- spotify_track start -->
 
 ```text
+Until I Die                                      milet
 Sleepwalking                                    tayori
 Kimishidai Ressha                          ONE OK ROCK
 Till I Die:[nZk]ver.                   Hiroyuki Sawano
 September                           Earth, Wind & Fire
-FREEDOM                              Takanori Nishikaw
-Lost & Found                              The Midnight
 Deep Sleep Sheep                                 HACHI
+Lost & Found                              The Midnight
 Kanzen kankaku Dreamer                     ONE OK ROCK
 Wasted Nights                              ONE OK ROCK
 Renegades                                  ONE OK ROCK
