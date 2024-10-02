@@ -37,7 +37,7 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 37 hrs 27 mins
+🎮 Street Fighter™ 6                🕘 39 hrs 18 mins
 ```
 
 <!-- steam_time end -->
@@ -52,11 +52,11 @@ Sleepwalking                                    tayori
 Kimishidai Ressha                          ONE OK ROCK
 Till I Die:[nZk]ver.                   Hiroyuki Sawano
 September                           Earth, Wind & Fire
+Renegades - Japanese Ve                    ONE OK ROCK
 Deep Sleep Sheep                                 HACHI
-Lost & Found                              The Midnight
 Kanzen kankaku Dreamer                     ONE OK ROCK
+Lost & Found                              The Midnight
 Wasted Nights                              ONE OK ROCK
-Renegades                                  ONE OK ROCK
 ```
 
 <!-- spotify_track end -->
