@@ -37,7 +37,7 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 39 hrs 18 mins
+🎮 Street Fighter™ 6                🕘 39 hrs 45 mins
 ```
 
 <!-- steam_time end -->
@@ -55,8 +55,8 @@ September                           Earth, Wind & Fire
 Renegades - Japanese Ve                    ONE OK ROCK
 Deep Sleep Sheep                                 HACHI
 Kanzen kankaku Dreamer                     ONE OK ROCK
-Lost & Found                              The Midnight
 Wasted Nights                              ONE OK ROCK
+Lost & Found                              The Midnight
 ```
 
 <!-- spotify_track end -->
