@@ -55,8 +55,8 @@ September                           Earth, Wind & Fire
 Renegades - Japanese Ve                    ONE OK ROCK
 Kanzen kankaku Dreamer                     ONE OK ROCK
 Wasted Nights                              ONE OK ROCK
-Lost & Found                              The Midnight
 Renegades                                  ONE OK ROCK
+Wherever you are                           ONE OK ROCK
 ```
 
 <!-- spotify_track end -->
