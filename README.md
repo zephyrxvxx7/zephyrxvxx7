@@ -52,11 +52,11 @@ Kimishidai Ressha                          ONE OK ROCK
 Sleepwalking                                    tayori
 Till I Die:[nZk]ver.                   Hiroyuki Sawano
 September                           Earth, Wind & Fire
+MOON MUSiC                           Coldplay & Jon Ho
 Renegades - Japanese Ve                    ONE OK ROCK
 Kanzen kankaku Dreamer                     ONE OK ROCK
 Wasted Nights                              ONE OK ROCK
-Renegades                                  ONE OK ROCK
-Wherever you are                           ONE OK ROCK
+Ordinary days(Live at 日                         milet
 ```
 
 <!-- spotify_track end -->
