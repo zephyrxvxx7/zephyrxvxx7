@@ -51,8 +51,8 @@ Until I Die                                      milet
 Kimishidai Ressha                          ONE OK ROCK
 Sleepwalking                                    tayori
 Till I Die:[nZk]ver.                   Hiroyuki Sawano
-September                           Earth, Wind & Fire
 MOON MUSiC                           Coldplay & Jon Ho
+September                           Earth, Wind & Fire
 Renegades - Japanese Ve                    ONE OK ROCK
 Kanzen kankaku Dreamer                     ONE OK ROCK
 Wasted Nights                              ONE OK ROCK
