@@ -48,15 +48,15 @@ Other      13 mins        ██████████████████
 
 ```text
 Until I Die                                      milet
-Kimishidai Ressha                          ONE OK ROCK
 Sleepwalking                                    tayori
-Till I Die:[nZk]ver.                   Hiroyuki Sawano
+Kimishidai Ressha                          ONE OK ROCK
 MOON MUSiC                           Coldplay & Jon Ho
+Till I Die:[nZk]ver.                   Hiroyuki Sawano
 Renegades - Japanese Ve                    ONE OK ROCK
 Kanzen kankaku Dreamer                     ONE OK ROCK
+MOON MUSiC                           Coldplay & Jon Ho
 Wasted Nights                              ONE OK ROCK
 Ordinary days(Live at 日                         milet
-Renegades                                  ONE OK ROCK
 ```
 
 <!-- spotify_track end -->
