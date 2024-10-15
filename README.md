@@ -51,12 +51,12 @@ Until I Die                                      milet
 Kimishidai Ressha                          ONE OK ROCK
 Sleepwalking                                    tayori
 MOON MUSiC                           Coldplay & Jon Ho
+Scar                                     Way Of Puzzle
 Renegades - Japanese Ve                    ONE OK ROCK
 Kanzen kankaku Dreamer                     ONE OK ROCK
 MOON MUSiC                           Coldplay & Jon Ho
 十億年                                          Sayuri
 Wasted Nights                              ONE OK ROCK
-Ordinary days(Live at 日                         milet
 ```
 
 <!-- spotify_track end -->
