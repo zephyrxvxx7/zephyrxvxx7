@@ -37,7 +37,7 @@ Other      13 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 44 hrs 46 mins
+🎮 Street Fighter™ 6                🕘 45 hrs 29 mins
 ```
 
 <!-- steam_time end -->
@@ -49,7 +49,6 @@ Other      13 mins        ██████████████████
 ```text
 Until I Die                                      milet
 Kimishidai Ressha                          ONE OK ROCK
-Sleepwalking                                    tayori
 MOON MUSiC                           Coldplay & Jon Ho
 Scar                                     Way Of Puzzle
 Renegades - Japanese Ve                    ONE OK ROCK
@@ -57,6 +56,7 @@ Kanzen kankaku Dreamer                     ONE OK ROCK
 MOON MUSiC                           Coldplay & Jon Ho
 十億年                                          Sayuri
 Wasted Nights                              ONE OK ROCK
+Ordinary days(Live at 日                         milet
 ```
 
 <!-- spotify_track end -->
