@@ -55,8 +55,8 @@ Renegades - Japanese Ve                    ONE OK ROCK
 Kanzen kankaku Dreamer                     ONE OK ROCK
 MOON MUSiC                           Coldplay & Jon Ho
 十億年                                          Sayuri
-Wasted Nights                              ONE OK ROCK
-Ordinary days(Live at 日                         milet
+The Love We've Made                              milet
+The Legend of Ashitaka                    Joe Hisaishi
 ```
 
 <!-- spotify_track end -->
