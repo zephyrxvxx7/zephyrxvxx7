@@ -53,9 +53,9 @@ MOON MUSiC                           Coldplay & Jon Ho
 Scar                                     Way Of Puzzle
 Renegades - Japanese Ve                    ONE OK ROCK
 MOON MUSiC                           Coldplay & Jon Ho
-Kanzen kankaku Dreamer                     ONE OK ROCK
 十億年                                          Sayuri
 The Love We've Made                              milet
+the same as...                             ONE OK ROCK
 The Legend of Ashitaka                    Joe Hisaishi
 ```
 
