@@ -48,9 +48,9 @@ Other      13 mins        ██████████████████
 
 ```text
 Until I Die                                      milet
-Kimishidai Ressha                          ONE OK ROCK
 MOON MUSiC                           Coldplay & Jon Ho
 Scar                                     Way Of Puzzle
+Kimishidai Ressha                          ONE OK ROCK
 Renegades - Japanese Ve                    ONE OK ROCK
 MOON MUSiC                           Coldplay & Jon Ho
 十億年                                          Sayuri
