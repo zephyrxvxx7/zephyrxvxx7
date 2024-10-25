@@ -50,13 +50,13 @@ Other      13 mins        ██████████████████
 Until I Die                                      milet
 MOON MUSiC                           Coldplay & Jon Ho
 Scar                                     Way Of Puzzle
-Kimishidai Ressha                          ONE OK ROCK
-Renegades - Japanese Ve                    ONE OK ROCK
 MOON MUSiC                           Coldplay & Jon Ho
 十億年                                          Sayuri
 The Love We've Made                              milet
 the same as...                             ONE OK ROCK
 The Legend of Ashitaka                    Joe Hisaishi
+只記得你曾存在                       Way Of Puzzle & M
+Ordinary days(Live at 日                         milet
 ```
 
 <!-- spotify_track end -->
