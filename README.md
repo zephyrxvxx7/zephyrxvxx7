@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Other      13 mins        █████████████████████ 100.0%
+JavaScript 0 secs         █████████████████████ 100.0%
 ```
 
 <!-- code_time end -->
