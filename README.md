@@ -37,7 +37,7 @@ JavaScript 0 secs         ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 45 hrs 29 mins
+🎮 Street Fighter™ 6                🕘 46 hrs 20 mins
 ```
 
 <!-- steam_time end -->
@@ -49,14 +49,14 @@ JavaScript 0 secs         ██████████████████
 ```text
 MOON MUSiC                           Coldplay & Jon Ho
 Scar                                     Way Of Puzzle
+the same as...                             ONE OK ROCK
 MOON MUSiC                           Coldplay & Jon Ho
 The Legend of Ashitaka                    Joe Hisaishi
-the same as...                             ONE OK ROCK
 十億年                                          Sayuri
-The Love We've Made                              milet
 Enemy (with JID) - from              Imagine Dragons &
 只記得你曾存在                       Way Of Puzzle & M
-Ordinary days(Live at 日                         milet
+惡果                                            OBSESS
+直到停止呼吸                             Way Of Puzzle
 ```
 
 <!-- spotify_track end -->
