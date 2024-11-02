@@ -55,8 +55,8 @@ The Legend of Ashitaka                    Joe Hisaishi
 十億年                                          Sayuri
 Enemy (with JID) - from              Imagine Dragons &
 只記得你曾存在                       Way Of Puzzle & M
-惡果                                            OBSESS
 直到停止呼吸                             Way Of Puzzle
+野獸                                            OBSESS
 ```
 
 <!-- spotify_track end -->
