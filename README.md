@@ -37,7 +37,7 @@ JavaScript 0 secs         ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 47 hrs 24 mins
+🎮 Street Fighter™ 6                🕘 47 hrs 48 mins
 ```
 
 <!-- steam_time end -->
@@ -47,8 +47,8 @@ JavaScript 0 secs         ██████████████████
 <!-- spotify_track start -->
 
 ```text
-MOON MUSiC                           Coldplay & Jon Ho
 Scar                                     Way Of Puzzle
+MOON MUSiC                           Coldplay & Jon Ho
 the same as...                             ONE OK ROCK
 MOON MUSiC                           Coldplay & Jon Ho
 The Legend of Ashitaka                    Joe Hisaishi
