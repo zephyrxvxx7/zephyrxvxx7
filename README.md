@@ -48,15 +48,15 @@ JavaScript 0 secs         ██████████████████
 
 ```text
 Scar                                     Way Of Puzzle
-MOON MUSiC                           Coldplay & Jon Ho
 the same as...                             ONE OK ROCK
-MOON MUSiC                           Coldplay & Jon Ho
 The Legend of Ashitaka                    Joe Hisaishi
+MOON MUSiC                           Coldplay & Jon Ho
 十億年                                          Sayuri
 Enemy (with JID) - from              Imagine Dragons &
 只記得你曾存在                       Way Of Puzzle & M
 直到停止呼吸                             Way Of Puzzle
 野獸                                            OBSESS
+後會有期                                     Control T
 ```
 
 <!-- spotify_track end -->
