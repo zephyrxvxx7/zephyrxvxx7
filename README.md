@@ -47,16 +47,16 @@ JavaScript 0 secs         ██████████████████
 <!-- spotify_track start -->
 
 ```text
+冀望                                            Xmoraz
 Scar                                     Way Of Puzzle
+Cross                                           Xmoraz
 the same as...                             ONE OK ROCK
 The Legend of Ashitaka                    Joe Hisaishi
 MOON MUSiC                           Coldplay & Jon Ho
-十億年                                          Sayuri
+孤老                                            Xmoraz
 Enemy (with JID) - from              Imagine Dragons &
 只記得你曾存在                       Way Of Puzzle & M
 直到停止呼吸                             Way Of Puzzle
-野獸                                            OBSESS
-後會有期                                     Control T
 ```
 
 <!-- spotify_track end -->
