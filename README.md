@@ -50,13 +50,13 @@ JavaScript 0 secs         ██████████████████
 冀望                                            Xmoraz
 Scar                                     Way Of Puzzle
 Cross                                           Xmoraz
+野獸                                            OBSESS
+孤老                                            Xmoraz
 the same as...                             ONE OK ROCK
 The Legend of Ashitaka                    Joe Hisaishi
-MOON MUSiC                           Coldplay & Jon Ho
-孤老                                            Xmoraz
+癒 Feat. 洪偉 from 秋山                  Xmoraz & 洪偉
+Defy                                            Xmoraz
 Enemy (with JID) - from              Imagine Dragons &
-只記得你曾存在                       Way Of Puzzle & M
-直到停止呼吸                             Way Of Puzzle
 ```
 
 <!-- spotify_track end -->
