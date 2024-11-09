@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-JavaScript 0 secs         █████████████████████ 100.0%
+Other      19 mins        █████████████████████ 100.0%
 ```
 
 <!-- code_time end -->
@@ -48,15 +48,15 @@ JavaScript 0 secs         ██████████████████
 
 ```text
 冀望                                            Xmoraz
-Scar                                     Way Of Puzzle
+Time Is Running Out                         the HIATUS
 Cross                                           Xmoraz
-野獸                                            OBSESS
+Scar                                     Way Of Puzzle
 孤老                                            Xmoraz
+野獸                                            OBSESS
+癒 Feat. 洪偉 from 秋山                  Xmoraz & 洪偉
 the same as...                             ONE OK ROCK
 The Legend of Ashitaka                    Joe Hisaishi
-癒 Feat. 洪偉 from 秋山                  Xmoraz & 洪偉
 Defy                                            Xmoraz
-Enemy (with JID) - from              Imagine Dragons &
 ```
 
 <!-- spotify_track end -->
