@@ -55,8 +55,8 @@ Scar                                     Way Of Puzzle
 野獸                                            OBSESS
 癒 Feat. 洪偉 from 秋山                  Xmoraz & 洪偉
 the same as...                             ONE OK ROCK
-The Legend of Ashitaka                    Joe Hisaishi
 Defy                                            Xmoraz
+The Legend of Ashitaka                    Joe Hisaishi
 ```
 
 <!-- spotify_track end -->
