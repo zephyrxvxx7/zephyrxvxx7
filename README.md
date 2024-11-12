@@ -37,7 +37,7 @@ Other      19 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 47 hrs 55 mins
+🎮 Street Fighter™ 6                🕘 48 hrs 46 mins
 ```
 
 <!-- steam_time end -->
@@ -49,8 +49,8 @@ Other      19 mins        ██████████████████
 ```text
 冀望                                            Xmoraz
 Time Is Running Out                         the HIATUS
+Remember Me                         MAN WITH A MISSION
 Cross                                           Xmoraz
-Scar                                     Way Of Puzzle
 孤老                                            Xmoraz
 野獸                                            OBSESS
 癒 Feat. 洪偉 from 秋山                  Xmoraz & 洪偉
