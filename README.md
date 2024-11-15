@@ -53,9 +53,9 @@ Remember Me                         MAN WITH A MISSION
 Cross                                           Xmoraz
 孤老                                            Xmoraz
 野獸                                            OBSESS
-癒 Feat. 洪偉 from 秋山                  Xmoraz & 洪偉
+More Than Words                     MAN WITH A MISSION
 Dearest                                 Ayumi Hamasaki
-the same as...                             ONE OK ROCK
+癒 Feat. 洪偉 from 秋山                  Xmoraz & 洪偉
 Defy                                            Xmoraz
 ```
 
