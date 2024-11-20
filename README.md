@@ -51,12 +51,12 @@ Other      19 mins        ██████████████████
 Remember Me                         MAN WITH A MISSION
 Time Is Running Out                         the HIATUS
 Cross                                           Xmoraz
-More Than Words                     MAN WITH A MISSION
 孤老                                            Xmoraz
-Dearest                                 Ayumi Hamasaki
+More Than Words                     MAN WITH A MISSION
 野獸                                            OBSESS
 癒 Feat. 洪偉 from 秋山                  Xmoraz & 洪偉
 Defy                                            Xmoraz
+Dearest                                 Ayumi Hamasaki
 ```
 
 <!-- spotify_track end -->
