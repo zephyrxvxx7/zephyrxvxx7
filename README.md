@@ -47,16 +47,16 @@ Other      19 mins        ██████████████████
 <!-- spotify_track start -->
 
 ```text
-冀望                                            Xmoraz
 如果如果有一天                                   FUMON
+冀望                                            Xmoraz
 Remember Me                         MAN WITH A MISSION
 Time Is Running Out                         the HIATUS
 我活著                                           FUMON
 Cross                                           Xmoraz
 孤老                                            Xmoraz
 More Than Words                     MAN WITH A MISSION
-野獸                                            OBSESS
-癒 Feat. 洪偉 from 秋山                  Xmoraz & 洪偉
+Blessing                                         FUMON
+破碎的薔薇                                       FUMON
 ```
 
 <!-- spotify_track end -->
