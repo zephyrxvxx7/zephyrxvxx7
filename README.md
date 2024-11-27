@@ -55,8 +55,8 @@ Time Is Running Out                         the HIATUS
 Cross                                           Xmoraz
 孤老                                            Xmoraz
 More Than Words                     MAN WITH A MISSION
-Blessing                                         FUMON
 破碎的薔薇                                       FUMON
+Blessing                                         FUMON
 ```
 
 <!-- spotify_track end -->
