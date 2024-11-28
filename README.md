@@ -52,10 +52,10 @@ Other      19 mins        ██████████████████
 Remember Me                         MAN WITH A MISSION
 Time Is Running Out                         the HIATUS
 我活著                                           FUMON
-Cross                                           Xmoraz
 孤老                                            Xmoraz
+Cross                                           Xmoraz
+Connect                                南鹤卫NAMHOKWAI
 More Than Words                     MAN WITH A MISSION
-破碎的薔薇                                       FUMON
 Blessing                                         FUMON
 ```
 
