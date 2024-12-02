@@ -55,8 +55,8 @@ Time Is Running Out                         the HIATUS
 孤老                                            Xmoraz
 Cross                                           Xmoraz
 Connect                                南鹤卫NAMHOKWAI
-Blessing                                         FUMON
 破碎的薔薇                                       FUMON
+Blessing                                         FUMON
 ```
 
 <!-- spotify_track end -->
