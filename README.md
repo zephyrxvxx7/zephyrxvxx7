@@ -37,7 +37,7 @@ Other      19 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Street Fighter™ 6                🕘 48 hrs 46 mins
+🎮 Wedding Witch                    🕘 0 hrs 7 mins
 ```
 
 <!-- steam_time end -->
@@ -52,11 +52,11 @@ Other      19 mins        ██████████████████
 Remember Me                         MAN WITH A MISSION
 Time Is Running Out                         the HIATUS
 我活著                                           FUMON
-孤老                                            Xmoraz
-Cross                                           Xmoraz
 Connect                                南鹤卫NAMHOKWAI
 破碎的薔薇                                       FUMON
 Blessing                                         FUMON
+More Than Words                     MAN WITH A MISSION
+孤老                                            Xmoraz
 ```
 
 <!-- spotify_track end -->
