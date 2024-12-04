@@ -48,7 +48,6 @@ Other      19 mins        ██████████████████
 
 ```text
 如果如果有一天                                   FUMON
-冀望                                            Xmoraz
 Remember Me                         MAN WITH A MISSION
 Time Is Running Out                         the HIATUS
 我活著                                           FUMON
@@ -56,7 +55,8 @@ Connect                                南鹤卫NAMHOKWAI
 破碎的薔薇                                       FUMON
 Blessing                                         FUMON
 More Than Words                     MAN WITH A MISSION
-孤老                                            Xmoraz
+愛情的大壞蛋                              Amazing Show
+護國山 Pattonkan                              CHTHONIC
 ```
 
 <!-- spotify_track end -->
