@@ -56,7 +56,7 @@ Connect                                南鹤卫NAMHOKWAI
 Blessing                                         FUMON
 More Than Words                     MAN WITH A MISSION
 愛情的大壞蛋                              Amazing Show
-護國山 Pattonkan                              CHTHONIC
+新しき光                               haruka nakamura
 ```
 
 <!-- spotify_track end -->
