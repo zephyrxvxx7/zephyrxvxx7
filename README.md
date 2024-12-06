@@ -38,6 +38,7 @@ Other      19 mins        ██████████████████
 
 ```text
 🎮 Wedding Witch                    🕘 0 hrs 7 mins
+🎮 Living With Sister: Monochrome Fantasy 🕘 0 hrs 3 mins
 ```
 
 <!-- steam_time end -->
@@ -49,14 +50,14 @@ Other      19 mins        ██████████████████
 ```text
 如果如果有一天                                   FUMON
 Remember Me                         MAN WITH A MISSION
-Time Is Running Out                         the HIATUS
 我活著                                           FUMON
+Time Is Running Out                         the HIATUS
+愛情的大壞蛋                              Amazing Show
+最帥的人                                  Amazing Show
 Connect                                南鹤卫NAMHOKWAI
+More Than Words                     MAN WITH A MISSION
 破碎的薔薇                                       FUMON
 Blessing                                         FUMON
-More Than Words                     MAN WITH A MISSION
-愛情的大壞蛋                              Amazing Show
-新しき光                               haruka nakamura
 ```
 
 <!-- spotify_track end -->
