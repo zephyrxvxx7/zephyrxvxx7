@@ -49,8 +49,8 @@ Other      2 mins         ██████████████████
 
 ```text
 如果如果有一天                                   FUMON
-愛情的大壞蛋                              Amazing Show
 清                                 莉莉周她說 Lily Cho
+愛情的大壞蛋                              Amazing Show
 我活著                                           FUMON
 最帥的人                                  Amazing Show
 Connect                                南鹤卫NAMHOKWAI
