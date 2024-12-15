@@ -37,7 +37,8 @@ Other      2 mins         ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Living With Sister: Monochrome Fantasy 🕘 4 hrs 51 mins
+🎮 Living With Sister: Monochrome Fantasy 🕘 5 hrs 47 mins
+🎮 Hades                            🕘 3 hrs 53 mins
 🎮 Wedding Witch                    🕘 0 hrs 7 mins
 ```
 
