@@ -51,12 +51,12 @@ Other      2 mins         ██████████████████
 如果如果有一天                                   FUMON
 清                                 莉莉周她說 Lily Cho
 愛情的大壞蛋                              Amazing Show
-我活著                                           FUMON
 最帥的人                                  Amazing Show
+我活著                                           FUMON
 Connect                                南鹤卫NAMHOKWAI
-破碎的薔薇                                       FUMON
-Blessing                                         FUMON
 新しき光                               haruka nakamura
+Blessing                                         FUMON
+破碎的薔薇                                       FUMON
 高速公路                                  Amazing Show
 ```
 
