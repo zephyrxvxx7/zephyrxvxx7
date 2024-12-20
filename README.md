@@ -52,12 +52,12 @@ Other      2 mins         ██████████████████
 清                                 莉莉周她說 Lily Cho
 愛情的大壞蛋                              Amazing Show
 最帥的人                                  Amazing Show
-我活著                                           FUMON
 Connect                                南鹤卫NAMHOKWAI
 新しき光                               haruka nakamura
-Blessing                                         FUMON
-破碎的薔薇                                       FUMON
 高速公路                                  Amazing Show
+我活著                                           FUMON
+雪の音                                     Novelbright
+Blessing                                         FUMON
 ```
 
 <!-- spotify_track end -->
