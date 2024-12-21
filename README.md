@@ -48,16 +48,16 @@ Other      2 mins         ██████████████████
 <!-- spotify_track start -->
 
 ```text
-如果如果有一天                                   FUMON
 清                                 莉莉周她說 Lily Cho
 愛情的大壞蛋                              Amazing Show
 最帥的人                                  Amazing Show
 Connect                                南鹤卫NAMHOKWAI
+如果如果有一天                                   FUMON
 新しき光                               haruka nakamura
 高速公路                                  Amazing Show
-我活著                                           FUMON
 雪の音                                     Novelbright
-Blessing                                         FUMON
+愛人                               莉莉周她說 Lily Cho
+野獸                                            OBSESS
 ```
 
 <!-- spotify_track end -->
