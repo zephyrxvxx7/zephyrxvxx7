@@ -39,7 +39,8 @@ Other      2 mins         ██████████████████
 ```text
 🎮 Living With Sister: Monochrome Fantasy 🕘 5 hrs 47 mins
 🎮 Hades                            🕘 3 hrs 53 mins
-🎮 Untitled Goose Game              🕘 0 hrs 11 mins
+🎮 你的老婆                         🕘 0 hrs 54 mins
+🎮 Untitled Goose Game              🕘 0 hrs 26 mins
 ```
 
 <!-- steam_time end -->
@@ -54,11 +55,11 @@ Other      2 mins         ██████████████████
 最帥的人                                  Amazing Show
 Connect                                南鹤卫NAMHOKWAI
 高速公路                                  Amazing Show
-新しき光                               haruka nakamura
 雪の音                                     Novelbright
 愛人                               莉莉周她說 Lily Cho
-野獸                                            OBSESS
-護國山 Pattonkan                              CHTHONIC
+新しき光                               haruka nakamura
+Answer                                           krage
+天叢雲剣-SKYBREAKER-                Takanori Nishikawa
 ```
 
 <!-- spotify_track end -->
