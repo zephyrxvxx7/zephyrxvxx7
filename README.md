@@ -59,7 +59,7 @@ Other      2 mins         ██████████████████
 新しき光                               haruka nakamura
 Answer                                           krage
 天叢雲剣-SKYBREAKER-                Takanori Nishikawa
-抵達                                             TRASH
+野獸                                            OBSESS
 ```
 
 <!-- spotify_track end -->
