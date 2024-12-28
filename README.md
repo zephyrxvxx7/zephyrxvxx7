@@ -51,15 +51,15 @@ Other      2 mins         ██████████████████
 
 ```text
 清                                 莉莉周她說 Lily Cho
-愛情的大壞蛋                              Amazing Show
 最帥的人                                  Amazing Show
-高速公路                                  Amazing Show
+愛情的大壞蛋                              Amazing Show
 雪の音                                     Novelbright
 愛人                               莉莉周她說 Lily Cho
-新しき光                               haruka nakamura
+野獸                                            OBSESS
+護國山 Pattonkan                              CHTHONIC
 Answer                                           krage
 天叢雲剣-SKYBREAKER-                Takanori Nishikawa
-野獸                                            OBSESS
+抵達                                             TRASH
 ```
 
 <!-- spotify_track end -->
