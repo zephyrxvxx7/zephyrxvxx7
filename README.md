@@ -37,8 +37,6 @@ Other      2 mins         ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Living With Sister: Monochrome Fantasy 🕘 5 hrs 47 mins
-🎮 Hades                            🕘 3 hrs 53 mins
 🎮 你的老婆                         🕘 0 hrs 54 mins
 🎮 Untitled Goose Game              🕘 0 hrs 26 mins
 ```
