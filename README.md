@@ -51,13 +51,13 @@ Other      2 mins         ██████████████████
 清                                 莉莉周她說 Lily Cho
 最帥的人                                  Amazing Show
 愛情的大壞蛋                              Amazing Show
+Premonitions                                    Vaults
 雪の音                                     Novelbright
 愛人                               莉莉周她說 Lily Cho
 野獸                                            OBSESS
 護國山 Pattonkan                              CHTHONIC
 Answer                                           krage
 天叢雲剣-SKYBREAKER-                Takanori Nishikawa
-抵達                                             TRASH
 ```
 
 <!-- spotify_track end -->
