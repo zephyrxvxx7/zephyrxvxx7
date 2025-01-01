@@ -53,9 +53,9 @@ Other      2 mins         ██████████████████
 愛情的大壞蛋                              Amazing Show
 Premonitions                                    Vaults
 雪の音                                     Novelbright
+護國山 Pattonkan                              CHTHONIC
 愛人                               莉莉周她說 Lily Cho
 野獸                                            OBSESS
-護國山 Pattonkan                              CHTHONIC
 Answer                                           krage
 天叢雲剣-SKYBREAKER-                Takanori Nishikawa
 ```
