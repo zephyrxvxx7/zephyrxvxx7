@@ -51,15 +51,15 @@ Other      2 mins         ██████████████████
 
 ```text
 清                                 莉莉周她說 Lily Cho
-最帥的人                                  Amazing Show
-愛情的大壞蛋                              Amazing Show
+一直拼盡全力就好了                          BaishaJAWS
 Premonitions                                    Vaults
+愛情的大壞蛋                              Amazing Show
 雪の音                                     Novelbright
-護國山 Pattonkan                              CHTHONIC
-愛人                               莉莉周她說 Lily Cho
 野獸                                            OBSESS
-Answer                                           krage
+護國山 Pattonkan                              CHTHONIC
 天叢雲剣-SKYBREAKER-                Takanori Nishikawa
+抵達                                             TRASH
+Answer                                           krage
 ```
 
 <!-- spotify_track end -->
