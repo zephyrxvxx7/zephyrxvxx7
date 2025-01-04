@@ -52,14 +52,14 @@ Other      2 mins         ██████████████████
 ```text
 清                                 莉莉周她說 Lily Cho
 一直拼盡全力就好了                          BaishaJAWS
+好想我回来啊                               Hua Chen Yu
 Premonitions                                    Vaults
-愛情的大壞蛋                              Amazing Show
 雪の音                                     Novelbright
-野獸                                            OBSESS
-護國山 Pattonkan                              CHTHONIC
 天叢雲剣-SKYBREAKER-                Takanori Nishikawa
 抵達                                             TRASH
 Answer                                           krage
+護國山 Pattonkan                              CHTHONIC
+Agnes Creek                                     生命樹
 ```
 
 <!-- spotify_track end -->
