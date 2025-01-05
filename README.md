@@ -50,9 +50,9 @@ Other      2 mins         ██████████████████
 <!-- spotify_track start -->
 
 ```text
+好想我回来啊                               Hua Chen Yu
 清                                 莉莉周她說 Lily Cho
 一直拼盡全力就好了                          BaishaJAWS
-好想我回来啊                               Hua Chen Yu
 Premonitions                                    Vaults
 雪の音                                     Novelbright
 天叢雲剣-SKYBREAKER-                Takanori Nishikawa
