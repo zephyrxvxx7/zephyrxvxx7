@@ -51,14 +51,14 @@ Other      2 mins         ██████████████████
 
 ```text
 好想我回来啊                               Hua Chen Yu
-清                                 莉莉周她說 Lily Cho
 一直拼盡全力就好了                          BaishaJAWS
+清                                 莉莉周她說 Lily Cho
 Premonitions                                    Vaults
-雪の音                                     Novelbright
 天叢雲剣-SKYBREAKER-                Takanori Nishikawa
 抵達                                             TRASH
-Answer                                           krage
+雪の音                                     Novelbright
 護國山 Pattonkan                              CHTHONIC
+Answer                                           krage
 Agnes Creek                                     生命樹
 ```
 
