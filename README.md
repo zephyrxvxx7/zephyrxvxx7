@@ -37,9 +37,7 @@ Other      2 mins         ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 你的老婆                         🕘 0 hrs 54 mins
 🎮 Don't Starve Together            🕘 24 hrs 17 mins
-🎮 Untitled Goose Game              🕘 0 hrs 26 mins
 🎮 魅魔新妻 Succubus Waifu          🕘 0 hrs 4 mins
 ```
 
@@ -52,14 +50,14 @@ Other      2 mins         ██████████████████
 ```text
 好想我回来啊                               Hua Chen Yu
 一直拼盡全力就好了                          BaishaJAWS
-清                                 莉莉周她說 Lily Cho
 Premonitions                                    Vaults
 天叢雲剣-SKYBREAKER-                Takanori Nishikawa
 抵達                                             TRASH
-雪の音                                     Novelbright
 護國山 Pattonkan                              CHTHONIC
-Answer                                           krage
 Agnes Creek                                     生命樹
+rockstar (feat. 21 Sava               Post Malone & 21
+彗星                                        BaishaJAWS
+花落时相遇                                 Hua Chen Yu
 ```
 
 <!-- spotify_track end -->
