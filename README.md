@@ -39,8 +39,6 @@ Other      2 mins         ██████████████████
 ```text
 💻 Wallpaper Engine                 🕘 17 hrs 42 mins
 🎮 Ultimate Chicken Horse           🕘 12 hrs 31 mins
-🎮 Don't Starve Together            🕘 24 hrs 17 mins
-🎮 魅魔新妻 Succubus Waifu          🕘 0 hrs 4 mins
 ```
 
 <!-- steam_time end -->
