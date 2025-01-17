@@ -54,10 +54,10 @@ Premonitions                                    Vaults
 Ashes                                milet & Ryosuke "
 抵達                                             TRASH
 護國山 Pattonkan                              CHTHONIC
-Agnes Creek                                     生命樹
-rockstar (feat. 21 Sava               Post Malone & 21
 彗星                                        BaishaJAWS
+rockstar (feat. 21 Sava               Post Malone & 21
 花落时相遇                                 Hua Chen Yu
+自由靈魂                                 Traveller旅人
 ```
 
 <!-- spotify_track end -->
