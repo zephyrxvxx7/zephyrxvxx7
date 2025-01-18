@@ -39,6 +39,7 @@ Other      2 mins         ██████████████████
 ```text
 💻 Wallpaper Engine                 🕘 17 hrs 42 mins
 🎮 Ultimate Chicken Horse           🕘 12 hrs 31 mins
+🎮 DEATH STRANDING DIRECTOR'S CUT   🕘 0 hrs 26 mins
 ```
 
 <!-- steam_time end -->
@@ -52,8 +53,8 @@ Other      2 mins         ██████████████████
 一直拼盡全力就好了                          BaishaJAWS
 Premonitions                                    Vaults
 Ashes                                milet & Ryosuke "
-抵達                                             TRASH
 護國山 Pattonkan                              CHTHONIC
+Underwater Reflection                             美波
 彗星                                        BaishaJAWS
 rockstar (feat. 21 Sava               Post Malone & 21
 花落时相遇                                 Hua Chen Yu
