@@ -53,6 +53,7 @@ Other      2 mins         ██████████████████
 ```text
 好想我回来啊                               Hua Chen Yu
 一直拼盡全力就好了                          BaishaJAWS
+永不熄滅的火焰                             Hua Chen Yu
 Premonitions                                    Vaults
 Ashes                                milet & Ryosuke "
 護國山 Pattonkan                              CHTHONIC
@@ -60,7 +61,6 @@ Underwater Reflection                             美波
 彗星                                        BaishaJAWS
 rockstar (feat. 21 Sava               Post Malone & 21
 花落时相遇                                 Hua Chen Yu
-自由靈魂                                 Traveller旅人
 ```
 
 <!-- spotify_track end -->
