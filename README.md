@@ -37,7 +37,6 @@ Other      2 mins         ██████████████████
 <!-- steam_time start -->
 
 ```text
-💻 Wallpaper Engine                 🕘 17 hrs 42 mins
 🎮 Living With Sister: Monochrome Fantasy 🕘 6 hrs 23 mins
 🎮 DEATH STRANDING DIRECTOR'S CUT   🕘 0 hrs 26 mins
 🎮 Winter Memories                  🕘 6 hrs 29 mins
