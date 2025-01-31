@@ -50,15 +50,15 @@ Other      2 mins         ██████████████████
 
 ```text
 好想我回来啊                               Hua Chen Yu
-一直拼盡全力就好了                          BaishaJAWS
 永不熄滅的火焰                             Hua Chen Yu
 Ashes                                milet & Ryosuke "
 Underwater Reflection                             美波
-彗星                                        BaishaJAWS
 花落时相遇                                 Hua Chen Yu
-Virtual Sky                              THE SIXTH LIE
 Flower Dance                                DJ Okawari
-我雖不才（Prod. Ver.）                      BaishaJAWS
+Virtual Sky                              THE SIXTH LIE
+Luv Letter                                  DJ Okawari
+忒修斯的船                                 Hua Chen Yu
+普通到不普通的人生                         Hua Chen Yu
 ```
 
 <!-- spotify_track end -->
