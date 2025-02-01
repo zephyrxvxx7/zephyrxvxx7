@@ -38,7 +38,6 @@ Other      2 mins         ██████████████████
 
 ```text
 🎮 Living With Sister: Monochrome Fantasy 🕘 6 hrs 23 mins
-🎮 DEATH STRANDING DIRECTOR'S CUT   🕘 0 hrs 26 mins
 🎮 Winter Memories                  🕘 6 hrs 29 mins
 ```
 
@@ -53,10 +52,10 @@ Other      2 mins         ██████████████████
 永不熄滅的火焰                             Hua Chen Yu
 Ashes                                milet & Ryosuke "
 Underwater Reflection                             美波
-花落时相遇                                 Hua Chen Yu
 Flower Dance                                DJ Okawari
-Virtual Sky                              THE SIXTH LIE
 Luv Letter                                  DJ Okawari
+Virtual Sky                              THE SIXTH LIE
+Fragile                              DJ Okawari & Cele
 忒修斯的船                                 Hua Chen Yu
 普通到不普通的人生                         Hua Chen Yu
 ```
