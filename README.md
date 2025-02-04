@@ -48,14 +48,14 @@ Other      2 mins         ██████████████████
 <!-- spotify_track start -->
 
 ```text
-好想我回来啊                               Hua Chen Yu
 永不熄滅的火焰                             Hua Chen Yu
 Ashes                                milet & Ryosuke "
+好想我回来啊                               Hua Chen Yu
 Underwater Reflection                             美波
 Flower Dance                                DJ Okawari
 Luv Letter                                  DJ Okawari
-Virtual Sky                              THE SIXTH LIE
 Fragile                              DJ Okawari & Cele
+Virtual Sky                              THE SIXTH LIE
 忒修斯的船                                 Hua Chen Yu
 普通到不普通的人生                         Hua Chen Yu
 ```
