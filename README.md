@@ -54,10 +54,10 @@ Underwater Reflection                             美波
 Fragile                              DJ Okawari & Cele
 Flower Dance                                DJ Okawari
 Luv Letter                                  DJ Okawari
-好想我回来啊                               Hua Chen Yu
 Addiction                            DJ Okawari & Cele
 忒修斯的船                                 Hua Chen Yu
 普通到不普通的人生                         Hua Chen Yu
+Flower Dance Pt.2                    DJ Okawari & Emil
 ```
 
 <!-- spotify_track end -->
