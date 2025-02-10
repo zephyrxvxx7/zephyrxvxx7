@@ -50,14 +50,14 @@ Other      2 mins         ██████████████████
 ```text
 永不熄滅的火焰                             Hua Chen Yu
 Underwater Reflection                             美波
+獵心                               白頻率 White Freque
 Fragile                              DJ Okawari & Cele
 Flower Dance                                DJ Okawari
 Luv Letter                                  DJ Okawari
-獵心                               白頻率 White Freque
-Ashes                                milet & Ryosuke "
 Addiction                            DJ Okawari & Cele
 忒修斯的船                                 Hua Chen Yu
 普通到不普通的人生                         Hua Chen Yu
+Flower Dance Pt.2                    DJ Okawari & Emil
 ```
 
 <!-- spotify_track end -->
