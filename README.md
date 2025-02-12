@@ -50,14 +50,14 @@ Other      2 mins         ██████████████████
 ```text
 永不熄滅的火焰                             Hua Chen Yu
 獵心                               白頻率 White Freque
-Underwater Reflection                             美波
 Fragile                              DJ Okawari & Cele
 Flower Dance                                DJ Okawari
+Underwater Reflection                             美波
+蘋果                               白頻率 White Freque
 Luv Letter                                  DJ Okawari
 OOPARTS                                 Hitsujibungaku
-蘋果                               白頻率 White Freque
-Addiction                            DJ Okawari & Cele
-明日へ                                 Galileo Galilei
+很遠的遠方                                    理想混蛋
+ウィアートル                                    Rionos
 ```
 
 <!-- spotify_track end -->
