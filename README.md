@@ -50,9 +50,9 @@ Other      2 mins         ██████████████████
 ```text
 永不熄滅的火焰                             Hua Chen Yu
 獵心                               白頻率 White Freque
-Fragile                              DJ Okawari & Cele
 Flower Dance                                DJ Okawari
-Underwater Reflection                             美波
+Fragile                              DJ Okawari & Cele
+ライフイズビューティフル                    amazarashi
 蘋果                               白頻率 White Freque
 Luv Letter                                  DJ Okawari
 OOPARTS                                 Hitsujibungaku
