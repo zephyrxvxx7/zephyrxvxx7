@@ -50,14 +50,14 @@ Other      2 mins         ██████████████████
 ```text
 永不熄滅的火焰                             Hua Chen Yu
 獵心                               白頻率 White Freque
-Flower Dance                                DJ Okawari
-Fragile                              DJ Okawari & Cele
 ライフイズビューティフル                    amazarashi
+Flower Dance                                DJ Okawari
+終わりで始まり                              amazarashi
+Fragile                              DJ Okawari & Cele
+奇跡                                        amazarashi
 蘋果                               白頻率 White Freque
 Luv Letter                                  DJ Okawari
-OOPARTS                                 Hitsujibungaku
-很遠的遠方                                    理想混蛋
-ウィアートル                                    Rionos
+つじつま合わせに生まれた                    amazarashi
 ```
 
 <!-- spotify_track end -->
