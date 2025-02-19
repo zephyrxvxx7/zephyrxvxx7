@@ -49,12 +49,12 @@ Other      2 mins         ██████████████████
 
 ```text
 獵心                               白頻率 White Freque
+光                                          Hello Nico
+蘋果                               白頻率 White Freque
 Flower Dance                                DJ Okawari
 終わりで始まり                              amazarashi
 ライフイズビューティフル                    amazarashi
 Fragile                              DJ Okawari & Cele
-蘋果                               白頻率 White Freque
-永不熄滅的火焰                             Hua Chen Yu
 粉雪                                        Remioromen
 奇跡                                        amazarashi
 Luv Letter                                  DJ Okawari
