@@ -49,14 +49,14 @@ Other      2 mins         ██████████████████
 
 ```text
 獵心                               白頻率 White Freque
-光                                          Hello Nico
-蘋果                               白頻率 White Freque
 Flower Dance                                DJ Okawari
+let go                                 m-flo & YOSHIKA
+蘋果                               白頻率 White Freque
+光                                          Hello Nico
+Ruby - Remix                        Our Shame & 趙廣絜
+Itterasshai                                 Ai Higuchi
 終わりで始まり                              amazarashi
 ライフイズビューティフル                    amazarashi
-Fragile                              DJ Okawari & Cele
-粉雪                                        Remioromen
-奇跡                                        amazarashi
 Luv Letter                                  DJ Okawari
 ```
 
