@@ -53,11 +53,11 @@ Flower Dance                                DJ Okawari
 let go                                 m-flo & YOSHIKA
 蘋果                               白頻率 White Freque
 光                                          Hello Nico
+Fragile                              DJ Okawari & Cele
+奇跡                                        amazarashi
 Ruby - Remix                        Our Shame & 趙廣絜
 Itterasshai                                 Ai Higuchi
 終わりで始まり                              amazarashi
-ライフイズビューティフル                    amazarashi
-Luv Letter                                  DJ Okawari
 ```
 
 <!-- spotify_track end -->
