@@ -49,13 +49,13 @@ Other      2 mins         ██████████████████
 
 ```text
 獵心                               白頻率 White Freque
-Flower Dance                                DJ Okawari
 光                                          Hello Nico
+Flower Dance                                DJ Okawari
 let go                                 m-flo & YOSHIKA
 蘋果                               白頻率 White Freque
+返程                                        Hello Nico
 Fragile                              DJ Okawari & Cele
 Ruby - Remix                        Our Shame & 趙廣絜
-返程                                        Hello Nico
 奇跡                                        amazarashi
 Itterasshai                                 Ai Higuchi
 ```
