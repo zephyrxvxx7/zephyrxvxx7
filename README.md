@@ -56,8 +56,8 @@ Last regrets - Full Cho              Ayana & VISUAL AR
 蘋果                               白頻率 White Freque
 返程                                        Hello Nico
 Itterasshai                                 Ai Higuchi
-鳥の詩                               Lia & VISUAL ARTS
 奇跡                                        amazarashi
+Circle of Karma                            FUZI & MAAS
 ```
 
 <!-- spotify_track end -->
