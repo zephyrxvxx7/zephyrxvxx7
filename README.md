@@ -49,15 +49,15 @@ Other      2 mins         ██████████████████
 
 ```text
 獵心                               白頻率 White Freque
-光                                          Hello Nico
 let go                                 m-flo & YOSHIKA
+光                                          Hello Nico
 Ruby - Remix                        Our Shame & 趙廣絜
 Last regrets - Full Cho              Ayana & VISUAL AR
 蘋果                               白頻率 White Freque
 返程                                        Hello Nico
 Itterasshai                                 Ai Higuchi
+Flower Dance                                DJ Okawari
 奇跡                                        amazarashi
-Circle of Karma                            FUZI & MAAS
 ```
 
 <!-- spotify_track end -->
