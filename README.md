@@ -52,11 +52,11 @@ Other      2 mins         ██████████████████
 let go                                 m-flo & YOSHIKA
 光                                          Hello Nico
 Ruby - Remix                        Our Shame & 趙廣絜
+Flower Dance                                DJ Okawari
 Last regrets - Full Cho              Ayana & VISUAL AR
 蘋果                               白頻率 White Freque
 返程                                        Hello Nico
 Itterasshai                                 Ai Higuchi
-Flower Dance                                DJ Okawari
 奇跡                                        amazarashi
 ```
 
