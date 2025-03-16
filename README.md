@@ -48,16 +48,16 @@ Other      2 mins         ██████████████████
 <!-- spotify_track start -->
 
 ```text
-獵心                               白頻率 White Freque
 Flower Dance                                DJ Okawari
+Fragile                              DJ Okawari & Cele
 let go                                 m-flo & YOSHIKA
-光                                          Hello Nico
-Ruby - Remix                        Our Shame & 趙廣絜
 Last regrets - Full Cho              Ayana & VISUAL AR
-蘋果                               白頻率 White Freque
-返程                                        Hello Nico
-Itterasshai                                 Ai Higuchi
-鳥の詩                               Lia & VISUAL ARTS
+Bluebird Story feat.Jum              DJ Okawari & Jume
+Lightning Moment                      DJ Okawari & fox
+Ruby - Remix                        Our Shame & 趙廣絜
+光                                          Hello Nico
+Everything's Alright               塞壬唱片-MSR & DJ O
+Your Star                          塞壬唱片-MSR & DJ O
 ```
 
 <!-- spotify_track end -->
