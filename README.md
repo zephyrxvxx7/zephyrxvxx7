@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Other      2 mins         █████████████████████ 100.0%
+YAML       4 mins         ██████████████████▎░░  86.9%
+Markdown   0 secs         ██▋░░░░░░░░░░░░░░░░░░  12.8%
+Text       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 ```
 
 <!-- code_time end -->
