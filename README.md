@@ -51,15 +51,15 @@ Text       0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 Flower Dance                                DJ Okawari
+I'm With You                         DJ Okawari & Emil
 Fragile                              DJ Okawari & Cele
-let go                                 m-flo & YOSHIKA
-Last regrets - Full Cho              Ayana & VISUAL AR
 Bluebird Story feat.Jum              DJ Okawari & Jume
+let go                                 m-flo & YOSHIKA
 Lightning Moment                      DJ Okawari & fox
+Last regrets - Full Cho              Ayana & VISUAL AR
+All I Need                           DJ Okawari & Emil
 Ruby - Remix                        Our Shame & 趙廣絜
 光                                          Hello Nico
-Everything's Alright               塞壬唱片-MSR & DJ O
-Your Star                          塞壬唱片-MSR & DJ O
 ```
 
 <!-- spotify_track end -->
