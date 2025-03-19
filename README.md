@@ -52,14 +52,14 @@ Text       0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 Flower Dance                                DJ Okawari
 I'm With You                         DJ Okawari & Emil
+All I Need                           DJ Okawari & Emil
 Fragile                              DJ Okawari & Cele
 Bluebird Story feat.Jum              DJ Okawari & Jume
-let go                                 m-flo & YOSHIKA
-Lightning Moment                      DJ Okawari & fox
 Last regrets - Full Cho              Ayana & VISUAL AR
-All I Need                           DJ Okawari & Emil
+Engage Ring                          DJ Okawari & Emil
+Lightning Moment                      DJ Okawari & fox
+Flower Dance Pt.2                    DJ Okawari & Emil
 Ruby - Remix                        Our Shame & 趙廣絜
-光                                          Hello Nico
 ```
 
 <!-- spotify_track end -->
