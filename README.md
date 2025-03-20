@@ -59,7 +59,7 @@ Last regrets - Full Cho              Ayana & VISUAL AR
 Engage Ring                          DJ Okawari & Emil
 Lightning Moment                      DJ Okawari & fox
 Flower Dance Pt.2                    DJ Okawari & Emil
-Ruby - Remix                        Our Shame & 趙廣絜
+Your Star                          塞壬唱片-MSR & DJ O
 ```
 
 <!-- spotify_track end -->
