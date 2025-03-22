@@ -52,6 +52,7 @@ Text       0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 Flower Dance                                DJ Okawari
 I'm With You                         DJ Okawari & Emil
+トイレの神様                               Kana Uemura
 All I Need                           DJ Okawari & Emil
 Fragile                              DJ Okawari & Cele
 Bluebird Story feat.Jum              DJ Okawari & Jume
@@ -59,7 +60,6 @@ Last regrets - Full Cho              Ayana & VISUAL AR
 Engage Ring                          DJ Okawari & Emil
 Your Star                          塞壬唱片-MSR & DJ O
 Nothing Beats Like A He             逃跑计划EscapePlan
-Flower Dance Pt.2                    DJ Okawari & Emil
 ```
 
 <!-- spotify_track end -->
