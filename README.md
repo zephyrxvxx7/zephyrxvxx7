@@ -39,8 +39,7 @@ Text       0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Living With Sister: Monochrome Fantasy 🕘 6 hrs 23 mins
-🎮 Winter Memories                  🕘 6 hrs 29 mins
+🎮 Nine Sols                        🕘 0 hrs 8 mins
 ```
 
 <!-- steam_time end -->
