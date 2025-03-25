@@ -39,6 +39,8 @@ Text       0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
+🎮 Five Hearts Under One Roof       🕘 1 hrs 23 mins
+🎮 Summer Pockets                   🕘 0 hrs 25 mins
 🎮 Nine Sols                        🕘 0 hrs 8 mins
 ```
 
@@ -55,10 +57,10 @@ I'm With You                         DJ Okawari & Emil
 All I Need                           DJ Okawari & Emil
 Fragile                              DJ Okawari & Cele
 Bluebird Story feat.Jum              DJ Okawari & Jume
-Last regrets - Full Cho              Ayana & VISUAL AR
+10月無口な君を忘れる - Pi                      Atarayo
 Engage Ring                          DJ Okawari & Emil
 Your Star                          塞壬唱片-MSR & DJ O
-Nothing Beats Like A He             逃跑计划EscapePlan
+Flower Dance Pt.2                    DJ Okawari & Emil
 ```
 
 <!-- spotify_track end -->
