@@ -56,10 +56,10 @@ Flower Dance                                DJ Okawari
 トイレの神様                               Kana Uemura
 All I Need                           DJ Okawari & Emil
 Fragile                              DJ Okawari & Cele
-Bluebird Story feat.Jum              DJ Okawari & Jume
 10月無口な君を忘れる - Pi                      Atarayo
 Engage Ring                          DJ Okawari & Emil
-Your Star                          塞壬唱片-MSR & DJ O
+Bluebird Story feat.Jum              DJ Okawari & Jume
+Nightfall                                   DJ Okawari
 Flower Dance Pt.2                    DJ Okawari & Emil
 ```
 
