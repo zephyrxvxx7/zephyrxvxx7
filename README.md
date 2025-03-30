@@ -55,11 +55,11 @@ I'm With You                         DJ Okawari & Emil
 トイレの神様                               Kana Uemura
 Flower Dance                                DJ Okawari
 All I Need                           DJ Okawari & Emil
-Fragile                              DJ Okawari & Cele
 10月無口な君を忘れる - Pi                      Atarayo
+Fragile                              DJ Okawari & Cele
+Nightfall                                   DJ Okawari
 Bluebird Story feat.Jum              DJ Okawari & Jume
 Engage Ring                          DJ Okawari & Emil
-Nightfall                                   DJ Okawari
 Flower Dance Pt.2                    DJ Okawari & Emil
 ```
 
