@@ -52,14 +52,14 @@ Text       0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 All I Need                           DJ Okawari & Emil
+百萬遍                                        CHTHONIC
 I'm With You                         DJ Okawari & Emil
-トイレの神様                               Kana Uemura
 doppelgänger                               Creepy Nuts
-Flower Dance                                DJ Okawari
-10月無口な君を忘れる - Pi                      Atarayo
+トイレの神様                               Kana Uemura
 Cat & Mouse                               Andr & A.G.O
+10月無口な君を忘れる - Pi                      Atarayo
 你終究不愛這世界（Dear Yo                   傻子與白痴
-Engage Ring                          DJ Okawari & Emil
+Flower Dance                                DJ Okawari
 低賤的人                                     Obviously
 ```
 
