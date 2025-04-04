@@ -40,7 +40,7 @@ Text       0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 Five Hearts Under One Roof       🕘 1 hrs 23 mins
-🎮 Summer Pockets                   🕘 0 hrs 25 mins
+🎮 Summer Pockets                   🕘 0 hrs 27 mins
 🎮 Nine Sols                        🕘 0 hrs 8 mins
 ```
 
@@ -57,10 +57,10 @@ I'm With You                         DJ Okawari & Emil
 doppelgänger                               Creepy Nuts
 トイレの神様                               Kana Uemura
 Cat & Mouse                               Andr & A.G.O
-10月無口な君を忘れる - Pi                      Atarayo
 你終究不愛這世界（Dear Yo                   傻子與白痴
-Flower Dance                                DJ Okawari
+10月無口な君を忘れる - Pi                      Atarayo
 低賤的人                                     Obviously
+浪流連                                     EggPlantEgg
 ```
 
 <!-- spotify_track end -->
