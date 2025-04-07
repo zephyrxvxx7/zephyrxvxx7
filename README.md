@@ -41,7 +41,6 @@ Text       0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 🎮 Five Hearts Under One Roof       🕘 1 hrs 23 mins
 🎮 Summer Pockets                   🕘 0 hrs 27 mins
-🎮 Nine Sols                        🕘 0 hrs 8 mins
 ```
 
 <!-- steam_time end -->
@@ -60,7 +59,7 @@ Cat & Mouse                               Andr & A.G.O
 你終究不愛這世界（Dear Yo                   傻子與白痴
 10月無口な君を忘れる - Pi                      Atarayo
 低賤的人                                     Obviously
-浪流連                                     EggPlantEgg
+A Fall and Rebirth                             re:plus
 ```
 
 <!-- spotify_track end -->
