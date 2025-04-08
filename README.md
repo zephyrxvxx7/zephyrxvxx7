@@ -39,7 +39,6 @@ Text       0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Five Hearts Under One Roof       🕘 1 hrs 23 mins
 🎮 Summer Pockets                   🕘 0 hrs 27 mins
 ```
 
@@ -57,9 +56,9 @@ doppelgänger                               Creepy Nuts
 トイレの神様                               Kana Uemura
 Cat & Mouse                               Andr & A.G.O
 你終究不愛這世界（Dear Yo                   傻子與白痴
-10月無口な君を忘れる - Pi                      Atarayo
-低賤的人                                     Obviously
 A Fall and Rebirth                             re:plus
+浪流連                                     EggPlantEgg
+Cult Film Club                              傻子與白痴
 ```
 
 <!-- spotify_track end -->
