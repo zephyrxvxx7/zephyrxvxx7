@@ -49,16 +49,16 @@ Text       0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-All I Need                           DJ Okawari & Emil
 百萬遍                                        CHTHONIC
+All I Need                           DJ Okawari & Emil
 I'm With You                         DJ Okawari & Emil
 doppelgänger                               Creepy Nuts
 トイレの神様                               Kana Uemura
 Cat & Mouse                               Andr & A.G.O
 你終究不愛這世界（Dear Yo                   傻子與白痴
 A Fall and Rebirth                             re:plus
-浪流連                                     EggPlantEgg
 Cult Film Club                              傻子與白痴
+10月無口な君を忘れる - Pi                      Atarayo
 ```
 
 <!-- spotify_track end -->
