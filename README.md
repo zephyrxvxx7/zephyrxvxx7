@@ -58,7 +58,7 @@ Cat & Mouse                               Andr & A.G.O
 你終究不愛這世界（Dear Yo                   傻子與白痴
 A Fall and Rebirth                             re:plus
 Cult Film Club                              傻子與白痴
-10月無口な君を忘れる - Pi                      Atarayo
+愛人                               莉莉周她說 Lily Cho
 ```
 
 <!-- spotify_track end -->
