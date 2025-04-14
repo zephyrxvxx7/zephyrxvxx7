@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-YAML       4 mins         ██████████████████▎░░  86.9%
-Markdown   0 secs         ██▋░░░░░░░░░░░░░░░░░░  12.8%
-Text       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Python     15 mins        ████████████████████▉  99.8%
+CSS        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 ```
 
 <!-- code_time end -->
