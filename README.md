@@ -51,13 +51,13 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 百萬遍                                        CHTHONIC
 doppelgänger                               Creepy Nuts
 トイレの神様                               Kana Uemura
-All I Need                           DJ Okawari & Emil
 Cat & Mouse                               Andr & A.G.O
+All I Need                           DJ Okawari & Emil
 你終究不愛這世界（Dear Yo                   傻子與白痴
 A Fall and Rebirth                             re:plus
-I'm With You                         DJ Okawari & Emil
 Cult Film Club                              傻子與白痴
 愛人                               莉莉周她說 Lily Cho
+Million Mind                       PAX JAPONICA GROOVE
 ```
 
 <!-- spotify_track end -->
