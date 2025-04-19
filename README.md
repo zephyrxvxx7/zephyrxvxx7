@@ -48,16 +48,16 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+Wild - Slowed Down                             Monogem
 百萬遍                                        CHTHONIC
+Funny ghost                                   the engy
 doppelgänger                               Creepy Nuts
-トイレの神様                               Kana Uemura
 Cat & Mouse                               Andr & A.G.O
-All I Need                           DJ Okawari & Emil
-你終究不愛這世界（Dear Yo                   傻子與白痴
 A Fall and Rebirth                             re:plus
-Cult Film Club                              傻子與白痴
-愛人                               莉莉周她說 Lily Cho
 Million Mind                       PAX JAPONICA GROOVE
+That Girl                                    Olly Murs
+memorized.                             Who-ya Extended
+All I Need                           DJ Okawari & Emil
 ```
 
 <!-- spotify_track end -->
