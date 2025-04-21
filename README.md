@@ -57,7 +57,7 @@ A Fall and Rebirth                             re:plus
 Million Mind                       PAX JAPONICA GROOVE
 That Girl                                    Olly Murs
 memorized.                             Who-ya Extended
-All I Need                           DJ Okawari & Emil
+你終究不愛這世界（Dear Yo                   傻子與白痴
 ```
 
 <!-- spotify_track end -->
