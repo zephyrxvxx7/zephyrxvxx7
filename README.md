@@ -48,16 +48,16 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+REVIVƎЯ                               Sawano Hiroyuki
+Take Me Hand                        Daishi Dance & Cé
 Wild - Slowed Down                             Monogem
 百萬遍                                        CHTHONIC
 Funny ghost                                   the engy
 doppelgänger                               Creepy Nuts
 Cat & Mouse                               Andr & A.G.O
-A Fall and Rebirth                             re:plus
 Million Mind                       PAX JAPONICA GROOVE
+A Fall and Rebirth                             re:plus
 That Girl                                    Olly Murs
-memorized.                             Who-ya Extended
-你終究不愛這世界（Dear Yo                   傻子與白痴
 ```
 
 <!-- spotify_track end -->
