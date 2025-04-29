@@ -54,10 +54,10 @@ Wild - Slowed Down                             Monogem
 百萬遍                                        CHTHONIC
 Funny ghost                                   the engy
 doppelgänger                               Creepy Nuts
-Cat & Mouse                               Andr & A.G.O
 Million Mind                       PAX JAPONICA GROOVE
 A Fall and Rebirth                             re:plus
 That Girl                                    Olly Murs
+memorized.                             Who-ya Extended
 ```
 
 <!-- spotify_track end -->
