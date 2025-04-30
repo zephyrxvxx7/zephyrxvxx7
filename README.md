@@ -53,11 +53,11 @@ Take Me Hand                        Daishi Dance & Cé
 Wild - Slowed Down                             Monogem
 百萬遍                                        CHTHONIC
 Funny ghost                                   the engy
-doppelgänger                               Creepy Nuts
-Million Mind                       PAX JAPONICA GROOVE
-A Fall and Rebirth                             re:plus
 That Girl                                    Olly Murs
+Million Mind                       PAX JAPONICA GROOVE
 memorized.                             Who-ya Extended
+A Fall and Rebirth                             re:plus
+Tell You                                          Kylo
 ```
 
 <!-- spotify_track end -->
