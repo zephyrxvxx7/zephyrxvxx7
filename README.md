@@ -51,13 +51,13 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 REVIVƎЯ                               Sawano Hiroyuki
 Take Me Hand                        Daishi Dance & Cé
 Wild - Slowed Down                             Monogem
-百萬遍                                        CHTHONIC
 Funny ghost                                   the engy
 That Girl                                    Olly Murs
 Million Mind                       PAX JAPONICA GROOVE
 memorized.                             Who-ya Extended
-A Fall and Rebirth                             re:plus
+Delusion:All                               ONE OK ROCK
 Tell You                                          Kylo
+Dystopia                                   ONE OK ROCK
 ```
 
 <!-- spotify_track end -->
