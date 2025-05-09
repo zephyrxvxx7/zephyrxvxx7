@@ -52,10 +52,10 @@ REVIVƎЯ                               Sawano Hiroyuki
 Take Me Hand                        Daishi Dance & Cé
 Wild - Slowed Down                             Monogem
 Funny ghost                                   the engy
-Million Mind                       PAX JAPONICA GROOVE
 That Girl                                    Olly Murs
 memorized.                             Who-ya Extended
 Delusion:All                               ONE OK ROCK
+Million Mind                       PAX JAPONICA GROOVE
 Wherever you are                           ONE OK ROCK
 Tell You                                          Kylo
 ```
