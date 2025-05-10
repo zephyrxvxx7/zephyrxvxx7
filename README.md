@@ -50,14 +50,14 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 REVIVƎЯ                               Sawano Hiroyuki
 Take Me Hand                        Daishi Dance & Cé
+大海.Ludun - Live                   NeciKen & 崙山國小
 Wild - Slowed Down                             Monogem
 Funny ghost                                   the engy
 That Girl                                    Olly Murs
 memorized.                             Who-ya Extended
-Delusion:All                               ONE OK ROCK
 Million Mind                       PAX JAPONICA GROOVE
+Delusion:All                               ONE OK ROCK
 Wherever you are                           ONE OK ROCK
-Tell You                                          Kylo
 ```
 
 <!-- spotify_track end -->
