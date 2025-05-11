@@ -49,8 +49,8 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 REVIVƎЯ                               Sawano Hiroyuki
-Take Me Hand                        Daishi Dance & Cé
 大海.Ludun - Live                   NeciKen & 崙山國小
+Take Me Hand                        Daishi Dance & Cé
 Wild - Slowed Down                             Monogem
 Funny ghost                                   the engy
 That Girl                                    Olly Murs
