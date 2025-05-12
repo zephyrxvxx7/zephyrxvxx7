@@ -48,16 +48,16 @@ CSS        0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-REVIVƎЯ                               Sawano Hiroyuki
+REVIVƎЯ                             Sawano Hiroyuki &
 大海.Ludun - Live                   NeciKen & 崙山國小
 Take Me Hand                        Daishi Dance & Cé
 Wild - Slowed Down                             Monogem
 Funny ghost                                   the engy
 That Girl                                    Olly Murs
+年少的我們永遠輕狂                        Crispy脆樂團
+彗星                                        BaishaJAWS
 memorized.                             Who-ya Extended
 Million Mind                       PAX JAPONICA GROOVE
-Delusion:All                               ONE OK ROCK
-Wherever you are                           ONE OK ROCK
 ```
 
 <!-- spotify_track end -->
