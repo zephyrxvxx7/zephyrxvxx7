@@ -27,8 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     15 mins        ████████████████████▉  99.8%
-CSS        0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Python     1 min          ██████████░░░░░░░░░░░  48.0%
+JavaScript 0 secs         █████▌░░░░░░░░░░░░░░░  26.6%
+TOML       0 secs         ███▊░░░░░░░░░░░░░░░░░  17.9%
+Docker     0 secs         ▉░░░░░░░░░░░░░░░░░░░░   4.4%
+Other      0 secs         ▋░░░░░░░░░░░░░░░░░░░░   3.2%
 ```
 
 <!-- code_time end -->
@@ -53,10 +56,10 @@ REVIVƎЯ                             Sawano Hiroyuki &
 Take Me Hand                        Daishi Dance & Cé
 Wild - Slowed Down                             Monogem
 Funny ghost                                   the engy
+Tell You                                          Kylo
 That Girl                                    Olly Murs
-年少的我們永遠輕狂                        Crispy脆樂團
-彗星                                        BaishaJAWS
 memorized.                             Who-ya Extended
+年少的我們永遠輕狂                        Crispy脆樂團
 Million Mind                       PAX JAPONICA GROOVE
 ```
 
