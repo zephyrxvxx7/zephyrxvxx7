@@ -27,11 +27,7 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-JavaScript 6 mins         █████████████▋░░░░░░░  65.1%
-Other      1 min          ██▉░░░░░░░░░░░░░░░░░░  14.1%
-Python     1 min          ██▎░░░░░░░░░░░░░░░░░░  10.8%
-TOML       0 secs         █▊░░░░░░░░░░░░░░░░░░░   8.4%
-Docker     0 secs         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+
 ```
 
 <!-- code_time end -->
@@ -51,16 +47,7 @@ Docker     0 secs         ▏░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-REVIVƎЯ                             Sawano Hiroyuki &
-大海.Ludun - Live                   NeciKen & 崙山國小
-Take Me Hand                        Daishi Dance & Cé
-Wild - Slowed Down                             Monogem
-Funny ghost                                   the engy
-Tell You                                          Kylo
-That Girl                                    Olly Murs
-memorized.                             Who-ya Extended
-年少的我們永遠輕狂                        Crispy脆樂團
-Million Mind                       PAX JAPONICA GROOVE
+
 ```
 
 <!-- spotify_track end -->
