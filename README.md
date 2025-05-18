@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-
+JavaScript 6 mins         █████████████▋░░░░░░░  65.1%
+Other      1 min          ██▉░░░░░░░░░░░░░░░░░░  14.1%
+Python     1 min          ██▎░░░░░░░░░░░░░░░░░░  10.8%
+TOML       0 secs         █▊░░░░░░░░░░░░░░░░░░░   8.4%
+Docker     0 secs         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
 ```
 
 <!-- code_time end -->
@@ -47,7 +51,16 @@ Here are some ideas to get you started:
 <!-- spotify_track start -->
 
 ```text
-
+REVIVƎЯ                             Sawano Hiroyuki &
+大海.Ludun - Live                   NeciKen & 崙山國小
+Take Me Hand                        Daishi Dance & Cé
+Tell You                                          Kylo
+年少的我們永遠輕狂                        Crispy脆樂團
+彗星                                        BaishaJAWS
+Delusion:All                               ONE OK ROCK
+All I Need                           DJ Okawari & Emil
+野獸                                            OBSESS
+愛情的大壞蛋                              Amazing Show
 ```
 
 <!-- spotify_track end -->
