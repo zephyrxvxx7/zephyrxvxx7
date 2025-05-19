@@ -55,12 +55,12 @@ REVIVƎЯ                             Sawano Hiroyuki &
 大海.Ludun - Live                   NeciKen & 崙山國小
 Take Me Hand                        Daishi Dance & Cé
 Tell You                                          Kylo
-年少的我們永遠輕狂                        Crispy脆樂團
 彗星                                        BaishaJAWS
-Delusion:All                               ONE OK ROCK
+You Better Not Think Ab                      Hebe Tien
+跳楼机                                              en
 All I Need                           DJ Okawari & Emil
+Face                                    サトウヨシアキ
 野獸                                            OBSESS
-愛情的大壞蛋                              Amazing Show
 ```
 
 <!-- spotify_track end -->
