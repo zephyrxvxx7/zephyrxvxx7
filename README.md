@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-JavaScript 6 mins         █████████████▋░░░░░░░  65.1%
-Other      1 min          ██▉░░░░░░░░░░░░░░░░░░  14.1%
-Python     1 min          ██▎░░░░░░░░░░░░░░░░░░  10.8%
-TOML       0 secs         █▊░░░░░░░░░░░░░░░░░░░   8.4%
-Docker     0 secs         ▏░░░░░░░░░░░░░░░░░░░░   1.0%
+JavaScript 6 mins         ████████████████░░░░░  76.3%
+Other      1 min          ███▌░░░░░░░░░░░░░░░░░  17.2%
+TOML       0 secs         █▏░░░░░░░░░░░░░░░░░░░   5.7%
+Markdown   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.6%
+JSON       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
 ```
 
 <!-- code_time end -->
@@ -59,8 +59,8 @@ Tell You                                          Kylo
 彗星                                        BaishaJAWS
 Face                                    サトウヨシアキ
 跳楼机                                              en
+美好的事可不可以發生在我                康士坦的變化球
 All I Need                           DJ Okawari & Emil
-野獸                                            OBSESS
 ```
 
 <!-- spotify_track end -->
