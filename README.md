@@ -57,10 +57,10 @@ You Better Not Think Ab                      Hebe Tien
 REVIVƎЯ                             Sawano Hiroyuki &
 Tell You                                          Kylo
 Face                                    サトウヨシアキ
+Luv (sic)                                      Nujabes
 跳楼机                                              en
 彗星                                        BaishaJAWS
 All I Need                           DJ Okawari & Emil
-野獸                                            OBSESS
 ```
 
 <!-- spotify_track end -->
