@@ -55,9 +55,9 @@ JSON       0 secs         ░░░░░░░░░░░░░░░░░░
 Id                                               keshi
 You Better Not Think Ab                      Hebe Tien
 REVIVƎЯ                             Sawano Hiroyuki &
+Luv (sic)                                      Nujabes
 Tell You                                          Kylo
 Face                                    サトウヨシアキ
-Luv (sic)                                      Nujabes
 跳楼机                                              en
 彗星                                        BaishaJAWS
 All I Need                           DJ Okawari & Emil
