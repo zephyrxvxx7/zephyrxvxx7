@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-JavaScript 6 mins         ████████████████░░░░░  76.3%
-Other      1 min          ███▌░░░░░░░░░░░░░░░░░  17.2%
-TOML       0 secs         █▏░░░░░░░░░░░░░░░░░░░   5.7%
-Markdown   0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.6%
-JSON       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.2%
+Python     2 hrs 53 mins  █████████████████▉░░░  85.7%
+JSON       11 mins        █▏░░░░░░░░░░░░░░░░░░░   5.8%
+Bash       8 mins         ▉░░░░░░░░░░░░░░░░░░░░   4.2%
+JavaScript 4 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.4%
+YAML       3 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.9%
 ```
 
 <!-- code_time end -->
