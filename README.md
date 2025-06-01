@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     2 hrs 53 mins  █████████████████▉░░░  85.7%
-JSON       11 mins        █▏░░░░░░░░░░░░░░░░░░░   5.8%
-Bash       8 mins         ▉░░░░░░░░░░░░░░░░░░░░   4.2%
-JavaScript 4 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.4%
-YAML       3 mins         ▍░░░░░░░░░░░░░░░░░░░░   1.9%
+Python     3 hrs 23 mins  █████████████████▌░░░  83.4%
+JSON       15 mins        █▎░░░░░░░░░░░░░░░░░░░   6.4%
+Bash       8 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.5%
+Other      7 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.3%
+JavaScript 4 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.0%
 ```
 
 <!-- code_time end -->
@@ -57,10 +57,10 @@ You Better Not Think Ab                      Hebe Tien
 REVIVƎЯ                             Sawano Hiroyuki &
 Luv (sic)                                      Nujabes
 Tell You                                          Kylo
+All I Need                           DJ Okawari & Emil
 Face                                    サトウヨシアキ
 跳楼机                                              en
 彗星                                        BaishaJAWS
-All I Need                           DJ Okawari & Emil
 ```
 
 <!-- spotify_track end -->
