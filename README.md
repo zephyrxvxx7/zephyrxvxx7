@@ -54,13 +54,13 @@ JavaScript 4 mins         ▍░░░░░░░░░░░░░░░░░
 大海.Ludun - Live                   NeciKen & 崙山國小
 Id                                               keshi
 You Better Not Think Ab                      Hebe Tien
-REVIVƎЯ                             Sawano Hiroyuki &
 Luv (sic)                                      Nujabes
-Tell You                                          Kylo
+Luv (sic) pt2                                  Nujabes
+REVIVƎЯ                             Sawano Hiroyuki &
 All I Need                           DJ Okawari & Emil
+Tell You                                          Kylo
 Face                                    サトウヨシアキ
 跳楼机                                              en
-彗星                                        BaishaJAWS
 ```
 
 <!-- spotify_track end -->
