@@ -59,8 +59,8 @@ Luv (sic) pt2                                  Nujabes
 REVIVƎЯ                             Sawano Hiroyuki &
 All I Need                           DJ Okawari & Emil
 Tell You                                          Kylo
+キミシダイ列車                             ONE OK ROCK
 Face                                    サトウヨシアキ
-跳楼机                                              en
 ```
 
 <!-- spotify_track end -->
