@@ -56,11 +56,11 @@ Id                                               keshi
 You Better Not Think Ab                      Hebe Tien
 Luv (sic)                                      Nujabes
 Luv (sic) pt2                                  Nujabes
-REVIVƎЯ                             Sawano Hiroyuki &
 All I Need                           DJ Okawari & Emil
-Tell You                                          Kylo
+REVIVƎЯ                             Sawano Hiroyuki &
 キミシダイ列車                             ONE OK ROCK
-Face                                    サトウヨシアキ
+Tell You                                          Kylo
+彗星                                        BaishaJAWS
 ```
 
 <!-- spotify_track end -->
