@@ -56,11 +56,11 @@ Id                                               keshi
 You Better Not Think Ab                      Hebe Tien
 Luv (sic)                                      Nujabes
 Luv (sic) pt2                                  Nujabes
-All I Need                           DJ Okawari & Emil
 REVIVƎЯ                             Sawano Hiroyuki &
+年少的我們永遠輕狂                        Crispy脆樂團
 キミシダイ列車                             ONE OK ROCK
 Tell You                                          Kylo
-彗星                                        BaishaJAWS
+All I Need                           DJ Okawari & Emil
 ```
 
 <!-- spotify_track end -->
