@@ -27,11 +27,9 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     3 hrs 23 mins  █████████████████▌░░░  83.4%
-JSON       15 mins        █▎░░░░░░░░░░░░░░░░░░░   6.4%
-Bash       8 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.5%
-Other      7 mins         ▋░░░░░░░░░░░░░░░░░░░░   3.3%
-JavaScript 4 mins         ▍░░░░░░░░░░░░░░░░░░░░   2.0%
+Python     29 mins        ███████████████░░░░░░  72.0%
+Other      7 mins         ███▉░░░░░░░░░░░░░░░░░  19.0%
+JSON       3 mins         █▉░░░░░░░░░░░░░░░░░░░   8.9%
 ```
 
 <!-- code_time end -->
@@ -51,13 +49,13 @@ JavaScript 4 mins         ▍░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-大海.Ludun - Live                   NeciKen & 崙山國小
 Id                                               keshi
+大海.Ludun - Live                   NeciKen & 崙山國小
 You Better Not Think Ab                      Hebe Tien
 Luv (sic)                                      Nujabes
+年少的我們永遠輕狂                        Crispy脆樂團
 Luv (sic) pt2                                  Nujabes
 REVIVƎЯ                             Sawano Hiroyuki &
-年少的我們永遠輕狂                        Crispy脆樂團
 キミシダイ列車                             ONE OK ROCK
 Tell You                                          Kylo
 All I Need                           DJ Okawari & Emil
