@@ -50,15 +50,15 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 
 ```text
 Id                                               keshi
-大海.Ludun - Live                   NeciKen & 崙山國小
 You Better Not Think Ab                      Hebe Tien
 Luv (sic)                                      Nujabes
-年少的我們永遠輕狂                        Crispy脆樂團
 Luv (sic) pt2                                  Nujabes
 REVIVƎЯ                             Sawano Hiroyuki &
 キミシダイ列車                             ONE OK ROCK
 Tell You                                          Kylo
 All I Need                           DJ Okawari & Emil
+Face                                    サトウヨシアキ
+Wherever you are                           ONE OK ROCK
 ```
 
 <!-- spotify_track end -->
