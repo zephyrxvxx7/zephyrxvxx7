@@ -53,12 +53,12 @@ Id                                               keshi
 You Better Not Think Ab                      Hebe Tien
 Luv (sic)                                      Nujabes
 Luv (sic) pt2                                  Nujabes
-REVIVƎЯ                             Sawano Hiroyuki &
 キミシダイ列車                             ONE OK ROCK
-Tell You                                          Kylo
 All I Need                           DJ Okawari & Emil
-Face                                    サトウヨシアキ
 Wherever you are                           ONE OK ROCK
+年少的我們永遠輕狂                        Crispy脆樂團
+Enemy (with JID) - from              Imagine Dragons &
+跳楼机                                              en
 ```
 
 <!-- spotify_track end -->
