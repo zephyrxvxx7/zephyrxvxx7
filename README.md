@@ -55,10 +55,10 @@ Luv (sic)                                      Nujabes
 Luv (sic) pt2                                  Nujabes
 キミシダイ列車                             ONE OK ROCK
 Wherever you are                           ONE OK ROCK
-All I Need                           DJ Okawari & Emil
 年少的我們永遠輕狂                        Crispy脆樂團
 Enemy (with JID) - from              Imagine Dragons &
 跳楼机                                              en
+Fallen Flowers                          Akira Kosemura
 ```
 
 <!-- spotify_track end -->
