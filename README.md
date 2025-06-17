@@ -51,14 +51,14 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 ```text
 Id                                               keshi
 Luv (sic)                                      Nujabes
-You Better Not Think Ab                      Hebe Tien
 Luv (sic) pt2                                  Nujabes
 キミシダイ列車                             ONE OK ROCK
 Wherever you are                           ONE OK ROCK
-REVIVƎЯ                             Sawano Hiroyuki &
-年少的我們永遠輕狂                        Crispy脆樂團
+You Better Not Think Ab                      Hebe Tien
 Enemy (with JID) - from              Imagine Dragons &
 Fallen Flowers                          Akira Kosemura
+年少的我們永遠輕狂                        Crispy脆樂團
+A new one for all, All                     ONE OK ROCK
 ```
 
 <!-- spotify_track end -->
