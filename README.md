@@ -49,16 +49,16 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Id                                               keshi
 Luv (sic)                                      Nujabes
 Luv (sic) pt2                                  Nujabes
 キミシダイ列車                             ONE OK ROCK
+All I Need                           DJ Okawari & Emil
 Wherever you are                           ONE OK ROCK
-You Better Not Think Ab                      Hebe Tien
+年少的我們永遠輕狂                        Crispy脆樂團
 Enemy (with JID) - from              Imagine Dragons &
 Fallen Flowers                          Akira Kosemura
-年少的我們永遠輕狂                        Crispy脆樂團
 A new one for all, All                     ONE OK ROCK
+Last Romance                         DJ Okawari & Emil
 ```
 
 <!-- spotify_track end -->
