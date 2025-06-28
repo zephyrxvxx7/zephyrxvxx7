@@ -39,7 +39,7 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Summer Pockets                   🕘 0 hrs 27 mins
+🎮 Ultimate Chicken Horse           🕘 13 hrs 35 mins
 ```
 
 <!-- steam_time end -->
@@ -55,10 +55,10 @@ Wherever you are                           ONE OK ROCK
 年少的我們永遠輕狂                        Crispy脆樂團
 Enemy (with JID) - from              Imagine Dragons &
 Fallen Flowers                          Akira Kosemura
+Being in Love                         Synth Monsters &
+到此為止                                      LaLa Hsu
 A new one for all, All                     ONE OK ROCK
 Last Romance                         DJ Okawari & Emil
-How You Like That                            BLACKPINK
-Niji No Kanata                          Akira Kosemura
 ```
 
 <!-- spotify_track end -->
