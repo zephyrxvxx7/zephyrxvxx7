@@ -50,15 +50,15 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 
 ```text
 キミシダイ列車                             ONE OK ROCK
-All I Need                           DJ Okawari & Emil
 Wherever you are                           ONE OK ROCK
 年少的我們永遠輕狂                        Crispy脆樂團
 Enemy (with JID) - from              Imagine Dragons &
+All I Need                           DJ Okawari & Emil
 Fallen Flowers                          Akira Kosemura
 Being in Love                         Synth Monsters &
 到此為止                                      LaLa Hsu
 A new one for all, All                     ONE OK ROCK
-Last Romance                         DJ Okawari & Emil
+How You Like That                            BLACKPINK
 ```
 
 <!-- spotify_track end -->
