@@ -49,16 +49,16 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+Time goes by                        Every Little Thing
 キミシダイ列車                             ONE OK ROCK
 Wherever you are                           ONE OK ROCK
 年少的我們永遠輕狂                        Crispy脆樂團
+粉雪                                        Remioromen
 Enemy (with JID) - from              Imagine Dragons &
-All I Need                           DJ Okawari & Emil
 Fallen Flowers                          Akira Kosemura
 Being in Love                         Synth Monsters &
+All I Need                           DJ Okawari & Emil
 到此為止                                      LaLa Hsu
-A new one for all, All                     ONE OK ROCK
-How You Like That                            BLACKPINK
 ```
 
 <!-- spotify_track end -->
