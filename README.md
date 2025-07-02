@@ -50,15 +50,15 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 
 ```text
 Time goes by                        Every Little Thing
-キミシダイ列車                             ONE OK ROCK
-Wherever you are                           ONE OK ROCK
 年少的我們永遠輕狂                        Crispy脆樂團
+fragile                             Every Little Thing
 粉雪                                        Remioromen
-Enemy (with JID) - from              Imagine Dragons &
 Fallen Flowers                          Akira Kosemura
 Being in Love                         Synth Monsters &
 All I Need                           DJ Okawari & Emil
 到此為止                                      LaLa Hsu
+How You Like That                            BLACKPINK
+DAN DAN 心魅かれてく                              ZARD
 ```
 
 <!-- spotify_track end -->
