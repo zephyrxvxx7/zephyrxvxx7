@@ -39,6 +39,7 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
+🎮 Root                             🕘 2 hrs 29 mins
 🎮 Ultimate Chicken Horse           🕘 13 hrs 35 mins
 ```
 
@@ -55,8 +56,8 @@ fragile                             Every Little Thing
 Being in Love                         Synth Monsters &
 All I Need                           DJ Okawari & Emil
 Fallen Flowers                          Akira Kosemura
+Purple Rain                                       LION
 到此為止                                      LaLa Hsu
-年少的我們永遠輕狂                        Crispy脆樂團
 How You Like That                            BLACKPINK
 DAN DAN 心魅かれてく                              ZARD
 ```
