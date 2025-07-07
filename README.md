@@ -41,6 +41,7 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 ```text
 🎮 Root                             🕘 2 hrs 29 mins
 🎮 Ultimate Chicken Horse           🕘 13 hrs 35 mins
+🎮 Summer Pockets                   🕘 0 hrs 31 mins
 ```
 
 <!-- steam_time end -->
