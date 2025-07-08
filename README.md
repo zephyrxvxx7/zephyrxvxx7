@@ -56,11 +56,11 @@ fragile                             Every Little Thing
 粉雪                                        Remioromen
 Being in Love                         Synth Monsters &
 All I Need                           DJ Okawari & Emil
-Fallen Flowers                          Akira Kosemura
 Purple Rain                                       LION
 到此為止                                      LaLa Hsu
 How You Like That                            BLACKPINK
 DAN DAN 心魅かれてく                              ZARD
+特別的人                                   Khalil Fong
 ```
 
 <!-- spotify_track end -->
