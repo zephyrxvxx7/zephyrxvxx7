@@ -54,13 +54,13 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 Time goes by                        Every Little Thing
 fragile                             Every Little Thing
 粉雪                                        Remioromen
+My Type                               The Chainsmokers
 Being in Love                         Synth Monsters &
 All I Need                           DJ Okawari & Emil
 Purple Rain                                       LION
 到此為止                                      LaLa Hsu
 How You Like That                            BLACKPINK
-DAN DAN 心魅かれてく                              ZARD
-特別的人                                   Khalil Fong
+It Won't Kill Ya                      The Chainsmokers
 ```
 
 <!-- spotify_track end -->
