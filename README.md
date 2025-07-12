@@ -40,7 +40,6 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 
 ```text
 🎮 Root                             🕘 2 hrs 29 mins
-🎮 Ultimate Chicken Horse           🕘 13 hrs 35 mins
 🎮 Summer Pockets                   🕘 0 hrs 31 mins
 ```
 
@@ -56,11 +55,11 @@ fragile                             Every Little Thing
 My Type                               The Chainsmokers
 All I Need                           DJ Okawari & Emil
 粉雪                                        Remioromen
-Fireworks                                     MindaRyn
 Being in Love                         Synth Monsters &
 空氣一樣的我                                   Endless
+Fireworks                                     MindaRyn
 Purple Rain                                       LION
-到此為止                                      LaLa Hsu
+It Won't Kill Ya                      The Chainsmokers
 ```
 
 <!-- spotify_track end -->
