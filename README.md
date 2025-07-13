@@ -53,9 +53,9 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 Time goes by                        Every Little Thing
 fragile                             Every Little Thing
 My Type                               The Chainsmokers
+Being in Love                         Synth Monsters &
 All I Need                           DJ Okawari & Emil
 粉雪                                        Remioromen
-Being in Love                         Synth Monsters &
 空氣一樣的我                                   Endless
 Fireworks                                     MindaRyn
 Purple Rain                                       LION
