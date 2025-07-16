@@ -50,16 +50,16 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+若無你我欲去佗位                                黃奇斌
 Time goes by                        Every Little Thing
 fragile                             Every Little Thing
 My Type                               The Chainsmokers
 Fireworks                                     MindaRyn
 Being in Love                         Synth Monsters &
-All I Need                           DJ Okawari & Emil
 粉雪                                        Remioromen
 The Black Heaven                               soulrez
+All I Need                           DJ Okawari & Emil
 空氣一樣的我                                   Endless
-Purple Rain                                       LION
 ```
 
 <!-- spotify_track end -->
