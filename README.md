@@ -52,13 +52,13 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 ```text
 若無你我欲去佗位                                黃奇斌
 Time goes by                        Every Little Thing
+有时候我也想和世界告别                       芝麻Mochi
 fragile                             Every Little Thing
 My Type                               The Chainsmokers
 Fireworks                                     MindaRyn
 Being in Love                         Synth Monsters &
 粉雪                                        Remioromen
 The Black Heaven                               soulrez
-All I Need                           DJ Okawari & Emil
 空氣一樣的我                                   Endless
 ```
 
