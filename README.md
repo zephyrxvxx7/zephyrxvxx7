@@ -39,7 +39,6 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Root                             🕘 2 hrs 29 mins
 🎮 Summer Pockets                   🕘 0 hrs 31 mins
 ```
 
