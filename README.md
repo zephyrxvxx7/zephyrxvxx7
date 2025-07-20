@@ -53,8 +53,8 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 有时候我也想和世界告别                       芝麻Mochi
 Time goes by                        Every Little Thing
 fragile                             Every Little Thing
-My Type                               The Chainsmokers
 Fireworks                                     MindaRyn
+My Type                               The Chainsmokers
 Being in Love                         Synth Monsters &
 粉雪                                        Remioromen
 The Black Heaven                               soulrez
