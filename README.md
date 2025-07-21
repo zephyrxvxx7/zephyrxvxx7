@@ -52,13 +52,13 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 若無你我欲去佗位                                黃奇斌
 有时候我也想和世界告别                       芝麻Mochi
 Time goes by                        Every Little Thing
+My Type                               The Chainsmokers
 fragile                             Every Little Thing
 Fireworks                                     MindaRyn
-My Type                               The Chainsmokers
+我好像在哪见过你                             Joker Xue
 Being in Love                         Synth Monsters &
 粉雪                                        Remioromen
 The Black Heaven                               soulrez
-空氣一樣的我                                   Endless
 ```
 
 <!-- spotify_track end -->
