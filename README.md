@@ -57,8 +57,8 @@ fragile                             Every Little Thing
 Fireworks                                     MindaRyn
 Time goes by                        Every Little Thing
 My Type                               The Chainsmokers
-Being in Love                         Synth Monsters &
 粉雪                                        Remioromen
+All My Love                              Landon Austin
 ```
 
 <!-- spotify_track end -->
