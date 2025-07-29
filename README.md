@@ -53,12 +53,12 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 有时候我也想和世界告别                       芝麻Mochi
 我好像在哪见过你                             Joker Xue
 Purple Rain                                       LION
-fragile                             Every Little Thing
 Fireworks                                     MindaRyn
-Time goes by                        Every Little Thing
 My Type                               The Chainsmokers
+fragile                             Every Little Thing
 All My Love                              Landon Austin
 The Black Heaven                               soulrez
+空氣一樣的我                                   Endless
 ```
 
 <!-- spotify_track end -->
