@@ -55,10 +55,10 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 Purple Rain                                       LION
 Fireworks                                     MindaRyn
 My Type                               The Chainsmokers
-fragile                             Every Little Thing
 你瞞我瞞                                    Jason Chan
 All My Love                              Landon Austin
 The Black Heaven                               soulrez
+空氣一樣的我                                   Endless
 ```
 
 <!-- spotify_track end -->
