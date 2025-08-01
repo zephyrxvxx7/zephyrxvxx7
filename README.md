@@ -52,13 +52,13 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 若無你我欲去佗位                                黃奇斌
 有时候我也想和世界告别                       芝麻Mochi
 我好像在哪见过你                             Joker Xue
-Purple Rain                                       LION
 Fireworks                                     MindaRyn
+Purple Rain                                       LION
 My Type                               The Chainsmokers
-你瞞我瞞                                    Jason Chan
+傲寒                                             Di Ma
 All My Love                              Landon Austin
-The Black Heaven                               soulrez
-空氣一樣的我                                   Endless
+你瞞我瞞                                    Jason Chan
+Slow Mo                                    The Spacies
 ```
 
 <!-- spotify_track end -->
