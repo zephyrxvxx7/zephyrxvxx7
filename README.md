@@ -39,7 +39,7 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Summer Pockets                   🕘 0 hrs 31 mins
+🎮 Summer Pockets                   🕘 1 hrs 2 mins
 ```
 
 <!-- steam_time end -->
@@ -50,14 +50,14 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 
 ```text
 若無你我欲去佗位                                黃奇斌
-有时候我也想和世界告别                       芝麻Mochi
 我好像在哪见过你                             Joker Xue
+有时候我也想和世界告别                       芝麻Mochi
 Fireworks                                     MindaRyn
-Purple Rain                                       LION
 My Type                               The Chainsmokers
 傲寒                                             Di Ma
-All My Love                              Landon Austin
+Purple Rain                                       LION
 你瞞我瞞                                    Jason Chan
+All My Love                              Landon Austin
 Slow Mo                                    The Spacies
 ```
 
