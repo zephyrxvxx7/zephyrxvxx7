@@ -39,6 +39,7 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
+🎮 Living With Sister: Monochrome Fantasy 🕘 7 hrs 24 mins
 🎮 Summer Pockets                   🕘 1 hrs 2 mins
 ```
 
