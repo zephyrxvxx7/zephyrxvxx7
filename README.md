@@ -59,7 +59,7 @@ My Type                               The Chainsmokers
 Purple Rain                                       LION
 你瞞我瞞                                    Jason Chan
 All My Love                              Landon Austin
-Slow Mo                                    The Spacies
+BEAUTIFUL LOVE                              Tanya Chua
 ```
 
 <!-- spotify_track end -->
