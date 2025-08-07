@@ -53,13 +53,13 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 若無你我欲去佗位                                黃奇斌
 我好像在哪见过你                             Joker Xue
 有时候我也想和世界告别                       芝麻Mochi
-Fireworks                                     MindaRyn
 傲寒                                             Di Ma
 Purple Rain                                       LION
 你瞞我瞞                                    Jason Chan
-All My Love                              Landon Austin
+Fireworks                                     MindaRyn
 BEAUTIFUL LOVE                              Tanya Chua
 海闊天空                                        Beyond
+孤勇者 - 《英雄聯盟：雙城                   Eason Chan
 ```
 
 <!-- spotify_track end -->
