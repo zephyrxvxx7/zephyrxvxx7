@@ -56,10 +56,10 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 傲寒                                             Di Ma
 Purple Rain                                       LION
 你瞞我瞞                                    Jason Chan
+Los Angeles                               The Midnight
 Fireworks                                     MindaRyn
-BEAUTIFUL LOVE                              Tanya Chua
 海闊天空                                        Beyond
-孤勇者 - 《英雄聯盟：雙城                   Eason Chan
+BEAUTIFUL LOVE                              Tanya Chua
 ```
 
 <!-- spotify_track end -->
