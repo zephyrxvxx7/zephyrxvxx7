@@ -54,12 +54,12 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 我好像在哪见过你                             Joker Xue
 有时候我也想和世界告别                       芝麻Mochi
 傲寒                                             Di Ma
-Purple Rain                                       LION
 你瞞我瞞                                    Jason Chan
+Purple Rain                                       LION
 Los Angeles                               The Midnight
 Fireworks                                     MindaRyn
 海闊天空                                        Beyond
-BEAUTIFUL LOVE                              Tanya Chua
+Slow Mo                                    The Spacies
 ```
 
 <!-- spotify_track end -->
