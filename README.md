@@ -53,13 +53,13 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 若無你我欲去佗位                                黃奇斌
 我好像在哪见过你                             Joker Xue
 有时候我也想和世界告别                       芝麻Mochi
+我們萬歲                             Eason Chan & easo
 傲寒                                             Di Ma
+Los Angeles                               The Midnight
 你瞞我瞞                                    Jason Chan
 Purple Rain                                       LION
-Los Angeles                               The Midnight
-Fireworks                                     MindaRyn
+BEAUTIFUL LOVE                              Tanya Chua
 海闊天空                                        Beyond
-Slow Mo                                    The Spacies
 ```
 
 <!-- spotify_track end -->
