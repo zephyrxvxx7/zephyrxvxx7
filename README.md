@@ -50,13 +50,13 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+我們萬歲                             Eason Chan & easo
 我好像在哪见过你                             Joker Xue
 若無你我欲去佗位                                黃奇斌
-我們萬歲                             Eason Chan & easo
-有时候我也想和世界告别                       芝麻Mochi
 傲寒                                             Di Ma
 你瞞我瞞                                    Jason Chan
 Los Angeles                               The Midnight
+メトロシティ                            imase & natori
 Purple Rain                                       LION
 BEAUTIFUL LOVE                              Tanya Chua
 Slow Mo                                    The Spacies
