@@ -40,7 +40,6 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 
 ```text
 🎮 Living With Sister: Monochrome Fantasy 🕘 7 hrs 24 mins
-🎮 Summer Pockets                   🕘 1 hrs 2 mins
 ```
 
 <!-- steam_time end -->
@@ -53,13 +52,13 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 我們萬歲                             Eason Chan & easo
 我好像在哪见过你                             Joker Xue
 若無你我欲去佗位                                黃奇斌
+メトロシティ                            imase & natori
 傲寒                                             Di Ma
 你瞞我瞞                                    Jason Chan
 Los Angeles                               The Midnight
-メトロシティ                            imase & natori
 Purple Rain                                       LION
-BEAUTIFUL LOVE                              Tanya Chua
 Slow Mo                                    The Spacies
+海闊天空                                        Beyond
 ```
 
 <!-- spotify_track end -->
