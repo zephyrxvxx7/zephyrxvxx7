@@ -57,8 +57,8 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 你瞞我瞞                                    Jason Chan
 Los Angeles                               The Midnight
 Purple Rain                                       LION
-Slow Mo                                    The Spacies
 海闊天空                                        Beyond
+Slow Mo                                    The Spacies
 ```
 
 <!-- spotify_track end -->
