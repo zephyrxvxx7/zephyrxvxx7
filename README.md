@@ -51,8 +51,8 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 ```text
 我們萬歲                             Eason Chan & easo
 我好像在哪见过你                             Joker Xue
-若無你我欲去佗位                                黃奇斌
 メトロシティ                            imase & natori
+若無你我欲去佗位                                黃奇斌
 傲寒                                             Di Ma
 你瞞我瞞                                    Jason Chan
 Los Angeles                               The Midnight
