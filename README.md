@@ -52,13 +52,13 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 我們萬歲                             Eason Chan & easo
 我好像在哪见过你                             Joker Xue
 メトロシティ                            imase & natori
-若無你我欲去佗位                                黃奇斌
-傲寒                                             Di Ma
 你瞞我瞞                                    Jason Chan
+若無你我欲去佗位                                黃奇斌
 Los Angeles                               The Midnight
-Purple Rain                                       LION
 海闊天空                                        Beyond
-Slow Mo                                    The Spacies
+這世界那麼多人（電影《我                     Karen Mok
+Electric Love                           NIGHT TRAVELER
+傲寒                                             Di Ma
 ```
 
 <!-- spotify_track end -->
