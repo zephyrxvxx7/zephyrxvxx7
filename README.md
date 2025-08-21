@@ -50,15 +50,15 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 
 ```text
 我們萬歲                             Eason Chan & easo
+Golden                                HUNTR/X & EJAE &
 メトロシティ                            imase & natori
 你瞞我瞞                                    Jason Chan
-我好像在哪见过你                             Joker Xue
 Los Angeles                               The Midnight
 若無你我欲去佗位                                黃奇斌
+我好像在哪见过你                             Joker Xue
+What It Sounds Like                   HUNTR/X & EJAE &
 海闊天空                                        Beyond
 這世界那麼多人（電影《我                     Karen Mok
-Electric Love                           NIGHT TRAVELER
-傲寒                                             Di Ma
 ```
 
 <!-- spotify_track end -->
