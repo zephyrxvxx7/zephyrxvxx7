@@ -54,11 +54,11 @@ Golden                                HUNTR/X & EJAE &
 What It Sounds Like                   HUNTR/X & EJAE &
 メトロシティ                            imase & natori
 Takedown                              HUNTR/X & EJAE &
-你瞞我瞞                                    Jason Chan
 孤勇者 - 《英雄聯盟：雙城                   Eason Chan
 Los Angeles                               The Midnight
 若無你我欲去佗位                                黃奇斌
-海闊天空                                        Beyond
+這世界那麼多人（電影《我                     Karen Mok
+Electric Love                           NIGHT TRAVELER
 ```
 
 <!-- spotify_track end -->
