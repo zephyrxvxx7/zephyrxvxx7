@@ -54,11 +54,11 @@ Golden                                HUNTR/X & EJAE &
 What It Sounds Like                   HUNTR/X & EJAE &
 メトロシティ                            imase & natori
 Takedown                              HUNTR/X & EJAE &
-Los Angeles                               The Midnight
 ENDLESS RAIN - Remaster                        X JAPAN
-若無你我欲去佗位                                黃奇斌
+夢みたあとで                               GARNET CROW
+Los Angeles                               The Midnight
+Kong                                         Justin Lo
 孤勇者 - 《英雄聯盟：雙城                   Eason Chan
-這世界那麼多人（電影《我                     Karen Mok
 ```
 
 <!-- spotify_track end -->
