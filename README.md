@@ -53,11 +53,11 @@ Golden                                HUNTR/X & EJAE &
 我們萬歲                             Eason Chan & easo
 What It Sounds Like                   HUNTR/X & EJAE &
 メトロシティ                            imase & natori
+夢みたあとで                               GARNET CROW
 Takedown                              HUNTR/X & EJAE &
 ENDLESS RAIN - Remaster                        X JAPAN
-夢みたあとで                               GARNET CROW
-Los Angeles                               The Midnight
 Kong                                         Justin Lo
+Electric Love                           NIGHT TRAVELER
 孤勇者 - 《英雄聯盟：雙城                   Eason Chan
 ```
 
