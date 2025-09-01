@@ -52,13 +52,13 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 Golden                                HUNTR/X & EJAE &
 我們萬歲                             Eason Chan & easo
 What It Sounds Like                   HUNTR/X & EJAE &
-メトロシティ                            imase & natori
 夢みたあとで                               GARNET CROW
+メトロシティ                            imase & natori
 Takedown                              HUNTR/X & EJAE &
-ENDLESS RAIN - Remaster                        X JAPAN
+JEWEL                                   Ayumi Hamasaki
 Kong                                         Justin Lo
-Electric Love                           NIGHT TRAVELER
-孤勇者 - 《英雄聯盟：雙城                   Eason Chan
+ENDLESS RAIN - Remaster                        X JAPAN
+Los Angeles                               The Midnight
 ```
 
 <!-- spotify_track end -->
