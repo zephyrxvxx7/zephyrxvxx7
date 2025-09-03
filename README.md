@@ -55,8 +55,8 @@ What It Sounds Like                   HUNTR/X & EJAE &
 夢みたあとで                               GARNET CROW
 メトロシティ                            imase & natori
 Takedown                              HUNTR/X & EJAE &
-JEWEL                                   Ayumi Hamasaki
 Kong                                         Justin Lo
+JEWEL                                   Ayumi Hamasaki
 ENDLESS RAIN - Remaster                        X JAPAN
 Los Angeles                               The Midnight
 ```
