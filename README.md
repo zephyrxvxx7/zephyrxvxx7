@@ -51,11 +51,11 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 ```text
 Golden                                HUNTR/X & EJAE &
 我們萬歲                             Eason Chan & easo
-What It Sounds Like                   HUNTR/X & EJAE &
 夢みたあとで                               GARNET CROW
+What It Sounds Like                   HUNTR/X & EJAE &
 メトロシティ                            imase & natori
-Takedown                              HUNTR/X & EJAE &
 Kong                                         Justin Lo
+Takedown                              HUNTR/X & EJAE &
 JEWEL                                   Ayumi Hamasaki
 ENDLESS RAIN - Remaster                        X JAPAN
 Los Angeles                               The Midnight
