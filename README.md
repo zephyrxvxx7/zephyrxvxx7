@@ -54,11 +54,11 @@ Golden                                HUNTR/X & EJAE &
 夢みたあとで                               GARNET CROW
 What It Sounds Like                   HUNTR/X & EJAE &
 メトロシティ                            imase & natori
-Kong                                         Justin Lo
 Takedown                              HUNTR/X & EJAE &
+Kong                                         Justin Lo
 JEWEL                                   Ayumi Hamasaki
 ENDLESS RAIN - Remaster                        X JAPAN
-Los Angeles                               The Midnight
+Rewind                                  Shun Nakanishi
 ```
 
 <!-- spotify_track end -->
