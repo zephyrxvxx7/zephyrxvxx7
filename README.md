@@ -49,16 +49,16 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+野鳥                                            宋德鶴
 Golden                                HUNTR/X & EJAE &
 我們萬歲                             Eason Chan & easo
 夢みたあとで                               GARNET CROW
 What It Sounds Like                   HUNTR/X & EJAE &
 メトロシティ                            imase & natori
-Takedown                              HUNTR/X & EJAE &
 Kong                                         Justin Lo
+Takedown                              HUNTR/X & EJAE &
 JEWEL                                   Ayumi Hamasaki
 ENDLESS RAIN - Remaster                        X JAPAN
-Rewind                                  Shun Nakanishi
 ```
 
 <!-- spotify_track end -->
