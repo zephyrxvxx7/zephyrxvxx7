@@ -52,13 +52,13 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 野鳥                                            宋德鶴
 Golden                                HUNTR/X & EJAE &
 我們萬歲                             Eason Chan & easo
+Sion (feat. isui)                         Islet & Isui
 夢みたあとで                               GARNET CROW
 What It Sounds Like                   HUNTR/X & EJAE &
 メトロシティ                            imase & natori
 Kong                                         Justin Lo
 Takedown                              HUNTR/X & EJAE &
 JEWEL                                   Ayumi Hamasaki
-ENDLESS RAIN - Remaster                        X JAPAN
 ```
 
 <!-- spotify_track end -->
