@@ -50,15 +50,15 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 
 ```text
 野鳥                                            宋德鶴
-Golden                                HUNTR/X & EJAE &
 Sion (feat. isui)                         Islet & Isui
-What It Sounds Like                   HUNTR/X & EJAE &
 夢みたあとで                               GARNET CROW
-Takedown                              HUNTR/X & EJAE &
+What It Sounds Like                   HUNTR/X & EJAE &
+Golden                                HUNTR/X & EJAE &
 JEWEL                                   Ayumi Hamasaki
 ENDLESS RAIN - Remaster                        X JAPAN
 FOREVER LOVE                                   X JAPAN
 野人                                            孟维来
+Takedown                              HUNTR/X & EJAE &
 ```
 
 <!-- spotify_track end -->
