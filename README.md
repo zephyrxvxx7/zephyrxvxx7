@@ -52,13 +52,13 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 野鳥                                            宋德鶴
 Sion (feat. isui)                         Islet & Isui
 夢みたあとで                               GARNET CROW
-What It Sounds Like                   HUNTR/X & EJAE &
-Golden                                HUNTR/X & EJAE &
 JEWEL                                   Ayumi Hamasaki
 ENDLESS RAIN - Remaster                        X JAPAN
 FOREVER LOVE                                   X JAPAN
 野人                                            孟维来
-Takedown                              HUNTR/X & EJAE &
+What It Sounds Like                   HUNTR/X & EJAE &
+Kong                                         Justin Lo
+M                                       Ayumi Hamasaki
 ```
 
 <!-- spotify_track end -->
