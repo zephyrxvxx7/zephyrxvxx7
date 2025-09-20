@@ -56,9 +56,9 @@ JEWEL                                   Ayumi Hamasaki
 ENDLESS RAIN - Remaster                        X JAPAN
 FOREVER LOVE                                   X JAPAN
 野人                                            孟维来
-What It Sounds Like                   HUNTR/X & EJAE &
-Kong                                         Justin Lo
 M                                       Ayumi Hamasaki
+Butterflies. - Sped Up               Tundra & Tundra B
+What It Sounds Like                   HUNTR/X & EJAE &
 ```
 
 <!-- spotify_track end -->
