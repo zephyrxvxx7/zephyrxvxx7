@@ -39,7 +39,7 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Living With Sister: Monochrome Fantasy 🕘 7 hrs 24 mins
+🎮 Planetiles                       🕘 0 hrs 10 mins
 ```
 
 <!-- steam_time end -->
