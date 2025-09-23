@@ -52,12 +52,12 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 野鳥                                            宋德鶴
 Sion (feat. isui)                         Islet & Isui
 夢みたあとで                               GARNET CROW
+如果如果有一天                                   FUMON
 JEWEL                                   Ayumi Hamasaki
 ENDLESS RAIN - Remaster                        X JAPAN
 FOREVER LOVE                                   X JAPAN
 野人                                            孟维来
 M                                       Ayumi Hamasaki
-Butterflies. - Sped Up               Tundra & Tundra B
 What It Sounds Like                   HUNTR/X & EJAE &
 ```
 
