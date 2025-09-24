@@ -50,15 +50,15 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 
 ```text
 野鳥                                            宋德鶴
+如果如果有一天                                   FUMON
 Sion (feat. isui)                         Islet & Isui
 夢みたあとで                               GARNET CROW
-如果如果有一天                                   FUMON
 JEWEL                                   Ayumi Hamasaki
-ENDLESS RAIN - Remaster                        X JAPAN
-FOREVER LOVE                                   X JAPAN
 野人                                            孟维来
 M                                       Ayumi Hamasaki
 What It Sounds Like                   HUNTR/X & EJAE &
+Kong                                         Justin Lo
+紅 - KURENAI - シングル・                      X JAPAN
 ```
 
 <!-- spotify_track end -->
