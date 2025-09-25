@@ -55,9 +55,9 @@ Sion (feat. isui)                         Islet & Isui
 夢みたあとで                               GARNET CROW
 JEWEL                                   Ayumi Hamasaki
 野人                                            孟维来
-M                                       Ayumi Hamasaki
 What It Sounds Like                   HUNTR/X & EJAE &
 Kong                                         Justin Lo
+Butterflies. - Sped Up               Tundra & Tundra B
 紅 - KURENAI - シングル・                      X JAPAN
 ```
 
