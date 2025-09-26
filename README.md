@@ -52,12 +52,12 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 野鳥                                            宋德鶴
 如果如果有一天                                   FUMON
 Sion (feat. isui)                         Islet & Isui
-夢みたあとで                               GARNET CROW
-JEWEL                                   Ayumi Hamasaki
 野人                                            孟维来
+夢みたあとで                               GARNET CROW
 What It Sounds Like                   HUNTR/X & EJAE &
+JEWEL                                   Ayumi Hamasaki
 Kong                                         Justin Lo
-Butterflies. - Sped Up               Tundra & Tundra B
+Sad Melody (stripped)                            FUMON
 紅 - KURENAI - シングル・                      X JAPAN
 ```
 
