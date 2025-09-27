@@ -53,12 +53,12 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 如果如果有一天                                   FUMON
 Sion (feat. isui)                         Islet & Isui
 野人                                            孟维来
-夢みたあとで                               GARNET CROW
+红色高跟鞋 - 氛围版                               池鱼
 What It Sounds Like                   HUNTR/X & EJAE &
-JEWEL                                   Ayumi Hamasaki
-Kong                                         Justin Lo
 Sad Melody (stripped)                            FUMON
 紅 - KURENAI - シングル・                      X JAPAN
+Circle of Karma                            FUZI & MAAS
+Are You With Me                      Said The Sky & Ju
 ```
 
 <!-- spotify_track end -->
