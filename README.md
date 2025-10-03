@@ -53,12 +53,12 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 如果如果有一天                                   FUMON
 Sion (feat. isui)                         Islet & Isui
 野人                                            孟维来
+Are You With Me                      Said The Sky & Ju
 红色高跟鞋 - 氛围版                               池鱼
 What It Sounds Like                   HUNTR/X & EJAE &
-Sad Melody (stripped)                            FUMON
-紅 - KURENAI - シングル・                      X JAPAN
-Circle of Karma                            FUZI & MAAS
-Are You With Me                      Said The Sky & Ju
+Iris -BUBBLE-                        Sawano Hiroyuki &
+Avid                                 Sawano Hiroyuki &
+LilaS                                Sawano Hiroyuki &
 ```
 
 <!-- spotify_track end -->
