@@ -51,14 +51,14 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 ```text
 如果如果有一天                                   FUMON
 野鳥                                            宋德鶴
-Sion (feat. isui)                         Islet & Isui
 Avid                                 Sawano Hiroyuki &
 红色高跟鞋 - 氛围版                               池鱼
-What It Sounds Like                   HUNTR/X & EJAE &
 Iris -BUBBLE-                        Sawano Hiroyuki &
 LilaS                                Sawano Hiroyuki &
 Sad Melody (stripped)                            FUMON
 紅 - KURENAI - シングル・                      X JAPAN
+Circle of Karma                            FUZI & MAAS
+Purple Rain                                       LION
 ```
 
 <!-- spotify_track end -->
