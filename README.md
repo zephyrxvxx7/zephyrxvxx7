@@ -50,13 +50,13 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 
 ```text
 如果如果有一天                                   FUMON
+把你給的愛全部還給你                       王泰翔 2000
 野鳥                                            宋德鶴
 Avid                                 Sawano Hiroyuki &
 红色高跟鞋 - 氛围版                               池鱼
 Iris -BUBBLE-                        Sawano Hiroyuki &
 LilaS                                Sawano Hiroyuki &
 Sad Melody (stripped)                            FUMON
-紅 - KURENAI - シングル・                      X JAPAN
 Circle of Karma                            FUZI & MAAS
 Purple Rain                                       LION
 ```
