@@ -57,8 +57,8 @@ Avid                                 Sawano Hiroyuki &
 Iris -BUBBLE-                        Sawano Hiroyuki &
 LilaS                                Sawano Hiroyuki &
 Sad Melody (stripped)                            FUMON
-Circle of Karma                            FUZI & MAAS
 Purple Rain                                       LION
+REVIVƎЯ                             Sawano Hiroyuki &
 ```
 
 <!-- spotify_track end -->
