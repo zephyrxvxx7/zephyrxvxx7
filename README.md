@@ -53,12 +53,12 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 把你給的愛全部還給你                       王泰翔 2000
 野鳥                                            宋德鶴
 Avid                                 Sawano Hiroyuki &
+ドライフラワー                                   Yuuri
 红色高跟鞋 - 氛围版                               池鱼
 Iris -BUBBLE-                        Sawano Hiroyuki &
 LilaS                                Sawano Hiroyuki &
 Sad Melody (stripped)                            FUMON
 Purple Rain                                       LION
-REVIVƎЯ                             Sawano Hiroyuki &
 ```
 
 <!-- spotify_track end -->
