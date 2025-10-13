@@ -52,13 +52,13 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 如果如果有一天                                   FUMON
 把你給的愛全部還給你                       王泰翔 2000
 野鳥                                            宋德鶴
-Avid                                 Sawano Hiroyuki &
 ドライフラワー                                   Yuuri
+Avid                                 Sawano Hiroyuki &
 红色高跟鞋 - 氛围版                               池鱼
 Iris -BUBBLE-                        Sawano Hiroyuki &
 LilaS                                Sawano Hiroyuki &
 Sad Melody (stripped)                            FUMON
-Purple Rain                                       LION
+我們萬歲                             Eason Chan & easo
 ```
 
 <!-- spotify_track end -->
