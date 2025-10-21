@@ -55,10 +55,10 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 ドライフラワー                                   Yuuri
 红色高跟鞋 - 氛围版                               池鱼
 Who Wants To Live Forev              Nine Inch Nails &
+年少的我們永遠輕狂                        Crispy脆樂團
 LilaS                                Sawano Hiroyuki &
-野鳥                                            宋德鶴
 Avid                                 Sawano Hiroyuki &
-As Alive As You Need Me                Nine Inch Nails
+野鳥                                            宋德鶴
 ```
 
 <!-- spotify_track end -->
