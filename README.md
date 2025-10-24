@@ -54,8 +54,8 @@ Regression                           HOYO-MiX & Ayanga
 我們萬歲                             Eason Chan & easo
 Fruit Bat                          Of Monsters and Men
 用力活着                                          张茜
-如果如果有一天                                   FUMON
 Avid                                 Sawano Hiroyuki &
+如果如果有一天                                   FUMON
 年少的我們永遠輕狂                        Crispy脆樂團
 ドライフラワー                                   Yuuri
 Who Wants To Live Forev              Nine Inch Nails &
