@@ -54,11 +54,11 @@ Regression                           HOYO-MiX & Ayanga
 我們萬歲                             Eason Chan & easo
 Fruit Bat                          Of Monsters and Men
 用力活着                                          张茜
-Avid                                 Sawano Hiroyuki &
 如果如果有一天                                   FUMON
 年少的我們永遠輕狂                        Crispy脆樂團
 Who Wants To Live Forev              Nine Inch Nails &
-LilaS                                Sawano Hiroyuki &
+我們想去的地方(I'll Take           白色海岸The White C
+Fatal Obsession (feat.               The Midnight & Ju
 ```
 
 <!-- spotify_track end -->
