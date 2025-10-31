@@ -58,7 +58,7 @@ Fruit Bat                          Of Monsters and Men
 年少的我們永遠輕狂                        Crispy脆樂團
 Who Wants To Live Forev              Nine Inch Nails &
 我們想去的地方(I'll Take           白色海岸The White C
-Fatal Obsession (feat.               The Midnight & Ju
+時光機                                  Terence Siufay
 ```
 
 <!-- spotify_track end -->
