@@ -54,11 +54,11 @@ Regression                           HOYO-MiX & Ayanga
 我們萬歲                             Eason Chan & easo
 Fruit Bat                          Of Monsters and Men
 用力活着                                          张茜
-如果如果有一天                                   FUMON
 來自我自己                                   Control T
 Who Wants To Live Forev              Nine Inch Nails &
 時光機                                  Terence Siufay
 コンプリケイション                   ROOKiEZ is PUNK'D
+そのとき                                Hitsujibungaku
 ```
 
 <!-- spotify_track end -->
