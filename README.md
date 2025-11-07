@@ -49,9 +49,9 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-把你給的愛全部還給你                    王泰翔 2000wtx
-Regression                           HOYO-MiX & Ayanga
 我們萬歲                             Eason Chan & easo
+Regression                           HOYO-MiX & Ayanga
+把你給的愛全部還給你                    王泰翔 2000wtx
 Fruit Bat                          Of Monsters and Men
 用力活着                                          张茜
 來自我自己                                   Control T
