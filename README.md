@@ -55,10 +55,10 @@ Regression                           HOYO-MiX & Ayanga
 Fruit Bat                          Of Monsters and Men
 用力活着                                          张茜
 來自我自己                                   Control T
+海闊天空                                        Beyond
 Who Wants To Live Forev              Nine Inch Nails &
 時光機                                  Terence Siufay
 コンプリケイション                   ROOKiEZ is PUNK'D
-As Alive As You Need Me                Nine Inch Nails
 ```
 
 <!-- spotify_track end -->
