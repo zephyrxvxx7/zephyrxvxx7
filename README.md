@@ -52,8 +52,8 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 Regression                           HOYO-MiX & Ayanga
 我們萬歲                             Eason Chan & easo
 把你給的愛全部還給你                    王泰翔 2000wtx
-Fruit Bat                          Of Monsters and Men
 用力活着                                          张茜
+Fruit Bat                          Of Monsters and Men
 來自我自己                                   Control T
 海闊天空                                        Beyond
 時光機                                  Terence Siufay
