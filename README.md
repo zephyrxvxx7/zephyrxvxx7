@@ -49,16 +49,16 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Regression                           HOYO-MiX & Ayanga
 我們萬歲                             Eason Chan & easo
-把你給的愛全部還給你                    王泰翔 2000wtx
+Regression                           HOYO-MiX & Ayanga
 用力活着                                          张茜
 Fruit Bat                          Of Monsters and Men
+把你給的愛全部還給你                    王泰翔 2000wtx
 來自我自己                                   Control T
 海闊天空                                        Beyond
+無謂再假                                           Mr.
 時光機                                  Terence Siufay
 コンプリケイション                   ROOKiEZ is PUNK'D
-Oh No                                    THE SIXTH LIE
 ```
 
 <!-- spotify_track end -->
