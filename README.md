@@ -57,8 +57,8 @@ Fruit Bat                          Of Monsters and Men
 來自我自己                                   Control T
 海闊天空                                        Beyond
 無謂再假                                           Mr.
+Fire In The Sky                           The Midnight
 時光機                                  Terence Siufay
-コンプリケイション                   ROOKiEZ is PUNK'D
 ```
 
 <!-- spotify_track end -->
