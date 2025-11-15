@@ -51,6 +51,7 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 ```text
 我們萬歲                             Eason Chan & easo
 Regression                           HOYO-MiX & Ayanga
+Icarus                               Said The Sky & El
 用力活着                                          张茜
 Fruit Bat                          Of Monsters and Men
 把你給的愛全部還給你                    王泰翔 2000wtx
@@ -58,7 +59,6 @@ Fruit Bat                          Of Monsters and Men
 海闊天空                                        Beyond
 無謂再假                                           Mr.
 Fire In The Sky                           The Midnight
-時光機                                  Terence Siufay
 ```
 
 <!-- spotify_track end -->
