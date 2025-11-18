@@ -52,13 +52,13 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 我們萬歲                             Eason Chan & easo
 Regression                           HOYO-MiX & Ayanga
 Icarus                               Said The Sky & El
-Fruit Bat                          Of Monsters and Men
 用力活着                                          张茜
+Fruit Bat                          Of Monsters and Men
 把你給的愛全部還給你                    王泰翔 2000wtx
+toxic till the end                                ROSÉ
 來自我自己                                   Control T
 海闊天空                                        Beyond
 無謂再假                                           Mr.
-Right Here                                Said The Sky
 ```
 
 <!-- spotify_track end -->
