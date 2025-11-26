@@ -53,12 +53,12 @@ Icarus                               Said The Sky & El
 我們萬歲                             Eason Chan & easo
 toxic till the end                                ROSÉ
 Камин                                 EMIN & JONY
-來自我自己                                   Control T
 海闊天空                                        Beyond
+來自我自己                                   Control T
 無謂再假                                           Mr.
+野人                                            孟维来
 Right Here                                Said The Sky
 Fire In The Sky                           The Midnight
-そのとき                                Hitsujibungaku
 ```
 
 <!-- spotify_track end -->
