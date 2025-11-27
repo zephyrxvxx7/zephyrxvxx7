@@ -54,10 +54,10 @@ Icarus                               Said The Sky & El
 toxic till the end                                ROSÉ
 Камин                                 EMIN & JONY
 海闊天空                                        Beyond
-來自我自己                                   Control T
 無謂再假                                           Mr.
 野人                                            孟维来
 Right Here                                Said The Sky
+マリタイム                                   AprilBlue
 Fire In The Sky                           The Midnight
 ```
 
