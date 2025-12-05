@@ -50,13 +50,13 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 
 ```text
 Icarus                               Said The Sky & El
-我們萬歲                             Eason Chan & easo
 toxic till the end                                ROSÉ
 Камин                                 EMIN & JONY
-海闊天空                                        Beyond
-無謂再假                                           Mr.
-Opening                                     Ed Sheeran
 Find Your Way                        Culture Code & So
+我們萬歲                             Eason Chan & easo
+無謂再假                                           Mr.
+海闊天空                                        Beyond
+Opening                                     Ed Sheeran
 野人                                            孟维来
 マリタイム                                   AprilBlue
 ```
