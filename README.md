@@ -54,11 +54,11 @@ toxic till the end                                ROSÉ
 Камин                                 EMIN & JONY
 Find Your Way                        Culture Code & So
 無謂再假                                           Mr.
-海闊天空                                        Beyond
 Opening                                     Ed Sheeran
 野人                                            孟维来
 マリタイム                                   AprilBlue
 Fire In The Sky                           The Midnight
+Still Love You                                     AAA
 ```
 
 <!-- spotify_track end -->
