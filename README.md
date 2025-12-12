@@ -54,11 +54,11 @@ toxic till the end                                ROSÉ
 Камин                                 EMIN & JONY
 Find Your Way                        Culture Code & So
 Opening                                     Ed Sheeran
+粉雪                                        Remioromen
 野人                                            孟维来
 マリタイム                                   AprilBlue
-Fire In The Sky                           The Midnight
-Subtitle                             OFFICIAL HIGE DAN
 Still Love You                                     AAA
+Luv Letter                                  DJ Okawari
 ```
 
 <!-- spotify_track end -->
