@@ -49,7 +49,6 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Icarus                               Said The Sky & El
 toxic till the end                                ROSÉ
 Камин                                 EMIN & JONY
 Find Your Way                        Culture Code & So
@@ -58,7 +57,8 @@ Opening                                     Ed Sheeran
 野人                                            孟维来
 マリタイム                                   AprilBlue
 Still Love You                                     AAA
-Luv Letter                                  DJ Okawari
+Subtitle                             OFFICIAL HIGE DAN
+満ちてゆく                                  Fujii Kaze
 ```
 
 <!-- spotify_track end -->
