@@ -39,7 +39,9 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Ultimate Sheep Raccoon Demo      🕘 0 hrs 2 mins
+🎮 Untitled Goose Game              🕘 1 hrs 25 mins
+🎮 Balatro                          🕘 0 hrs 44 mins
+🎮 Street Fighter™ 6                🕘 49 hrs 10 mins
 ```
 
 <!-- steam_time end -->
