@@ -51,16 +51,16 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-toxic till the end                                ROSÉ
 Камин                                 EMIN & JONY
 Find Your Way                        Culture Code & So
 粉雪                                        Remioromen
-Opening                                     Ed Sheeran
-野人                                            孟维来
+toxic till the end                                ROSÉ
+First Love                                Hikaru Utada
 Subtitle                             OFFICIAL HIGE DAN
 マリタイム                                   AprilBlue
-Still Love You                                     AAA
 満ちてゆく                                  Fujii Kaze
+Still Love You                                     AAA
+Opening                                     Ed Sheeran
 ```
 
 <!-- spotify_track end -->
