@@ -54,13 +54,13 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 Камин                                 EMIN & JONY
 Find Your Way                        Culture Code & So
 粉雪                                        Remioromen
-toxic till the end                                ROSÉ
 First Love                                Hikaru Utada
 Subtitle                             OFFICIAL HIGE DAN
 マリタイム                                   AprilBlue
 満ちてゆく                                  Fujii Kaze
 Still Love You                                     AAA
 Opening                                     Ed Sheeran
+Luv Letter                                  DJ Okawari
 ```
 
 <!-- spotify_track end -->
