@@ -51,8 +51,8 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Камин                                 EMIN & JONY
 Find Your Way                        Culture Code & So
+Камин                                 EMIN & JONY
 粉雪                                        Remioromen
 First Love                                Hikaru Utada
 Subtitle                             OFFICIAL HIGE DAN
@@ -60,7 +60,7 @@ Subtitle                             OFFICIAL HIGE DAN
 満ちてゆく                                  Fujii Kaze
 Still Love You                                     AAA
 Opening                                     Ed Sheeran
-Luv Letter                                  DJ Okawari
+Black Bird                            Boku no Lyric no
 ```
 
 <!-- spotify_track end -->
