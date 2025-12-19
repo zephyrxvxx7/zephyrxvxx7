@@ -52,15 +52,15 @@ JSON       3 mins         █▉░░░░░░░░░░░░░░░░
 
 ```text
 Find Your Way                        Culture Code & So
-Камин                                 EMIN & JONY
+TOKYO                                        Nulbarich
 粉雪                                        Remioromen
 First Love                                Hikaru Utada
 Subtitle                             OFFICIAL HIGE DAN
 マリタイム                                   AprilBlue
 満ちてゆく                                  Fujii Kaze
-Still Love You                                     AAA
 Opening                                     Ed Sheeran
 Black Bird                            Boku no Lyric no
+あなたの季節が                                   tonun
 ```
 
 <!-- spotify_track end -->
