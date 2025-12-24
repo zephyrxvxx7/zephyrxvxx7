@@ -56,11 +56,11 @@ TOKYO                                        Nulbarich
 粉雪                                        Remioromen
 First Love                                Hikaru Utada
 Subtitle                             OFFICIAL HIGE DAN
-マリタイム                                   AprilBlue
 満ちてゆく                                  Fujii Kaze
 Opening                                     Ed Sheeran
 Black Bird                            Boku no Lyric no
 あなたの季節が                                   tonun
+Luv Letter                                  DJ Okawari
 ```
 
 <!-- spotify_track end -->
