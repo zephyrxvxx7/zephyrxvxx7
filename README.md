@@ -49,16 +49,16 @@ Other      11 mins        ██████████████████
 <!-- spotify_track start -->
 
 ```text
-Find Your Way                        Culture Code & So
 TOKYO                                        Nulbarich
 粉雪                                        Remioromen
 First Love                                Hikaru Utada
 Subtitle                             OFFICIAL HIGE DAN
+Find Your Way                        Culture Code & So
 満ちてゆく                                  Fujii Kaze
+Object Affection                     Lorien & Pretty P
 Opening                                     Ed Sheeran
 Black Bird                            Boku no Lyric no
 あなたの季節が                                   tonun
-Luv Letter                                  DJ Okawari
 ```
 
 <!-- spotify_track end -->
