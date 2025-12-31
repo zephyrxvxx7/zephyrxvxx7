@@ -50,13 +50,13 @@ Other      11 mins        ██████████████████
 
 ```text
 TOKYO                                        Nulbarich
-粉雪                                        Remioromen
-First Love                                Hikaru Utada
-Subtitle                             OFFICIAL HIGE DAN
-Find Your Way                        Culture Code & So
-満ちてゆく                                  Fujii Kaze
 Object Affection                     Lorien & Pretty P
-Opening                                     Ed Sheeran
+粉雪                                        Remioromen
+Goddess                                          milet
+Find Your Way                        Culture Code & So
+Perfect Blue                                DJ Okawari
+First Love                                Hikaru Utada
+満ちてゆく                                  Fujii Kaze
 Black Bird                            Boku no Lyric no
 あなたの季節が                                   tonun
 ```
