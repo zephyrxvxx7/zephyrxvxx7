@@ -37,9 +37,9 @@ Other      11 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 Untitled Goose Game              🕘 1 hrs 25 mins
-🎮 Balatro                          🕘 0 hrs 44 mins
-🎮 Street Fighter™ 6                🕘 49 hrs 10 mins
+🎮 Fallen Elf Freya                 🕘 0 hrs 22 mins
+🎮 The Censor DX Edition            🕘 0 hrs 16 mins
+🎮 Transformative Summer: Life with a TS Companion 🕘 0 hrs 6 mins
 ```
 
 <!-- steam_time end -->
@@ -52,13 +52,13 @@ Other      11 mins        ██████████████████
 TOKYO                                        Nulbarich
 Object Affection                     Lorien & Pretty P
 粉雪                                        Remioromen
-Goddess                                          milet
-Find Your Way                        Culture Code & So
-Perfect Blue                                DJ Okawari
 First Love                                Hikaru Utada
-満ちてゆく                                  Fujii Kaze
+Perfect Blue                                DJ Okawari
 Black Bird                            Boku no Lyric no
 あなたの季節が                                   tonun
+Take Me Home（Ft.Ella）               Clear Sky & Ella
+Luv Letter                                  DJ Okawari
+Goddess                                          milet
 ```
 
 <!-- spotify_track end -->
