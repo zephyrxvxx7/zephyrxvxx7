@@ -37,6 +37,7 @@ Other      11 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
+🎮 SUMMER -14 Days Vacation-        🕘 0 hrs 57 mins
 🎮 Fallen Elf Freya                 🕘 0 hrs 22 mins
 🎮 The Censor DX Edition            🕘 0 hrs 16 mins
 🎮 Transformative Summer: Life with a TS Companion 🕘 0 hrs 6 mins
@@ -51,14 +52,14 @@ Other      11 mins        ██████████████████
 ```text
 TOKYO                                        Nulbarich
 Object Affection                     Lorien & Pretty P
-粉雪                                        Remioromen
-First Love                                Hikaru Utada
-Perfect Blue                                DJ Okawari
 Black Bird                            Boku no Lyric no
-あなたの季節が                                   tonun
 Take Me Home（Ft.Ella）               Clear Sky & Ella
-Luv Letter                                  DJ Okawari
+Perfect Blue                                DJ Okawari
+あなたの季節が                                   tonun
 Goddess                                          milet
+粉雪                                        Remioromen
+打上花火 - DAOKO SOLO ver                        Daoko
+Represent feat. Kimbara              DJ Okawari & Kimb
 ```
 
 <!-- spotify_track end -->
