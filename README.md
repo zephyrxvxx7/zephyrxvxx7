@@ -52,14 +52,14 @@ Other      11 mins        ██████████████████
 ```text
 TOKYO                                        Nulbarich
 Object Affection                     Lorien & Pretty P
+光影                                            宋德鶴
 Black Bird                            Boku no Lyric no
 Take Me Home（Ft.Ella）               Clear Sky & Ella
-Perfect Blue                                DJ Okawari
 あなたの季節が                                   tonun
 Goddess                                          milet
-粉雪                                        Remioromen
 打上花火 - DAOKO SOLO ver                        Daoko
-Represent feat. Kimbara              DJ Okawari & Kimb
+Perfect Blue                                DJ Okawari
+粉雪                                        Remioromen
 ```
 
 <!-- spotify_track end -->
