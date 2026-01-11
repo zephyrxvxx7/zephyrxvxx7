@@ -58,8 +58,8 @@ Take Me Home（Ft.Ella）               Clear Sky & Ella
 あなたの季節が                                   tonun
 Goddess                                          milet
 打上花火 - DAOKO SOLO ver                        Daoko
-Perfect Blue                                DJ Okawari
 会いたいわ                                         iri
+Αφροδίτη                    The Chairs & 林奕碩
 ```
 
 <!-- spotify_track end -->
