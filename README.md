@@ -53,13 +53,13 @@ Other      11 mins        ██████████████████
 TOKYO                                        Nulbarich
 Object Affection                     Lorien & Pretty P
 光影                                            宋德鶴
-Black Bird                            Boku no Lyric no
 Take Me Home（Ft.Ella）               Clear Sky & Ella
+Black Bird                            Boku no Lyric no
 あなたの季節が                                   tonun
 Goddess                                          milet
+LilaS                                Sawano Hiroyuki &
 打上花火 - DAOKO SOLO ver                        Daoko
 会いたいわ                                         iri
-Αφροδίτη                    The Chairs & 林奕碩
 ```
 
 <!-- spotify_track end -->
