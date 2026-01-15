@@ -54,12 +54,12 @@ TOKYO                                        Nulbarich
 Object Affection                     Lorien & Pretty P
 光影                                            宋德鶴
 Take Me Home（Ft.Ella）               Clear Sky & Ella
-Black Bird                            Boku no Lyric no
-あなたの季節が                                   tonun
 Goddess                                          milet
 LilaS                                Sawano Hiroyuki &
+あなたの季節が                                   tonun
 打上花火 - DAOKO SOLO ver                        Daoko
 会いたいわ                                         iri
+FsF-sABer                              Sawano Hiroyuki
 ```
 
 <!-- spotify_track end -->
