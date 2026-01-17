@@ -52,14 +52,14 @@ Other      11 mins        ██████████████████
 ```text
 Object Affection                     Lorien & Pretty P
 光影                                            宋德鶴
-TOKYO                                        Nulbarich
 Take Me Home（Ft.Ella）               Clear Sky & Ella
-Goddess                                          milet
 LilaS                                Sawano Hiroyuki &
+Goddess                                          milet
+TOKYO                                        Nulbarich
 打上花火 - DAOKO SOLO ver                        Daoko
 FsF-sABer                              Sawano Hiroyuki
 Perfect Blue                                DJ Okawari
-Who Wants To Live Forev              Nine Inch Nails &
+另一道難題                            Who Cares 胡凱兒
 ```
 
 <!-- spotify_track end -->
