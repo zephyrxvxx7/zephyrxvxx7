@@ -57,8 +57,8 @@ LilaS                                Sawano Hiroyuki &
 Goddess                                          milet
 TOKYO                                        Nulbarich
 打上花火 - DAOKO SOLO ver                        Daoko
+阿May                                       The Chairs
 FsF-sABer                              Sawano Hiroyuki
-Perfect Blue                                DJ Okawari
 另一道難題                            Who Cares 胡凱兒
 ```
 
