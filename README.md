@@ -38,8 +38,6 @@ Other      11 mins        ██████████████████
 
 ```text
 🎮 SUMMER -14 Days Vacation-        🕘 0 hrs 57 mins
-🎮 Fallen Elf Freya                 🕘 0 hrs 22 mins
-🎮 The Censor DX Edition            🕘 0 hrs 16 mins
 🎮 Transformative Summer: Life with a TS Companion 🕘 0 hrs 6 mins
 ```
 
@@ -52,14 +50,14 @@ Other      11 mins        ██████████████████
 ```text
 Object Affection                     Lorien & Pretty P
 光影                                            宋德鶴
+阿May                                       The Chairs
 Take Me Home（Ft.Ella）               Clear Sky & Ella
 LilaS                                Sawano Hiroyuki &
 Goddess                                          milet
 TOKYO                                        Nulbarich
 打上花火 - DAOKO SOLO ver                        Daoko
-阿May                                       The Chairs
 FsF-sABer                              Sawano Hiroyuki
-另一道難題                            Who Cares 胡凱兒
+Αφροδίτη                    The Chairs & 林奕碩
 ```
 
 <!-- spotify_track end -->
