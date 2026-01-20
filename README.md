@@ -49,8 +49,8 @@ Other      11 mins        ██████████████████
 
 ```text
 Object Affection                     Lorien & Pretty P
-光影                                            宋德鶴
 阿May                                       The Chairs
+光影                                            宋德鶴
 Take Me Home（Ft.Ella）               Clear Sky & Ella
 LilaS                                Sawano Hiroyuki &
 Goddess                                          milet
