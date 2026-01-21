@@ -48,8 +48,8 @@ Other      11 mins        ██████████████████
 <!-- spotify_track start -->
 
 ```text
-Object Affection                     Lorien & Pretty P
 阿May                                       The Chairs
+Object Affection                     Lorien & Pretty P
 光影                                            宋德鶴
 Take Me Home（Ft.Ella）               Clear Sky & Ella
 LilaS                                Sawano Hiroyuki &
@@ -57,7 +57,7 @@ Goddess                                          milet
 TOKYO                                        Nulbarich
 打上花火 - DAOKO SOLO ver                        Daoko
 FsF-sABer                              Sawano Hiroyuki
-Αφροδίτη                    The Chairs & 林奕碩
+Perfect Blue                                DJ Okawari
 ```
 
 <!-- spotify_track end -->
