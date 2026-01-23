@@ -57,7 +57,7 @@ Goddess                                          milet
 TOKYO                                        Nulbarich
 打上花火 - DAOKO SOLO ver                        Daoko
 FsF-sABer                              Sawano Hiroyuki
-但                                    No Party For Cao
+Perfect Blue                                DJ Okawari
 ```
 
 <!-- spotify_track end -->
