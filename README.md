@@ -37,8 +37,9 @@ Other      11 mins        ██████████████████
 <!-- steam_time start -->
 
 ```text
-🎮 SUMMER -14 Days Vacation-        🕘 0 hrs 57 mins
-🎮 Transformative Summer: Life with a TS Companion 🕘 0 hrs 6 mins
+🎮 FreshWomen - Season 2            🕘 0 hrs 38 mins
+🎮 Inari                            🕘 0 hrs 17 mins
+🎮 Little Fighter 2 Remastered      🕘 0 hrs 9 mins
 ```
 
 <!-- steam_time end -->
