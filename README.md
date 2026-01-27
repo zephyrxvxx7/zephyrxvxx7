@@ -50,13 +50,13 @@ Other      11 mins        ██████████████████
 
 ```text
 阿May                                       The Chairs
-Object Affection                     Lorien & Pretty P
 光影                                            宋德鶴
 Take Me Home（Ft.Ella）               Clear Sky & Ella
-LilaS                                Sawano Hiroyuki &
-Goddess                                          milet
 TOKYO                                        Nulbarich
+Goddess                                          milet
+LilaS                                Sawano Hiroyuki &
 打上花火 - DAOKO SOLO ver                        Daoko
+Object Affection                     Lorien & Pretty P
 FsF-sABer                              Sawano Hiroyuki
 但                                    No Party For Cao
 ```
