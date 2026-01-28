@@ -51,14 +51,14 @@ Other      11 mins        ██████████████████
 ```text
 阿May                                       The Chairs
 光影                                            宋德鶴
-Take Me Home（Ft.Ella）               Clear Sky & Ella
-TOKYO                                        Nulbarich
-Goddess                                          milet
 LilaS                                Sawano Hiroyuki &
-打上花火 - DAOKO SOLO ver                        Daoko
-Object Affection                     Lorien & Pretty P
+去飛翔                                           Mixer
 FsF-sABer                              Sawano Hiroyuki
 但                                    No Party For Cao
+你現在的生活（How's your                        OBSESS
+苦難精算師                            No Party For Cao
+Find Your Way                        Culture Code & So
+Who Wants To Live Forev              Nine Inch Nails &
 ```
 
 <!-- spotify_track end -->
