@@ -55,10 +55,10 @@ LilaS                                Sawano Hiroyuki &
 去飛翔                                           Mixer
 FsF-sABer                              Sawano Hiroyuki
 但                                    No Party For Cao
-你現在的生活（How's your                        OBSESS
 苦難精算師                            No Party For Cao
-Find Your Way                        Culture Code & So
+Wings                                Said The Sky & ba
 Who Wants To Live Forev              Nine Inch Nails &
+你現在的生活（How's your                        OBSESS
 ```
 
 <!-- spotify_track end -->
