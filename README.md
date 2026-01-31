@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Other      11 mins        █████████████████████ 100.0%
+Other      7 mins         █████████████████████ 100.0%
 ```
 
 <!-- code_time end -->
