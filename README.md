@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Other      7 mins         █████████████████████ 100.0%
+Other      7 mins         █████████████████▎░░░  82.2%
+Python     1 min          ███▏░░░░░░░░░░░░░░░░░  15.1%
+Markdown   0 secs         ▌░░░░░░░░░░░░░░░░░░░░   2.7%
 ```
 
 <!-- code_time end -->
