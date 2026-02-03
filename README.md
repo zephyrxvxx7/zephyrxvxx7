@@ -52,15 +52,15 @@ Markdown   0 secs         ▌░░░░░░░░░░░░░░░░░
 
 ```text
 阿May                                       The Chairs
+Wings                                Said The Sky & ba
 光影                                            宋德鶴
 LilaS                                Sawano Hiroyuki &
+I'm No One                                Said The Sky
 去飛翔                                           Mixer
+The Swell                            Said The Sky & Ja
 但                                    No Party For Cao
 FsF-sABer                              Sawano Hiroyuki
-你現在的生活（How's your                        OBSESS
-苦難精算師                            No Party For Cao
-Wings                                Said The Sky & ba
-Who Wants To Live Forev              Nine Inch Nails &
+Oath                                 Said The Sky & St
 ```
 
 <!-- spotify_track end -->
