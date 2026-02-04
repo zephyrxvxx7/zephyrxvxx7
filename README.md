@@ -53,14 +53,14 @@ Markdown   0 secs         ▌░░░░░░░░░░░░░░░░░
 ```text
 阿May                                       The Chairs
 Wings                                Said The Sky & ba
-光影                                            宋德鶴
 LilaS                                Sawano Hiroyuki &
+One Way Ticket                             ONE OK ROCK
 I'm No One                                Said The Sky
 去飛翔                                           Mixer
+Spiral                               Said The Sky & Ju
 The Swell                            Said The Sky & Ja
 但                                    No Party For Cao
 FsF-sABer                              Sawano Hiroyuki
-Oath                                 Said The Sky & St
 ```
 
 <!-- spotify_track end -->
