@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Other      7 mins         █████████████████▎░░░  82.2%
-Python     1 min          ███▏░░░░░░░░░░░░░░░░░  15.1%
-Markdown   0 secs         ▌░░░░░░░░░░░░░░░░░░░░   2.7%
+Python     1 min          ████████████████▎░░░░  77.6%
+Markdown   0 secs         ██▉░░░░░░░░░░░░░░░░░░  13.9%
+Other      0 secs         █▊░░░░░░░░░░░░░░░░░░░   8.6%
 ```
 
 <!-- code_time end -->
@@ -55,12 +55,12 @@ Markdown   0 secs         ▌░░░░░░░░░░░░░░░░░
 Wings                                Said The Sky & ba
 What It Sounds Like (fe              SABAI & Miles Awa
 LilaS                                Sawano Hiroyuki &
+愛的初體驗 - 滾石撞樂隊2                    Hello Nico
 One Way Ticket                             ONE OK ROCK
 I'm No One                                Said The Sky
 去飛翔                                           Mixer
 Spiral                               Said The Sky & Ju
 The Swell                            Said The Sky & Ja
-但                                    No Party For Cao
 ```
 
 <!-- spotify_track end -->
