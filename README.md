@@ -55,8 +55,8 @@ Other      0 secs         █▊░░░░░░░░░░░░░░░░
 Wings                                Said The Sky & ba
 What It Sounds Like (fe              SABAI & Miles Awa
 LilaS                                Sawano Hiroyuki &
-愛的初體驗 - 滾石撞樂隊2                    Hello Nico
 One Way Ticket                             ONE OK ROCK
+愛的初體驗 - 滾石撞樂隊2                    Hello Nico
 I'm No One                                Said The Sky
 去飛翔                                           Mixer
 Spiral                               Said The Sky & Ju
