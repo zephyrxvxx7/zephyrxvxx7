@@ -53,6 +53,7 @@ Other      0 secs         █▊░░░░░░░░░░░░░░░░
 ```text
 阿May                                       The Chairs
 Wings                                Said The Sky & ba
+CHiLD -error-                           MY FIRST STORY
 One Way Ticket                             ONE OK ROCK
 What It Sounds Like (fe              SABAI & Miles Awa
 愛的初體驗 - 滾石撞樂隊2                    Hello Nico
@@ -60,7 +61,6 @@ I'm No One                                Said The Sky
 去飛翔                                           Mixer
 Spiral                               Said The Sky & Ju
 The Swell                            Said The Sky & Ja
-痛苦造就了我們                                  OBSESS
 ```
 
 <!-- spotify_track end -->
