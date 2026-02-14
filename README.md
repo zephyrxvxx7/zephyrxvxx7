@@ -59,8 +59,8 @@ What It Sounds Like (fe              SABAI & Miles Awa
 愛的初體驗 - 滾石撞樂隊2                    Hello Nico
 I'm No One                                Said The Sky
 去飛翔                                           Mixer
+完全感覚Dreamer                            ONE OK ROCK
 Spiral                               Said The Sky & Ju
-The Swell                            Said The Sky & Ja
 ```
 
 <!-- spotify_track end -->
