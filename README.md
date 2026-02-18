@@ -51,9 +51,9 @@ Other      0 secs         █▊░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-阿May                                       The Chairs
 Wings                                Said The Sky & ba
 CHiLD -error-                           MY FIRST STORY
+阿May                                       The Chairs
 One Way Ticket                             ONE OK ROCK
 What It Sounds Like (fe              SABAI & Miles Awa
 愛的初體驗 - 滾石撞樂隊2                    Hello Nico
