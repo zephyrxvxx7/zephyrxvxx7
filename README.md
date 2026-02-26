@@ -55,12 +55,12 @@ Wings                                Said The Sky & ba
 CHiLD -error-                           MY FIRST STORY
 One Way Ticket                             ONE OK ROCK
 What It Sounds Like (fe              SABAI & Miles Awa
-愛的初體驗 - 滾石撞樂隊2                    Hello Nico
 I'm No One                                Said The Sky
-去飛翔                                           Mixer
 完全感覚Dreamer                            ONE OK ROCK
+愛的初體驗 - 滾石撞樂隊2                    Hello Nico
 Spiral                               Said The Sky & Ju
 The Swell                            Said The Sky & Ja
+NASTY                                      ONE OK ROCK
 ```
 
 <!-- spotify_track end -->
