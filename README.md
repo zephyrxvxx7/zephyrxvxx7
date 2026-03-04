@@ -52,7 +52,6 @@ Other      0 secs         █▊░░░░░░░░░░░░░░░░
 
 ```text
 CHiLD -error-                           MY FIRST STORY
-One Way Ticket                             ONE OK ROCK
 What It Sounds Like (fe              SABAI & Miles Awa
 完全感覚Dreamer                            ONE OK ROCK
 愛的初體驗 - 滾石撞樂隊2                    Hello Nico
@@ -61,6 +60,7 @@ The Secret                             IcoS & Gingered
 Delusion:All                               ONE OK ROCK
 色彩                                            Riria.
 I'm With You                         DJ Okawari & Emil
+Monolougue                              MY FIRST STORY
 ```
 
 <!-- spotify_track end -->
