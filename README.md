@@ -52,14 +52,14 @@ Other      0 secs         █▊░░░░░░░░░░░░░░░░
 
 ```text
 CHiLD -error-                           MY FIRST STORY
-What It Sounds Like (fe              SABAI & Miles Awa
-完全感覚Dreamer                            ONE OK ROCK
 愛的初體驗 - 滾石撞樂隊2                    Hello Nico
+完全感覚Dreamer                            ONE OK ROCK
 NASTY                                      ONE OK ROCK
 The Secret                             IcoS & Gingered
 Delusion:All                               ONE OK ROCK
 色彩                                            Riria.
 I'm With You                         DJ Okawari & Emil
+inside you                                       milet
 Monolougue                              MY FIRST STORY
 ```
 
