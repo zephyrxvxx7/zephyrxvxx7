@@ -52,11 +52,11 @@ Other      0 secs         █▊░░░░░░░░░░░░░░░░
 
 ```text
 CHiLD -error-                           MY FIRST STORY
-痛苦造就了我們                                  OBSESS
-愛的初體驗 - 滾石撞樂隊2                    Hello Nico
 完全感覚Dreamer                            ONE OK ROCK
-NASTY                                      ONE OK ROCK
 野獸                                            OBSESS
+痛苦造就了我們                                  OBSESS
+自食惡果                                        OBSESS
+NASTY                                      ONE OK ROCK
 大海                                           NeciKen
 The Secret                             IcoS & Gingered
 Delusion:All                               ONE OK ROCK
