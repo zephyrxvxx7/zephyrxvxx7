@@ -56,11 +56,11 @@ CHiLD -error-                           MY FIRST STORY
 野獸                                            OBSESS
 痛苦造就了我們                                  OBSESS
 自食惡果                                        OBSESS
-NASTY                                      ONE OK ROCK
 大海                                           NeciKen
 The Secret                             IcoS & Gingered
-Delusion:All                               ONE OK ROCK
 色彩                                            Riria.
+I'm With You                         DJ Okawari & Emil
+inside you                                       milet
 ```
 
 <!-- spotify_track end -->
