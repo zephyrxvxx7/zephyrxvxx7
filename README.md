@@ -52,6 +52,7 @@ Other      0 secs         █▊░░░░░░░░░░░░░░░░
 
 ```text
 CHiLD -error-                           MY FIRST STORY
+Away From Here                              Kenny Pham
 完全感覚Dreamer                            ONE OK ROCK
 野獸                                            OBSESS
 痛苦造就了我們                                  OBSESS
@@ -59,8 +60,7 @@ CHiLD -error-                           MY FIRST STORY
 大海                                           NeciKen
 The Secret                             IcoS & Gingered
 色彩                                            Riria.
-I'm With You                         DJ Okawari & Emil
-inside you                                       milet
+Ordinary days                                    milet
 ```
 
 <!-- spotify_track end -->
