@@ -39,9 +39,8 @@ Other      0 secs         █▊░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 FreshWomen - Season 2            🕘 0 hrs 38 mins
-🎮 Inari                            🕘 0 hrs 17 mins
-🎮 Little Fighter 2 Remastered      🕘 0 hrs 9 mins
+🎮 FreshWomen - Season 2            🕘 1 hrs 4 mins
+🎮 Winter Memories                  🕘 6 hrs 40 mins
 ```
 
 <!-- steam_time end -->
@@ -52,6 +51,7 @@ Other      0 secs         █▊░░░░░░░░░░░░░░░░
 
 ```text
 CHiLD -error-                           MY FIRST STORY
+曼珠沙華 (Live Session)               眠氣 Hypersomnia
 Away From Here                              Kenny Pham
 完全感覚Dreamer                            ONE OK ROCK
 野獸                                            OBSESS
@@ -60,7 +60,6 @@ Away From Here                              Kenny Pham
 大海                                           NeciKen
 The Secret                             IcoS & Gingered
 色彩                                            Riria.
-Ordinary days                                    milet
 ```
 
 <!-- spotify_track end -->
