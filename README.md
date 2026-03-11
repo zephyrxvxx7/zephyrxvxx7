@@ -53,12 +53,12 @@ Other      0 secs         █▊░░░░░░░░░░░░░░░░
 CHiLD -error-                           MY FIRST STORY
 曼珠沙華 (Live Session)               眠氣 Hypersomnia
 Away From Here                              Kenny Pham
-完全感覚Dreamer                            ONE OK ROCK
 野獸                                            OBSESS
 痛苦造就了我們                                  OBSESS
 自食惡果                                        OBSESS
 大海                                           NeciKen
 The Secret                             IcoS & Gingered
+沒有你的地方                          眠氣 Hypersomnia
 色彩                                            Riria.
 ```
 
