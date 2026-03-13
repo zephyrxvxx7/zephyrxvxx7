@@ -50,7 +50,6 @@ Other      0 secs         █▊░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-CHiLD -error-                           MY FIRST STORY
 曼珠沙華 (Live Session)               眠氣 Hypersomnia
 痛苦造就了我們                                  OBSESS
 野獸                                            OBSESS
@@ -60,6 +59,7 @@ Ordinary days                                    milet
 山頭                                        無妄合作社
 inside you                                       milet
 大海                                           NeciKen
+The Secret                             IcoS & Gingered
 ```
 
 <!-- spotify_track end -->
