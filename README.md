@@ -51,8 +51,8 @@ Other      0 secs         █▊░░░░░░░░░░░░░░░░
 
 ```text
 曼珠沙華 (Live Session)               眠氣 Hypersomnia
-痛苦造就了我們                                  OBSESS
 野獸                                            OBSESS
+痛苦造就了我們                                  OBSESS
 Away From Here                              Kenny Pham
 Ordinary days                                    milet
 山頭                                        無妄合作社
