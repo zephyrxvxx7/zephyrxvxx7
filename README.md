@@ -50,6 +50,7 @@ Other      0 secs         █▊░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+TOUCH                                        NAQT VANE
 曼珠沙華 (Live Session)               眠氣 Hypersomnia
 野獸                                            OBSESS
 痛苦造就了我們                                  OBSESS
@@ -59,7 +60,6 @@ Ordinary days                                    milet
 山頭                                        無妄合作社
 inside you                                       milet
 大海                                           NeciKen
-沒有你的地方                          眠氣 Hypersomnia
 ```
 
 <!-- spotify_track end -->
