@@ -52,14 +52,14 @@ Other      0 secs         █▊░░░░░░░░░░░░░░░░
 ```text
 TOUCH                                        NAQT VANE
 曼珠沙華 (Live Session)               眠氣 Hypersomnia
+bliss                                            milet
+當那煙火響了                                Pink Noise
+inside you                                       milet
+Ordinary days                                    milet
 野獸                                            OBSESS
 痛苦造就了我們                                  OBSESS
 Away From Here                              Kenny Pham
-Ordinary days                                    milet
 自食惡果                                        OBSESS
-山頭                                        無妄合作社
-大海                                           NeciKen
-沒有你的地方                          眠氣 Hypersomnia
 ```
 
 <!-- spotify_track end -->
