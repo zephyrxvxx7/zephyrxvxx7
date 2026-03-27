@@ -50,16 +50,16 @@ Other      0 secs         █▊░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+bliss                                            milet
 TOUCH                                        NAQT VANE
 Ordinary days                                    milet
-bliss                                            milet
-曼珠沙華 (Live Session)               眠氣 Hypersomnia
 inside you                                       milet
+曼珠沙華 (Live Session)               眠氣 Hypersomnia
 當那煙火響了                                Pink Noise
 SEVENTH HEAVEN                                   milet
 野獸                                            OBSESS
+The Story of Us                                  milet
 痛苦造就了我們                                  OBSESS
-us                                               milet
 ```
 
 <!-- spotify_track end -->
