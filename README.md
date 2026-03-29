@@ -39,8 +39,7 @@ Other      0 secs         █▊░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 FreshWomen - Season 2            🕘 1 hrs 4 mins
-🎮 Winter Memories                  🕘 6 hrs 40 mins
+🎮 Machinarium                      🕘 0 hrs 11 mins
 ```
 
 <!-- steam_time end -->
