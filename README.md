@@ -39,7 +39,7 @@ Other      0 secs         █▊░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Machinarium                      🕘 0 hrs 11 mins
+🎮 Machinarium                      🕘 0 hrs 23 mins
 ```
 
 <!-- steam_time end -->
@@ -52,8 +52,8 @@ Other      0 secs         █▊░░░░░░░░░░░░░░░░
 bliss                                            milet
 TOUCH                                        NAQT VANE
 Ordinary days                                    milet
-inside you                                       milet
 曼珠沙華 (Live Session)               眠氣 Hypersomnia
+inside you                                       milet
 當那煙火響了                                Pink Noise
 SEVENTH HEAVEN                                   milet
 野獸                                            OBSESS
