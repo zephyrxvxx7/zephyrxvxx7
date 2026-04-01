@@ -58,7 +58,7 @@ inside you                                       milet
 SEVENTH HEAVEN                                   milet
 野獸                                            OBSESS
 The Story of Us                                  milet
-痛苦造就了我們                                  OBSESS
+us                                               milet
 ```
 
 <!-- spotify_track end -->
