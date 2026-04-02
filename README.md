@@ -56,9 +56,9 @@ Ordinary days                                    milet
 inside you                                       milet
 當那煙火響了                                Pink Noise
 SEVENTH HEAVEN                                   milet
-野獸                                            OBSESS
-The Story of Us                                  milet
 us                                               milet
+野獸                                            OBSESS
+痛苦造就了我們                                  OBSESS
 ```
 
 <!-- spotify_track end -->
