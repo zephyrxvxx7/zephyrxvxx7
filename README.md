@@ -57,8 +57,8 @@ inside you                                       milet
 當那煙火響了                                Pink Noise
 SEVENTH HEAVEN                                   milet
 us                                               milet
-野獸                                            OBSESS
-痛苦造就了我們                                  OBSESS
+Anytime Anywhere - Pian                          milet
+自食惡果                                        OBSESS
 ```
 
 <!-- spotify_track end -->
