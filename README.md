@@ -56,9 +56,9 @@ Ordinary days                                    milet
 inside you                                       milet
 當那煙火響了                                Pink Noise
 SEVENTH HEAVEN                                   milet
+炎と森のカーニバル                      SEKAI NO OWARI
 us                                               milet
 Anytime Anywhere - Pian                          milet
-美德的宣傳家                                Pink Noise
 ```
 
 <!-- spotify_track end -->
