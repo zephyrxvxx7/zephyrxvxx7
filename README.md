@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     1 min          ████████████████▎░░░░  77.6%
-Markdown   0 secs         ██▉░░░░░░░░░░░░░░░░░░  13.9%
-Other      0 secs         █▊░░░░░░░░░░░░░░░░░░░   8.6%
+Python     3 mins         █████████████████████ 100.0%
 ```
 
 <!-- code_time end -->
@@ -52,8 +50,8 @@ Other      0 secs         █▊░░░░░░░░░░░░░░░░
 bliss                                            milet
 TOUCH                                        NAQT VANE
 Ordinary days                                    milet
-inside you                                       milet
 炎と森のカーニバル                      SEKAI NO OWARI
+inside you                                       milet
 當那煙火響了                                Pink Noise
 SEVENTH HEAVEN                                   milet
 us                                               milet
