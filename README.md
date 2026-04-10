@@ -49,14 +49,14 @@ Python     3 mins         ██████████████████
 ```text
 bliss                                            milet
 TOUCH                                        NAQT VANE
-Ordinary days                                    milet
 炎と森のカーニバル                      SEKAI NO OWARI
+Ordinary days                                    milet
 inside you                                       milet
 當那煙火響了                                Pink Noise
 SEVENTH HEAVEN                                   milet
 us                                               milet
 Anytime Anywhere - Pian                          milet
-美德的宣傳家                                Pink Noise
+The Story of Us                                  milet
 ```
 
 <!-- spotify_track end -->
