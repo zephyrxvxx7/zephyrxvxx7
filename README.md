@@ -54,9 +54,9 @@ Ordinary days                                    milet
 inside you                                       milet
 當那煙火響了                                Pink Noise
 SEVENTH HEAVEN                                   milet
-us                                               milet
-Anytime Anywhere - Pian                          milet
 大海（U）                                      NeciKen
+us                                               milet
+練習一個人生活                                 NeciKen
 ```
 
 <!-- spotify_track end -->
