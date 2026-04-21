@@ -48,15 +48,15 @@ Python     0 secs         ██████████████████
 
 ```text
 bliss                                            milet
-Ordinary days                                    milet
 炎と森のカーニバル                      SEKAI NO OWARI
-inside you                                       milet
-當那煙火響了                                Pink Noise
+Ordinary days                                    milet
 SEVENTH HEAVEN                                   milet
-us                                               milet
+Sayonara Omajinai (feat              TakaseToya & LOZA
 大海（U）                                      NeciKen
 練習一個人生活                                 NeciKen
+inside you                                       milet
 To Be Alive                                      HACHI
+Anytime Anywhere - Pian                          milet
 ```
 
 <!-- spotify_track end -->
