@@ -49,8 +49,8 @@ Python     0 secs         ██████████████████
 ```text
 bliss                                            milet
 炎と森のカーニバル                      SEKAI NO OWARI
-Ordinary days                                    milet
 SEVENTH HEAVEN                                   milet
+Ordinary days                                    milet
 Sayonara Omajinai (feat              TakaseToya & LOZA
 大海（U）                                      NeciKen
 練習一個人生活                                 NeciKen
