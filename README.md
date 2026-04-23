@@ -47,16 +47,16 @@ Python     0 secs         ██████████████████
 <!-- spotify_track start -->
 
 ```text
-bliss                                            milet
 炎と森のカーニバル                      SEKAI NO OWARI
-SEVENTH HEAVEN                                   milet
-Ordinary days                                    milet
+bliss                                            milet
 Sayonara Omajinai (feat              TakaseToya & LOZA
 大海（U）                                      NeciKen
 練習一個人生活                                 NeciKen
-inside you                                       milet
 To Be Alive                                      HACHI
 Anytime Anywhere - Pian                          milet
+Another Life                                     SABAI
+大海                                           NeciKen
+inside you                                       milet
 ```
 
 <!-- spotify_track end -->
