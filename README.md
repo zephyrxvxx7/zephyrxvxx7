@@ -48,15 +48,15 @@ Python     0 secs         ██████████████████
 
 ```text
 炎と森のカーニバル                      SEKAI NO OWARI
-bliss                                            milet
 Sayonara Omajinai (feat              TakaseToya & LOZA
 大海（U）                                      NeciKen
 練習一個人生活                                 NeciKen
 To Be Alive                                      HACHI
-Anytime Anywhere - Pian                          milet
 Another Life                                     SABAI
 大海                                           NeciKen
-inside you                                       milet
+Whiplash                                 William Black
+Treading Water                            Said The Sky
+What Would It Mean                   H4RRIS & Nicole A
 ```
 
 <!-- spotify_track end -->
