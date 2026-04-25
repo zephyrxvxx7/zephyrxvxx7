@@ -49,14 +49,14 @@ Python     0 secs         ██████████████████
 ```text
 炎と森のカーニバル                      SEKAI NO OWARI
 Sayonara Omajinai (feat              TakaseToya & LOZA
+Coastline                                 Hollow Coves
+To Be Alive                                      HACHI
 大海（U）                                      NeciKen
 練習一個人生活                                 NeciKen
-To Be Alive                                      HACHI
 Another Life                                     SABAI
 大海                                           NeciKen
+Feel Like                                Dabin & Cappa
 Whiplash                                 William Black
-Treading Water                            Said The Sky
-What Would It Mean                   H4RRIS & Nicole A
 ```
 
 <!-- spotify_track end -->
