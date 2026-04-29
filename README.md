@@ -52,11 +52,11 @@ Sayonara Omajinai (feat              TakaseToya & LOZA
 大海（U）                                      NeciKen
 Coastline                                 Hollow Coves
 ルミナス - Luminous                       AiNA THE END
+Another Me feat. Kaori               DJ Okawari & Kaor
 To Be Alive                                      HACHI
 練習一個人生活                                 NeciKen
 Another Life                                     SABAI
 大海                                           NeciKen
-Feel Like                                Dabin & Cappa
 ```
 
 <!-- spotify_track end -->
