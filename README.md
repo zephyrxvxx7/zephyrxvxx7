@@ -49,8 +49,8 @@ Python     0 secs         ██████████████████
 ```text
 炎と森のカーニバル                      SEKAI NO OWARI
 Sayonara Omajinai (feat              TakaseToya & LOZA
-大海（U）                                      NeciKen
 Coastline                                 Hollow Coves
+大海（U）                                      NeciKen
 ルミナス - Luminous                       AiNA THE END
 Another Me feat. Kaori               DJ Okawari & Kaor
 To Be Alive                                      HACHI
