@@ -47,7 +47,6 @@ Python     0 secs         ██████████████████
 <!-- spotify_track start -->
 
 ```text
-炎と森のカーニバル                      SEKAI NO OWARI
 Sayonara Omajinai (feat              TakaseToya & LOZA
 Coastline                                 Hollow Coves
 大海（U）                                      NeciKen
@@ -57,6 +56,7 @@ To Be Alive                                      HACHI
 練習一個人生活                                 NeciKen
 Another Life                                     SABAI
 大海                                           NeciKen
+Feel Like                                Dabin & Cappa
 ```
 
 <!-- spotify_track end -->
