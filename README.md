@@ -47,14 +47,14 @@ Python     0 secs         ██████████████████
 <!-- spotify_track start -->
 
 ```text
+Another Me feat. Kaori               DJ Okawari & Kaor
 Sayonara Omajinai (feat              TakaseToya & LOZA
 Coastline                                 Hollow Coves
 大海（U）                                      NeciKen
-ルミナス - Luminous                       AiNA THE END
-Another Me feat. Kaori               DJ Okawari & Kaor
 To Be Alive                                      HACHI
 練習一個人生活                                 NeciKen
 Another Life                                     SABAI
+ルミナス - Luminous                       AiNA THE END
 大海                                           NeciKen
 Feel Like                                Dabin & Cappa
 ```
