@@ -53,10 +53,10 @@ Sayonara Omajinai (feat              TakaseToya & LOZA
 Coastline                                 Hollow Coves
 大海（U）                                      NeciKen
 To Be Alive                                      HACHI
-練習一個人生活                                 NeciKen
 Another Life                                     SABAI
-大海                                           NeciKen
 Feel Like                                Dabin & Cappa
+Whiplash                                 William Black
+Treading Water                            Said The Sky
 ```
 
 <!-- spotify_track end -->
