@@ -51,9 +51,9 @@ Python     0 secs         ██████████████████
 Another Me feat. Kaori               DJ Okawari & Kaor
 Sayonara Omajinai (feat              TakaseToya & LOZA
 Coastline                                 Hollow Coves
-大海（U）                                      NeciKen
 To Be Alive                                      HACHI
 Another Life                                     SABAI
+Your Imagination                     Afinity & Casey C
 Feel Like                                Dabin & Cappa
 Whiplash                                 William Black
 Treading Water                            Said The Sky
