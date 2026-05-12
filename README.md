@@ -47,16 +47,16 @@ Python     0 secs         ██████████████████
 <!-- spotify_track start -->
 
 ```text
+Do You Remember                      H4RRIS & Nicole A
 ルミナス - Luminous                       AiNA THE END
 Another Me feat. Kaori               DJ Okawari & Kaor
+Harder to Breathe                     SABAI & GISHIN &
 Sayonara Omajinai (feat              TakaseToya & LOZA
 Coastline                                 Hollow Coves
+Where Do We Go                                    lama
 To Be Alive                                      HACHI
+Where Are You                             Nick Ledesma
 Another Life                                     SABAI
-Your Imagination                     Afinity & Casey C
-Feel Like                                Dabin & Cappa
-Whiplash                                 William Black
-Treading Water                            Said The Sky
 ```
 
 <!-- spotify_track end -->
