@@ -49,14 +49,14 @@ Python     0 secs         ██████████████████
 ```text
 Do You Remember                      H4RRIS & Nicole A
 ルミナス - Luminous                       AiNA THE END
+Where Do We Go                                    lama
 Another Me feat. Kaori               DJ Okawari & Kaor
 Harder to Breathe                     SABAI & GISHIN &
 Sayonara Omajinai (feat              TakaseToya & LOZA
 Coastline                                 Hollow Coves
-Where Do We Go                                    lama
+All Alone                                Sonic Journey
+karma (ft. Daye)                    GhostDragon & Daye
 To Be Alive                                      HACHI
-Where Are You                             Nick Ledesma
-Another Life                                     SABAI
 ```
 
 <!-- spotify_track end -->
