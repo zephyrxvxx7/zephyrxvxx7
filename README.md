@@ -51,12 +51,12 @@ Do You Remember                      H4RRIS & Nicole A
 ルミナス - Luminous                       AiNA THE END
 Where Do We Go                                    lama
 Another Me feat. Kaori               DJ Okawari & Kaor
-Harder to Breathe                     SABAI & GISHIN &
 Sayonara Omajinai (feat              TakaseToya & LOZA
+Harder to Breathe                     SABAI & GISHIN &
 Coastline                                 Hollow Coves
 All Alone                                Sonic Journey
 karma (ft. Daye)                    GhostDragon & Daye
-To Be Alive                                      HACHI
+Where Are You                             Nick Ledesma
 ```
 
 <!-- spotify_track end -->
