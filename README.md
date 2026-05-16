@@ -52,11 +52,11 @@ Do You Remember                      H4RRIS & Nicole A
 Another Me feat. Kaori               DJ Okawari & Kaor
 Sayonara Omajinai (feat              TakaseToya & LOZA
 Where Do We Go                                    lama
-Harder to Breathe                     SABAI & GISHIN &
 Coastline                                 Hollow Coves
+Harder to Breathe                     SABAI & GISHIN &
 All Alone                                Sonic Journey
 Where Are You                             Nick Ledesma
-When You're Lonely                               Hoang
+karma (ft. Daye)                    GhostDragon & Daye
 ```
 
 <!-- spotify_track end -->
