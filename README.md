@@ -49,14 +49,14 @@ Python     0 secs         ██████████████████
 ```text
 Do You Remember                      H4RRIS & Nicole A
 ルミナス - Luminous                       AiNA THE END
+Again and Again (eyes m                          milet
 Another Me feat. Kaori               DJ Okawari & Kaor
-Sayonara Omajinai (feat              TakaseToya & LOZA
 Where Do We Go                                    lama
 Coastline                                 Hollow Coves
 Harder to Breathe                     SABAI & GISHIN &
+Season of Gold                            Narrow Skies
+Sayonara Omajinai (feat              TakaseToya & LOZA
 All Alone                                Sonic Journey
-Where Are You                             Nick Ledesma
-karma (ft. Daye)                    GhostDragon & Daye
 ```
 
 <!-- spotify_track end -->
