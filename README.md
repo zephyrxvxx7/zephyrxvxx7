@@ -50,13 +50,13 @@ Python     0 secs         ██████████████████
 Do You Remember                      H4RRIS & Nicole A
 ルミナス - Luminous                       AiNA THE END
 Again and Again (eyes m                          milet
+Coastline                                 Hollow Coves
 Another Me feat. Kaori               DJ Okawari & Kaor
 Where Do We Go                                    lama
-Coastline                                 Hollow Coves
 Harder to Breathe                     SABAI & GISHIN &
 Season of Gold                            Narrow Skies
-Sayonara Omajinai (feat              TakaseToya & LOZA
 All Alone                                Sonic Journey
+アイコトバ                                AiNA THE END
 ```
 
 <!-- spotify_track end -->
