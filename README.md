@@ -49,13 +49,13 @@ Python     0 secs         ██████████████████
 ```text
 Do You Remember                      H4RRIS & Nicole A
 ルミナス - Luminous                       AiNA THE END
-Again and Again (eyes m                          milet
+Entropy                                   AiNA THE END
 Coastline                                 Hollow Coves
+Again and Again (eyes m                          milet
 Another Me feat. Kaori               DJ Okawari & Kaor
+Love Sick                                 AiNA THE END
 Where Do We Go                                    lama
 Harder to Breathe                     SABAI & GISHIN &
-Season of Gold                            Narrow Skies
-All Alone                                Sonic Journey
 アイコトバ                                AiNA THE END
 ```
 
