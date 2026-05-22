@@ -47,16 +47,16 @@ Python     0 secs         ██████████████████
 <!-- spotify_track start -->
 
 ```text
-Do You Remember                      H4RRIS & Nicole A
 ルミナス - Luminous                       AiNA THE END
+Do You Remember                      H4RRIS & Nicole A
 Entropy                                   AiNA THE END
 Again and Again (eyes m                          milet
 Coastline                                 Hollow Coves
 Love Sick                                 AiNA THE END
 アイコトバ                                AiNA THE END
 Another Me feat. Kaori               DJ Okawari & Kaor
-Where Do We Go                                    lama
 ハートにハート                            AiNA THE END
+Where Do We Go                                    lama
 ```
 
 <!-- spotify_track end -->
