@@ -51,10 +51,10 @@ Python     0 secs         ██████████████████
 Do You Remember                      H4RRIS & Nicole A
 Entropy                                   AiNA THE END
 Again and Again (eyes m                          milet
-Coastline                                 Hollow Coves
 Love Sick                                 AiNA THE END
 アイコトバ                                AiNA THE END
 Another Me feat. Kaori               DJ Okawari & Kaor
+Coastline                                 Hollow Coves
 ハートにハート                            AiNA THE END
 Where Do We Go                                    lama
 ```
