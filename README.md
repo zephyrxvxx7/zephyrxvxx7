@@ -55,8 +55,8 @@ Love Sick                                 AiNA THE END
 アイコトバ                                AiNA THE END
 Coastline                                 Hollow Coves
 ハートにハート                            AiNA THE END
-Another Me feat. Kaori               DJ Okawari & Kaor
 Where Do We Go                                    lama
+Aria                                      AiNA THE END
 ```
 
 <!-- spotify_track end -->
