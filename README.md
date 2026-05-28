@@ -53,10 +53,10 @@ Entropy                                   AiNA THE END
 Again and Again (eyes m                          milet
 Love Sick                                 AiNA THE END
 アイコトバ                                AiNA THE END
+我們萬歲                             Eason Chan & easo
 Coastline                                 Hollow Coves
 ハートにハート                            AiNA THE END
 Where Do We Go                                    lama
-Aria                                      AiNA THE END
 ```
 
 <!-- spotify_track end -->
