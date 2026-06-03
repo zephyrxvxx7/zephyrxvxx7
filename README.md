@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 <!-- code_time start -->
 
 ```text
-Python     0 secs         █████████████████████ 100.0%
+SSH Key    12 mins        █████████████▌░░░░░░░  64.5%
+HTML       6 mins         ███████▍░░░░░░░░░░░░░  35.5%
+Other      0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 
 <!-- code_time end -->
