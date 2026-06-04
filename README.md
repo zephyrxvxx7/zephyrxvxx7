@@ -53,8 +53,8 @@ Do You Remember                      H4RRIS & Nicole A
 ルミナス - Luminous                       AiNA THE END
 Entropy                                   AiNA THE END
 Again and Again (eyes m                          milet
-我們萬歲                             Eason Chan & easo
 Love Sick                                 AiNA THE END
+我們萬歲                             Eason Chan & easo
 アイコトバ                                AiNA THE END
 Coastline                                 Hollow Coves
 ハートにハート                            AiNA THE END
