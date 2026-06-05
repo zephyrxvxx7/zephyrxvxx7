@@ -50,14 +50,14 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 Do You Remember                      H4RRIS & Nicole A
-ルミナス - Luminous                       AiNA THE END
 Entropy                                   AiNA THE END
 Again and Again (eyes m                          milet
-Love Sick                                 AiNA THE END
+ルミナス - Luminous                       AiNA THE END
 我們萬歲                             Eason Chan & easo
-アイコトバ                                AiNA THE END
+Love Sick                                 AiNA THE END
 Coastline                                 Hollow Coves
 ハートにハート                            AiNA THE END
+アイコトバ                                AiNA THE END
 Where Do We Go                                    lama
 ```
 
