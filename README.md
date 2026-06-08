@@ -52,13 +52,13 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 Do You Remember                      H4RRIS & Nicole A
 Entropy                                   AiNA THE END
 Again and Again (eyes m                          milet
+飛行艇                                        King Gnu
 我們萬歲                             Eason Chan & easo
 ルミナス - Luminous                       AiNA THE END
 Love Sick                                 AiNA THE END
 Coastline                                 Hollow Coves
 ハートにハート                            AiNA THE END
-アイコトバ                                AiNA THE END
-Where Do We Go                                    lama
+カメレオン                                    King Gnu
 ```
 
 <!-- spotify_track end -->
