@@ -49,7 +49,6 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Do You Remember                      H4RRIS & Nicole A
 Entropy                                   AiNA THE END
 飛行艇                                        King Gnu
 Again and Again (eyes m                          milet
@@ -59,6 +58,7 @@ Love Sick                                 AiNA THE END
 Coastline                                 Hollow Coves
 カメレオン                                    King Gnu
 ハートにハート                            AiNA THE END
+アイコトバ                                AiNA THE END
 ```
 
 <!-- spotify_track end -->
