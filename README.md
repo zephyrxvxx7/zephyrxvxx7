@@ -53,8 +53,8 @@ Entropy                                   AiNA THE END
 飛行艇                                        King Gnu
 Again and Again (eyes m                          milet
 我們萬歲                             Eason Chan & easo
-ルミナス - Luminous                       AiNA THE END
 Love Sick                                 AiNA THE END
+ルミナス - Luminous                       AiNA THE END
 Coastline                                 Hollow Coves
 カメレオン                                    King Gnu
 ハートにハート                            AiNA THE END
