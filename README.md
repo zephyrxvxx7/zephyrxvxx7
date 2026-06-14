@@ -51,8 +51,8 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 Entropy                                   AiNA THE END
 飛行艇                                        King Gnu
-Again and Again (eyes m                          milet
 我們萬歲                             Eason Chan & easo
+Again and Again (eyes m                          milet
 Love Sick                                 AiNA THE END
 ルミナス - Luminous                       AiNA THE END
 Coastline                                 Hollow Coves
