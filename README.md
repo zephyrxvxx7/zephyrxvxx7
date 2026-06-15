@@ -50,15 +50,15 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 Entropy                                   AiNA THE END
-飛行艇                                        King Gnu
 我們萬歲                             Eason Chan & easo
-Again and Again (eyes m                          milet
+飛行艇                                        King Gnu
 Love Sick                                 AiNA THE END
-ルミナス - Luminous                       AiNA THE END
 Coastline                                 Hollow Coves
 カメレオン                                    King Gnu
 ハートにハート                            AiNA THE END
+ルミナス - Luminous                       AiNA THE END
 アイコトバ                                AiNA THE END
+ENDROLL                              [Alexandros] & Se
 ```
 
 <!-- spotify_track end -->
