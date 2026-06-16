@@ -53,12 +53,12 @@ Entropy                                   AiNA THE END
 我們萬歲                             Eason Chan & easo
 飛行艇                                        King Gnu
 Love Sick                                 AiNA THE END
-Coastline                                 Hollow Coves
 カメレオン                                    King Gnu
 ハートにハート                            AiNA THE END
-ルミナス - Luminous                       AiNA THE END
-アイコトバ                                AiNA THE END
 ENDROLL                              [Alexandros] & Se
+Survive in Hell                          THE SIXTH LIE
+Jewelry Kiss                              AiNA THE END
+Aoiharu                                       ミセカイ
 ```
 
 <!-- spotify_track end -->
