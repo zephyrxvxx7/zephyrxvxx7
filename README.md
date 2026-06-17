@@ -49,16 +49,16 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Entropy                                   AiNA THE END
 我們萬歲                             Eason Chan & easo
 飛行艇                                        King Gnu
-Love Sick                                 AiNA THE END
 カメレオン                                    King Gnu
-ハートにハート                            AiNA THE END
 ENDROLL                              [Alexandros] & Se
 Survive in Hell                          THE SIXTH LIE
-Jewelry Kiss                              AiNA THE END
-Aoiharu                                       ミセカイ
+Love Sick                                 AiNA THE END
+Chasing Shadows                            Alex Warren
+The Story of Us                                  milet
+Merry-Go-Round of Life                    Joe Hisaishi
+When You Forget                          THE SIXTH LIE
 ```
 
 <!-- spotify_track end -->
