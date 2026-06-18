@@ -49,16 +49,16 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
+你的愛情                            逃跑计划EscapePlan
 我們萬歲                             Eason Chan & easo
 飛行艇                                        King Gnu
 カメレオン                                    King Gnu
-ENDROLL                              [Alexandros] & Se
 Survive in Hell                          THE SIXTH LIE
-Love Sick                                 AiNA THE END
+ENDROLL                              [Alexandros] & Se
+夢中的你                            逃跑计划EscapePlan
 Chasing Shadows                            Alex Warren
-The Story of Us                                  milet
+閃光的回憶                          逃跑计划EscapePlan
 Merry-Go-Round of Life                    Joe Hisaishi
-When You Forget                          THE SIXTH LIE
 ```
 
 <!-- spotify_track end -->
