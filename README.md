@@ -56,9 +56,9 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 Survive in Hell                          THE SIXTH LIE
 ENDROLL                              [Alexandros] & Se
 海鷗                                逃跑计划EscapePlan
-夢中的你                            逃跑计划EscapePlan
 Chasing Shadows                            Alex Warren
-閃光的回憶                          逃跑计划EscapePlan
+Merry-Go-Round of Life                    Joe Hisaishi
+When You Forget                          THE SIXTH LIE
 ```
 
 <!-- spotify_track end -->
