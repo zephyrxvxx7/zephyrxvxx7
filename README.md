@@ -50,15 +50,15 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 你的愛情                            逃跑计划EscapePlan
-我們萬歲                             Eason Chan & easo
 飛行艇                                        King Gnu
+我們萬歲                             Eason Chan & easo
 Survive in Hell                          THE SIXTH LIE
 カメレオン                                    King Gnu
+Aoiharu                                       ミセカイ
 ENDROLL                              [Alexandros] & Se
 海鷗                                逃跑计划EscapePlan
-Aoiharu                                       ミセカイ
 When You Forget                          THE SIXTH LIE
-夢中的你                            逃跑计划EscapePlan
+Merry-Go-Round of Life                    Joe Hisaishi
 ```
 
 <!-- spotify_track end -->
