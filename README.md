@@ -58,7 +58,7 @@ Aoiharu                                       ミセカイ
 ENDROLL                              [Alexandros] & Se
 海鷗                                逃跑计划EscapePlan
 When You Forget                          THE SIXTH LIE
-Merry-Go-Round of Life                    Joe Hisaishi
+I Will Find You                          THE SIXTH LIE
 ```
 
 <!-- spotify_track end -->
