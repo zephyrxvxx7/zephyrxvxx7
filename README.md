@@ -57,8 +57,8 @@ Survive in Hell                          THE SIXTH LIE
 Aoiharu                                       ミセカイ
 ENDROLL                              [Alexandros] & Se
 海鷗                                逃跑计划EscapePlan
+帝雉啾啾啾                                     MR.SKIN
 When You Forget                          THE SIXTH LIE
-I Will Find You                          THE SIXTH LIE
 ```
 
 <!-- spotify_track end -->
