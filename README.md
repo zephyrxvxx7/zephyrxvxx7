@@ -54,11 +54,11 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 我們萬歲                             Eason Chan & easo
 Survive in Hell                          THE SIXTH LIE
 カメレオン                                    King Gnu
-Aoiharu                                       ミセカイ
-ENDROLL                              [Alexandros] & Se
-海鷗                                逃跑计划EscapePlan
 帝雉啾啾啾                                     MR.SKIN
+Aoiharu                                       ミセカイ
+海鷗                                逃跑计划EscapePlan
 When You Forget                          THE SIXTH LIE
+I Will Find You                          THE SIXTH LIE
 ```
 
 <!-- spotify_track end -->
