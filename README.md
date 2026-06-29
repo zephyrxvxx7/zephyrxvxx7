@@ -40,6 +40,7 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 Tails of Iron                    🕘 0 hrs 1 mins
+🎮 Nobody Saves the World           🕘 24 hrs 58 mins
 ```
 
 <!-- steam_time end -->
@@ -52,8 +53,8 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 你的愛情                            逃跑计划EscapePlan
 飛行艇                                        King Gnu
 我們萬歲                             Eason Chan & easo
-Survive in Hell                          THE SIXTH LIE
 カメレオン                                    King Gnu
+Survive in Hell                          THE SIXTH LIE
 帝雉啾啾啾                                     MR.SKIN
 Aoiharu                                       ミセカイ
 海鷗                                逃跑计划EscapePlan
