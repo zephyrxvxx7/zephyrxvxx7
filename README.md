@@ -54,12 +54,12 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 飛行艇                                        King Gnu
 我們萬歲                             Eason Chan & easo
 カメレオン                                    King Gnu
-Survive in Hell                          THE SIXTH LIE
 帝雉啾啾啾                                     MR.SKIN
 Aoiharu                                       ミセカイ
 海鷗                                逃跑计划EscapePlan
-When You Forget                          THE SIXTH LIE
+Survive in Hell                          THE SIXTH LIE
 I Will Find You                          THE SIXTH LIE
+1989 (feat. Charli Lucas)             Nightly & Charli
 ```
 
 <!-- spotify_track end -->
