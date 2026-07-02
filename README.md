@@ -54,12 +54,12 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 飛行艇                                        King Gnu
 我們萬歲                             Eason Chan & easo
 カメレオン                                    King Gnu
-帝雉啾啾啾                                     MR.SKIN
 Aoiharu                                       ミセカイ
-海鷗                                逃跑计划EscapePlan
 Survive in Hell                          THE SIXTH LIE
-I Will Find You                          THE SIXTH LIE
+帝雉啾啾啾                                     MR.SKIN
+海鷗                                逃跑计划EscapePlan
 1989 (feat. Charli Lucas)             Nightly & Charli
+The Love We've Made                              milet
 ```
 
 <!-- spotify_track end -->
