@@ -52,14 +52,14 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 你的愛情                            逃跑计划EscapePlan
 飛行艇                                        King Gnu
+Aoiharu                                       ミセカイ
 我們萬歲                             Eason Chan & easo
 カメレオン                                    King Gnu
-Aoiharu                                       ミセカイ
-Survive in Hell                          THE SIXTH LIE
-帝雉啾啾啾                                     MR.SKIN
-海鷗                                逃跑计划EscapePlan
 1989 (feat. Charli Lucas)             Nightly & Charli
 The Love We've Made                              milet
+Survive in Hell                          THE SIXTH LIE
+帝雉啾啾啾                                     MR.SKIN
+あの光だってきっと                      *Luna & ねんね
 ```
 
 <!-- spotify_track end -->
