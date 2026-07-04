@@ -39,8 +39,8 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Tails of Iron                    🕘 0 hrs 1 mins
 🎮 Nobody Saves the World           🕘 24 hrs 58 mins
+🎮 Tails of Iron                    🕘 0 hrs 1 mins
 ```
 
 <!-- steam_time end -->
@@ -52,6 +52,7 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 ```text
 你的愛情                            逃跑计划EscapePlan
 飛行艇                                        King Gnu
+夢みたあとで                               GARNET CROW
 Aoiharu                                       ミセカイ
 我們萬歲                             Eason Chan & easo
 カメレオン                                    King Gnu
@@ -59,7 +60,6 @@ Aoiharu                                       ミセカイ
 The Love We've Made                              milet
 Survive in Hell                          THE SIXTH LIE
 帝雉啾啾啾                                     MR.SKIN
-あの光だってきっと                      *Luna & ねんね
 ```
 
 <!-- spotify_track end -->
