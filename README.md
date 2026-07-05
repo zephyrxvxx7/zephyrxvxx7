@@ -39,8 +39,8 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
+🎮 Balatro                          🕘 1 hrs 14 mins
 🎮 Nobody Saves the World           🕘 24 hrs 58 mins
-🎮 Tails of Iron                    🕘 0 hrs 1 mins
 ```
 
 <!-- steam_time end -->
