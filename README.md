@@ -51,15 +51,15 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 你的愛情                            逃跑计划EscapePlan
-飛行艇                                        King Gnu
 夢みたあとで                               GARNET CROW
 Aoiharu                                       ミセカイ
 我們萬歲                             Eason Chan & easo
-カメレオン                                    King Gnu
 1989 (feat. Charli Lucas)             Nightly & Charli
+飛行艇                                        King Gnu
 The Love We've Made                              milet
 Survive in Hell                          THE SIXTH LIE
 帝雉啾啾啾                                     MR.SKIN
+あの光だってきっと                      *Luna & ねんね
 ```
 
 <!-- spotify_track end -->
