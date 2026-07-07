@@ -51,15 +51,15 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 你的愛情                            逃跑计划EscapePlan
-夢みたあとで                               GARNET CROW
 Aoiharu                                       ミセカイ
-我們萬歲                             Eason Chan & easo
+Twenty Something                               Nightly
+夢みたあとで                               GARNET CROW
 1989 (feat. Charli Lucas)             Nightly & Charli
-飛行艇                                        King Gnu
-The Love We've Made                              milet
 Survive in Hell                          THE SIXTH LIE
-帝雉啾啾啾                                     MR.SKIN
+我們萬歲                             Eason Chan & easo
 あの光だってきっと                      *Luna & ねんね
+The Love We've Made                              milet
+帝雉啾啾啾                                     MR.SKIN
 ```
 
 <!-- spotify_track end -->
