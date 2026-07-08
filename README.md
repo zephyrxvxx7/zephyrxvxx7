@@ -53,13 +53,13 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 你的愛情                            逃跑计划EscapePlan
 Aoiharu                                       ミセカイ
 Twenty Something                               Nightly
+我們萬歲                             Eason Chan & easo
 夢みたあとで                               GARNET CROW
 1989 (feat. Charli Lucas)             Nightly & Charli
 Survive in Hell                          THE SIXTH LIE
-我們萬歲                             Eason Chan & easo
 あの光だってきっと                      *Luna & ねんね
-The Love We've Made                              milet
-帝雉啾啾啾                                     MR.SKIN
+My Dearest                                   supercell
+When You Forget                          THE SIXTH LIE
 ```
 
 <!-- spotify_track end -->
