@@ -59,7 +59,7 @@ Aoiharu                                       ミセカイ
 Survive in Hell                          THE SIXTH LIE
 あの光だってきっと                      *Luna & ねんね
 My Dearest                                   supercell
-The Love We've Made                              milet
+When You Forget                          THE SIXTH LIE
 ```
 
 <!-- spotify_track end -->
