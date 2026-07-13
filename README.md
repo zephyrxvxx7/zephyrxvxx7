@@ -40,7 +40,6 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 
 ```text
 🎮 Balatro                          🕘 1 hrs 14 mins
-🎮 Nobody Saves the World           🕘 24 hrs 58 mins
 ```
 
 <!-- steam_time end -->
@@ -53,13 +52,13 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 你的愛情                            逃跑计划EscapePlan
 Twenty Something                               Nightly
 Aoiharu                                       ミセカイ
-我們萬歲                             Eason Chan & easo
 夢みたあとで                               GARNET CROW
 1989 (feat. Charli Lucas)             Nightly & Charli
+我們萬歲                             Eason Chan & easo
 Survive in Hell                          THE SIXTH LIE
 あの光だってきっと                      *Luna & ねんね
 My Dearest                                   supercell
-When You Forget                          THE SIXTH LIE
+帝雉啾啾啾                                     MR.SKIN
 ```
 
 <!-- spotify_track end -->
