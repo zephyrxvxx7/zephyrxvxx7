@@ -57,8 +57,8 @@ Aoiharu                                       ミセカイ
 Survive in Hell                          THE SIXTH LIE
 我們萬歲                             Eason Chan & easo
 My Dearest                                   supercell
+The Love We've Made                              milet
 帝雉啾啾啾                                     MR.SKIN
-When You Forget                          THE SIXTH LIE
 ```
 
 <!-- spotify_track end -->
