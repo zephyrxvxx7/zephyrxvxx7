@@ -56,9 +56,9 @@ Aoiharu                                       ミセカイ
 夢みたあとで                               GARNET CROW
 My Dearest                                   supercell
 我們萬歲                             Eason Chan & easo
-Survive in Hell                          THE SIXTH LIE
 When You Forget                          THE SIXTH LIE
 The Love We've Made                              milet
+Survive in Hell                          THE SIXTH LIE
 ```
 
 <!-- spotify_track end -->
