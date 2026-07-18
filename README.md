@@ -52,13 +52,13 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 你的愛情                            逃跑计划EscapePlan
 Twenty Something                               Nightly
 1989 (feat. Charli Lucas)             Nightly & Charli
-Aoiharu                                       ミセカイ
 夢みたあとで                               GARNET CROW
+Aoiharu                                       ミセカイ
 My Dearest                                   supercell
-我們萬歲                             Eason Chan & easo
 When You Forget                          THE SIXTH LIE
 The Love We've Made                              milet
 Survive in Hell                          THE SIXTH LIE
+帝雉啾啾啾                                     MR.SKIN
 ```
 
 <!-- spotify_track end -->
