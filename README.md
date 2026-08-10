@@ -39,7 +39,7 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Balatro                          🕘 1 hrs 14 mins
+🎮 Bear and Breakfast               🕘 0 hrs 20 mins
 ```
 
 <!-- steam_time end -->
