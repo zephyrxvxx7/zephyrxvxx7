@@ -39,7 +39,7 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- steam_time start -->
 
 ```text
-🎮 Bear and Breakfast               🕘 0 hrs 20 mins
+🎮 Hollow Knight                    🕘 92 hrs 4 mins
 ```
 
 <!-- steam_time end -->
