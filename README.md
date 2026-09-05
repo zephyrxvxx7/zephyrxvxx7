@@ -49,16 +49,16 @@ Other      0 secs         ░░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-你的愛情                            逃跑计划EscapePlan
-Twenty Something                               Nightly
-1989 (feat. Charli Lucas)             Nightly & Charli
-夢みたあとで                               GARNET CROW
-Aoiharu                                       ミセカイ
-My Dearest                                   supercell
-When You Forget                          THE SIXTH LIE
-The Love We've Made                              milet
-Survive in Hell                          THE SIXTH LIE
-帝雉啾啾啾                                     MR.SKIN
+FOR OKINAWA (feat. Awic              YAO & Awich & CHI
+道 〜to you all                                  aluto
+Blue                                 Chih Siou & SIRUP
+スターダスト                         OFFICIAL HIGE DAN
+Sign                                              FLOW
+777 (feat. Awich, CHICO              YAO & Awich & CHI
+あのね                                          Aimyon
+Good Luck, Babe! - Acou                Pop Mage & Nair
+Sleeptalking                          Imfinenow & ÊMIA
+高速公路                                  Amazing Show
 ```
 
 <!-- spotify_track end -->
