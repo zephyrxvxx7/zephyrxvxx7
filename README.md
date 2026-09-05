@@ -1,26 +1,11 @@
-<!--
-**zephyrxvxx7/zephyrxvxx7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Hi, there 👋
 
 <a href="https://www.instagram.com/zephyrxvxx7/"><img src="https://img.shields.io/badge/instagram-3f729b?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <a href="https://zephyrxvxx7.me/"><img src="https://img.shields.io/badge/blog-gray?&style=for-the-badge&logo=hexo&logoColor=white" height=25></a>
 
-👋 Hi，我是 Zephyr，專業領域為雲端與邊際運算，但是工作2年後變成了full stack😆，目前任職於TSMC的IT部門。
+👋 你好，我是 Zephyr。專業背景是雲端與邊際運算，工作兩年後一路跨進了 full stack 的世界 😆，目前任職於 TSMC 的 IT 部門。
 
-空閒時會玩一些有趣的小玩具（譬如此頁面），**以下內容通過 [zephyrxvxx7/actions](https://github.com/zephyrxvxx7/zephyrxvxx7/actions) 每日自動更新**
+空閒時喜歡玩一些有趣的小玩具（譬如此頁面），**以下動態資訊通過 [zephyrxvxx7/actions](https://github.com/zephyrxvxx7/zephyrxvxx7/actions) 每日自動更新**
 
 ### ⚡ [Weekly Development Breakdown](https://gist.github.com/zephyrxvxx7/ee1787313f0772b51494d051b5edde7f)
 
