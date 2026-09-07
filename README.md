@@ -36,14 +36,14 @@ Other      5 mins         █▍░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-FOR OKINAWA (feat. Awic              YAO & Awich & CHI
-道 〜to you all                                  aluto
+ありふれた世界の果てに (f            YAO & Awich & CHI
 Blue                                 Chih Siou & SIRUP
 スターダスト                         OFFICIAL HIGE DAN
-Sign                                              FLOW
+道 〜to you all                                  aluto
 777 (feat. Awich, CHICO              YAO & Awich & CHI
 あのね                                          Aimyon
 Good Luck, Babe! - Acou                Pop Mage & Nair
+Sign                                              FLOW
 Sleeptalking                          Imfinenow & ÊMIA
 高速公路                                  Amazing Show
 ```
