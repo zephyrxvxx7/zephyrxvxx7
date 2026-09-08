@@ -39,13 +39,13 @@ Other      5 mins         █▍░░░░░░░░░░░░░░░░
 ありふれた世界の果てに (f            YAO & Awich & CHI
 Blue                                 Chih Siou & SIRUP
 スターダスト                         OFFICIAL HIGE DAN
-道 〜to you all                                  aluto
-777 (feat. Awich, CHICO              YAO & Awich & CHI
-あのね                                          Aimyon
 Good Luck, Babe! - Acou                Pop Mage & Nair
-Sign                                              FLOW
+あのね                                          Aimyon
+777 (feat. Awich, CHICO              YAO & Awich & CHI
+道 〜to you all                                  aluto
 Sleeptalking                          Imfinenow & ÊMIA
 高速公路                                  Amazing Show
+Sign                                              FLOW
 ```
 
 <!-- spotify_track end -->
