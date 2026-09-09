@@ -43,9 +43,9 @@ Good Luck, Babe! - Acou                Pop Mage & Nair
 あのね                                          Aimyon
 777 (feat. Awich, CHICO              YAO & Awich & CHI
 道 〜to you all                                  aluto
-Sleeptalking                          Imfinenow & ÊMIA
 高速公路                                  Amazing Show
 Sign                                              FLOW
+I Will Find You                          THE SIXTH LIE
 ```
 
 <!-- spotify_track end -->
