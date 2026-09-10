@@ -39,12 +39,12 @@ Other      5 mins         █▍░░░░░░░░░░░░░░░░
 ありふれた世界の果てに (f            YAO & Awich & CHI
 Blue                                 Chih Siou & SIRUP
 スターダスト                         OFFICIAL HIGE DAN
+777 (feat. Awich, CHICO              YAO & Awich & CHI
 Good Luck, Babe! - Acou                Pop Mage & Nair
 あのね                                          Aimyon
-777 (feat. Awich, CHICO              YAO & Awich & CHI
 道 〜to you all                                  aluto
 高速公路                                  Amazing Show
-Sign                                              FLOW
+君に最後の口づけを - Acou                       majiko
 I Will Find You                          THE SIXTH LIE
 ```
 
