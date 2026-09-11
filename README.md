@@ -12,11 +12,11 @@
 <!-- code_time start -->
 
 ```text
-Markdown   40 mins        ███████████▎░░░░░░░░░  53.8%
-YAML       18 mins        █████▏░░░░░░░░░░░░░░░  24.8%
-Python     5 mins         █▌░░░░░░░░░░░░░░░░░░░   7.7%
-JavaScript 5 mins         █▍░░░░░░░░░░░░░░░░░░░   7.0%
-Other      5 mins         █▍░░░░░░░░░░░░░░░░░░░   6.7%
+Markdown   58 mins        █████████████▏░░░░░░░  62.7%
+YAML       18 mins        ████▏░░░░░░░░░░░░░░░░  20.0%
+Python     5 mins         █▎░░░░░░░░░░░░░░░░░░░   6.2%
+JavaScript 5 mins         █▏░░░░░░░░░░░░░░░░░░░   5.7%
+Other      5 mins         █▏░░░░░░░░░░░░░░░░░░░   5.4%
 ```
 
 <!-- code_time end -->
@@ -41,10 +41,10 @@ Blue                                 Chih Siou & SIRUP
 スターダスト                         OFFICIAL HIGE DAN
 777 (feat. Awich, CHICO              YAO & Awich & CHI
 Good Luck, Babe! - Acou                Pop Mage & Nair
+君に最後の口づけを - Acou                       majiko
 あのね                                          Aimyon
 道 〜to you all                                  aluto
 高速公路                                  Amazing Show
-君に最後の口づけを - Acou                       majiko
 I Will Find You                          THE SIXTH LIE
 ```
 
