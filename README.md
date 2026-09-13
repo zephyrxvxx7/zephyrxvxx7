@@ -12,11 +12,11 @@
 <!-- code_time start -->
 
 ```text
-Markdown   40 mins        ███████████▎░░░░░░░░░  53.8%
-YAML       18 mins        █████▏░░░░░░░░░░░░░░░  24.8%
-Python     5 mins         █▌░░░░░░░░░░░░░░░░░░░   7.7%
-JavaScript 5 mins         █▍░░░░░░░░░░░░░░░░░░░   7.0%
-Other      5 mins         █▍░░░░░░░░░░░░░░░░░░░   6.7%
+Markdown   30 mins        █████████████▉░░░░░░░  66.3%
+Python     10 mins        ████▉░░░░░░░░░░░░░░░░  23.6%
+Text       2 mins         █░░░░░░░░░░░░░░░░░░░░   5.3%
+Bash       1 min          ▊░░░░░░░░░░░░░░░░░░░░   3.9%
+Other      0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.8%
 ```
 
 <!-- code_time end -->
@@ -38,10 +38,10 @@ Other      5 mins         █▍░░░░░░░░░░░░░░░░
 ```text
 ありふれた世界の果てに (f            YAO & Awich & CHI
 Blue                                 Chih Siou & SIRUP
-スターダスト                         OFFICIAL HIGE DAN
 777 (feat. Awich, CHICO              YAO & Awich & CHI
 Good Luck, Babe! - Acou                Pop Mage & Nair
 君に最後の口づけを - Acou                       majiko
+スターダスト                         OFFICIAL HIGE DAN
 あのね                                          Aimyon
 道 〜to you all                                  aluto
 Butter                               Natsuki Kawanishi
