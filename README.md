@@ -39,13 +39,13 @@ Other      0 secs         ▏░░░░░░░░░░░░░░░░░
 ありふれた世界の果てに (f            YAO & Awich & CHI
 Blue                                 Chih Siou & SIRUP
 777 (feat. Awich, CHICO              YAO & Awich & CHI
-Good Luck, Babe! - Acou                Pop Mage & Nair
 君に最後の口づけを - Acou                       majiko
-スターダスト                         OFFICIAL HIGE DAN
+Good Luck, Babe! - Acou                Pop Mage & Nair
 あのね                                          Aimyon
-道 〜to you all                                  aluto
+スターダスト                         OFFICIAL HIGE DAN
 Butter                               Natsuki Kawanishi
-Sign                                              FLOW
+高速公路                                  Amazing Show
+道 〜to you all                                  aluto
 ```
 
 <!-- spotify_track end -->
