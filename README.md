@@ -44,8 +44,8 @@ Good Luck, Babe! - Acou                Pop Mage & Nair
 あのね                                          Aimyon
 スターダスト                         OFFICIAL HIGE DAN
 Butter                               Natsuki Kawanishi
-高速公路                                  Amazing Show
 道 〜to you all                                  aluto
+I Will Find You                          THE SIXTH LIE
 ```
 
 <!-- spotify_track end -->
