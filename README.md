@@ -38,8 +38,8 @@ Other      0 secs         ▏░░░░░░░░░░░░░░░░░
 ```text
 ありふれた世界の果てに (f            YAO & Awich & CHI
 Blue                                 Chih Siou & SIRUP
-777 (feat. Awich, CHICO              YAO & Awich & CHI
 君に最後の口づけを - Acou                       majiko
+777 (feat. Awich, CHICO              YAO & Awich & CHI
 Good Luck, Babe! - Acou                Pop Mage & Nair
 あのね                                          Aimyon
 スターダスト                         OFFICIAL HIGE DAN
