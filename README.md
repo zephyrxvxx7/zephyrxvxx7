@@ -42,10 +42,10 @@ Blue                                 Chih Siou & SIRUP
 777 (feat. Awich, CHICO              YAO & Awich & CHI
 スターダスト                         OFFICIAL HIGE DAN
 あのね                                          Aimyon
-Good Luck, Babe! - Acou                Pop Mage & Nair
 Butter                               Natsuki Kawanishi
-道 〜to you all                                  aluto
-I Will Find You                          THE SIXTH LIE
+Good Luck, Babe! - Acou                Pop Mage & Nair
+Imperium (Love Me)                          THE EMPIRE
+104Hz                                         ミセカイ
 ```
 
 <!-- spotify_track end -->
