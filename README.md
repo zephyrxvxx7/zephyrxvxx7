@@ -37,15 +37,15 @@ Other      0 secs         ▏░░░░░░░░░░░░░░░░░
 
 ```text
 ありふれた世界の果てに (f            YAO & Awich & CHI
-Blue                                 Chih Siou & SIRUP
+Imperium (Love Me)                          THE EMPIRE
 君に最後の口づけを - Acou                       majiko
 777 (feat. Awich, CHICO              YAO & Awich & CHI
+Blue                                 Chih Siou & SIRUP
 スターダスト                         OFFICIAL HIGE DAN
-あのね                                          Aimyon
-Imperium (Love Me)                          THE EMPIRE
 Butter                               Natsuki Kawanishi
+あのね                                          Aimyon
 Good Luck, Babe! - Acou                Pop Mage & Nair
-道 〜to you all                                  aluto
+ENDROLL                              [Alexandros] & Se
 ```
 
 <!-- spotify_track end -->
