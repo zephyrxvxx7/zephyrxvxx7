@@ -44,8 +44,8 @@ Blue                                 Chih Siou & SIRUP
 スターダスト                         OFFICIAL HIGE DAN
 Butter                               Natsuki Kawanishi
 あのね                                          Aimyon
-Good Luck, Babe! - Acou                Pop Mage & Nair
 ENDROLL                              [Alexandros] & Se
+Good Luck, Babe! - Acou                Pop Mage & Nair
 ```
 
 <!-- spotify_track end -->
