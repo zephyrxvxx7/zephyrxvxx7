@@ -40,12 +40,12 @@ Other      0 secs         ▏░░░░░░░░░░░░░░░░░
 Imperium (Love Me)                          THE EMPIRE
 君に最後の口づけを - Acou                       majiko
 777 (feat. Awich, CHICO              YAO & Awich & CHI
-Blue                                 Chih Siou & SIRUP
-スターダスト                         OFFICIAL HIGE DAN
 Butter                               Natsuki Kawanishi
-あのね                                          Aimyon
+Blue                                 Chih Siou & SIRUP
 ENDROLL                              [Alexandros] & Se
+スターダスト                         OFFICIAL HIGE DAN
 Good Luck, Babe! - Acou                Pop Mage & Nair
+あのね                                          Aimyon
 ```
 
 <!-- spotify_track end -->
