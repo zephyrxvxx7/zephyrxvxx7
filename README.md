@@ -44,7 +44,7 @@ Butter                               Natsuki Kawanishi
 Blue                                 Chih Siou & SIRUP
 ENDROLL                              [Alexandros] & Se
 スターダスト                         OFFICIAL HIGE DAN
-Good Luck, Babe! - Acou                Pop Mage & Nair
+104Hz                                         ミセカイ
 あのね                                          Aimyon
 ```
 
