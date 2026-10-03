@@ -41,9 +41,9 @@ Imperium (Love Me)                          THE EMPIRE
 君に最後の口づけを - Acou                       majiko
 777 (feat. Awich, CHICO              YAO & Awich & CHI
 Butter                               Natsuki Kawanishi
+Trace                                            milet
+Doushite (feat. Emi Noda)             TakaseToya & emi
 Blue                                 Chih Siou & SIRUP
-ENDROLL                              [Alexandros] & Se
-スターダスト                         OFFICIAL HIGE DAN
 104Hz                                         ミセカイ
 あのね                                          Aimyon
 ```
