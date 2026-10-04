@@ -38,12 +38,12 @@ Other      0 secs         ▏░░░░░░░░░░░░░░░░░
 ```text
 ありふれた世界の果てに (f            YAO & Awich & CHI
 Imperium (Love Me)                          THE EMPIRE
-君に最後の口づけを - Acou                       majiko
 777 (feat. Awich, CHICO              YAO & Awich & CHI
-Butter                               Natsuki Kawanishi
+君に最後の口づけを - Acou                       majiko
 Trace                                            milet
-Doushite (feat. Emi Noda)             TakaseToya & emi
+Butter                               Natsuki Kawanishi
 Blue                                 Chih Siou & SIRUP
+Doushite (feat. Emi Noda)             TakaseToya & emi
 104Hz                                         ミセカイ
 あのね                                          Aimyon
 ```
