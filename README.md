@@ -43,9 +43,9 @@ Imperium (Love Me)                          THE EMPIRE
 Trace                                            milet
 Butter                               Natsuki Kawanishi
 Blue                                 Chih Siou & SIRUP
-Doushite (feat. Emi Noda)             TakaseToya & emi
 104Hz                                         ミセカイ
 あのね                                          Aimyon
+スターダスト                         OFFICIAL HIGE DAN
 ```
 
 <!-- spotify_track end -->
