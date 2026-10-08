@@ -36,16 +36,16 @@ Other      0 secs         ▏░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-ありふれた世界の果てに (f            YAO & Awich & CHI
 Imperium (Love Me)                          THE EMPIRE
+ありふれた世界の果てに (f            YAO & Awich & CHI
+Trace                                            milet
 777 (feat. Awich, CHICO              YAO & Awich & CHI
 君に最後の口づけを - Acou                       majiko
-Trace                                            milet
-Butter                               Natsuki Kawanishi
-Blue                                 Chih Siou & SIRUP
 104Hz                                         ミセカイ
-あのね                                          Aimyon
-スターダスト                         OFFICIAL HIGE DAN
+bliss                                            milet
+Blue                                 Chih Siou & SIRUP
+Butter                               Natsuki Kawanishi
+Empire State Of Mind               JAŸ-Z & Alicia Keys
 ```
 
 <!-- spotify_track end -->
