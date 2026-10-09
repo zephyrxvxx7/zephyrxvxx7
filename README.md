@@ -37,10 +37,10 @@ Other      0 secs         ▏░░░░░░░░░░░░░░░░░
 
 ```text
 Imperium (Love Me)                          THE EMPIRE
-ありふれた世界の果てに (f            YAO & Awich & CHI
 Trace                                            milet
-777 (feat. Awich, CHICO              YAO & Awich & CHI
+ありふれた世界の果てに (f            YAO & Awich & CHI
 君に最後の口づけを - Acou                       majiko
+777 (feat. Awich, CHICO              YAO & Awich & CHI
 104Hz                                         ミセカイ
 bliss                                            milet
 Blue                                 Chih Siou & SIRUP
