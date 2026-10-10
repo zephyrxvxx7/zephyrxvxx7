@@ -38,14 +38,14 @@ Other      0 secs         ▏░░░░░░░░░░░░░░░░░
 ```text
 Imperium (Love Me)                          THE EMPIRE
 Trace                                            milet
-ありふれた世界の果てに (f            YAO & Awich & CHI
-君に最後の口づけを - Acou                       majiko
-777 (feat. Awich, CHICO              YAO & Awich & CHI
-104Hz                                         ミセカイ
 bliss                                            milet
-Blue                                 Chih Siou & SIRUP
-Butter                               Natsuki Kawanishi
+777 (feat. Awich, CHICO              YAO & Awich & CHI
 Empire State Of Mind               JAŸ-Z & Alicia Keys
+スターダスト                         OFFICIAL HIGE DAN
+Doushite (feat. Emi Noda)             TakaseToya & emi
+104Hz                                         ミセカイ
+Ordinary days                                    milet
+ENDROLL                              [Alexandros] & Se
 ```
 
 <!-- spotify_track end -->
