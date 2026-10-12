@@ -38,14 +38,14 @@ Other      0 secs         ▏░░░░░░░░░░░░░░░░░
 ```text
 Imperium (Love Me)                          THE EMPIRE
 Trace                                            milet
-bliss                                            milet
-777 (feat. Awich, CHICO              YAO & Awich & CHI
 Empire State Of Mind               JAŸ-Z & Alicia Keys
-スターダスト                         OFFICIAL HIGE DAN
+bliss                                            milet
 Doushite (feat. Emi Noda)             TakaseToya & emi
-104Hz                                         ミセカイ
+777 (feat. Awich, CHICO              YAO & Awich & CHI
 Ordinary days                                    milet
 ENDROLL                              [Alexandros] & Se
+Anytime Anywhere                                 milet
+Again and Again (eyes m                          milet
 ```
 
 <!-- spotify_track end -->
