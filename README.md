@@ -40,7 +40,7 @@ Imperium (Love Me)                          THE EMPIRE
 Trace                                            milet
 Empire State Of Mind               JAŸ-Z & Alicia Keys
 bliss                                            milet
-Doushite (feat. Emi Noda)             TakaseToya & emi
+GLAMOROUS SKY                                     HYDE
 777 (feat. Awich, CHICO              YAO & Awich & CHI
 Ordinary days                                    milet
 ENDROLL                              [Alexandros] & Se
