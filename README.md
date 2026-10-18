@@ -39,8 +39,8 @@ Other      0 secs         ▏░░░░░░░░░░░░░░░░░
 Imperium (Love Me)                          THE EMPIRE
 Trace                                            milet
 Empire State Of Mind               JAŸ-Z & Alicia Keys
-GLAMOROUS SKY                                     HYDE
 bliss                                            milet
+GLAMOROUS SKY                                     HYDE
 Ordinary days                                    milet
 777 (feat. Awich, CHICO              YAO & Awich & CHI
 ENDROLL                              [Alexandros] & Se
