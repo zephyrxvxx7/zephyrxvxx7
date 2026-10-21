@@ -37,15 +37,15 @@ Other      0 secs         ▏░░░░░░░░░░░░░░░░░
 
 ```text
 Imperium (Love Me)                          THE EMPIRE
-Trace                                            milet
 Empire State Of Mind               JAŸ-Z & Alicia Keys
-bliss                                            milet
+Trace                                            milet
 GLAMOROUS SKY                                     HYDE
-Ordinary days                                    milet
+bliss                                            milet
 Anytime Anywhere                                 milet
+Ordinary days                                    milet
 Again and Again (eyes m                          milet
+真夜中のオーケストラ                        Aqua Timez
 777 (feat. Awich, CHICO              YAO & Awich & CHI
-Subway Line                          MEDZ & John White
 ```
 
 <!-- spotify_track end -->
