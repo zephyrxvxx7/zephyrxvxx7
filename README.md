@@ -36,16 +36,16 @@ Other      0 secs         ▏░░░░░░░░░░░░░░░░░
 <!-- spotify_track start -->
 
 ```text
-Imperium (Love Me)                          THE EMPIRE
 Empire State Of Mind               JAŸ-Z & Alicia Keys
 Trace                                            milet
+Imperium (Love Me)                          THE EMPIRE
 GLAMOROUS SKY                                     HYDE
 bliss                                            milet
 Anytime Anywhere                                 milet
 Ordinary days                                    milet
 小宇                                    Zhang Zhen Yue
 Again and Again (eyes m                          milet
-真夜中のオーケストラ                        Aqua Timez
+777 (feat. Awich, CHICO              YAO & Awich & CHI
 ```
 
 <!-- spotify_track end -->
