@@ -37,15 +37,15 @@ Other      0 secs         ▏░░░░░░░░░░░░░░░░░
 
 ```text
 Empire State Of Mind               JAŸ-Z & Alicia Keys
-Trace                                            milet
-Imperium (Love Me)                          THE EMPIRE
 GLAMOROUS SKY                                     HYDE
 bliss                                            milet
+Trace                                            milet
 Anytime Anywhere                                 milet
 Ordinary days                                    milet
 小宇                                    Zhang Zhen Yue
 Again and Again (eyes m                          milet
 777 (feat. Awich, CHICO              YAO & Awich & CHI
+September                           Earth, Wind & Fire
 ```
 
 <!-- spotify_track end -->
