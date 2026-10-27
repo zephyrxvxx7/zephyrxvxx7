@@ -38,14 +38,14 @@ Other      0 secs         ▏░░░░░░░░░░░░░░░░░
 ```text
 Empire State Of Mind               JAŸ-Z & Alicia Keys
 GLAMOROUS SKY                                     HYDE
-bliss                                            milet
 Trace                                            milet
-Anytime Anywhere                                 milet
-Ordinary days                                    milet
+bliss                                            milet
 小宇                                    Zhang Zhen Yue
 Again and Again (eyes m                          milet
+Ordinary days                                    milet
 777 (feat. Awich, CHICO              YAO & Awich & CHI
-September                           Earth, Wind & Fire
+Subway Line                          MEDZ & John White
+Anytime Anywhere                                 milet
 ```
 
 <!-- spotify_track end -->
